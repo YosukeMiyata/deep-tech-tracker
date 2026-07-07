@@ -80,7 +80,6 @@ MACRO = [
                 "name": "ODM・白箱サーバー",
                 "us": [
                     ["WDC", "Western Digital"],
-                    ["PSTG", "Pure Storage"],
                     ["STX", "Seagate"],
                     ["NTNX", "Nutanix"],
                 ],
@@ -117,7 +116,7 @@ MACRO = [
                     ["ANET", "Arista Networks"],
                     ["CSCO", "Cisco"],
                     ["AVGO", "Broadcom"],
-                    ["JNPR", "Juniper"],
+                    ["HPE", "HPE(旧Juniper)"],
                     ["CIEN", "Ciena"],
                     ["FFIV", "F5 Networks"],
                 ],
@@ -212,7 +211,7 @@ MACRO = [
                 "name": "光ファイバー・ケーブル",
                 "us": [
                     ["GLW", "Corning"],
-                    ["COMM", "CommScope"],
+                    ["TEL", "TE Connectivity"],
                 ],
                 "jp": [
                     ["5803", "フジクラ", "高密度光ファイバー・DC配線"],
@@ -365,7 +364,6 @@ MACRO = [
                     ["WDC", "Western Digital"],
                     ["STX", "Seagate"],
                     ["SNDK", "SanDisk"],
-                    ["PSTG", "Pure Storage"],
                     ["NTAP", "NetApp"],
                 ],
                 "jp": [

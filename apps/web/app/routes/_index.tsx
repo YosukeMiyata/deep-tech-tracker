@@ -14,7 +14,7 @@ export default function HubHome() {
   const summaries = hubSectorSummaries();
 
   return (
-    <>
+    <main className="app-container pt-[18px] md:pt-8 ">
       <section className="mb-8">
         <div className="text-[10px] text-ink-2 tracking-[0.16em] md:text-[12px]">
           DEEP TECH TRACKER
@@ -83,6 +83,6 @@ export default function HubHome() {
         <br />
         データソース:株価=Stooq / Yahoo Finance / ヘッドライン=RSS / 分析ニュース=手動編集
       </section>
-    </>
+    </main>
   );
 }

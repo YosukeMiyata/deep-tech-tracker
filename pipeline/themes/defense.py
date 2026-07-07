@@ -251,7 +251,7 @@ MACRO = [
                 ],
                 "solo": [
                     ["9692", "シーイーシー", "防衛向けSI"],
-                    ["4739", "CTC", "防衛IT"],
+                    ["6088", "シグマクシス・システムズ", "防衛IT"],
                     ["3636", "三菱総合研究所", "防衛政策コンサル"],
                     ["3774", "インターネットイニシアティブ", "セキュア通信"],
                 ],
@@ -391,7 +391,6 @@ MACRO = [
                     ["CRS", "Carpenter Technology"],
                     ["ATI", "ATI Inc"],
                     ["HEI", "HEICO"],
-                    ["SPR", "Spirit AeroSystems"],
                 ],
                 "jp": [
                     ["5727", "東邦チタニウム", "航空機用チタン"],
@@ -444,7 +443,6 @@ MACRO = [
                     ["NOC", "Northrop Grumman(F-35部品)"],
                     ["RTX", "RTX(エンジン/アビオニクス)"],
                     ["BA", "Boeing(F-35部品)"],
-                    ["SPR", "Spirit AeroSystems(機体構造)"],
                     ["HEI", "HEICO(F-35部品)"],
                     ["TDG", "TransDigm(F-35部品)"],
                 ],

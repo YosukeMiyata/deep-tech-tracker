@@ -4,7 +4,7 @@
   "macro_themes": 10,
   "sub_themes": 32,
   "jp_stocks": 42,
-  "us_symbols": 86
+  "us_symbols": 83
  },
  "macro": [
   {
@@ -149,10 +149,6 @@
        "name": "Western Digital"
       },
       {
-       "symbol": "PSTG",
-       "name": "Pure Storage"
-      },
-      {
        "symbol": "STX",
        "name": "Seagate"
       },
@@ -231,8 +227,8 @@
        "name": "Broadcom"
       },
       {
-       "symbol": "JNPR",
-       "name": "Juniper"
+       "symbol": "HPE",
+       "name": "HPE(旧Juniper)"
       },
       {
        "symbol": "CIEN",
@@ -461,8 +457,8 @@
        "name": "Corning"
       },
       {
-       "symbol": "COMM",
-       "name": "CommScope"
+       "symbol": "TEL",
+       "name": "TE Connectivity"
       }
      ],
      "jp": [
@@ -820,10 +816,6 @@
       {
        "symbol": "SNDK",
        "name": "SanDisk"
-      },
-      {
-       "symbol": "PSTG",
-       "name": "Pure Storage"
       },
       {
        "symbol": "NTAP",
