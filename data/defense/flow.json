@@ -1,0 +1,973 @@
+{
+ "source": "pipeline/maps/defense/flow_map.py",
+ "stages": [
+  {
+   "key": "rd",
+   "name": "① 研究開発(R&D)",
+   "icon": "🔬",
+   "color": "#8E44AD",
+   "desc": "次世代装備の概念設計・試作・技術実証。AI/自律化・極超音速・電磁戦など新領域の開発競争。",
+   "visual": "lab",
+   "steps": [
+    {
+     "name": "防衛研究・コンサル",
+     "icon": "📖",
+     "desc": "防衛政策・技術ロードマップ・試験設計",
+     "roles": [
+      {
+       "label": "研究・コンサル",
+       "items": [
+        {
+         "code": "3636",
+         "name": "三菱総合研究所",
+         "market": "jp"
+        },
+        {
+         "code": "BAH",
+         "name": "Booz Allen Hamilton",
+         "market": "us"
+        },
+        {
+         "code": "LDOS",
+         "name": "Leidos",
+         "market": "us"
+        }
+       ]
+      },
+      {
+       "label": "防衛AI・データ",
+       "items": [
+        {
+         "code": "PLTR",
+         "name": "Palantir",
+         "market": "us"
+        },
+        {
+         "code": "SAIC",
+         "name": "SAIC",
+         "market": "us"
+        }
+       ]
+      }
+     ],
+     "visual": null
+    },
+    {
+     "name": "センサー・誘導技術",
+     "icon": "👁️",
+     "desc": "レーダー・EO/IR・慣性制御の先行開発",
+     "roles": [
+      {
+       "label": "センサー",
+       "items": [
+        {
+         "code": "6965",
+         "name": "浜松ホトニクス",
+         "market": "jp"
+        },
+        {
+         "code": "6758",
+         "name": "ソニーグループ",
+         "market": "jp"
+        },
+        {
+         "code": "6235",
+         "name": "オプトラン",
+         "market": "jp"
+        },
+        {
+         "code": "MRCY",
+         "name": "Mercury Systems",
+         "market": "us"
+        }
+       ]
+      },
+      {
+       "label": "日本防衛エレクトロニクス",
+       "items": [
+        {
+         "code": "6503",
+         "name": "三菱電機",
+         "market": "jp"
+        },
+        {
+         "code": "7711",
+         "name": "古野電気",
+         "market": "jp"
+        },
+        {
+         "code": "6724",
+         "name": "セイコーエプソン",
+         "market": "jp"
+        }
+       ]
+      }
+     ],
+     "visual": null
+    },
+    {
+     "name": "試験・シミュレーション",
+     "icon": "🎮",
+     "desc": "デジタルツイン・作戦訓練・試験評価",
+     "roles": [
+      {
+       "label": "シミュレータ",
+       "items": [
+        {
+         "code": "CAE",
+         "name": "CAE",
+         "market": "us"
+        },
+        {
+         "code": "LMT",
+         "name": "Lockheed Martin",
+         "market": "us"
+        },
+        {
+         "code": "BA",
+         "name": "Boeing(F-35部品)",
+         "market": "us"
+        },
+        {
+         "code": "7011",
+         "name": "三菱重工業",
+         "market": "jp"
+        }
+       ]
+      },
+      {
+       "label": "極超音速・新技術",
+       "items": [
+        {
+         "code": "KTOS",
+         "name": "Kratos Defense",
+         "market": "us"
+        },
+        {
+         "code": "RTX",
+         "name": "RTX",
+         "market": "us"
+        }
+       ]
+      }
+     ],
+     "visual": null
+    }
+   ]
+  },
+  {
+   "key": "procure",
+   "name": "② 調達・契約",
+   "icon": "📋",
+   "color": "#D4AC0D",
+   "desc": "政府調達(FMS/直接契約)・多国間共同開発・長期サプライ契約。国防予算の配分が株価の先行指標。",
+   "visual": "contract",
+   "steps": [
+    {
+     "name": "政府調達・Prime契約",
+     "icon": "🏛️",
+     "desc": "主要防衛契約者との大型調達",
+     "roles": [
+      {
+       "label": "米国プライム",
+       "items": [
+        {
+         "code": "LMT",
+         "name": "Lockheed Martin",
+         "market": "us"
+        },
+        {
+         "code": "RTX",
+         "name": "RTX",
+         "market": "us"
+        },
+        {
+         "code": "NOC",
+         "name": "Northrop Grumman(F-35部品)",
+         "market": "us"
+        },
+        {
+         "code": "GD",
+         "name": "General Dynamics",
+         "market": "us"
+        },
+        {
+         "code": "BA",
+         "name": "Boeing(F-35部品)",
+         "market": "us"
+        },
+        {
+         "code": "HII",
+         "name": "Huntington Ingalls",
+         "market": "us"
+        }
+       ]
+      },
+      {
+       "label": "日本防衛三社",
+       "items": [
+        {
+         "code": "7011",
+         "name": "三菱重工業",
+         "market": "jp"
+        },
+        {
+         "code": "7012",
+         "name": "川崎重工業",
+         "market": "jp"
+        },
+        {
+         "code": "7013",
+         "name": "IHI",
+         "market": "jp"
+        }
+       ]
+      }
+     ],
+     "visual": null
+    },
+    {
+     "name": "C4ISR・サイバー調達",
+     "icon": "🛡️",
+     "desc": "指揮統制・通信・サイバー防衛",
+     "roles": [
+      {
+       "label": "米国IT防衛",
+       "items": [
+        {
+         "code": "LDOS",
+         "name": "Leidos",
+         "market": "us"
+        },
+        {
+         "code": "SAIC",
+         "name": "SAIC",
+         "market": "us"
+        },
+        {
+         "code": "CACI",
+         "name": "CACI International",
+         "market": "us"
+        },
+        {
+         "code": "PLTR",
+         "name": "Palantir",
+         "market": "us"
+        }
+       ]
+      },
+      {
+       "label": "日本システム",
+       "items": [
+        {
+         "code": "6701",
+         "name": "NEC",
+         "market": "jp"
+        },
+        {
+         "code": "6702",
+         "name": "富士通",
+         "market": "jp"
+        },
+        {
+         "code": "9692",
+         "name": "シーイーシー",
+         "market": "jp"
+        },
+        {
+         "code": "4687",
+         "name": "TDCソフト",
+         "market": "jp"
+        }
+       ]
+      }
+     ],
+     "visual": null
+    },
+    {
+     "name": "国際連携・商社",
+     "icon": "🤝",
+     "desc": "FMS・技術移転・装備輸出",
+     "roles": [
+      {
+       "label": "商社・連携",
+       "items": [
+        {
+         "code": "8058",
+         "name": "三菱商事",
+         "market": "jp"
+        },
+        {
+         "code": "8002",
+         "name": "丸紅",
+         "market": "jp"
+        },
+        {
+         "code": "2768",
+         "name": "双日",
+         "market": "jp"
+        }
+       ]
+      },
+      {
+       "label": "F-35共同開発",
+       "items": [
+        {
+         "code": "LMT",
+         "name": "Lockheed Martin",
+         "market": "us"
+        },
+        {
+         "code": "7011",
+         "name": "三菱重工業",
+         "market": "jp"
+        },
+        {
+         "code": "7013",
+         "name": "IHI",
+         "market": "jp"
+        }
+       ]
+      }
+     ],
+     "visual": null
+    }
+   ]
+  },
+  {
+   "key": "mfg",
+   "name": "③ 製造・統合",
+   "icon": "🏭",
+   "color": "#4A6FA5",
+   "desc": "プラットフォーム組立・ミサイル・電子機器・材料部品の統合。F-35のような国際分散生産が典型。",
+   "visual": "factory",
+   "steps": [
+    {
+     "name": "プラットフォーム組立",
+     "icon": "✈️",
+     "desc": "戦闘機・艦艇・地上車両の製造",
+     "roles": [
+      {
+       "label": "航空",
+       "items": [
+        {
+         "code": "LMT",
+         "name": "Lockheed Martin",
+         "market": "us"
+        },
+        {
+         "code": "NOC",
+         "name": "Northrop Grumman(F-35部品)",
+         "market": "us"
+        },
+        {
+         "code": "BA",
+         "name": "Boeing(F-35部品)",
+         "market": "us"
+        },
+        {
+         "code": "7011",
+         "name": "三菱重工業",
+         "market": "jp"
+        },
+        {
+         "code": "7012",
+         "name": "川崎重工業",
+         "market": "jp"
+        }
+       ]
+      },
+      {
+       "label": "艦艇",
+       "items": [
+        {
+         "code": "HII",
+         "name": "Huntington Ingalls",
+         "market": "us"
+        },
+        {
+         "code": "GD",
+         "name": "General Dynamics",
+         "market": "us"
+        },
+        {
+         "code": "7011",
+         "name": "三菱重工業",
+         "market": "jp"
+        },
+        {
+         "code": "7012",
+         "name": "川崎重工業",
+         "market": "jp"
+        }
+       ]
+      },
+      {
+       "label": "地上",
+       "items": [
+        {
+         "code": "GD",
+         "name": "General Dynamics",
+         "market": "us"
+        },
+        {
+         "code": "OSK",
+         "name": "Oshkosh",
+         "market": "us"
+        },
+        {
+         "code": "6301",
+         "name": "コマツ",
+         "market": "jp"
+        },
+        {
+         "code": "6208",
+         "name": "石川製作所",
+         "market": "jp"
+        }
+       ]
+      }
+     ],
+     "visual": null
+    },
+    {
+     "name": "ミサイル・弾薬",
+     "icon": "🚀",
+     "desc": "誘導兵器・推進剤・火工品",
+     "roles": [
+      {
+       "label": "ミサイル",
+       "items": [
+        {
+         "code": "RTX",
+         "name": "RTX",
+         "market": "us"
+        },
+        {
+         "code": "LMT",
+         "name": "Lockheed Martin",
+         "market": "us"
+        },
+        {
+         "code": "NOC",
+         "name": "Northrop Grumman(F-35部品)",
+         "market": "us"
+        },
+        {
+         "code": "7011",
+         "name": "三菱重工業",
+         "market": "jp"
+        }
+       ]
+      },
+      {
+       "label": "火工品・原料",
+       "items": [
+        {
+         "code": "4272",
+         "name": "日本化薬",
+         "market": "jp"
+        },
+        {
+         "code": "4025",
+         "name": "多木化学",
+         "market": "jp"
+        },
+        {
+         "code": "4045",
+         "name": "東亞合成",
+         "market": "jp"
+        },
+        {
+         "code": "6366",
+         "name": "千代田化工建設",
+         "market": "jp"
+        }
+       ]
+      }
+     ],
+     "visual": null
+    },
+    {
+     "name": "電子・UAS・宇宙",
+     "icon": "📡",
+     "desc": "レーダー・通信・無人機・衛星",
+     "roles": [
+      {
+       "label": "電子・EW",
+       "items": [
+        {
+         "code": "LHX",
+         "name": "L3Harris",
+         "market": "us"
+        },
+        {
+         "code": "RTX",
+         "name": "RTX",
+         "market": "us"
+        },
+        {
+         "code": "MRCY",
+         "name": "Mercury Systems",
+         "market": "us"
+        },
+        {
+         "code": "6503",
+         "name": "三菱電機",
+         "market": "jp"
+        },
+        {
+         "code": "6701",
+         "name": "NEC",
+         "market": "jp"
+        }
+       ]
+      },
+      {
+       "label": "UAS",
+       "items": [
+        {
+         "code": "AVAV",
+         "name": "AeroVironment",
+         "market": "us"
+        },
+        {
+         "code": "KTOS",
+         "name": "Kratos Defense",
+         "market": "us"
+        },
+        {
+         "code": "TXT",
+         "name": "Textron",
+         "market": "us"
+        },
+        {
+         "code": "7011",
+         "name": "三菱重工業",
+         "market": "jp"
+        }
+       ]
+      },
+      {
+       "label": "宇宙",
+       "items": [
+        {
+         "code": "RKLB",
+         "name": "Rocket Lab",
+         "market": "us"
+        },
+        {
+         "code": "BKSY",
+         "name": "BlackSky",
+         "market": "us"
+        },
+        {
+         "code": "7013",
+         "name": "IHI",
+         "market": "jp"
+        },
+        {
+         "code": "LMT",
+         "name": "Lockheed Martin",
+         "market": "us"
+        }
+       ]
+      }
+     ],
+     "visual": null
+    },
+    {
+     "name": "材料・F-35サプライチェーン",
+     "icon": "⚙️",
+     "desc": "チタン・複合材・精密部品",
+     "roles": [
+      {
+       "label": "米国材料",
+       "items": [
+        {
+         "code": "HWM",
+         "name": "Howmet Aerospace",
+         "market": "us"
+        },
+        {
+         "code": "HXL",
+         "name": "Hexcel",
+         "market": "us"
+        },
+        {
+         "code": "CRS",
+         "name": "Carpenter Technology",
+         "market": "us"
+        },
+        {
+         "code": "ATI",
+         "name": "ATI Inc",
+         "market": "us"
+        },
+        {
+         "code": "SPR",
+         "name": "Spirit AeroSystems(機体構造)",
+         "market": "us"
+        },
+        {
+         "code": "HEI",
+         "name": "HEICO(F-35部品)",
+         "market": "us"
+        },
+        {
+         "code": "TDG",
+         "name": "TransDigm(F-35部品)",
+         "market": "us"
+        }
+       ]
+      },
+      {
+       "label": "日本部品",
+       "items": [
+        {
+         "code": "6324",
+         "name": "ハーモニック・ドライブ",
+         "market": "jp"
+        },
+        {
+         "code": "6479",
+         "name": "ミネベアミツミ",
+         "market": "jp"
+        },
+        {
+         "code": "6345",
+         "name": "アイチ",
+         "market": "jp"
+        },
+        {
+         "code": "6807",
+         "name": "日本航空電子",
+         "market": "jp"
+        },
+        {
+         "code": "5727",
+         "name": "東邦チタニウム",
+         "market": "jp"
+        },
+        {
+         "code": "3401",
+         "name": "帝人",
+         "market": "jp"
+        }
+       ]
+      }
+     ],
+     "visual": null
+    }
+   ]
+  },
+  {
+   "key": "deploy",
+   "name": "④ 配備・作戦展開",
+   "icon": "🌍",
+   "color": "#C0392B",
+   "desc": "基地建設・輸送・初期展開・衛星運用。地政学リスクが高まるほど配備関連需要が増加。",
+   "visual": "deploy",
+   "steps": [
+    {
+     "name": "基地・インフラ建設",
+     "icon": "🏗️",
+     "desc": "防衛施設・通信インフラ・電力",
+     "roles": [
+      {
+       "label": "建設・EPC",
+       "items": [
+        {
+         "code": "1414",
+         "name": "ショーボンドホールディングス",
+         "market": "jp"
+        },
+        {
+         "code": "1951",
+         "name": "エクシオグループ",
+         "market": "jp"
+        },
+        {
+         "code": "1950",
+         "name": "日本電設工業",
+         "market": "jp"
+        },
+        {
+         "code": "6330",
+         "name": "東洋エンジニアリング",
+         "market": "jp"
+        }
+       ]
+      },
+      {
+       "label": "物流",
+       "items": [
+        {
+         "code": "KBR",
+         "name": "KBR",
+         "market": "us"
+        },
+        {
+         "code": "6383",
+         "name": "ダイフク",
+         "market": "jp"
+        }
+       ]
+      }
+     ],
+     "visual": null
+    },
+    {
+     "name": "通信・衛星運用",
+     "icon": "🛰️",
+     "desc": "作戦通信・ISR衛星・宇宙防衛",
+     "roles": [
+      {
+       "label": "衛星通信",
+       "items": [
+        {
+         "code": "IRDM",
+         "name": "Iridium",
+         "market": "us"
+        },
+        {
+         "code": "VSAT",
+         "name": "Viasat",
+         "market": "us"
+        },
+        {
+         "code": "LHX",
+         "name": "L3Harris",
+         "market": "us"
+        },
+        {
+         "code": "6701",
+         "name": "NEC",
+         "market": "jp"
+        }
+       ]
+      },
+      {
+       "label": "ISR",
+       "items": [
+        {
+         "code": "BKSY",
+         "name": "BlackSky",
+         "market": "us"
+        },
+        {
+         "code": "NOC",
+         "name": "Northrop Grumman(F-35部品)",
+         "market": "us"
+        },
+        {
+         "code": "LMT",
+         "name": "Lockheed Martin",
+         "market": "us"
+        }
+       ]
+      }
+     ],
+     "visual": null
+    },
+    {
+     "name": "無人機作戦展開",
+     "icon": "🛸",
+     "desc": "偵察・攻撃UASの前线配備",
+     "roles": [
+      {
+       "label": "UAS",
+       "items": [
+        {
+         "code": "AVAV",
+         "name": "AeroVironment",
+         "market": "us"
+        },
+        {
+         "code": "KTOS",
+         "name": "Kratos Defense",
+         "market": "us"
+        },
+        {
+         "code": "NOC",
+         "name": "Northrop Grumman(F-35部品)",
+         "market": "us"
+        },
+        {
+         "code": "7011",
+         "name": "三菱重工業",
+         "market": "jp"
+        }
+       ]
+      }
+     ],
+     "visual": null
+    }
+   ]
+  },
+  {
+   "key": "sustain",
+   "name": "⑤ サステインメント(MRO)",
+   "icon": "🔧",
+   "color": "#6B8E4E",
+   "desc": "整備・部品供給・寿命周期管理・継続訓練。装備の半分以上のコストがここで発生。",
+   "visual": "maintain",
+   "steps": [
+    {
+     "name": "MRO・部品供給",
+     "icon": "🔩",
+     "desc": "航空機・艦艇の定期整備と部品",
+     "roles": [
+      {
+       "label": "MRO",
+       "items": [
+        {
+         "code": "HEI",
+         "name": "HEICO(F-35部品)",
+         "market": "us"
+        },
+        {
+         "code": "TDG",
+         "name": "TransDigm(F-35部品)",
+         "market": "us"
+        },
+        {
+         "code": "WWD",
+         "name": "Woodward",
+         "market": "us"
+        },
+        {
+         "code": "7011",
+         "name": "三菱重工業",
+         "market": "jp"
+        },
+        {
+         "code": "7012",
+         "name": "川崎重工業",
+         "market": "jp"
+        }
+       ]
+      },
+      {
+       "label": "精密部品",
+       "items": [
+        {
+         "code": "6471",
+         "name": "日本精工",
+         "market": "jp"
+        },
+        {
+         "code": "6473",
+         "name": "ジェイテクト",
+         "market": "jp"
+        },
+        {
+         "code": "6479",
+         "name": "ミネベアミツミ",
+         "market": "jp"
+        },
+        {
+         "code": "6324",
+         "name": "ハーモニック・ドライブ",
+         "market": "jp"
+        }
+       ]
+      }
+     ],
+     "visual": null
+    },
+    {
+     "name": "IT支援・サイバー維持",
+     "icon": "💻",
+     "desc": "システム更新・サイバー防衛運用",
+     "roles": [
+      {
+       "label": "防衛IT",
+       "items": [
+        {
+         "code": "LDOS",
+         "name": "Leidos",
+         "market": "us"
+        },
+        {
+         "code": "SAIC",
+         "name": "SAIC",
+         "market": "us"
+        },
+        {
+         "code": "6702",
+         "name": "富士通",
+         "market": "jp"
+        },
+        {
+         "code": "9692",
+         "name": "シーイーシー",
+         "market": "jp"
+        }
+       ]
+      }
+     ],
+     "visual": null
+    },
+    {
+     "name": "訓練・人材・ETF",
+     "icon": "📈",
+     "desc": "継続訓練と国防予算ベータ",
+     "roles": [
+      {
+       "label": "訓練",
+       "items": [
+        {
+         "code": "CAE",
+         "name": "CAE",
+         "market": "us"
+        },
+        {
+         "code": "BAH",
+         "name": "Booz Allen Hamilton",
+         "market": "us"
+        },
+        {
+         "code": "7011",
+         "name": "三菱重工業",
+         "market": "jp"
+        }
+       ]
+      },
+      {
+       "label": "防衛ETF",
+       "items": [
+        {
+         "code": "ITA",
+         "name": "iShares米国航空宇宙・防衛ETF",
+         "market": "us"
+        },
+        {
+         "code": "XAR",
+         "name": "SPDR S&P航空宇宙・防衛ETF",
+         "market": "us"
+        },
+        {
+         "code": "PPA",
+         "name": "Invesco航空宇宙・防衛ETF",
+         "market": "us"
+        },
+        {
+         "code": "SHLD",
+         "name": "Global X Defense Tech ETF",
+         "market": "us"
+        },
+        {
+         "code": "DFEN",
+         "name": "VanEck Defense ETF",
+         "market": "us"
+        }
+       ]
+      }
+     ],
+     "visual": null
+    }
+   ]
+  }
+ ]
+}

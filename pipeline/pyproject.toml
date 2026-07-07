@@ -1,0 +1,14 @@
+[project]
+name = "deep-tech-tracker-pipeline"
+version = "0.1.0"
+description = "Deep Tech Tracker データパイプライン"
+requires-python = ">=3.12"
+dependencies = []
+
+[tool.ruff]
+line-length = 100
+target-version = "py312"
+extend-exclude = ["themes/*.py", "maps/*/*.py", "tags/*.py"]
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B"]

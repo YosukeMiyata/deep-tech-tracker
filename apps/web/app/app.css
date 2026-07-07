@@ -1,0 +1,151 @@
+@import "tailwindcss";
+
+/*
+ * デザイントークン — v1 (yuyu5555-bit/semi-tracker) のトンマナを踏襲。
+ * ダークUI / レインボーバー / 上昇=赤 / 下落=青。フォントは v2 原案を使用。
+ */
+@theme {
+  --color-paper: #0b0e15; /* v1 --ink: 背景 */
+  --color-card: #141a26; /* v1 --panel */
+  --color-panel2: #1b2231; /* v1 --panel2: ネスト面 */
+  --color-ink: #f0f3f9; /* v1 --text: 本文 */
+  --color-ink-2: #b4bdd0; /* v1 --dim */
+  --color-faint: #8b94a8;
+  --color-line: rgba(38, 48, 65, 0.6);
+  --color-copper: #e8b04b; /* v1 --jp */
+  --color-copper-soft: rgba(232, 176, 75, 0.15);
+  --color-up: #f0593c;
+  --color-up-soft: rgba(240, 89, 60, 0.18);
+  --color-down: #3fa7d6;
+  --color-down-soft: rgba(63, 167, 214, 0.18);
+  --color-neutral: #8b94a8;
+  --color-us: #9d7cf0;
+  --color-cyan: #6ee7f0;
+
+  --font-sans: "Zen Kaku Gothic New", sans-serif;
+  --font-serif: "Shippori Mincho", serif;
+  --font-mono: "IBM Plex Mono", monospace;
+
+  --radius-card: 12px;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+/* デスクトップ向けレイアウト・タイポグラフィ
+ * 基準: 今週の解説セクション（WeeklyDigest）の md/lg スケール
+ * - 見出し 24/25px · 本文 17/18px · 補助 15/16px · メタ 12/13px
+ */
+@layer components {
+  .app-container {
+    @apply mx-auto w-full max-w-[820px] px-[14px] md:max-w-[980px] md:px-8 lg:max-w-[1120px] lg:px-10;
+  }
+
+  .card-surface {
+    @apply rounded-card border border-line bg-card p-4 md:p-6 lg:p-7;
+  }
+
+  .type-feature-title {
+    @apply font-bold font-serif leading-[1.5] tracking-[0.02em] text-[18px] md:text-[24px] lg:text-[25px];
+  }
+
+  .type-section-title {
+    @apply font-bold font-serif leading-[1.4] text-[17px] md:text-[24px] lg:text-[25px];
+  }
+
+  .type-card-title {
+    @apply font-bold leading-[1.5] text-[14.5px] md:text-[17px] lg:text-[18px];
+  }
+
+  .type-body {
+    @apply leading-[1.7] text-[14.5px] md:text-[17px] md:leading-[1.75] lg:text-[18px];
+  }
+
+  .type-body-medium {
+    @apply font-medium text-ink leading-[1.7] text-[14.5px] md:text-[17px] md:leading-[1.75] lg:text-[18px];
+  }
+
+  .type-body-sm {
+    @apply leading-[1.7] text-[13px] text-ink-2 md:text-[15px] md:leading-[1.75] lg:text-[16px];
+  }
+
+  .type-section-note {
+    @apply leading-[1.7] text-[13px] text-ink-2 md:text-[15px] md:leading-[1.75] lg:text-[16px];
+  }
+
+  .type-list-primary {
+    @apply font-medium text-[13.5px] md:text-[17px] lg:text-[18px];
+  }
+
+  .type-mono-value {
+    @apply font-mono font-bold text-[14px] md:text-[17px] lg:text-[18px];
+  }
+
+  .type-mono-code {
+    @apply font-mono font-bold text-[13px] md:text-[15px] lg:text-[16px];
+  }
+
+  .type-meta {
+    @apply text-[11px] text-ink-2 md:text-[12px] lg:text-[13px];
+  }
+
+  .type-faint {
+    @apply text-[10.5px] text-faint md:text-[12px];
+  }
+
+  .type-badge {
+    @apply font-bold tracking-[0.12em] text-[11px] md:text-[12px];
+  }
+
+  .type-mono-accent {
+    @apply font-mono text-[12px] text-copper md:text-[13px];
+  }
+}
+
+/* v1 タイトルアニメーション */
+.titlebeat {
+  animation: titlebeat 2.6s ease-in-out infinite;
+}
+@keyframes titlebeat {
+  0%,
+  100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.4;
+  }
+}
+.titletwinkle {
+  animation: titletwinkle 3s ease-in-out infinite;
+}
+@keyframes titletwinkle {
+  0%,
+  100% {
+    opacity: 1;
+    transform: scale(1);
+  }
+  50% {
+    opacity: 0.35;
+    transform: scale(1.3);
+  }
+}
+
+/* ウェハーマップ */
+.die {
+  animation: die-in 0.45s ease both;
+}
+@keyframes die-in {
+  from {
+    opacity: 0;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    /* biome-ignore lint/complexity/noImportantStyles: reduced-motion 時は全アニメーションを確実に止める */
+    animation: none !important;
+    /* biome-ignore lint/complexity/noImportantStyles: 同上 */
+    transition: none !important;
+  }
+}

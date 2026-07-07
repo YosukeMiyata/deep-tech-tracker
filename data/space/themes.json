@@ -1,0 +1,915 @@
+{
+ "source": "pipeline/themes/",
+ "stats": {
+  "macro_themes": 9,
+  "sub_themes": 24,
+  "jp_stocks": 30,
+  "us_symbols": 51
+ },
+ "macro": [
+  {
+   "key": "launch",
+   "name": "ロケット・打ち上げ",
+   "color": "#6B5CE7",
+   "subs": [
+    {
+     "name": "再利用ロケット",
+     "us": [
+      {
+       "symbol": "RKLB",
+       "name": "Rocket Lab"
+      },
+      {
+       "symbol": "BA",
+       "name": "Boeing"
+      }
+     ],
+     "jp": [
+      {
+       "code": "7011",
+       "name": "三菱重工業",
+       "note": "H3ロケット・打ち上げサービス"
+      },
+      {
+       "code": "7012",
+       "name": "川崎重工業",
+       "note": "ロケットエンジン部品・構造"
+      }
+     ],
+     "solo": []
+    },
+    {
+     "name": "政府・大型打ち上げ",
+     "us": [
+      {
+       "symbol": "LMT",
+       "name": "Lockheed Martin"
+      },
+      {
+       "symbol": "NOC",
+       "name": "Northrop Grumman"
+      },
+      {
+       "symbol": "BA",
+       "name": "Boeing"
+      }
+     ],
+     "jp": [
+      {
+       "code": "7011",
+       "name": "三菱重工業",
+       "note": "H3・大型ロケット共同開発"
+      },
+      {
+       "code": "7012",
+       "name": "川崎重工業",
+       "note": "第一級エンジン部品"
+      }
+     ],
+     "solo": []
+    },
+    {
+     "name": "打ち上げインフラ・整備",
+     "us": [
+      {
+       "symbol": "RKLB",
+       "name": "Rocket Lab"
+      },
+      {
+       "symbol": "SPCE",
+       "name": "Virgin Galactic"
+      },
+      {
+       "symbol": "KTOS",
+       "name": "Kratos Defense"
+      },
+      {
+       "symbol": "AIR",
+       "name": "AAR Corp"
+      },
+      {
+       "symbol": "MNTS",
+       "name": "Momentus"
+      }
+     ],
+     "jp": [
+      {
+       "code": "6103",
+       "name": "オーヴァル",
+       "note": "打ち上げ関連精密部品"
+      },
+      {
+       "code": "6728",
+       "name": "アルバック",
+       "note": "宇宙試験用真空装置"
+      }
+     ],
+     "solo": [
+      {
+       "code": "7011",
+       "name": "三菱重工業",
+       "note": "種子島・打ち上げ場インフラ"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "key": "satellites",
+   "name": "衛星製造・運用",
+   "color": "#8B7CF6",
+   "subs": [
+    {
+     "name": "通信衛星・コンステレーション",
+     "us": [
+      {
+       "symbol": "IRDM",
+       "name": "Iridium"
+      },
+      {
+       "symbol": "SATS",
+       "name": "EchoStar"
+      },
+      {
+       "symbol": "GSAT",
+       "name": "Globalstar"
+      },
+      {
+       "symbol": "ASTS",
+       "name": "AST SpaceMobile"
+      },
+      {
+       "symbol": "VSAT",
+       "name": "Viasat"
+      },
+      {
+       "symbol": "AMZN",
+       "name": "Amazon(Kuiper)"
+      },
+      {
+       "symbol": "GOOGL",
+       "name": "Alphabet"
+      },
+      {
+       "symbol": "SES",
+       "name": "SES SA"
+      }
+     ],
+     "jp": [
+      {
+       "code": "9412",
+       "name": "スカパーJSAT",
+       "note": "衛星放送・通信衛星運用"
+      },
+      {
+       "code": "9432",
+       "name": "NTT",
+       "note": "衛星通信・準天頂連携"
+      },
+      {
+       "code": "9433",
+       "name": "KDDI",
+       "note": "衛星通信・IoT"
+      }
+     ],
+     "solo": []
+    },
+    {
+     "name": "地球観測・レーダー",
+     "us": [
+      {
+       "symbol": "PL",
+       "name": "Planet Labs"
+      },
+      {
+       "symbol": "BKSY",
+       "name": "BlackSky"
+      },
+      {
+       "symbol": "SPIR",
+       "name": "Spire Global"
+      },
+      {
+       "symbol": "SATL",
+       "name": "Satellogic"
+      }
+     ],
+     "jp": [
+      {
+       "code": "402A",
+       "name": "スペースシフト",
+       "note": "SAR衛星・地球観測"
+      }
+     ],
+     "solo": []
+    },
+    {
+     "name": "衛星製造・システム",
+     "us": [
+      {
+       "symbol": "LHX",
+       "name": "L3Harris"
+      },
+      {
+       "symbol": "BA",
+       "name": "Boeing"
+      },
+      {
+       "symbol": "NOC",
+       "name": "Northrop Grumman"
+      },
+      {
+       "symbol": "RTX",
+       "name": "RTX"
+      },
+      {
+       "symbol": "LMT",
+       "name": "Lockheed Martin"
+      },
+      {
+       "symbol": "KTOS",
+       "name": "Kratos Defense"
+      },
+      {
+       "symbol": "TXT",
+       "name": "Textron"
+      },
+      {
+       "symbol": "SPR",
+       "name": "Spirit AeroSystems"
+      }
+     ],
+     "jp": [
+      {
+       "code": "6701",
+       "name": "NEC",
+       "note": "衛星バス・地上システム"
+      },
+      {
+       "code": "6702",
+       "name": "富士通",
+       "note": "衛星搭載コンピュータ"
+      },
+      {
+       "code": "6503",
+       "name": "三菱電機",
+       "note": "衛星通信・観測ペイロード"
+      },
+      {
+       "code": "6501",
+       "name": "日立製作所",
+       "note": "衛星関連システム"
+      }
+     ],
+     "solo": []
+    }
+   ]
+  },
+  {
+   "key": "ground",
+   "name": "地上局・サービス",
+   "color": "#5B9BD5",
+   "subs": [
+    {
+     "name": "地上局・衛星通信",
+     "us": [
+      {
+       "symbol": "GILT",
+       "name": "Gilat Satellite"
+      },
+      {
+       "symbol": "VSAT",
+       "name": "Viasat"
+      },
+      {
+       "symbol": "IRDM",
+       "name": "Iridium"
+      },
+      {
+       "symbol": "KTOS",
+       "name": "Kratos Defense"
+      },
+      {
+       "symbol": "ESE",
+       "name": "ESCO Technologies"
+      }
+     ],
+     "jp": [
+      {
+       "code": "9432",
+       "name": "NTT",
+       "note": "衛星通信インフラ"
+      },
+      {
+       "code": "6701",
+       "name": "NEC",
+       "note": "地上局システム"
+      },
+      {
+       "code": "6806",
+       "name": "ヒロセ電機",
+       "note": "衛星用コネクタ"
+      }
+     ],
+     "solo": []
+    },
+    {
+     "name": "衛星データ・分析",
+     "us": [
+      {
+       "symbol": "PL",
+       "name": "Planet Labs"
+      },
+      {
+       "symbol": "BKSY",
+       "name": "BlackSky"
+      },
+      {
+       "symbol": "SPIR",
+       "name": "Spire Global"
+      },
+      {
+       "symbol": "RDW",
+       "name": "Redwire"
+      },
+      {
+       "symbol": "PLTR",
+       "name": "Palantir"
+      },
+      {
+       "symbol": "CACI",
+       "name": "CACI International"
+      }
+     ],
+     "jp": [
+      {
+       "code": "402A",
+       "name": "スペースシフト",
+       "note": "衛星データ活用"
+      }
+     ],
+     "solo": []
+    }
+   ]
+  },
+  {
+   "key": "components",
+   "name": "宇宙部品・材料",
+   "color": "#4ECDC4",
+   "subs": [
+    {
+     "name": "推進・エンジン",
+     "us": [
+      {
+       "symbol": "LMT",
+       "name": "Lockheed Martin"
+      },
+      {
+       "symbol": "NOC",
+       "name": "Northrop Grumman"
+      },
+      {
+       "symbol": "BA",
+       "name": "Boeing"
+      },
+      {
+       "symbol": "BWXT",
+       "name": "BWX Technologies"
+      }
+     ],
+     "jp": [
+      {
+       "code": "7011",
+       "name": "三菱重工業",
+       "note": "ロケットエンジン"
+      },
+      {
+       "code": "7012",
+       "name": "川崎重工業",
+       "note": "エンジン部品・タービン"
+      }
+     ],
+     "solo": []
+    },
+    {
+     "name": "構造材料・複合材",
+     "us": [
+      {
+       "symbol": "TDG",
+       "name": "TransDigm"
+      },
+      {
+       "symbol": "HXL",
+       "name": "Hexcel"
+      },
+      {
+       "symbol": "ATRO",
+       "name": "Astronics"
+      },
+      {
+       "symbol": "HON",
+       "name": "Honeywell"
+      },
+      {
+       "symbol": "WWD",
+       "name": "Woodward"
+      },
+      {
+       "symbol": "PSN",
+       "name": "Parsons"
+      }
+     ],
+     "jp": [
+      {
+       "code": "3407",
+       "name": "旭化成",
+       "note": "炭素繊維・複合材"
+      },
+      {
+       "code": "4204",
+       "name": "積水化学工業",
+       "note": "宇宙向け樹脂・シール"
+      },
+      {
+       "code": "6988",
+       "name": "日東電工",
+       "note": "宇宙向け粘着テープ"
+      }
+     ],
+     "solo": []
+    },
+    {
+     "name": "宇宙エレクトロニクス・部品",
+     "us": [
+      {
+       "symbol": "HEI",
+       "name": "HEICO"
+      },
+      {
+       "symbol": "TDG",
+       "name": "TransDigm"
+      },
+      {
+       "symbol": "HON",
+       "name": "Honeywell"
+      },
+      {
+       "symbol": "GE",
+       "name": "GE Aerospace"
+      },
+      {
+       "symbol": "MOG-A",
+       "name": "Moog"
+      },
+      {
+       "symbol": "HWM",
+       "name": "Howmet Aerospace"
+      }
+     ],
+     "jp": [
+      {
+       "code": "6779",
+       "name": "日本電波工業",
+       "note": "水晶デバイス・衛星用発振器"
+      },
+      {
+       "code": "6962",
+       "name": "大真空",
+       "note": "水晶振動子・衛星用"
+      },
+      {
+       "code": "6724",
+       "name": "セイコーエプソン",
+       "note": "GNSS用タイミングデバイス"
+      },
+      {
+       "code": "6103",
+       "name": "オーヴァル",
+       "note": "衛星用精密部品"
+      },
+      {
+       "code": "7912",
+       "name": "大日本印刷",
+       "note": "衛星用電子部材"
+      },
+      {
+       "code": "6504",
+       "name": "富士電機",
+       "note": "衛星電源・インバータ"
+      }
+     ],
+     "solo": []
+    }
+   ]
+  },
+  {
+   "key": "defense_space",
+   "name": "防衛宇宙",
+   "color": "#4A7C59",
+   "subs": [
+    {
+     "name": "ミサイル防衛・早期警戒",
+     "us": [
+      {
+       "symbol": "LMT",
+       "name": "Lockheed Martin"
+      },
+      {
+       "symbol": "RTX",
+       "name": "RTX"
+      },
+      {
+       "symbol": "NOC",
+       "name": "Northrop Grumman"
+      },
+      {
+       "symbol": "LDOS",
+       "name": "Leidos"
+      },
+      {
+       "symbol": "BAH",
+       "name": "Booz Allen Hamilton"
+      },
+      {
+       "symbol": "SAIC",
+       "name": "SAIC"
+      }
+     ],
+     "jp": [
+      {
+       "code": "7011",
+       "name": "三菱重工業",
+       "note": "弾道ミサイル防衛"
+      },
+      {
+       "code": "6502",
+       "name": "東芝",
+       "note": "早期警戒レーダー"
+      }
+     ],
+     "solo": []
+    },
+    {
+     "name": "軍事衛星・ペイロード",
+     "us": [
+      {
+       "symbol": "LHX",
+       "name": "L3Harris"
+      },
+      {
+       "symbol": "LMT",
+       "name": "Lockheed Martin"
+      },
+      {
+       "symbol": "NOC",
+       "name": "Northrop Grumman"
+      },
+      {
+       "symbol": "BA",
+       "name": "Boeing"
+      },
+      {
+       "symbol": "RTX",
+       "name": "RTX"
+      }
+     ],
+     "jp": [
+      {
+       "code": "6701",
+       "name": "NEC",
+       "note": "防衛衛星システム"
+      },
+      {
+       "code": "6503",
+       "name": "三菱電機",
+       "note": "防衛衛星ペイロード"
+      }
+     ],
+     "solo": []
+    }
+   ]
+  },
+  {
+   "key": "commercial",
+   "name": "商用宇宙サービス",
+   "color": "#E8B04B",
+   "subs": [
+    {
+     "name": "サブオービタル・宇宙観光",
+     "us": [
+      {
+       "symbol": "SPCE",
+       "name": "Virgin Galactic"
+      },
+      {
+       "symbol": "RKLB",
+       "name": "Rocket Lab"
+      },
+      {
+       "symbol": "AVAV",
+       "name": "AeroVironment"
+      }
+     ],
+     "jp": [],
+     "solo": []
+    },
+    {
+     "name": "軌道上サービス・製造",
+     "us": [
+      {
+       "symbol": "RDW",
+       "name": "Redwire"
+      },
+      {
+       "symbol": "RKLB",
+       "name": "Rocket Lab"
+      },
+      {
+       "symbol": "ASTS",
+       "name": "AST SpaceMobile"
+      },
+      {
+       "symbol": "SIDU",
+       "name": "Sidus Space"
+      }
+     ],
+     "jp": [
+      {
+       "code": "6103",
+       "name": "オーヴァル",
+       "note": "軌道上製造向け部品"
+      }
+     ],
+     "solo": []
+    },
+    {
+     "name": "宇宙輸送・物流",
+     "us": [
+      {
+       "symbol": "LUNR",
+       "name": "Intuitive Machines"
+      },
+      {
+       "symbol": "RDW",
+       "name": "Redwire"
+      },
+      {
+       "symbol": "RKLB",
+       "name": "Rocket Lab"
+      }
+     ],
+     "jp": [
+      {
+       "code": "464A",
+       "name": "ispace",
+       "note": "月面輸送・着陸"
+      }
+     ],
+     "solo": []
+    }
+   ]
+  },
+  {
+   "key": "exploration",
+   "name": "探査・深宇宙",
+   "color": "#9D7CF0",
+   "subs": [
+    {
+     "name": "月面・Artemis/NASA",
+     "us": [
+      {
+       "symbol": "BA",
+       "name": "Boeing"
+      },
+      {
+       "symbol": "LMT",
+       "name": "Lockheed Martin"
+      },
+      {
+       "symbol": "LUNR",
+       "name": "Intuitive Machines"
+      },
+      {
+       "symbol": "RKLB",
+       "name": "Rocket Lab"
+      }
+     ],
+     "jp": [
+      {
+       "code": "464A",
+       "name": "ispace",
+       "note": "月面着陸ミッション"
+      }
+     ],
+     "solo": []
+    },
+    {
+     "name": "深宇宙・火星探査",
+     "us": [
+      {
+       "symbol": "BA",
+       "name": "Boeing"
+      },
+      {
+       "symbol": "LMT",
+       "name": "Lockheed Martin"
+      },
+      {
+       "symbol": "NOC",
+       "name": "Northrop Grumman"
+      }
+     ],
+     "jp": [],
+     "solo": [
+      {
+       "code": "464A",
+       "name": "ispace",
+       "note": "深宇宙探査ビジョン"
+      },
+      {
+       "code": "7011",
+       "name": "三菱重工業",
+       "note": "HTV-X・宇宙ステーション"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "key": "policy",
+   "name": "規制・政策",
+   "color": "#A8B89F",
+   "subs": [
+    {
+     "name": "宇宙ETF・指数",
+     "us": [
+      {
+       "symbol": "UFO",
+       "name": "Procure Space ETF"
+      },
+      {
+       "symbol": "ARKX",
+       "name": "ARK Space ETF"
+      },
+      {
+       "symbol": "ROKT",
+       "name": "SPDR S&P Kensho Final Frontiers"
+      }
+     ],
+     "jp": [],
+     "solo": []
+    },
+    {
+     "name": "軌道デブリ・宇宙規制",
+     "us": [
+      {
+       "symbol": "LHX",
+       "name": "L3Harris"
+      },
+      {
+       "symbol": "LDOS",
+       "name": "Leidos"
+      },
+      {
+       "symbol": "PL",
+       "name": "Planet Labs"
+      }
+     ],
+     "jp": [],
+     "solo": [
+      {
+       "code": "402A",
+       "name": "スペースシフト",
+       "note": "デブリ監視SAR"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "key": "japan_space",
+   "name": "日本宇宙産業",
+   "color": "#F08CC0",
+   "subs": [
+    {
+     "name": "H3・打ち上げ",
+     "us": [],
+     "jp": [],
+     "solo": [
+      {
+       "code": "7011",
+       "name": "三菱重工業",
+       "note": "H3ロケット・JAXA打ち上げ"
+      },
+      {
+       "code": "7012",
+       "name": "川崎重工業",
+       "note": "LE-9エンジン"
+      }
+     ]
+    },
+    {
+     "name": "準天頂・衛星通信",
+     "us": [],
+     "jp": [],
+     "solo": [
+      {
+       "code": "9412",
+       "name": "スカパーJSAT",
+       "note": "衛星放送・通信"
+      },
+      {
+       "code": "9432",
+       "name": "NTT",
+       "note": "準天頂衛星システム(QZSS)"
+      },
+      {
+       "code": "9434",
+       "name": "ソフトバンク",
+       "note": "衛星通信・宇宙事業"
+      },
+      {
+       "code": "6723",
+       "name": "ルネサス",
+       "note": "宇宙向け耐放射線半導体"
+      },
+      {
+       "code": "6334",
+       "name": "明治電機工業",
+       "note": "航空宇宙用モーター"
+      }
+     ]
+    },
+    {
+     "name": "宇宙スタートアップ・新興",
+     "us": [],
+     "jp": [],
+     "solo": [
+      {
+       "code": "464A",
+       "name": "ispace",
+       "note": "月面探査"
+      },
+      {
+       "code": "402A",
+       "name": "スペースシフト",
+       "note": "SAR衛星"
+      },
+      {
+       "code": "6103",
+       "name": "オーヴァル",
+       "note": "衛星部品"
+      },
+      {
+       "code": "6724",
+       "name": "セイコーエプソン",
+       "note": "GNSSタイミング"
+      },
+      {
+       "code": "5801",
+       "name": "古河電工",
+       "note": "宇宙用ケーブル・光ファイバ"
+      },
+      {
+       "code": "7911",
+       "name": "TOPPAN",
+       "note": "衛星用フォトマスク"
+      }
+     ]
+    },
+    {
+     "name": "地上試験・真空・計測",
+     "us": [
+      {
+       "symbol": "BRKR",
+       "name": "Bruker"
+      },
+      {
+       "symbol": "KEYS",
+       "name": "Keysight"
+      }
+     ],
+     "jp": [
+      {
+       "code": "6728",
+       "name": "アルバック",
+       "note": "宇宙試験用真空"
+      },
+      {
+       "code": "6841",
+       "name": "横河電機",
+       "note": "衛星試験計測"
+      }
+     ],
+     "solo": [
+      {
+       "code": "6754",
+       "name": "アンリツ",
+       "note": "衛星通信試験"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

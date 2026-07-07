@@ -1,0 +1,668 @@
+{
+ "source": "pipeline/maps/space/flow_map.py",
+ "stages": [
+  {
+   "key": "launch",
+   "name": "① 打ち上げ(Launch)",
+   "icon": "🚀",
+   "color": "#6B5CE7",
+   "desc": "ロケットでペイロードを宇宙へ。再利用化でコスト革命が進行中。",
+   "visual": "rocket",
+   "steps": [
+    {
+     "name": "再利用ロケット",
+     "icon": "♻️",
+     "desc": "Electron/Neutron等、回収・再使用で打ち上げコスト低減",
+     "roles": [
+      {
+       "label": "打ち上げ",
+       "items": [
+        {
+         "code": "RKLB",
+         "name": "Rocket Lab",
+         "market": "us"
+        },
+        {
+         "code": "SPCE",
+         "name": "Virgin Galactic",
+         "market": "us"
+        }
+       ]
+      },
+      {
+       "label": "日本連動",
+       "items": [
+        {
+         "code": "7011",
+         "name": "三菱重工業",
+         "market": "jp"
+        },
+        {
+         "code": "7012",
+         "name": "川崎重工業",
+         "market": "jp"
+        }
+       ]
+      }
+     ],
+     "visual": null
+    },
+    {
+     "name": "政府・大型打ち上げ",
+     "icon": "🏛️",
+     "desc": "SLS/Artemis/Vulcan等、大型ペイロード・国家プロジェクト",
+     "roles": [
+      {
+       "label": "プライム",
+       "items": [
+        {
+         "code": "LMT",
+         "name": "Lockheed Martin",
+         "market": "us"
+        },
+        {
+         "code": "BA",
+         "name": "Boeing",
+         "market": "us"
+        },
+        {
+         "code": "NOC",
+         "name": "Northrop Grumman",
+         "market": "us"
+        }
+       ]
+      },
+      {
+       "label": "日本",
+       "items": [
+        {
+         "code": "7011",
+         "name": "三菱重工業",
+         "market": "jp"
+        },
+        {
+         "code": "7012",
+         "name": "川崎重工業",
+         "market": "jp"
+        }
+       ]
+      }
+     ],
+     "visual": null
+    },
+    {
+     "name": "推進・構造部品",
+     "icon": "🔥",
+     "desc": "エンジン・フェアリング・分離機構",
+     "roles": [
+      {
+       "label": "推進",
+       "items": [
+        {
+         "code": "LMT",
+         "name": "Lockheed Martin",
+         "market": "us"
+        },
+        {
+         "code": "NOC",
+         "name": "Northrop Grumman",
+         "market": "us"
+        },
+        {
+         "code": "BA",
+         "name": "Boeing",
+         "market": "us"
+        },
+        {
+         "code": "BWXT",
+         "name": "BWX Technologies",
+         "market": "us"
+        },
+        {
+         "code": "7011",
+         "name": "三菱重工業",
+         "market": "jp"
+        },
+        {
+         "code": "7012",
+         "name": "川崎重工業",
+         "market": "jp"
+        }
+       ]
+      },
+      {
+       "label": "構造・材料",
+       "items": [
+        {
+         "code": "TDG",
+         "name": "TransDigm",
+         "market": "us"
+        },
+        {
+         "code": "HXL",
+         "name": "Hexcel",
+         "market": "us"
+        },
+        {
+         "code": "ATRO",
+         "name": "Astronics",
+         "market": "us"
+        },
+        {
+         "code": "HON",
+         "name": "Honeywell",
+         "market": "us"
+        },
+        {
+         "code": "3407",
+         "name": "旭化成",
+         "market": "jp"
+        },
+        {
+         "code": "4204",
+         "name": "積水化学工業",
+         "market": "jp"
+        }
+       ]
+      }
+     ],
+     "visual": null
+    }
+   ]
+  },
+  {
+   "key": "orbit",
+   "name": "② 軌道(Satellites)",
+   "icon": "🛰️",
+   "color": "#8B7CF6",
+   "desc": "LEO/MEO/GEO軌道上の衛星。通信・観測・防衛が3大用途。",
+   "visual": "orbit",
+   "steps": [
+    {
+     "name": "通信衛星・コンステレーション",
+     "icon": "📡",
+     "desc": "Starlink/Kuiper/Iridium等、低軌道大量衛星",
+     "roles": [
+      {
+       "label": "衛星運用",
+       "items": [
+        {
+         "code": "IRDM",
+         "name": "Iridium",
+         "market": "us"
+        },
+        {
+         "code": "SATS",
+         "name": "EchoStar",
+         "market": "us"
+        },
+        {
+         "code": "GSAT",
+         "name": "Globalstar",
+         "market": "us"
+        },
+        {
+         "code": "ASTS",
+         "name": "AST SpaceMobile",
+         "market": "us"
+        },
+        {
+         "code": "VSAT",
+         "name": "Viasat",
+         "market": "us"
+        },
+        {
+         "code": "AMZN",
+         "name": "Amazon(Kuiper)",
+         "market": "us"
+        }
+       ]
+      },
+      {
+       "label": "日本",
+       "items": [
+        {
+         "code": "9412",
+         "name": "スカパーJSAT",
+         "market": "jp"
+        },
+        {
+         "code": "9432",
+         "name": "NTT",
+         "market": "jp"
+        }
+       ]
+      }
+     ],
+     "visual": null
+    },
+    {
+     "name": "地球観測・レーダー",
+     "icon": "🌍",
+     "desc": "光学/SAR衛星で地球を常時監視",
+     "roles": [
+      {
+       "label": "観測衛星",
+       "items": [
+        {
+         "code": "PL",
+         "name": "Planet Labs",
+         "market": "us"
+        },
+        {
+         "code": "BKSY",
+         "name": "BlackSky",
+         "market": "us"
+        },
+        {
+         "code": "SPIR",
+         "name": "Spire Global",
+         "market": "us"
+        },
+        {
+         "code": "SATL",
+         "name": "Satellogic",
+         "market": "us"
+        }
+       ]
+      },
+      {
+       "label": "日本",
+       "items": [
+        {
+         "code": "402A",
+         "name": "スペースシフト",
+         "market": "jp"
+        }
+       ]
+      }
+     ],
+     "visual": null
+    },
+    {
+     "name": "衛星製造・防衛",
+     "icon": "🏭",
+     "desc": "衛星バス製造と軍事衛星",
+     "roles": [
+      {
+       "label": "製造(米)",
+       "items": [
+        {
+         "code": "LHX",
+         "name": "L3Harris",
+         "market": "us"
+        },
+        {
+         "code": "BA",
+         "name": "Boeing",
+         "market": "us"
+        },
+        {
+         "code": "NOC",
+         "name": "Northrop Grumman",
+         "market": "us"
+        },
+        {
+         "code": "RTX",
+         "name": "RTX",
+         "market": "us"
+        },
+        {
+         "code": "LMT",
+         "name": "Lockheed Martin",
+         "market": "us"
+        },
+        {
+         "code": "KTOS",
+         "name": "Kratos Defense",
+         "market": "us"
+        }
+       ]
+      },
+      {
+       "label": "製造(日)",
+       "items": [
+        {
+         "code": "6701",
+         "name": "NEC",
+         "market": "jp"
+        },
+        {
+         "code": "6702",
+         "name": "富士通",
+         "market": "jp"
+        },
+        {
+         "code": "6503",
+         "name": "三菱電機",
+         "market": "jp"
+        }
+       ]
+      },
+      {
+       "label": "防衛",
+       "items": [
+        {
+         "code": "LMT",
+         "name": "Lockheed Martin",
+         "market": "us"
+        },
+        {
+         "code": "RTX",
+         "name": "RTX",
+         "market": "us"
+        },
+        {
+         "code": "LDOS",
+         "name": "Leidos",
+         "market": "us"
+        },
+        {
+         "code": "6502",
+         "name": "東芝",
+         "market": "jp"
+        },
+        {
+         "code": "7011",
+         "name": "三菱重工業",
+         "market": "jp"
+        }
+       ]
+      }
+     ],
+     "visual": null
+    }
+   ]
+  },
+  {
+   "key": "ground",
+   "name": "③ 地上(Ground)",
+   "icon": "📶",
+   "color": "#5B9BD5",
+   "desc": "衛星とユーザーを繋ぐ地上局・通信網・データ分析。",
+   "visual": "ground",
+   "steps": [
+    {
+     "name": "地上局・衛星通信",
+     "icon": "📡",
+     "desc": "アンテナ・地上局ネットワーク",
+     "roles": [
+      {
+       "label": "地上局",
+       "items": [
+        {
+         "code": "GILT",
+         "name": "Gilat Satellite",
+         "market": "us"
+        },
+        {
+         "code": "VSAT",
+         "name": "Viasat",
+         "market": "us"
+        },
+        {
+         "code": "IRDM",
+         "name": "Iridium",
+         "market": "us"
+        },
+        {
+         "code": "KTOS",
+         "name": "Kratos Defense",
+         "market": "us"
+        }
+       ]
+      },
+      {
+       "label": "日本",
+       "items": [
+        {
+         "code": "9432",
+         "name": "NTT",
+         "market": "jp"
+        },
+        {
+         "code": "6701",
+         "name": "NEC",
+         "market": "jp"
+        }
+       ]
+      }
+     ],
+     "visual": null
+    },
+    {
+     "name": "衛星データ・分析",
+     "icon": "📊",
+     "desc": "画像・気象・船舶データの加工配信",
+     "roles": [
+      {
+       "label": "データ",
+       "items": [
+        {
+         "code": "PL",
+         "name": "Planet Labs",
+         "market": "us"
+        },
+        {
+         "code": "BKSY",
+         "name": "BlackSky",
+         "market": "us"
+        },
+        {
+         "code": "SPIR",
+         "name": "Spire Global",
+         "market": "us"
+        },
+        {
+         "code": "RDW",
+         "name": "Redwire",
+         "market": "us"
+        }
+       ]
+      },
+      {
+       "label": "日本",
+       "items": [
+        {
+         "code": "402A",
+         "name": "スペースシフト",
+         "market": "jp"
+        }
+       ]
+      }
+     ],
+     "visual": null
+    }
+   ]
+  },
+  {
+   "key": "service",
+   "name": "④ サービス・探査",
+   "icon": "🌙",
+   "color": "#E8B04B",
+   "desc": "軌道上サービス、月面探査、商用宇宙の新領域。",
+   "visual": "explore",
+   "steps": [
+    {
+     "name": "軌道上サービス",
+     "icon": "🔧",
+     "desc": "軌道上製造・輸送・デブリ対策",
+     "roles": [
+      {
+       "label": "サービス",
+       "items": [
+        {
+         "code": "RDW",
+         "name": "Redwire",
+         "market": "us"
+        },
+        {
+         "code": "RKLB",
+         "name": "Rocket Lab",
+         "market": "us"
+        },
+        {
+         "code": "ASTS",
+         "name": "AST SpaceMobile",
+         "market": "us"
+        },
+        {
+         "code": "LUNR",
+         "name": "Intuitive Machines",
+         "market": "us"
+        }
+       ]
+      },
+      {
+       "label": "部品",
+       "items": [
+        {
+         "code": "6103",
+         "name": "オーヴァル",
+         "market": "jp"
+        },
+        {
+         "code": "6779",
+         "name": "日本電波工業",
+         "market": "jp"
+        },
+        {
+         "code": "6962",
+         "name": "大真空",
+         "market": "jp"
+        },
+        {
+         "code": "6724",
+         "name": "セイコーエプソン",
+         "market": "jp"
+        },
+        {
+         "code": "HEI",
+         "name": "HEICO",
+         "market": "us"
+        }
+       ]
+      }
+     ],
+     "visual": null
+    },
+    {
+     "name": "月面・深宇宙探査",
+     "icon": "🌙",
+     "desc": "Artemis/月面着陸/火星探査",
+     "roles": [
+      {
+       "label": "探査(米)",
+       "items": [
+        {
+         "code": "BA",
+         "name": "Boeing",
+         "market": "us"
+        },
+        {
+         "code": "LMT",
+         "name": "Lockheed Martin",
+         "market": "us"
+        },
+        {
+         "code": "LUNR",
+         "name": "Intuitive Machines",
+         "market": "us"
+        },
+        {
+         "code": "NOC",
+         "name": "Northrop Grumman",
+         "market": "us"
+        }
+       ]
+      },
+      {
+       "label": "探査(日)",
+       "items": [
+        {
+         "code": "464A",
+         "name": "ispace",
+         "market": "jp"
+        },
+        {
+         "code": "7011",
+         "name": "三菱重工業",
+         "market": "jp"
+        }
+       ]
+      }
+     ],
+     "visual": null
+    },
+    {
+     "name": "日本宇宙産業",
+     "icon": "🇯🇵",
+     "desc": "H3・準天頂・宇宙スタートアップ",
+     "roles": [
+      {
+       "label": "打ち上げ",
+       "items": [
+        {
+         "code": "7011",
+         "name": "三菱重工業",
+         "market": "jp"
+        },
+        {
+         "code": "7012",
+         "name": "川崎重工業",
+         "market": "jp"
+        }
+       ]
+      },
+      {
+       "label": "通信",
+       "items": [
+        {
+         "code": "9412",
+         "name": "スカパーJSAT",
+         "market": "jp"
+        },
+        {
+         "code": "9432",
+         "name": "NTT",
+         "market": "jp"
+        },
+        {
+         "code": "9434",
+         "name": "ソフトバンク",
+         "market": "jp"
+        }
+       ]
+      },
+      {
+       "label": "新興",
+       "items": [
+        {
+         "code": "464A",
+         "name": "ispace",
+         "market": "jp"
+        },
+        {
+         "code": "402A",
+         "name": "スペースシフト",
+         "market": "jp"
+        },
+        {
+         "code": "6103",
+         "name": "オーヴァル",
+         "market": "jp"
+        },
+        {
+         "code": "6724",
+         "name": "セイコーエプソン",
+         "market": "jp"
+        }
+       ]
+      }
+     ],
+     "visual": null
+    }
+   ]
+  }
+ ]
+}

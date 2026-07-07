@@ -1,0 +1,1199 @@
+{
+ "source": "pipeline/themes/",
+ "stats": {
+  "macro_themes": 10,
+  "sub_themes": 32,
+  "jp_stocks": 42,
+  "us_symbols": 86
+ },
+ "macro": [
+  {
+   "key": "gpu_accel",
+   "name": "GPU・アクセラレータ",
+   "color": "#5BE39B",
+   "subs": [
+    {
+     "name": "GPU・AIアクセラレータ",
+     "us": [
+      {
+       "symbol": "NVDA",
+       "name": "NVIDIA"
+      },
+      {
+       "symbol": "AMD",
+       "name": "AMD"
+      },
+      {
+       "symbol": "ARM",
+       "name": "Arm"
+      }
+     ],
+     "jp": [
+      {
+       "code": "6857",
+       "name": "アドバンテスト",
+       "note": "AI GPU向けテスト需要(半導体側連動)"
+      }
+     ],
+     "solo": []
+    },
+    {
+     "name": "カスタムASIC・XPU",
+     "us": [
+      {
+       "symbol": "AVGO",
+       "name": "Broadcom"
+      },
+      {
+       "symbol": "MRVL",
+       "name": "Marvell"
+      },
+      {
+       "symbol": "GOOGL",
+       "name": "Alphabet"
+      },
+      {
+       "symbol": "META",
+       "name": "Meta"
+      },
+      {
+       "symbol": "AMZN",
+       "name": "Amazon"
+      },
+      {
+       "symbol": "MSFT",
+       "name": "Microsoft"
+      },
+      {
+       "symbol": "INTC",
+       "name": "Intel"
+      }
+     ],
+     "jp": [
+      {
+       "code": "6526",
+       "name": "ソシオネクスト",
+       "note": "北米DC向けカスタムSoC設計"
+      }
+     ],
+     "solo": []
+    },
+    {
+     "name": "AI半導体・DC連動ETF",
+     "us": [
+      {
+       "symbol": "SMH",
+       "name": "VanEck半導体ETF"
+      },
+      {
+       "symbol": "SOXX",
+       "name": "iShares半導体ETF"
+      },
+      {
+       "symbol": "BOTZ",
+       "name": "Global Xロボティクス&AI ETF"
+      },
+      {
+       "symbol": "IGV",
+       "name": "iSharesソフトウェアETF"
+      }
+     ],
+     "jp": [],
+     "solo": [
+      {
+       "code": "200A",
+       "name": "グローバルX 半導体関連-日本株式ETF",
+       "note": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "key": "server_oem",
+   "name": "サーバー・OEM",
+   "color": "#7CC8F0",
+   "subs": [
+    {
+     "name": "AIサーバーOEM",
+     "us": [
+      {
+       "symbol": "SMCI",
+       "name": "Super Micro"
+      },
+      {
+       "symbol": "DELL",
+       "name": "Dell Technologies"
+      },
+      {
+       "symbol": "HPE",
+       "name": "Hewlett Packard Enterprise"
+      },
+      {
+       "symbol": "HPQ",
+       "name": "HP Inc"
+      },
+      {
+       "symbol": "NTAP",
+       "name": "NetApp"
+      }
+     ],
+     "jp": [],
+     "solo": []
+    },
+    {
+     "name": "ODM・白箱サーバー",
+     "us": [
+      {
+       "symbol": "WDC",
+       "name": "Western Digital"
+      },
+      {
+       "symbol": "PSTG",
+       "name": "Pure Storage"
+      },
+      {
+       "symbol": "STX",
+       "name": "Seagate"
+      },
+      {
+       "symbol": "NTNX",
+       "name": "Nutanix"
+      }
+     ],
+     "jp": [
+      {
+       "code": "6702",
+       "name": "富士通",
+       "note": "AI向けサーバー・PRIMERGY"
+      },
+      {
+       "code": "6701",
+       "name": "NEC",
+       "note": "AIサーバー・DC向けシステム"
+      }
+     ],
+     "solo": []
+    },
+    {
+     "name": "ラック統合・AI Pod",
+     "us": [
+      {
+       "symbol": "VRT",
+       "name": "Vertiv"
+      },
+      {
+       "symbol": "SMCI",
+       "name": "Super Micro"
+      },
+      {
+       "symbol": "ETN",
+       "name": "Eaton"
+      },
+      {
+       "symbol": "NVDA",
+       "name": "NVIDIA"
+      },
+      {
+       "symbol": "NTNX",
+       "name": "Nutanix"
+      }
+     ],
+     "jp": [
+      {
+       "code": "6501",
+       "name": "日立製作所",
+       "note": "日立エナジー(ラック電源・HVDC)"
+      }
+     ],
+     "solo": []
+    }
+   ]
+  },
+  {
+   "key": "networking",
+   "name": "DCネットワーク",
+   "color": "#3FA7D6",
+   "subs": [
+    {
+     "name": "データセンタースイッチ",
+     "us": [
+      {
+       "symbol": "ANET",
+       "name": "Arista Networks"
+      },
+      {
+       "symbol": "CSCO",
+       "name": "Cisco"
+      },
+      {
+       "symbol": "AVGO",
+       "name": "Broadcom"
+      },
+      {
+       "symbol": "JNPR",
+       "name": "Juniper"
+      },
+      {
+       "symbol": "CIEN",
+       "name": "Ciena"
+      },
+      {
+       "symbol": "FFIV",
+       "name": "F5 Networks"
+      }
+     ],
+     "jp": [
+      {
+       "code": "6702",
+       "name": "富士通",
+       "note": "DC向けネットワーク機器"
+      },
+      {
+       "code": "6701",
+       "name": "NEC",
+       "note": "Open RAN・DCスイッチ"
+      }
+     ],
+     "solo": []
+    },
+    {
+     "name": "SmartNIC/DPU/CXL",
+     "us": [
+      {
+       "symbol": "ALAB",
+       "name": "Astera Labs"
+      },
+      {
+       "symbol": "CRDO",
+       "name": "Credo Technology"
+      },
+      {
+       "symbol": "MRVL",
+       "name": "Marvell"
+      },
+      {
+       "symbol": "AMD",
+       "name": "AMD"
+      },
+      {
+       "symbol": "NVDA",
+       "name": "NVIDIA"
+      },
+      {
+       "symbol": "INTC",
+       "name": "Intel"
+      }
+     ],
+     "jp": [],
+     "solo": []
+    },
+    {
+     "name": "DC間接続(DCI)",
+     "us": [
+      {
+       "symbol": "CIEN",
+       "name": "Ciena"
+      },
+      {
+       "symbol": "GLW",
+       "name": "Corning"
+      },
+      {
+       "symbol": "FN",
+       "name": "Fabrinet"
+      },
+      {
+       "symbol": "LITE",
+       "name": "Lumentum"
+      },
+      {
+       "symbol": "COHR",
+       "name": "Coherent"
+      }
+     ],
+     "jp": [
+      {
+       "code": "6701",
+       "name": "NEC",
+       "note": "DC間光伝送・DCI"
+      },
+      {
+       "code": "6702",
+       "name": "富士通",
+       "note": "DC間ネットワーク"
+      },
+      {
+       "code": "5803",
+       "name": "フジクラ",
+       "note": "DC間光ファイバー"
+      }
+     ],
+     "solo": []
+    },
+    {
+     "name": "DC配線・コネクタ",
+     "us": [
+      {
+       "symbol": "APH",
+       "name": "Amphenol"
+      },
+      {
+       "symbol": "TEL",
+       "name": "TE Connectivity"
+      },
+      {
+       "symbol": "BDC",
+       "name": "Belden"
+      },
+      {
+       "symbol": "GLW",
+       "name": "Corning"
+      }
+     ],
+     "jp": [
+      {
+       "code": "5802",
+       "name": "住友電工",
+       "note": "DC向け電力・光ケーブル"
+      },
+      {
+       "code": "5805",
+       "name": "SWCC",
+       "note": "電力ケーブル・DC配線"
+      },
+      {
+       "code": "6834",
+       "name": "精工技研",
+       "note": "光コネクタ・DC光配線"
+      }
+     ],
+     "solo": []
+    }
+   ]
+  },
+  {
+   "key": "optical_dc",
+   "name": "光接続(DC向け)",
+   "color": "#E8B04B",
+   "subs": [
+    {
+     "name": "CPO・光スイッチ",
+     "us": [
+      {
+       "symbol": "AVGO",
+       "name": "Broadcom"
+      },
+      {
+       "symbol": "MRVL",
+       "name": "Marvell"
+      },
+      {
+       "symbol": "COHR",
+       "name": "Coherent"
+      },
+      {
+       "symbol": "LITE",
+       "name": "Lumentum"
+      },
+      {
+       "symbol": "MTSI",
+       "name": "MACOM"
+      }
+     ],
+     "jp": [
+      {
+       "code": "9432",
+       "name": "NTT",
+       "note": "IOWN・DC光電融合"
+      },
+      {
+       "code": "4062",
+       "name": "イビデン",
+       "note": "光電融合パッケージ基板"
+      }
+     ],
+     "solo": []
+    },
+    {
+     "name": "光トランシーバ",
+     "us": [
+      {
+       "symbol": "LITE",
+       "name": "Lumentum"
+      },
+      {
+       "symbol": "COHR",
+       "name": "Coherent"
+      },
+      {
+       "symbol": "AAOI",
+       "name": "Applied Optoelectronics"
+      },
+      {
+       "symbol": "CIEN",
+       "name": "Ciena"
+      },
+      {
+       "symbol": "FN",
+       "name": "Fabrinet"
+      }
+     ],
+     "jp": [
+      {
+       "code": "6702",
+       "name": "富士通",
+       "note": "光トランシーバ・光伝送"
+      },
+      {
+       "code": "6777",
+       "name": "santec HD",
+       "note": "光部品・波長可変光源"
+      }
+     ],
+     "solo": []
+    },
+    {
+     "name": "光ファイバー・ケーブル",
+     "us": [
+      {
+       "symbol": "GLW",
+       "name": "Corning"
+      },
+      {
+       "symbol": "COMM",
+       "name": "CommScope"
+      }
+     ],
+     "jp": [
+      {
+       "code": "5803",
+       "name": "フジクラ",
+       "note": "高密度光ファイバー・DC配線"
+      },
+      {
+       "code": "5801",
+       "name": "古河電工",
+       "note": "多芯光ファイバー・DC光配線"
+      },
+      {
+       "code": "5802",
+       "name": "住友電工",
+       "note": "光ファイバー・融着接続"
+      },
+      {
+       "code": "6703",
+       "name": "OKI",
+       "note": "光通信インフラ"
+      }
+     ],
+     "solo": []
+    }
+   ]
+  },
+  {
+   "key": "cooling",
+   "name": "冷却・熱管理",
+   "color": "#6EE7F0",
+   "subs": [
+    {
+     "name": "液冷・CDU",
+     "us": [
+      {
+       "symbol": "VRT",
+       "name": "Vertiv"
+      },
+      {
+       "symbol": "MOD",
+       "name": "Modine"
+      },
+      {
+       "symbol": "SMCI",
+       "name": "Super Micro"
+      },
+      {
+       "symbol": "NVT",
+       "name": "nVent"
+      },
+      {
+       "symbol": "TT",
+       "name": "Trane Technologies"
+      }
+     ],
+     "jp": [
+      {
+       "code": "6367",
+       "name": "ダイキン工業",
+       "note": "Chilldyne買収・負圧式液冷"
+      },
+      {
+       "code": "6584",
+       "name": "三桜工業",
+       "note": "液体冷却配管・CDU部品"
+      },
+      {
+       "code": "6516",
+       "name": "山洋電気",
+       "note": "液冷ポンプ・ファン"
+      }
+     ],
+     "solo": []
+    },
+    {
+     "name": "浸漬・ダイレクト液冷",
+     "us": [
+      {
+       "symbol": "VRT",
+       "name": "Vertiv"
+      },
+      {
+       "symbol": "MOD",
+       "name": "Modine"
+      },
+      {
+       "symbol": "CARR",
+       "name": "Carrier"
+      }
+     ],
+     "jp": [
+      {
+       "code": "6367",
+       "name": "ダイキン工業",
+       "note": "液冷・浸漬冷却"
+      },
+      {
+       "code": "6490",
+       "name": "日本ピラー工業",
+       "note": "冷却配管シール・継手"
+      }
+     ],
+     "solo": []
+    },
+    {
+     "name": "CRAC/空調・排熱",
+     "us": [
+      {
+       "symbol": "CARR",
+       "name": "Carrier"
+      },
+      {
+       "symbol": "TT",
+       "name": "Trane Technologies"
+      },
+      {
+       "symbol": "JCI",
+       "name": "Johnson Controls"
+      },
+      {
+       "symbol": "FIX",
+       "name": "Comfort Systems"
+      }
+     ],
+     "jp": [
+      {
+       "code": "6458",
+       "name": "新晃工業",
+       "note": "大型空調機・DC空調増産"
+      },
+      {
+       "code": "1969",
+       "name": "高砂熱学工業",
+       "note": "DC空調・冷却設備工事"
+      },
+      {
+       "code": "6363",
+       "name": "酉島製作所",
+       "note": "冷却水循環ポンプ"
+      },
+      {
+       "code": "6594",
+       "name": "ニデック",
+       "note": "冷却ファン・精密モーター"
+      }
+     ],
+     "solo": []
+    }
+   ]
+  },
+  {
+   "key": "power_dc",
+   "name": "DC電源・配電",
+   "color": "#F0A85B",
+   "subs": [
+    {
+     "name": "UPS・ラック電源",
+     "us": [
+      {
+       "symbol": "VRT",
+       "name": "Vertiv"
+      },
+      {
+       "symbol": "ETN",
+       "name": "Eaton"
+      },
+      {
+       "symbol": "GEV",
+       "name": "GE Vernova"
+      },
+      {
+       "symbol": "BE",
+       "name": "Bloom Energy"
+      },
+      {
+       "symbol": "MPWR",
+       "name": "Monolithic Power"
+      }
+     ],
+     "jp": [
+      {
+       "code": "6504",
+       "name": "富士電機",
+       "note": "UPS・受配電・DC電源"
+      },
+      {
+       "code": "6707",
+       "name": "サンケン電気",
+       "note": "高効率電源・DC向け"
+      },
+      {
+       "code": "6674",
+       "name": "GSユアサ",
+       "note": "大容量UPS・蓄電池"
+      }
+     ],
+     "solo": []
+    },
+    {
+     "name": "変圧器・受配電",
+     "us": [
+      {
+       "symbol": "POWL",
+       "name": "Powell Industries"
+      },
+      {
+       "symbol": "GEV",
+       "name": "GE Vernova"
+      },
+      {
+       "symbol": "ETN",
+       "name": "Eaton"
+      },
+      {
+       "symbol": "HUBB",
+       "name": "Hubbell"
+      }
+     ],
+     "jp": [
+      {
+       "code": "6622",
+       "name": "ダイヘン",
+       "note": "変圧器・受配電(北米DC向け急拡)"
+      },
+      {
+       "code": "6501",
+       "name": "日立製作所",
+       "note": "日立エナジー(変圧器・HVDC)"
+      },
+      {
+       "code": "6503",
+       "name": "三菱電機",
+       "note": "受配電・SiCパワー"
+      },
+      {
+       "code": "6504",
+       "name": "富士電機",
+       "note": "変圧器・UPS"
+      }
+     ],
+     "solo": []
+    },
+    {
+     "name": "銅配線・母線",
+     "us": [
+      {
+       "symbol": "APH",
+       "name": "Amphenol"
+      },
+      {
+       "symbol": "MLI",
+       "name": "Mueller Industries"
+      },
+      {
+       "symbol": "BDC",
+       "name": "Belden"
+      },
+      {
+       "symbol": "FCX",
+       "name": "Freeport-McMoRan"
+      },
+      {
+       "symbol": "COPX",
+       "name": "Global X 銅ETF"
+      }
+     ],
+     "jp": [
+      {
+       "code": "5801",
+       "name": "古河電工",
+       "note": "銅線・DC配線"
+      },
+      {
+       "code": "5803",
+       "name": "フジクラ",
+       "note": "銅線・電力ケーブル"
+      },
+      {
+       "code": "5706",
+       "name": "三井金属",
+       "note": "極薄電解銅箔・DC配線"
+      },
+      {
+       "code": "5016",
+       "name": "JX金属",
+       "note": "銅製錬・DC配線材料"
+      }
+     ],
+     "solo": []
+    }
+   ]
+  },
+  {
+   "key": "memory_ai",
+   "name": "AI向けメモリ",
+   "color": "#F0593C",
+   "subs": [
+    {
+     "name": "HBM・高帯域メモリ(需要側)",
+     "us": [
+      {
+       "symbol": "MU",
+       "name": "Micron"
+      },
+      {
+       "symbol": "NVDA",
+       "name": "NVIDIA"
+      },
+      {
+       "symbol": "AMD",
+       "name": "AMD"
+      }
+     ],
+     "jp": [
+      {
+       "code": "285A",
+       "name": "キオクシア",
+       "note": "AI向けSSD・NAND(メモリ階層)"
+      }
+     ],
+     "solo": []
+    },
+    {
+     "name": "DRAM・CXLメモリ",
+     "us": [
+      {
+       "symbol": "MU",
+       "name": "Micron"
+      },
+      {
+       "symbol": "SNDK",
+       "name": "SanDisk"
+      },
+      {
+       "symbol": "WDC",
+       "name": "Western Digital"
+      }
+     ],
+     "jp": [],
+     "solo": []
+    },
+    {
+     "name": "SSD・HDD・ストレージ",
+     "us": [
+      {
+       "symbol": "WDC",
+       "name": "Western Digital"
+      },
+      {
+       "symbol": "STX",
+       "name": "Seagate"
+      },
+      {
+       "symbol": "SNDK",
+       "name": "SanDisk"
+      },
+      {
+       "symbol": "PSTG",
+       "name": "Pure Storage"
+      },
+      {
+       "symbol": "NTAP",
+       "name": "NetApp"
+      }
+     ],
+     "jp": [
+      {
+       "code": "285A",
+       "name": "キオクシア",
+       "note": "AI向けSSD・NAND"
+      },
+      {
+       "code": "6526",
+       "name": "ソシオネクスト",
+       "note": "ストレージコントローラ設計"
+      }
+     ],
+     "solo": []
+    }
+   ]
+  },
+  {
+   "key": "cloud",
+   "name": "クラウド・ハイパースケーラー",
+   "color": "#9D7CF0",
+   "subs": [
+    {
+     "name": "ハイパースケーラー",
+     "us": [
+      {
+       "symbol": "AMZN",
+       "name": "Amazon"
+      },
+      {
+       "symbol": "MSFT",
+       "name": "Microsoft"
+      },
+      {
+       "symbol": "GOOGL",
+       "name": "Alphabet"
+      },
+      {
+       "symbol": "META",
+       "name": "Meta"
+      },
+      {
+       "symbol": "ORCL",
+       "name": "Oracle"
+      },
+      {
+       "symbol": "CRM",
+       "name": "Salesforce"
+      }
+     ],
+     "jp": [],
+     "solo": []
+    },
+    {
+     "name": "GPUクラウド・Neocloud",
+     "us": [
+      {
+       "symbol": "CRWV",
+       "name": "CoreWeave"
+      },
+      {
+       "symbol": "NBIS",
+       "name": "Nebius"
+      },
+      {
+       "symbol": "IREN",
+       "name": "IREN(旧Iris Energy)"
+      },
+      {
+       "symbol": "CORZ",
+       "name": "Core Scientific"
+      },
+      {
+       "symbol": "APLD",
+       "name": "Applied Digital"
+      }
+     ],
+     "jp": [],
+     "solo": []
+    },
+    {
+     "name": "国内DC・クラウド",
+     "us": [],
+     "jp": [
+      {
+       "code": "3778",
+       "name": "さくらインターネット",
+       "note": "GPUクラウド・政府クラウド"
+      },
+      {
+       "code": "3774",
+       "name": "IIJ",
+       "note": "DC運営・クラウド"
+      },
+      {
+       "code": "3905",
+       "name": "データセクション",
+       "note": "AI・DC関連"
+      },
+      {
+       "code": "9432",
+       "name": "NTT",
+       "note": "DC・IOWN・国内クラウド"
+      }
+     ],
+     "solo": []
+    }
+   ]
+  },
+  {
+   "key": "edge_ai",
+   "name": "エッジAI",
+   "color": "#8FA0B8",
+   "subs": [
+    {
+     "name": "エッジ推論SoC",
+     "us": [
+      {
+       "symbol": "QCOM",
+       "name": "Qualcomm"
+      },
+      {
+       "symbol": "ARM",
+       "name": "Arm"
+      },
+      {
+       "symbol": "INTC",
+       "name": "Intel"
+      },
+      {
+       "symbol": "NVDA",
+       "name": "NVIDIA"
+      },
+      {
+       "symbol": "AMD",
+       "name": "AMD"
+      }
+     ],
+     "jp": [
+      {
+       "code": "6723",
+       "name": "ルネサス",
+       "note": "エッジAI MCU・SoC"
+      }
+     ],
+     "solo": []
+    },
+    {
+     "name": "エッジサーバー・ゲートウェイ",
+     "us": [
+      {
+       "symbol": "HPE",
+       "name": "Hewlett Packard Enterprise"
+      },
+      {
+       "symbol": "DELL",
+       "name": "Dell Technologies"
+      },
+      {
+       "symbol": "CSCO",
+       "name": "Cisco"
+      },
+      {
+       "symbol": "ANET",
+       "name": "Arista Networks"
+      }
+     ],
+     "jp": [
+      {
+       "code": "6702",
+       "name": "富士通",
+       "note": "エッジAIサーバー"
+      },
+      {
+       "code": "6701",
+       "name": "NEC",
+       "note": "エッジコンピューティング"
+      }
+     ],
+     "solo": []
+    },
+    {
+     "name": "MEC・5Gエッジ",
+     "us": [
+      {
+       "symbol": "ERIC",
+       "name": "Ericsson"
+      },
+      {
+       "symbol": "NOK",
+       "name": "Nokia"
+      },
+      {
+       "symbol": "CSCO",
+       "name": "Cisco"
+      },
+      {
+       "symbol": "QCOM",
+       "name": "Qualcomm"
+      }
+     ],
+     "jp": [
+      {
+       "code": "9432",
+       "name": "NTT",
+       "note": "5G MEC・エッジDC"
+      },
+      {
+       "code": "6701",
+       "name": "NEC",
+       "note": "Open RAN・MEC"
+      }
+     ],
+     "solo": []
+    }
+   ]
+  },
+  {
+   "key": "capex_cycle",
+   "name": "CapExサイクル",
+   "color": "#A8B89F",
+   "subs": [
+    {
+     "name": "DC REIT・コロケーション",
+     "us": [
+      {
+       "symbol": "EQIX",
+       "name": "Equinix"
+      },
+      {
+       "symbol": "DLR",
+       "name": "Digital Realty"
+      },
+      {
+       "symbol": "AMT",
+       "name": "American Tower"
+      },
+      {
+       "symbol": "CCI",
+       "name": "Crown Castle"
+      },
+      {
+       "symbol": "IRM",
+       "name": "Iron Mountain"
+      }
+     ],
+     "jp": [],
+     "solo": []
+    },
+    {
+     "name": "DC建設・電気工事",
+     "us": [
+      {
+       "symbol": "PWR",
+       "name": "Quanta Services"
+      },
+      {
+       "symbol": "FIX",
+       "name": "Comfort Systems"
+      },
+      {
+       "symbol": "IESC",
+       "name": "IES Holdings"
+      },
+      {
+       "symbol": "EME",
+       "name": "EMCOR Group"
+      },
+      {
+       "symbol": "MYRG",
+       "name": "MYR Group"
+      }
+     ],
+     "jp": [
+      {
+       "code": "1942",
+       "name": "関電工",
+       "note": "電気工事・DC建設"
+      },
+      {
+       "code": "1944",
+       "name": "きんでん",
+       "note": "電気工事・DC建設"
+      },
+      {
+       "code": "1961",
+       "name": "三機工業",
+       "note": "空調・電気設備工事"
+      },
+      {
+       "code": "6366",
+       "name": "千代田化工建設",
+       "note": "DC EPC・プラント"
+      }
+     ],
+     "solo": []
+    },
+    {
+     "name": "CapExサイクル・ETF",
+     "us": [
+      {
+       "symbol": "XLRE",
+       "name": "Real Estate Select Sector ETF"
+      },
+      {
+       "symbol": "VNQ",
+       "name": "Vanguard REIT ETF"
+      },
+      {
+       "symbol": "SRVR",
+       "name": "Pacer Data & Infrastructure ETF"
+      },
+      {
+       "symbol": "DTCR",
+       "name": "Global X Data Center ETF"
+      }
+     ],
+     "jp": [],
+     "solo": [
+      {
+       "code": "1343",
+       "name": "NEXT FUNDS 東証REIT ETF",
+       "note": ""
+      }
+     ]
+    },
+    {
+     "name": "DC運用・監視",
+     "us": [
+      {
+       "symbol": "DDOG",
+       "name": "Datadog"
+      },
+      {
+       "symbol": "NET",
+       "name": "Cloudflare"
+      },
+      {
+       "symbol": "AKAM",
+       "name": "Akamai"
+      },
+      {
+       "symbol": "SNOW",
+       "name": "Snowflake"
+      },
+      {
+       "symbol": "MDB",
+       "name": "MongoDB"
+      }
+     ],
+     "jp": [
+      {
+       "code": "4689",
+       "name": "Zホールディングス",
+       "note": "クラウド・AI基盤"
+      },
+      {
+       "code": "4751",
+       "name": "サイバーエージェント",
+       "note": "AI/DCワークロード"
+      }
+     ],
+     "solo": []
+    }
+   ]
+  }
+ ]
+}

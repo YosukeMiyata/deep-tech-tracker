@@ -1,0 +1,917 @@
+{
+ "source": "pipeline/themes/",
+ "stats": {
+  "macro_themes": 9,
+  "sub_themes": 24,
+  "jp_stocks": 39,
+  "us_symbols": 31
+ },
+ "macro": [
+  {
+   "key": "construction",
+   "name": "原子力建設",
+   "color": "#E8B04B",
+   "subs": [
+    {
+     "name": "原子力新設・EPC",
+     "us": [
+      {
+       "symbol": "BWXT",
+       "name": "BWX Technologies"
+      },
+      {
+       "symbol": "GEV",
+       "name": "GE Vernova"
+      },
+      {
+       "symbol": "EMR",
+       "name": "Emerson Electric"
+      }
+     ],
+     "jp": [],
+     "solo": [
+      {
+       "code": "7011",
+       "name": "三菱重工業",
+       "note": "原子炉EPC・プレッシャー容器"
+      },
+      {
+       "code": "1963",
+       "name": "日揮ホールディングス",
+       "note": "原子力プラントEPC"
+      },
+      {
+       "code": "6330",
+       "name": "東洋エンジニアリング",
+       "note": "原子力設計・建設"
+      },
+      {
+       "code": "1801",
+       "name": "大成建設",
+       "note": "原子力土木・建築"
+      },
+      {
+       "code": "1721",
+       "name": "コムシスホールディングス",
+       "note": "原子力関連設備工事"
+      },
+      {
+       "code": "2768",
+       "name": "双日",
+       "note": "原子力プラント関連商社"
+      }
+     ]
+    },
+    {
+     "name": "原子炉設計・増設",
+     "us": [
+      {
+       "symbol": "SMR",
+       "name": "NuScale Power"
+      },
+      {
+       "symbol": "OKLO",
+       "name": "Oklo"
+      },
+      {
+       "symbol": "NNE",
+       "name": "Nano Nuclear Energy"
+      }
+     ],
+     "jp": [],
+     "solo": [
+      {
+       "code": "6501",
+       "name": "日立製作所",
+       "note": "ABWR・BWR設計"
+      },
+      {
+       "code": "6502",
+       "name": "東芝",
+       "note": "BWR・PWR設計"
+      },
+      {
+       "code": "7011",
+       "name": "三菱重工業",
+       "note": "APWR・次世代炉"
+      }
+     ]
+    },
+    {
+     "name": "土木・基礎・容器",
+     "us": [
+      {
+       "symbol": "BWXT",
+       "name": "BWX Technologies"
+      }
+     ],
+     "jp": [],
+     "solo": [
+      {
+       "code": "5631",
+       "name": "日本製鋼所",
+       "note": "原子炉圧力容器・鍛造"
+      },
+      {
+       "code": "5713",
+       "name": "住友金属鉱山",
+       "note": "原子力関連特殊材料"
+      },
+      {
+       "code": "1801",
+       "name": "大成建設",
+       "note": "耐震・基礎土木"
+      },
+      {
+       "code": "5401",
+       "name": "日本製鉄",
+       "note": "原子炉構造用鋼材"
+      },
+      {
+       "code": "5411",
+       "name": "JFEホールディングス",
+       "note": "原子力用特殊鋼"
+      },
+      {
+       "code": "5706",
+       "name": "三井金属",
+       "note": "ジルコニウム合金"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "key": "operation",
+   "name": "運転・再稼働",
+   "color": "#3FA7D6",
+   "subs": [
+    {
+     "name": "既設炉運転",
+     "us": [
+      {
+       "symbol": "CEG",
+       "name": "Constellation Energy"
+      },
+      {
+       "symbol": "VST",
+       "name": "Vistra"
+      },
+      {
+       "symbol": "EXC",
+       "name": "Exelon"
+      },
+      {
+       "symbol": "NEE",
+       "name": "NextEra Energy"
+      },
+      {
+       "symbol": "PCG",
+       "name": "PG&E"
+      }
+     ],
+     "jp": [],
+     "solo": [
+      {
+       "code": "9501",
+       "name": "東京電力HD",
+       "note": "柏崎刈羽・福島第一(廃炉中)"
+      },
+      {
+       "code": "9502",
+       "name": "中部電力",
+       "note": "浜松・知多・奥濃羽"
+      },
+      {
+       "code": "9503",
+       "name": "関西電力",
+       "note": "高浜・大飯・美浜"
+      },
+      {
+       "code": "9508",
+       "name": "九州電力",
+       "note": "玄海・川内・玄海増設"
+      }
+     ]
+    },
+    {
+     "name": "再稼働・寿命延長",
+     "us": [
+      {
+       "symbol": "CEG",
+       "name": "Constellation Energy"
+      },
+      {
+       "symbol": "DUK",
+       "name": "Duke Energy"
+      },
+      {
+       "symbol": "SO",
+       "name": "Southern Company"
+      }
+     ],
+     "jp": [],
+     "solo": [
+      {
+       "code": "9503",
+       "name": "関西電力",
+       "note": "高浜・大飯再稼働"
+      },
+      {
+       "code": "9502",
+       "name": "中部電力",
+       "note": "浜松再稼働"
+      },
+      {
+       "code": "9509",
+       "name": "北陸電力",
+       "note": "志賀再稼働"
+      },
+      {
+       "code": "9504",
+       "name": "中国電力",
+       "note": "島根再稼働"
+      }
+     ]
+    },
+    {
+     "name": "O&M・保守",
+     "us": [
+      {
+       "symbol": "BWXT",
+       "name": "BWX Technologies"
+      },
+      {
+       "symbol": "EMR",
+       "name": "Emerson Electric"
+      }
+     ],
+     "jp": [],
+     "solo": [
+      {
+       "code": "6501",
+       "name": "日立製作所",
+       "note": "原子力保守・I&C"
+      },
+      {
+       "code": "6361",
+       "name": "荏原製作所",
+       "note": "原子炉冷却ポンプ"
+      },
+      {
+       "code": "6841",
+       "name": "横河電機",
+       "note": "原子力計装・制御"
+      },
+      {
+       "code": "6502",
+       "name": "東芝",
+       "note": "原子力保守サービス"
+      },
+      {
+       "code": "6370",
+       "name": "栗田工業",
+       "note": "原子力向け超純水"
+      },
+      {
+       "code": "6368",
+       "name": "オルガノ",
+       "note": "超純水製造装置"
+      }
+     ]
+    },
+    {
+     "name": "安全規制・検査",
+     "us": [],
+     "jp": [],
+     "solo": [
+      {
+       "code": "6951",
+       "name": "日本電子",
+       "note": "放射線計測・検査"
+      },
+      {
+       "code": "6841",
+       "name": "横河電機",
+       "note": "原子力安全計装"
+      },
+      {
+       "code": "5333",
+       "name": "日本ガイシ",
+       "note": "原子炉用セラミックス"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "key": "fuel",
+   "name": "核燃料サイクル",
+   "color": "#9D7CF0",
+   "subs": [
+    {
+     "name": "濃縮・変換",
+     "us": [
+      {
+       "symbol": "LEU",
+       "name": "Centrus Energy"
+      },
+      {
+       "symbol": "CCJ",
+       "name": "Cameco"
+      },
+      {
+       "symbol": "UEC",
+       "name": "Uranium Energy"
+      }
+     ],
+     "jp": [],
+     "solo": [
+      {
+       "code": "4005",
+       "name": "住友化学",
+       "note": "ウラン変換・核燃料関連"
+      }
+     ]
+    },
+    {
+     "name": "燃料加工・製造",
+     "us": [
+      {
+       "symbol": "BWXT",
+       "name": "BWX Technologies"
+      },
+      {
+       "symbol": "CCJ",
+       "name": "Cameco"
+      },
+      {
+       "symbol": "LEU",
+       "name": "Centrus Energy"
+      }
+     ],
+     "jp": [],
+     "solo": [
+      {
+       "code": "5713",
+       "name": "住友金属鉱山",
+       "note": "核燃料関連材料"
+      },
+      {
+       "code": "8058",
+       "name": "三菱商事",
+       "note": "ウラン・核燃料取引"
+      },
+      {
+       "code": "8002",
+       "name": "丸紅",
+       "note": "ウラン資源開発"
+      }
+     ]
+    },
+    {
+     "name": "再処理・後処理",
+     "us": [
+      {
+       "symbol": "BWXT",
+       "name": "BWX Technologies"
+      }
+     ],
+     "jp": [],
+     "solo": [
+      {
+       "code": "6330",
+       "name": "東洋エンジニアリング",
+       "note": "再処理施設設計"
+      },
+      {
+       "code": "1963",
+       "name": "日揮ホールディングス",
+       "note": "核燃料サイクル施設"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "key": "smr",
+   "name": "SMR・次世代炉",
+   "color": "#5BE39B",
+   "subs": [
+    {
+     "name": "SMR・小型炉",
+     "us": [
+      {
+       "symbol": "SMR",
+       "name": "NuScale Power"
+      },
+      {
+       "symbol": "NNE",
+       "name": "Nano Nuclear Energy"
+      },
+      {
+       "symbol": "OKLO",
+       "name": "Oklo"
+      },
+      {
+       "symbol": "BWXT",
+       "name": "BWX Technologies"
+      }
+     ],
+     "jp": [],
+     "solo": [
+      {
+       "code": "7011",
+       "name": "三菱重工業",
+       "note": "SRZ-1200・次世代炉"
+      },
+      {
+       "code": "6501",
+       "name": "日立製作所",
+       "note": "BWRX-300(SMR)"
+      },
+      {
+       "code": "6502",
+       "name": "東芝",
+       "note": "SMR開発"
+      }
+     ]
+    },
+    {
+     "name": "次世代炉(ナトリウム・高温ガス)",
+     "us": [
+      {
+       "symbol": "OKLO",
+       "name": "Oklo"
+      },
+      {
+       "symbol": "BWXT",
+       "name": "BWX Technologies"
+      },
+      {
+       "symbol": "GEV",
+       "name": "GE Vernova"
+      }
+     ],
+     "jp": [],
+     "solo": [
+      {
+       "code": "7011",
+       "name": "三菱重工業",
+       "note": "HTGR研究"
+      },
+      {
+       "code": "6330",
+       "name": "東洋エンジニアリング",
+       "note": "次世代炉設計"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "key": "equipment",
+   "name": "原子力設備",
+   "color": "#F0A85B",
+   "subs": [
+    {
+     "name": "タービン・発電設備",
+     "us": [
+      {
+       "symbol": "GEV",
+       "name": "GE Vernova"
+      },
+      {
+       "symbol": "HON",
+       "name": "Honeywell"
+      }
+     ],
+     "jp": [],
+     "solo": [
+      {
+       "code": "7011",
+       "name": "三菱重工業",
+       "note": "原子炉タービン"
+      },
+      {
+       "code": "6501",
+       "name": "日立製作所",
+       "note": "原子力タービン・発電"
+      },
+      {
+       "code": "6361",
+       "name": "荏原製作所",
+       "note": "原子炉冷却・給水ポンプ"
+      },
+      {
+       "code": "6504",
+       "name": "富士電機",
+       "note": "原子力発電設備"
+      },
+      {
+       "code": "5334",
+       "name": "日本特殊陶業",
+       "note": "原子炉用セラミックス"
+      }
+     ]
+    },
+    {
+     "name": "計装・制御(I&C)",
+     "us": [
+      {
+       "symbol": "BWXT",
+       "name": "BWX Technologies"
+      },
+      {
+       "symbol": "EMR",
+       "name": "Emerson Electric"
+      },
+      {
+       "symbol": "HON",
+       "name": "Honeywell"
+      }
+     ],
+     "jp": [],
+     "solo": [
+      {
+       "code": "6841",
+       "name": "横河電機",
+       "note": "原子力計装システム"
+      },
+      {
+       "code": "6502",
+       "name": "東芝",
+       "note": "原子力I&C"
+      },
+      {
+       "code": "6501",
+       "name": "日立製作所",
+       "note": "原子力制御システム"
+      },
+      {
+       "code": "6951",
+       "name": "日本電子",
+       "note": "原子力計測・検査"
+      },
+      {
+       "code": "6645",
+       "name": "オムロン",
+       "note": "原子力向け制御機器"
+      }
+     ]
+    },
+    {
+     "name": "配管・ポンプ・バルブ",
+     "us": [
+      {
+       "symbol": "EMR",
+       "name": "Emerson Electric"
+      }
+     ],
+     "jp": [],
+     "solo": [
+      {
+       "code": "6361",
+       "name": "荏原製作所",
+       "note": "原子炉用ポンプ"
+      },
+      {
+       "code": "6490",
+       "name": "日本ピラー工業",
+       "note": "原子炉配管用シール"
+      },
+      {
+       "code": "6407",
+       "name": "CKD",
+       "note": "原子力向けバルブ"
+      },
+      {
+       "code": "1963",
+       "name": "日揮ホールディングス",
+       "note": "原子力配管・配管工事"
+      },
+      {
+       "code": "5801",
+       "name": "古河電工",
+       "note": "原子力ケーブル"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "key": "decommission",
+   "name": "廃炉・後処理",
+   "color": "#8FA0B8",
+   "subs": [
+    {
+     "name": "廃炉・解体",
+     "us": [
+      {
+       "symbol": "BWXT",
+       "name": "BWX Technologies"
+      }
+     ],
+     "jp": [],
+     "solo": [
+      {
+       "code": "6501",
+       "name": "日立製作所",
+       "note": "廃炉・解体技術"
+      },
+      {
+       "code": "6502",
+       "name": "東芝",
+       "note": "福島廃炉・ロボット"
+      },
+      {
+       "code": "7011",
+       "name": "三菱重工業",
+       "note": "廃炉エンジニアリング"
+      },
+      {
+       "code": "6301",
+       "name": "小松製作所",
+       "note": "廃炉解体ロボット"
+      }
+     ]
+    },
+    {
+     "name": "放射性廃棄物",
+     "us": [],
+     "jp": [],
+     "solo": [
+      {
+       "code": "1721",
+       "name": "コムシスホールディングス",
+       "note": "放射性廃棄物管理施設"
+      },
+      {
+       "code": "1963",
+       "name": "日揮ホールディングス",
+       "note": "廃棄物処理施設"
+      },
+      {
+       "code": "5713",
+       "name": "住友金属鉱山",
+       "note": "放射性廃棄物容器材料"
+      },
+      {
+       "code": "5802",
+       "name": "住友電工",
+       "note": "原子力ケーブル・廃炉関連"
+      },
+      {
+       "code": "8053",
+       "name": "住友商事",
+       "note": "廃炉・放射性廃棄物関連"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "key": "utilities",
+   "name": "電力・ユーティリティ",
+   "color": "#7CC8F0",
+   "subs": [
+    {
+     "name": "原子力保有電力(関東)",
+     "us": [],
+     "jp": [],
+     "solo": [
+      {
+       "code": "9501",
+       "name": "東京電力HD",
+       "note": "原子力保有(柏崎刈羽)"
+      }
+     ]
+    },
+    {
+     "name": "原子力保有電力(関西・中部)",
+     "us": [],
+     "jp": [],
+     "solo": [
+      {
+       "code": "9503",
+       "name": "関西電力",
+       "note": "原子力主力(高浜・大飯)"
+      },
+      {
+       "code": "9502",
+       "name": "中部電力",
+       "note": "浜松・知多"
+      }
+     ]
+    },
+    {
+     "name": "原子力保有電力(その他)",
+     "us": [
+      {
+       "symbol": "CEG",
+       "name": "Constellation Energy"
+      },
+      {
+       "symbol": "VST",
+       "name": "Vistra"
+      },
+      {
+       "symbol": "PEG",
+       "name": "Public Service Enterprise"
+      },
+      {
+       "symbol": "ETR",
+       "name": "Entergy"
+      },
+      {
+       "symbol": "WEC",
+       "name": "WEC Energy"
+      },
+      {
+       "symbol": "XEL",
+       "name": "Xcel Energy"
+      }
+     ],
+     "jp": [],
+     "solo": [
+      {
+       "code": "9508",
+       "name": "九州電力",
+       "note": "玄海・川内"
+      },
+      {
+       "code": "9506",
+       "name": "北海道電力",
+       "note": "泊"
+      },
+      {
+       "code": "9504",
+       "name": "中国電力",
+       "note": "島根"
+      },
+      {
+       "code": "9507",
+       "name": "四国電力",
+       "note": "伊方"
+      },
+      {
+       "code": "9509",
+       "name": "北陸電力",
+       "note": "志賀"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "key": "uranium",
+   "name": "ウラン・資源",
+   "color": "#D98C5F",
+   "subs": [
+    {
+     "name": "ウラン鉱山・採掘",
+     "us": [
+      {
+       "symbol": "CCJ",
+       "name": "Cameco"
+      },
+      {
+       "symbol": "UEC",
+       "name": "Uranium Energy"
+      },
+      {
+       "symbol": "UUUU",
+       "name": "Energy Fuels"
+      },
+      {
+       "symbol": "DNN",
+       "name": "Denison Mines"
+      },
+      {
+       "symbol": "NXE",
+       "name": "NexGen Energy"
+      },
+      {
+       "symbol": "URG",
+       "name": "Ur-Energy"
+      },
+      {
+       "symbol": "UROY",
+       "name": "Uranium Royalty"
+      }
+     ],
+     "jp": [],
+     "solo": [
+      {
+       "code": "5713",
+       "name": "住友金属鉱山",
+       "note": "ウラン・資源開発"
+      },
+      {
+       "code": "8058",
+       "name": "三菱商事",
+       "note": "ウラン資源"
+      }
+     ]
+    },
+    {
+     "name": "ウランETF・バスケット",
+     "us": [
+      {
+       "symbol": "URA",
+       "name": "Global X Uranium ETF"
+      },
+      {
+       "symbol": "NLR",
+       "name": "VanEck Uranium+Nuclear ETF"
+      },
+      {
+       "symbol": "URNM",
+       "name": "Sprott Uranium Miners ETF"
+      },
+      {
+       "symbol": "URNJ",
+       "name": "Sprott Junior Uranium Miners ETF"
+      }
+     ],
+     "jp": [],
+     "solo": []
+    }
+   ]
+  },
+  {
+   "key": "policy_nuclear",
+   "name": "政策・規制",
+   "color": "#A8B89F",
+   "subs": [
+    {
+     "name": "再稼働政策・脱炭素",
+     "us": [
+      {
+       "symbol": "CEG",
+       "name": "Constellation Energy"
+      },
+      {
+       "symbol": "VST",
+       "name": "Vistra"
+      },
+      {
+       "symbol": "GEV",
+       "name": "GE Vernova"
+      },
+      {
+       "symbol": "PEG",
+       "name": "Public Service Enterprise"
+      }
+     ],
+     "jp": [],
+     "solo": [
+      {
+       "code": "9503",
+       "name": "関西電力",
+       "note": "再稼働政策受益者"
+      },
+      {
+       "code": "6501",
+       "name": "日立製作所",
+       "note": "脱炭素・原子力再評価"
+      },
+      {
+       "code": "5802",
+       "name": "住友電工",
+       "note": "原子力関連送配電"
+      },
+      {
+       "code": "8058",
+       "name": "三菱商事",
+       "note": "原子力・ウラン政策連動"
+      }
+     ]
+    },
+    {
+     "name": "原子力ETF・指数",
+     "us": [
+      {
+       "symbol": "URA",
+       "name": "Global X Uranium ETF"
+      },
+      {
+       "symbol": "NLR",
+       "name": "VanEck Uranium+Nuclear ETF"
+      },
+      {
+       "symbol": "CEG",
+       "name": "Constellation Energy"
+      },
+      {
+       "symbol": "ED",
+       "name": "Consolidated Edison"
+      }
+     ],
+     "jp": [],
+     "solo": []
+    }
+   ]
+  }
+ ]
+}

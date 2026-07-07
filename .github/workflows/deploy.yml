@@ -1,0 +1,95 @@
+name: deploy
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: pnpm/action-setup@v4 # バージョンは package.json の packageManager を使用
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: pnpm
+
+      - name: 依存関係のインストール
+        run: pnpm install --frozen-lockfile
+
+      - name: Lint(Biome)
+        run: pnpm biome:check
+
+      - name: 型チェック
+        run: pnpm typecheck
+
+      - name: ビルド(SSG + Pages 用フラット化)
+        run: pnpm build
+
+      - name: データ JSON を同梱(フロントが fetch できるように)
+        run: cp -R data apps/web/build/client/data
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: apps/web/build/client
+
+  # Pages バックエンドは「Deployment failed, try again later.」で散発的に失敗するため
+  # (アーティファクト作成は成功しており、同一内容の再実行では成功する)、
+  # 段階バックオフ付きで最大3回試行する。最終試行のみ失敗を run に反映する。
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    outputs:
+      first_attempt: ${{ steps.deployment.outcome }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
+        continue-on-error: true
+
+  deploy-retry:
+    needs: deploy
+    if: needs.deploy.outputs.first_attempt == 'failure'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    outputs:
+      second_attempt: ${{ steps.deployment.outcome }}
+    steps:
+      - name: 120秒待って再デプロイ(2回目)
+        run: sleep 120
+      - id: deployment
+        uses: actions/deploy-pages@v4
+        continue-on-error: true
+
+  deploy-retry-2:
+    needs: [deploy, deploy-retry]
+    if: >-
+      always() &&
+      needs.deploy.outputs.first_attempt == 'failure' &&
+      needs.deploy-retry.outputs.second_attempt == 'failure'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: 180秒待って再デプロイ(最終)
+        run: sleep 180
+      - id: deployment
+        uses: actions/deploy-pages@v4

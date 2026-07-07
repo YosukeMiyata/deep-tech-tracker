@@ -1,0 +1,70 @@
+{
+  "site": {
+    "name": "Deep Tech Tracker",
+    "tagline": "半導体・防衛・AIデータセンター・宇宙・原子力電力",
+    "basename": "/deep-tech-tracker/",
+    "url": "https://yosukemiyata.github.io/deep-tech-tracker/"
+  },
+  "sectors": [
+    {
+      "id": "semi",
+      "slug": "semi",
+      "name": "半導体",
+      "shortName": "半導体",
+      "subtitle": "SEMICONDUCTOR",
+      "color": "#F0593C",
+      "benchmark": { "symbol": "^SOX", "name": "SOX指数" },
+      "probe": { "code": "8035", "market": "jp", "name": "東京エレクトロン" },
+      "linkage": { "enabled": true, "threshold_pct": 2.0 },
+      "sentimentViz": "wafer"
+    },
+    {
+      "id": "defense",
+      "slug": "defense",
+      "name": "防衛",
+      "shortName": "防衛",
+      "subtitle": "DEFENSE",
+      "color": "#4A7C59",
+      "benchmark": { "symbol": "ITA", "name": "ITA指数" },
+      "probe": { "code": "7011", "market": "jp", "name": "三菱重工業" },
+      "linkage": { "enabled": true, "threshold_pct": 2.0 },
+      "sentimentViz": "grid"
+    },
+    {
+      "id": "ai-dc",
+      "slug": "ai-dc",
+      "name": "AIデータセンター",
+      "shortName": "AI DC",
+      "subtitle": "AI DATA CENTER",
+      "color": "#1F8FD6",
+      "benchmark": { "symbol": "SMH", "name": "SMH指数" },
+      "probe": { "code": "NVDA", "market": "us", "name": "NVIDIA" },
+      "linkage": { "enabled": true, "threshold_pct": 2.0 },
+      "sentimentViz": "grid"
+    },
+    {
+      "id": "space",
+      "slug": "space",
+      "name": "宇宙",
+      "shortName": "宇宙",
+      "subtitle": "SPACE",
+      "color": "#6B5CE7",
+      "benchmark": { "symbol": "UFO", "name": "UFO指数" },
+      "probe": { "code": "RKLB", "market": "us", "name": "Rocket Lab" },
+      "linkage": { "enabled": true, "threshold_pct": 2.0 },
+      "sentimentViz": "grid"
+    },
+    {
+      "id": "nuclear",
+      "slug": "nuclear",
+      "name": "原子力電力",
+      "shortName": "原子力",
+      "subtitle": "NUCLEAR POWER",
+      "color": "#E8B04B",
+      "benchmark": { "symbol": "URA", "name": "URA指数" },
+      "probe": { "code": "6501", "market": "jp", "name": "日立製作所" },
+      "linkage": { "enabled": false, "threshold_pct": 2.0 },
+      "sentimentViz": "grid"
+    }
+  ]
+}

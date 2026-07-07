@@ -1,0 +1,42 @@
+name: update-data
+
+on:
+  schedule:
+    - cron: "0 10 * * 1-5"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-data
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 全セクター株価取得 → 集計
+        run: python3 pipeline/update_prices.py --theme all
+
+      - name: 全セクター RSS ヘッドライン取得
+        run: python3 pipeline/fetch_headlines.py --theme all || echo "headlines fetch partial skip"
+
+      - name: 変更があれば commit & push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "実データに変更なし — commit しない"
+            exit 0
+          fi
+          git commit -m "data: 日次更新 $(TZ=Asia/Tokyo date +%Y-%m-%d) [auto]"
+          git push

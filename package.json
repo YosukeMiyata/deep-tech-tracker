@@ -1,0 +1,24 @@
+{
+  "name": "deep-tech-tracker",
+  "private": true,
+  "scripts": {
+    "dev": "pnpm --filter web dev",
+    "build": "pnpm --filter web build",
+    "typecheck": "pnpm --filter web typecheck",
+    "biome:check": "biome check .",
+    "biome:fix": "biome check --write .",
+    "data:master": "python3 pipeline/build_master.py --theme all",
+    "data:maps": "python3 pipeline/build_maps.py --theme semi",
+    "data:headlines": "python3 pipeline/fetch_headlines.py --theme all",
+    "data:update": "python3 pipeline/update_all.py"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "^2.3.0"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "esbuild"
+    ]
+  },
+  "packageManager": "pnpm@10.25.0"
+}

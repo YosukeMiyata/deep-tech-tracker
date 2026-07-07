@@ -1,0 +1,1151 @@
+{
+ "source": "pipeline/themes/",
+ "stats": {
+  "macro_themes": 10,
+  "sub_themes": 28,
+  "jp_stocks": 56,
+  "us_symbols": 37
+ },
+ "macro": [
+  {
+   "key": "platforms",
+   "name": "防衛プラットフォーム",
+   "color": "#4A6FA5",
+   "subs": [
+    {
+     "name": "戦闘機・攻撃機",
+     "us": [
+      {
+       "symbol": "LMT",
+       "name": "Lockheed Martin"
+      },
+      {
+       "symbol": "NOC",
+       "name": "Northrop Grumman"
+      },
+      {
+       "symbol": "BA",
+       "name": "Boeing"
+      },
+      {
+       "symbol": "RTX",
+       "name": "RTX"
+      },
+      {
+       "symbol": "GD",
+       "name": "General Dynamics"
+      }
+     ],
+     "jp": [
+      {
+       "code": "7011",
+       "name": "三菱重工業",
+       "note": "F-15/F-35最終組立・防衛航空機"
+      },
+      {
+       "code": "7012",
+       "name": "川崎重工業",
+       "note": "P-1/C-2・F-35部品"
+      },
+      {
+       "code": "7013",
+       "name": "IHI",
+       "note": "F135エンジン部品・航空エンジン"
+      }
+     ],
+     "solo": []
+    },
+    {
+     "name": "艦艇・潜水艦",
+     "us": [
+      {
+       "symbol": "HII",
+       "name": "Huntington Ingalls"
+      },
+      {
+       "symbol": "GD",
+       "name": "General Dynamics(Electric Boat)"
+      },
+      {
+       "symbol": "LMT",
+       "name": "Lockheed Martin(艦艇システム)"
+      }
+     ],
+     "jp": [
+      {
+       "code": "7011",
+       "name": "三菱重工業",
+       "note": "護衛艦・潜水艦"
+      },
+      {
+       "code": "7012",
+       "name": "川崎重工業",
+       "note": "潜水艦・護衛艦"
+      },
+      {
+       "code": "7014",
+       "name": "名古屋電機",
+       "note": "艦艇用電装品"
+      }
+     ],
+     "solo": []
+    },
+    {
+     "name": "地上戦闘車両",
+     "us": [
+      {
+       "symbol": "GD",
+       "name": "General Dynamics(Land Systems)"
+      },
+      {
+       "symbol": "OSK",
+       "name": "Oshkosh"
+      },
+      {
+       "symbol": "TXT",
+       "name": "Textron"
+      }
+     ],
+     "jp": [
+      {
+       "code": "6301",
+       "name": "コマツ",
+       "note": "装甲車両・防衛車両"
+      },
+      {
+       "code": "6208",
+       "name": "石川製作所",
+       "note": "防衛車両部品・精密加工"
+      }
+     ],
+     "solo": []
+    },
+    {
+     "name": "ヘリ・輸送機",
+     "us": [
+      {
+       "symbol": "TXT",
+       "name": "Textron(Bell)"
+      },
+      {
+       "symbol": "BA",
+       "name": "Boeing(C-17/KC-46)"
+      },
+      {
+       "symbol": "LMT",
+       "name": "Lockheed Martin(C-130J)"
+      }
+     ],
+     "jp": [
+      {
+       "code": "7012",
+       "name": "川崎重工業",
+       "note": "自衛隊ヘリ整備・部品"
+      },
+      {
+       "code": "7011",
+       "name": "三菱重工業",
+       "note": "輸送機・ヘリ改修"
+      }
+     ],
+     "solo": []
+    }
+   ]
+  },
+  {
+   "key": "uas",
+   "name": "無人機(UAS/UUV)",
+   "color": "#6B8E4E",
+   "subs": [
+    {
+     "name": "米国UAS・自律システム",
+     "us": [
+      {
+       "symbol": "AVAV",
+       "name": "AeroVironment"
+      },
+      {
+       "symbol": "KTOS",
+       "name": "Kratos Defense"
+      },
+      {
+       "symbol": "TXT",
+       "name": "Textron(Shadow)"
+      },
+      {
+       "symbol": "LMT",
+       "name": "Lockheed Martin"
+      },
+      {
+       "symbol": "NOC",
+       "name": "Northrop Grumman(Global Hawk)"
+      },
+      {
+       "symbol": "RTX",
+       "name": "RTX"
+      }
+     ],
+     "jp": [
+      {
+       "code": "7011",
+       "name": "三菱重工業",
+       "note": "無人機研究開発"
+      },
+      {
+       "code": "7012",
+       "name": "川崎重工業",
+       "note": "UAS関連部品"
+      }
+     ],
+     "solo": []
+    },
+    {
+     "name": "日本UAS・ドローン",
+     "us": [],
+     "jp": [],
+     "solo": [
+      {
+       "code": "6235",
+       "name": "オプトラン",
+       "note": "赤外線センサー・ドローン向け光学"
+      },
+      {
+       "code": "6965",
+       "name": "浜松ホトニクス",
+       "note": "LiDAR・赤外検知"
+      },
+      {
+       "code": "6954",
+       "name": "ファナック",
+       "note": "自律制御・産業ロボット技術"
+      },
+      {
+       "code": "6503",
+       "name": "三菱電機",
+       "note": "UAS向けセンサ・制御"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "key": "electronics",
+   "name": "電子・センサー・通信",
+   "color": "#3FA7D6",
+   "subs": [
+    {
+     "name": "レーダー・EO/IR・センサー",
+     "us": [
+      {
+       "symbol": "RTX",
+       "name": "RTX"
+      },
+      {
+       "symbol": "LHX",
+       "name": "L3Harris"
+      },
+      {
+       "symbol": "NOC",
+       "name": "Northrop Grumman"
+      },
+      {
+       "symbol": "MRCY",
+       "name": "Mercury Systems"
+      },
+      {
+       "symbol": "DRS",
+       "name": "Leonardo DRS"
+      }
+     ],
+     "jp": [
+      {
+       "code": "6503",
+       "name": "三菱電機",
+       "note": "レーダー・ミサイル誘導"
+      },
+      {
+       "code": "6758",
+       "name": "ソニーグループ",
+       "note": "CMOSセンサー・EO/IR"
+      },
+      {
+       "code": "6965",
+       "name": "浜松ホトニクス",
+       "note": "赤外・レーザーセンサー"
+      },
+      {
+       "code": "7711",
+       "name": "古野電気",
+       "note": "海洋レーダー"
+      }
+     ],
+     "solo": []
+    },
+    {
+     "name": "通信・電子戦(EW)",
+     "us": [
+      {
+       "symbol": "LHX",
+       "name": "L3Harris"
+      },
+      {
+       "symbol": "RTX",
+       "name": "RTX(Collins)"
+      },
+      {
+       "symbol": "BA",
+       "name": "Boeing"
+      },
+      {
+       "symbol": "VSAT",
+       "name": "Viasat"
+      },
+      {
+       "symbol": "IRDM",
+       "name": "Iridium"
+      }
+     ],
+     "jp": [
+      {
+       "code": "6701",
+       "name": "NEC",
+       "note": "防衛通信・電子戦"
+      },
+      {
+       "code": "6702",
+       "name": "富士通",
+       "note": "防衛ネットワーク"
+      },
+      {
+       "code": "6501",
+       "name": "日立製作所",
+       "note": "防衛システム"
+      }
+     ],
+     "solo": []
+    },
+    {
+     "name": "日本防衛エレクトロニクス",
+     "us": [],
+     "jp": [
+      {
+       "code": "6807",
+       "name": "日本航空電子工業",
+       "note": "航空・防衛コネクタ"
+      },
+      {
+       "code": "6770",
+       "name": "アルプスアルパイン",
+       "note": "車載/防衛電装"
+      },
+      {
+       "code": "6724",
+       "name": "セイコーエプソン",
+       "note": "タイムセンサー・慣性"
+      }
+     ],
+     "solo": [
+      {
+       "code": "9692",
+       "name": "シーイーシー",
+       "note": "防衛IT・C4I"
+      },
+      {
+       "code": "4687",
+       "name": "TDCソフト",
+       "note": "防衛向けシステム開発"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "key": "missiles",
+   "name": "ミサイル・弾薬",
+   "color": "#C0392B",
+   "subs": [
+    {
+     "name": "米国ミサイル・防衛システム",
+     "us": [
+      {
+       "symbol": "RTX",
+       "name": "RTX(Raytheon)"
+      },
+      {
+       "symbol": "LMT",
+       "name": "Lockheed Martin"
+      },
+      {
+       "symbol": "NOC",
+       "name": "Northrop Grumman"
+      },
+      {
+       "symbol": "GD",
+       "name": "General Dynamics"
+      },
+      {
+       "symbol": "KTOS",
+       "name": "Kratos Defense"
+      }
+     ],
+     "jp": [
+      {
+       "code": "7011",
+       "name": "三菱重工業",
+       "note": "国産ミサイル共同開発"
+      },
+      {
+       "code": "7013",
+       "name": "IHI",
+       "note": "ロケットエンジン"
+      }
+     ],
+     "solo": []
+    },
+    {
+     "name": "日本ミサイル・誘導",
+     "us": [],
+     "jp": [
+      {
+       "code": "6503",
+       "name": "三菱電機",
+       "note": "誘導制御・レーダー"
+      },
+      {
+       "code": "7011",
+       "name": "三菱重工業",
+       "note": "12式対艦ミサイル等"
+      }
+     ],
+     "solo": [
+      {
+       "code": "4272",
+       "name": "日本化薬",
+       "note": "固体推進剤・火工品"
+      },
+      {
+       "code": "4025",
+       "name": "多木化学",
+       "note": "推進剤原料"
+      }
+     ]
+    },
+    {
+     "name": "弾薬・火工品",
+     "us": [
+      {
+       "symbol": "TXT",
+       "name": "Textron"
+      },
+      {
+       "symbol": "GD",
+       "name": "General Dynamics(Ordnance)"
+      }
+     ],
+     "jp": [],
+     "solo": [
+      {
+       "code": "4272",
+       "name": "日本化薬",
+       "note": "火薬・起爆具"
+      },
+      {
+       "code": "4045",
+       "name": "東亞合成",
+       "note": "火工品原料"
+      },
+      {
+       "code": "6366",
+       "name": "千代田化工建設",
+       "note": "火薬工場EPC"
+      }
+     ]
+    },
+    {
+     "name": "防空・ミサイル防衛",
+     "us": [
+      {
+       "symbol": "RTX",
+       "name": "RTX(Patriot)"
+      },
+      {
+       "symbol": "LMT",
+       "name": "Lockheed Martin(THAAD/PAC-3)"
+      },
+      {
+       "symbol": "NOC",
+       "name": "Northrop Grumman"
+      }
+     ],
+     "jp": [
+      {
+       "code": "6503",
+       "name": "三菱電機",
+       "note": "防空レーダー"
+      },
+      {
+       "code": "7011",
+       "name": "三菱重工業",
+       "note": "中距離地対空ミサイル"
+      }
+     ],
+     "solo": []
+    }
+   ]
+  },
+  {
+   "key": "cyber",
+   "name": "サイバー・C4ISR",
+   "color": "#8E44AD",
+   "subs": [
+    {
+     "name": "米国サイバー・防衛IT",
+     "us": [
+      {
+       "symbol": "LDOS",
+       "name": "Leidos"
+      },
+      {
+       "symbol": "SAIC",
+       "name": "SAIC"
+      },
+      {
+       "symbol": "CACI",
+       "name": "CACI International"
+      },
+      {
+       "symbol": "BAH",
+       "name": "Booz Allen Hamilton"
+      },
+      {
+       "symbol": "PLTR",
+       "name": "Palantir"
+      },
+      {
+       "symbol": "KBR",
+       "name": "KBR"
+      }
+     ],
+     "jp": [
+      {
+       "code": "6702",
+       "name": "富士通",
+       "note": "政府・防衛クラウド"
+      },
+      {
+       "code": "6701",
+       "name": "NEC",
+       "note": "サイバーセキュリティ"
+      }
+     ],
+     "solo": []
+    },
+    {
+     "name": "日本サイバー・防衛システム",
+     "us": [],
+     "jp": [
+      {
+       "code": "6701",
+       "name": "NEC",
+       "note": "防衛サイバー"
+      },
+      {
+       "code": "6702",
+       "name": "富士通",
+       "note": "防衛IT基盤"
+      },
+      {
+       "code": "6501",
+       "name": "日立製作所",
+       "note": "防衛システム統合"
+      }
+     ],
+     "solo": [
+      {
+       "code": "9692",
+       "name": "シーイーシー",
+       "note": "防衛向けSI"
+      },
+      {
+       "code": "4739",
+       "name": "CTC",
+       "note": "防衛IT"
+      },
+      {
+       "code": "3636",
+       "name": "三菱総合研究所",
+       "note": "防衛政策コンサル"
+      },
+      {
+       "code": "3774",
+       "name": "インターネットイニシアティブ",
+       "note": "セキュア通信"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "key": "space_defense",
+   "name": "宇宙防衛・衛星",
+   "color": "#2C3E50",
+   "subs": [
+    {
+     "name": "米国宇宙防衛・衛星",
+     "us": [
+      {
+       "symbol": "LMT",
+       "name": "Lockheed Martin(Space)"
+      },
+      {
+       "symbol": "NOC",
+       "name": "Northrop Grumman(Space)"
+      },
+      {
+       "symbol": "RTX",
+       "name": "RTX"
+      },
+      {
+       "symbol": "LHX",
+       "name": "L3Harris"
+      },
+      {
+       "symbol": "RKLB",
+       "name": "Rocket Lab"
+      },
+      {
+       "symbol": "BKSY",
+       "name": "BlackSky"
+      },
+      {
+       "symbol": "IRDM",
+       "name": "Iridium"
+      },
+      {
+       "symbol": "VSAT",
+       "name": "Viasat"
+      }
+     ],
+     "jp": [
+      {
+       "code": "7013",
+       "name": "IHI",
+       "note": "H3ロケット・宇宙推進"
+      }
+     ],
+     "solo": []
+    },
+    {
+     "name": "日本宇宙・衛星",
+     "us": [],
+     "jp": [
+      {
+       "code": "7013",
+       "name": "IHI",
+       "note": "ロケットエンジン"
+      },
+      {
+       "code": "7011",
+       "name": "三菱重工業",
+       "note": "H-IIA/H3ロケット"
+      }
+     ],
+     "solo": [
+      {
+       "code": "4021",
+       "name": "日産化学",
+       "note": "宇宙用材料"
+      },
+      {
+       "code": "6335",
+       "name": "東京機械製作所",
+       "note": "衛星部品加工"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "key": "shipbuilding",
+   "name": "造船・海洋防衛",
+   "color": "#1A5276",
+   "subs": [
+    {
+     "name": "米国海軍造船",
+     "us": [
+      {
+       "symbol": "HII",
+       "name": "Huntington Ingalls"
+      },
+      {
+       "symbol": "GD",
+       "name": "General Dynamics(NASSCO)"
+      },
+      {
+       "symbol": "LMT",
+       "name": "Lockheed Martin(LCS)"
+      }
+     ],
+     "jp": [
+      {
+       "code": "7011",
+       "name": "三菱重工業",
+       "note": "護衛艦建造"
+      },
+      {
+       "code": "7012",
+       "name": "川崎重工業",
+       "note": "潜水艦建造"
+      }
+     ],
+     "solo": []
+    },
+    {
+     "name": "日本造船・海洋装備",
+     "us": [],
+     "jp": [
+      {
+       "code": "7011",
+       "name": "三菱重工業",
+       "note": "海自向け艦艇"
+      },
+      {
+       "code": "7012",
+       "name": "川崎重工業",
+       "note": "潜水艦・掃海艇"
+      },
+      {
+       "code": "7014",
+       "name": "名古屋電機",
+       "note": "艦艇電装"
+      }
+     ],
+     "solo": [
+      {
+       "code": "7711",
+       "name": "古野電気",
+       "note": "艦艇用ソナー・レーダー"
+      },
+      {
+       "code": "6330",
+       "name": "東洋エンジニアリング",
+       "note": "防衛施設・造船関連"
+      },
+      {
+       "code": "5411",
+       "name": "JFEホールディングス",
+       "note": "艦用鋼板"
+      },
+      {
+       "code": "5401",
+       "name": "日本製鉄",
+       "note": "特殊鋼・艦艇用鋼材"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "key": "logistics",
+   "name": "後方支援・ロジスティクス",
+   "color": "#A67C52",
+   "subs": [
+    {
+     "name": "米国MRO・サステインメント",
+     "us": [
+      {
+       "symbol": "LDOS",
+       "name": "Leidos"
+      },
+      {
+       "symbol": "SAIC",
+       "name": "SAIC"
+      },
+      {
+       "symbol": "KBR",
+       "name": "KBR"
+      },
+      {
+       "symbol": "BAH",
+       "name": "Booz Allen Hamilton"
+      },
+      {
+       "symbol": "HEI",
+       "name": "HEICO"
+      },
+      {
+       "symbol": "TDG",
+       "name": "TransDigm"
+      }
+     ],
+     "jp": [
+      {
+       "code": "7011",
+       "name": "三菱重工業",
+       "note": "防衛機MRO"
+      },
+      {
+       "code": "7012",
+       "name": "川崎重工業",
+       "note": "航空機整備"
+      }
+     ],
+     "solo": []
+    },
+    {
+     "name": "日本基地建設・支援",
+     "us": [],
+     "jp": [],
+     "solo": [
+      {
+       "code": "1414",
+       "name": "ショーボンドホールディングス",
+       "note": "防衛施設・基地建設"
+      },
+      {
+       "code": "1951",
+       "name": "エクシオグループ",
+       "note": "防衛通信インフラ工事"
+      },
+      {
+       "code": "1950",
+       "name": "日本電設工業",
+       "note": "電気設備・基地整備"
+      },
+      {
+       "code": "6330",
+       "name": "東洋エンジニアリング",
+       "note": "防衛施設EPC"
+      },
+      {
+       "code": "6383",
+       "name": "ダイフク",
+       "note": "防衛物流・搬送"
+      }
+     ]
+    },
+    {
+     "name": "訓練・シミュレーション",
+     "us": [
+      {
+       "symbol": "CAE",
+       "name": "CAE"
+      },
+      {
+       "symbol": "LMT",
+       "name": "Lockheed Martin"
+      },
+      {
+       "symbol": "BA",
+       "name": "Boeing"
+      }
+     ],
+     "jp": [
+      {
+       "code": "7011",
+       "name": "三菱重工業",
+       "note": "シミュレータ"
+      }
+     ],
+     "solo": [
+      {
+       "code": "3636",
+       "name": "三菱総合研究所",
+       "note": "防衛シミュレーション研究"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "key": "materials",
+   "name": "防衛材料・部材",
+   "color": "#7F8C8D",
+   "subs": [
+    {
+     "name": "米国航空宇宙材料",
+     "us": [
+      {
+       "symbol": "HWM",
+       "name": "Howmet Aerospace"
+      },
+      {
+       "symbol": "HXL",
+       "name": "Hexcel"
+      },
+      {
+       "symbol": "CRS",
+       "name": "Carpenter Technology"
+      },
+      {
+       "symbol": "ATI",
+       "name": "ATI Inc"
+      },
+      {
+       "symbol": "HEI",
+       "name": "HEICO"
+      },
+      {
+       "symbol": "SPR",
+       "name": "Spirit AeroSystems"
+      }
+     ],
+     "jp": [
+      {
+       "code": "5727",
+       "name": "東邦チタニウム",
+       "note": "航空機用チタン"
+      },
+      {
+       "code": "5726",
+       "name": "大阪チタニウムテクノロジーズ",
+       "note": "チタン加工"
+      }
+     ],
+     "solo": []
+    },
+    {
+     "name": "日本防衛材料",
+     "us": [],
+     "jp": [
+      {
+       "code": "3401",
+       "name": "帝人",
+       "note": "アラミド繊維(防弾)"
+      },
+      {
+       "code": "3407",
+       "name": "旭化成",
+       "note": "芳族ポリアミド"
+      },
+      {
+       "code": "5201",
+       "name": "AGC",
+       "note": "装甲用特殊ガラス"
+      }
+     ],
+     "solo": [
+      {
+       "code": "5480",
+       "name": "日本冶金工業",
+       "note": "超合金・航空エンジン材"
+      },
+      {
+       "code": "5471",
+       "name": "大同特殊鋼",
+       "note": "特殊鋼・防衛向け"
+      },
+      {
+       "code": "5711",
+       "name": "三菱マテリアル",
+       "note": "チタン・銅合金"
+      },
+      {
+       "code": "4188",
+       "name": "三菱ケミカルグループ",
+       "note": "炭素繊維複合材"
+      }
+     ]
+    },
+    {
+     "name": "精密部品・ベアリング",
+     "us": [
+      {
+       "symbol": "TDG",
+       "name": "TransDigm"
+      },
+      {
+       "symbol": "WWD",
+       "name": "Woodward"
+      }
+     ],
+     "jp": [
+      {
+       "code": "6324",
+       "name": "ハーモニック・ドライブシステムズ",
+       "note": "F-35アクチュエータ"
+      },
+      {
+       "code": "6479",
+       "name": "ミネベアミツミ",
+       "note": "精密ボールベアリング"
+      },
+      {
+       "code": "6471",
+       "name": "日本精工",
+       "note": "航空機ベアリング"
+      },
+      {
+       "code": "6473",
+       "name": "ジェイテクト",
+       "note": "航空機用ベアリング"
+      },
+      {
+       "code": "6345",
+       "name": "アイチ",
+       "note": "F-35部品"
+      },
+      {
+       "code": "5932",
+       "name": "三協立山",
+       "note": "精密部品"
+      }
+     ],
+     "solo": []
+    }
+   ]
+  },
+  {
+   "key": "intl_etf",
+   "name": "F-35連携・ETF・政策",
+   "color": "#D4AC0D",
+   "subs": [
+    {
+     "name": "F-35国際サプライチェーン",
+     "us": [
+      {
+       "symbol": "LMT",
+       "name": "Lockheed Martin(F-35 prime)"
+      },
+      {
+       "symbol": "NOC",
+       "name": "Northrop Grumman(F-35部品)"
+      },
+      {
+       "symbol": "RTX",
+       "name": "RTX(エンジン/アビオニクス)"
+      },
+      {
+       "symbol": "BA",
+       "name": "Boeing(F-35部品)"
+      },
+      {
+       "symbol": "SPR",
+       "name": "Spirit AeroSystems(機体構造)"
+      },
+      {
+       "symbol": "HEI",
+       "name": "HEICO(F-35部品)"
+      },
+      {
+       "symbol": "TDG",
+       "name": "TransDigm(F-35部品)"
+      }
+     ],
+     "jp": [
+      {
+       "code": "7011",
+       "name": "三菱重工業",
+       "note": "F-35最終組立・LRIP"
+      },
+      {
+       "code": "7013",
+       "name": "IHI",
+       "note": "F135エンジン部品"
+      },
+      {
+       "code": "6324",
+       "name": "ハーモニック・ドライブ",
+       "note": "F-35用精密減速機"
+      },
+      {
+       "code": "6807",
+       "name": "日本航空電子",
+       "note": "F-35コネクタ"
+      },
+      {
+       "code": "6345",
+       "name": "アイチ",
+       "note": "F-35部品加工"
+      },
+      {
+       "code": "6479",
+       "name": "ミネベアミツミ",
+       "note": "F-35精密部品"
+      }
+     ],
+     "solo": []
+    },
+    {
+     "name": "国際防衛連携・商社",
+     "us": [
+      {
+       "symbol": "LMT",
+       "name": "Lockheed Martin"
+      },
+      {
+       "symbol": "RTX",
+       "name": "RTX"
+      },
+      {
+       "symbol": "GD",
+       "name": "General Dynamics"
+      }
+     ],
+     "jp": [
+      {
+       "code": "8058",
+       "name": "三菱商事",
+       "note": "防衛装備輸出・連携"
+      },
+      {
+       "code": "8002",
+       "name": "丸紅",
+       "note": "防衛関連取引"
+      },
+      {
+       "code": "2768",
+       "name": "双日",
+       "note": "防衛装備・航空部品"
+      }
+     ],
+     "solo": [
+      {
+       "code": "7011",
+       "name": "三菱重工業",
+       "note": "日米共同開発の中核"
+      }
+     ]
+    },
+    {
+     "name": "防衛ETF・予算連動",
+     "us": [
+      {
+       "symbol": "ITA",
+       "name": "iShares米国航空宇宙・防衛ETF"
+      },
+      {
+       "symbol": "XAR",
+       "name": "SPDR S&P航空宇宙・防衛ETF"
+      },
+      {
+       "symbol": "PPA",
+       "name": "Invesco航空宇宙・防衛ETF"
+      },
+      {
+       "symbol": "SHLD",
+       "name": "Global X Defense Tech ETF"
+      },
+      {
+       "symbol": "DFEN",
+       "name": "VanEck Defense ETF"
+      }
+     ],
+     "jp": [],
+     "solo": [
+      {
+       "code": "2561",
+       "name": "iシェアーズ 米国航空宇宙・防衛 ETF(円)",
+       "note": ""
+      },
+      {
+       "code": "2562",
+       "name": "iシェアーズ 米国航空宇宙・防衛 ETF(ヘッジ)",
+       "note": ""
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
