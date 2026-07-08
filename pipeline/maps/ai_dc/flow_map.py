@@ -35,7 +35,7 @@ FLOW = [
                 "desc": "GPU搭載ラックサーバー・ストレージ一体型",
                 "roles": [
                     {"label": "サーバーOEM", "codes": ["SMCI", "DELL", "HPE", "HPQ"]},
-                    {"label": "ストレージ一体", "codes": ["PSTG", "NTAP", "WDC"]},
+                    {"label": "ストレージ一体", "codes": ["P", "NTAP", "WDC"]},
                 ],
             },
             {
@@ -80,7 +80,7 @@ FLOW = [
                 "icon": "🗄️",
                 "desc": "学習データセット・チェックポイント保存",
                 "roles": [
-                    {"label": "フラッシュ/SSD", "codes": ["WDC", "SNDK", "PSTG", "NTAP"]},
+                    {"label": "フラッシュ/SSD", "codes": ["WDC", "SNDK", "P", "NTAP"]},
                     {"label": "HDD(ニアライン)", "codes": ["STX", "WDC"]},
                     {"label": "日本NAND", "codes": ["285A", "6526"]},
                 ],

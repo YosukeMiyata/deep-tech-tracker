@@ -51,7 +51,7 @@ PROCESS_MAP = [
         "name": "④ サーバー・ストレージ導入",
         "icon": "📦",
         "desc": "GPUサーバー・JBOD/JBOF・AI向けストレージ",
-        "equip": ["SMCI", "DELL", "HPE", "PSTG", "NTAP", "WDC", "STX"],
+        "equip": ["SMCI", "DELL", "HPE", "P", "NTAP", "WDC", "STX"],
         "material": ["285A", "6526"],
     },
     {

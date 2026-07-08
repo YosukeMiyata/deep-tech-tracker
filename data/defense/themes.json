@@ -2,9 +2,9 @@
  "source": "pipeline/themes/",
  "stats": {
   "macro_themes": 10,
-  "sub_themes": 28,
-  "jp_stocks": 56,
-  "us_symbols": 36
+  "sub_themes": 38,
+  "jp_stocks": 76,
+  "us_symbols": 57
  },
  "macro": [
   {
@@ -149,6 +149,70 @@
       }
      ],
      "solo": []
+    },
+    {
+     "name": "陸上装備・特装車両",
+     "us": [
+      {
+       "symbol": "OSK",
+       "name": "Oshkosh"
+      },
+      {
+       "symbol": "GD",
+       "name": "General Dynamics"
+      }
+     ],
+     "jp": [
+      {
+       "code": "6203",
+       "name": "豊和工業",
+       "note": "小銃(89式/20式)の国内唯一メーカー"
+      },
+      {
+       "code": "7224",
+       "name": "新明和工業",
+       "note": "US-2救難飛行艇・特装車"
+      }
+     ],
+     "solo": []
+    },
+    {
+     "name": "航空機部品・エンジン",
+     "us": [
+      {
+       "symbol": "GE",
+       "name": "GE Aerospace"
+      },
+      {
+       "symbol": "HON",
+       "name": "Honeywell"
+      },
+      {
+       "symbol": "TDY",
+       "name": "Teledyne"
+      },
+      {
+       "symbol": "LOAR",
+       "name": "Loar Holdings"
+      },
+      {
+       "symbol": "KRMN",
+       "name": "Karman Holdings"
+      }
+     ],
+     "jp": [
+      {
+       "code": "8053",
+       "name": "住友商事",
+       "note": "住友精密工業(非上場)の親会社・航空機部品"
+      },
+      {
+       "code": "5631",
+       "name": "日本製鋼所",
+       "note": "火砲・防衛機器の老舗"
+      }
+     ],
+     "solo": []
     }
    ]
   },
@@ -225,6 +289,45 @@
        "note": "UAS向けセンサ・制御"
       }
      ]
+    },
+    {
+     "name": "国産ドローン・空モビリティ",
+     "us": [
+      {
+       "symbol": "RCAT",
+       "name": "Red Cat"
+      },
+      {
+       "symbol": "ONDS",
+       "name": "Ondas"
+      },
+      {
+       "symbol": "ACHR",
+       "name": "Archer Aviation"
+      },
+      {
+       "symbol": "JOBY",
+       "name": "Joby Aviation"
+      }
+     ],
+     "jp": [
+      {
+       "code": "6232",
+       "name": "ACSL",
+       "note": "国産産業用ドローン、防衛・インフラ点検"
+      },
+      {
+       "code": "278A",
+       "name": "Terra Drone",
+       "note": "ドローン測量・UTM(運航管理)"
+      },
+      {
+       "code": "218A",
+       "name": "リベラウェア",
+       "note": "狭小空間点検ドローン"
+      }
+     ],
+     "solo": []
     }
    ]
   },
@@ -356,6 +459,37 @@
        "note": "防衛向けシステム開発"
       }
      ]
+    },
+    {
+     "name": "航法・計測・光学",
+     "us": [
+      {
+       "symbol": "TDY",
+       "name": "Teledyne"
+      },
+      {
+       "symbol": "AXON",
+       "name": "Axon Enterprise"
+      }
+     ],
+     "jp": [
+      {
+       "code": "7721",
+       "name": "東京計器",
+       "note": "レーダー・慣性航法装置、防衛省主要取引先"
+      },
+      {
+       "code": "7731",
+       "name": "ニコン",
+       "note": "防衛・宇宙向け光学機器"
+      },
+      {
+       "code": "6965",
+       "name": "浜松ホトニクス",
+       "note": "光センサ・レーザー(防衛用途)"
+      }
+     ],
+     "solo": []
     }
    ]
   },
@@ -490,6 +624,23 @@
       }
      ],
      "solo": []
+    },
+    {
+     "name": "火工品・推進薬",
+     "us": [],
+     "jp": [],
+     "solo": [
+      {
+       "code": "4274",
+       "name": "細谷火工",
+       "note": "火工品(照明弾・点火具)の防衛省納入"
+      },
+      {
+       "code": "4275",
+       "name": "カーリットHD",
+       "note": "産業用爆薬・信号炎管・推進薬原料"
+      }
+     ]
     }
    ]
   },
@@ -582,6 +733,45 @@
        "note": "セキュア通信"
       }
      ]
+    },
+    {
+     "name": "サイバーセキュリティ(民間・日本)",
+     "us": [
+      {
+       "symbol": "CRWD",
+       "name": "CrowdStrike"
+      },
+      {
+       "symbol": "PANW",
+       "name": "Palo Alto Networks"
+      },
+      {
+       "symbol": "FTNT",
+       "name": "Fortinet"
+      },
+      {
+       "symbol": "ZS",
+       "name": "Zscaler"
+      }
+     ],
+     "jp": [
+      {
+       "code": "4704",
+       "name": "トレンドマイクロ",
+       "note": "国産セキュリティ大手・官公庁導入"
+      },
+      {
+       "code": "3692",
+       "name": "FFRIセキュリティ",
+       "note": "防衛省向け国産セキュリティ研究"
+      },
+      {
+       "code": "4288",
+       "name": "アズジェント",
+       "note": "セキュリティ製品・サイバー演習"
+      }
+     ],
+     "solo": []
     }
    ]
   },
@@ -742,6 +932,28 @@
        "note": "特殊鋼・艦艇用鋼材"
       }
      ]
+    },
+    {
+     "name": "艦艇機器・舶用",
+     "us": [
+      {
+       "symbol": "BWXT",
+       "name": "BWX Technologies"
+      }
+     ],
+     "jp": [
+      {
+       "code": "7003",
+       "name": "三井E&S",
+       "note": "艦艇用エンジン・港湾クレーン"
+      },
+      {
+       "code": "7721",
+       "name": "東京計器",
+       "note": "舶用計器・オートパイロット"
+      }
+     ],
+     "solo": []
     }
    ]
   },
@@ -854,6 +1066,50 @@
        "note": "防衛シミュレーション研究"
       }
      ]
+    },
+    {
+     "name": "防護装備・被服",
+     "us": [],
+     "jp": [],
+     "solo": [
+      {
+       "code": "7963",
+       "name": "興研",
+       "note": "防護マスク、防衛省・自衛隊納入"
+      },
+      {
+       "code": "7980",
+       "name": "重松製作所",
+       "note": "防毒マスク・防護具"
+      }
+     ]
+    },
+    {
+     "name": "防衛商社",
+     "us": [],
+     "jp": [
+      {
+       "code": "8001",
+       "name": "伊藤忠商事",
+       "note": "航空・防衛装備品の輸入代理"
+      },
+      {
+       "code": "8020",
+       "name": "兼松",
+       "note": "航空宇宙・防衛エレクトロニクス商社"
+      },
+      {
+       "code": "8031",
+       "name": "三井物産",
+       "note": "防衛・宇宙関連の商流"
+      },
+      {
+       "code": "8053",
+       "name": "住友商事",
+       "note": "防衛装備・航空機リース"
+      }
+     ],
+     "solo": []
     }
    ]
   },
@@ -1136,6 +1392,37 @@
        "note": ""
       }
      ]
+    },
+    {
+     "name": "欧州・グローバル防衛",
+     "us": [
+      {
+       "symbol": "ESLT",
+       "name": "Elbit Systems (ADR)"
+      },
+      {
+       "symbol": "PSN",
+       "name": "Parsons"
+      },
+      {
+       "symbol": "VVX",
+       "name": "V2X"
+      },
+      {
+       "symbol": "DCO",
+       "name": "Ducommun"
+      },
+      {
+       "symbol": "CW",
+       "name": "Curtiss-Wright"
+      },
+      {
+       "symbol": "EMBJ",
+       "name": "Embraer (ADR)"
+      }
+     ],
+     "jp": [],
+     "solo": []
     }
    ]
   }

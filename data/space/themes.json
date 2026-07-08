@@ -2,9 +2,9 @@
  "source": "pipeline/themes/",
  "stats": {
   "macro_themes": 9,
-  "sub_themes": 24,
-  "jp_stocks": 29,
-  "us_symbols": 50
+  "sub_themes": 28,
+  "jp_stocks": 40,
+  "us_symbols": 53
  },
  "macro": [
   {
@@ -495,6 +495,43 @@
       }
      ],
      "solo": []
+    },
+    {
+     "name": "宇宙材料・部品(日本)",
+     "us": [],
+     "jp": [
+      {
+       "code": "5726",
+       "name": "大阪チタニウム",
+       "note": "ロケット・航空機向けスポンジチタン"
+      },
+      {
+       "code": "3402",
+       "name": "東レ",
+       "note": "ロケット・衛星向け炭素繊維"
+      },
+      {
+       "code": "3401",
+       "name": "帝人",
+       "note": "アラミド・炭素繊維(宇宙防衛用途)"
+      },
+      {
+       "code": "7721",
+       "name": "東京計器",
+       "note": "ジャイロ・慣性センサ"
+      },
+      {
+       "code": "6807",
+       "name": "日本航空電子工業",
+       "note": "宇宙用コネクタ・慣性計測"
+      },
+      {
+       "code": "6965",
+       "name": "浜松ホトニクス",
+       "note": "宇宙用光センサ・イメージセンサ"
+      }
+     ],
+     "solo": []
     }
    ]
   },
@@ -656,11 +693,30 @@
      ],
      "jp": [
       {
-       "code": "464A",
+       "code": "9348",
        "name": "ispace",
        "note": "月面輸送・着陸"
       }
      ],
+     "solo": []
+    },
+    {
+     "name": "新興宇宙(米国)",
+     "us": [
+      {
+       "symbol": "VOYG",
+       "name": "Voyager Technologies"
+      },
+      {
+       "symbol": "KRMN",
+       "name": "Karman Holdings"
+      },
+      {
+       "symbol": "FLY",
+       "name": "Firefly Aerospace"
+      }
+     ],
+     "jp": [],
      "solo": []
     }
    ]
@@ -692,7 +748,7 @@
      ],
      "jp": [
       {
-       "code": "464A",
+       "code": "9348",
        "name": "ispace",
        "note": "月面着陸ミッション"
       }
@@ -718,7 +774,7 @@
      "jp": [],
      "solo": [
       {
-       "code": "464A",
+       "code": "9348",
        "name": "ispace",
        "note": "深宇宙探査ビジョン"
       },
@@ -842,7 +898,7 @@
      "jp": [],
      "solo": [
       {
-       "code": "464A",
+       "code": "9348",
        "name": "ispace",
        "note": "月面探査"
       },
@@ -902,6 +958,50 @@
        "code": "6754",
        "name": "アンリツ",
        "note": "衛星通信試験"
+      }
+     ]
+    },
+    {
+     "name": "新興宇宙(日本)",
+     "us": [],
+     "jp": [],
+     "solo": [
+      {
+       "code": "9348",
+       "name": "ispace",
+       "note": "月着陸船・月輸送サービス"
+      },
+      {
+       "code": "464A",
+       "name": "QPSホールディングス",
+       "note": "小型SAR衛星コンステレーション(旧QPS研究所)"
+      },
+      {
+       "code": "186A",
+       "name": "アストロスケールHD",
+       "note": "スペースデブリ除去・軌道上サービス"
+      },
+      {
+       "code": "290A",
+       "name": "Synspective",
+       "note": "小型SAR衛星・解析サービス"
+      }
+     ]
+    },
+    {
+     "name": "衛星データ利用(日本)",
+     "us": [],
+     "jp": [],
+     "solo": [
+      {
+       "code": "2667",
+       "name": "イメージ・ワン",
+       "note": "衛星画像販売・GEOソリューション"
+      },
+      {
+       "code": "4825",
+       "name": "ウェザーニューズ",
+       "note": "気象衛星データ活用・民間気象最大手"
       }
      ]
     }

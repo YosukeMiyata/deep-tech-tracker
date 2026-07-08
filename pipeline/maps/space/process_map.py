@@ -80,7 +80,7 @@ PROCESS_MAP = [
         "name": "⑧ 軌道上サービス",
         "icon": "🔧",
         "desc": "軌道上製造・輸送・デブリ対策",
-        "equip": ["RDW", "RKLB", "LUNR", "ASTS", "464A"],
+        "equip": ["RDW", "RKLB", "LUNR", "ASTS", "9348"],
         "material": [],
     },
     {
@@ -88,7 +88,7 @@ PROCESS_MAP = [
         "name": "⑨ 探査・深宇宙",
         "icon": "🌙",
         "desc": "月面・火星・深宇宙ミッション",
-        "equip": ["BA", "LMT", "LUNR", "464A", "7011"],
+        "equip": ["BA", "LMT", "LUNR", "9348", "7011"],
         "material": [],
     },
 ]

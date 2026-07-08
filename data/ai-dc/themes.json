@@ -2,9 +2,9 @@
  "source": "pipeline/themes/",
  "stats": {
   "macro_themes": 10,
-  "sub_themes": 32,
-  "jp_stocks": 42,
-  "us_symbols": 83
+  "sub_themes": 38,
+  "jp_stocks": 58,
+  "us_symbols": 94
  },
  "macro": [
   {
@@ -200,6 +200,35 @@
        "code": "6501",
        "name": "日立製作所",
        "note": "日立エナジー(ラック電源・HVDC)"
+      }
+     ],
+     "solo": []
+    },
+    {
+     "name": "EMS・ODM(AIサーバー製造)",
+     "us": [
+      {
+       "symbol": "CLS",
+       "name": "Celestica"
+      },
+      {
+       "symbol": "JBL",
+       "name": "Jabil"
+      },
+      {
+       "symbol": "FLEX",
+       "name": "Flex"
+      },
+      {
+       "symbol": "SANM",
+       "name": "Sanmina"
+      }
+     ],
+     "jp": [
+      {
+       "code": "6501",
+       "name": "日立製作所",
+       "note": "ITインフラ・電力の両面でDC需要享受"
       }
      ],
      "solo": []
@@ -750,6 +779,77 @@
       }
      ],
      "solo": []
+    },
+    {
+     "name": "電力会社(DC電力需要)",
+     "us": [
+      {
+       "symbol": "TLN",
+       "name": "Talen Energy"
+      },
+      {
+       "symbol": "NRG",
+       "name": "NRG Energy"
+      }
+     ],
+     "jp": [
+      {
+       "code": "9501",
+       "name": "東京電力HD",
+       "note": "首都圏DC集積の電力供給"
+      },
+      {
+       "code": "9503",
+       "name": "関西電力",
+       "note": "関西圏DC・原発比率高で供給余力"
+      },
+      {
+       "code": "9506",
+       "name": "東北電力",
+       "note": "仙台圏DC誘致・半導体北上"
+      },
+      {
+       "code": "9509",
+       "name": "北海道電力",
+       "note": "石狩・千歳のDC/半導体集積"
+      },
+      {
+       "code": "9513",
+       "name": "電源開発(Jパワー)",
+       "note": "卸電力・送電網"
+      }
+     ],
+     "solo": []
+    },
+    {
+     "name": "発電機・変電・電源設備",
+     "us": [
+      {
+       "symbol": "CMI",
+       "name": "Cummins"
+      },
+      {
+       "symbol": "GNRC",
+       "name": "Generac"
+      },
+      {
+       "symbol": "AGX",
+       "name": "Argan"
+      }
+     ],
+     "jp": [
+      {
+       "code": "6508",
+       "name": "明電舎",
+       "note": "変電設備・受配電システム"
+      },
+      {
+       "code": "6752",
+       "name": "パナソニックHD",
+       "note": "蓄電池・電源システム"
+      }
+     ],
+     "solo": []
     }
    ]
   },
@@ -927,6 +1027,23 @@
       }
      ],
      "solo": []
+    },
+    {
+     "name": "通信キャリア・国内DC運営",
+     "us": [],
+     "jp": [],
+     "solo": [
+      {
+       "code": "9433",
+       "name": "KDDI",
+       "note": "国内DC(TELEHOUSE)・生成AI基盤整備"
+      },
+      {
+       "code": "9434",
+       "name": "ソフトバンク",
+       "note": "国内AI計算基盤・DC建設(苫小牧等)"
+      }
+     ]
     }
    ]
   },
@@ -1183,6 +1300,63 @@
        "note": "AI/DCワークロード"
       }
      ],
+     "solo": []
+    },
+    {
+     "name": "DC建設・空調工事(日本)",
+     "us": [],
+     "jp": [],
+     "solo": [
+      {
+       "code": "1801",
+       "name": "大成建設",
+       "note": "大型DC建設の実績"
+      },
+      {
+       "code": "1802",
+       "name": "大林組",
+       "note": "DC建設で国内先行"
+      },
+      {
+       "code": "1803",
+       "name": "清水建設",
+       "note": "DC・半導体工場建設"
+      },
+      {
+       "code": "1812",
+       "name": "鹿島",
+       "note": "DC建設・都市部再開発"
+      },
+      {
+       "code": "1959",
+       "name": "九電工",
+       "note": "電気設備工事・九州半導体/DC"
+      },
+      {
+       "code": "1982",
+       "name": "日比谷総合設備",
+       "note": "空調・衛生設備工事"
+      },
+      {
+       "code": "1721",
+       "name": "コムシスHD",
+       "note": "通信インフラ・DC電気工事"
+      }
+     ]
+    },
+    {
+     "name": "ストレージ・データ基盤",
+     "us": [
+      {
+       "symbol": "P",
+       "name": "Everpure (旧Pure Storage)"
+      },
+      {
+       "symbol": "TSM",
+       "name": "TSMC (ADR)"
+      }
+     ],
+     "jp": [],
      "solo": []
     }
    ]

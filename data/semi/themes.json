@@ -2,9 +2,9 @@
  "source": "pipeline/themes/",
  "stats": {
   "macro_themes": 12,
-  "sub_themes": 59,
-  "jp_stocks": 189,
-  "us_symbols": 91
+  "sub_themes": 61,
+  "jp_stocks": 194,
+  "us_symbols": 95
  },
  "macro": [
   {
@@ -2130,6 +2130,41 @@
        "note": "光学部品・金型"
       }
      ]
+    },
+    {
+     "name": "搬送容器・周辺部材",
+     "us": [
+      {
+       "symbol": "CAMT",
+       "name": "Camtek"
+      },
+      {
+       "symbol": "VECO",
+       "name": "Veeco"
+      },
+      {
+       "symbol": "AEHR",
+       "name": "Aehr Test"
+      }
+     ],
+     "jp": [
+      {
+       "code": "4238",
+       "name": "ミライアル",
+       "note": "300mmウエハ搬送容器(FOUP)"
+      },
+      {
+       "code": "7970",
+       "name": "信越ポリマー",
+       "note": "ウエハケース・半導体容器"
+      },
+      {
+       "code": "6266",
+       "name": "タツモ",
+       "note": "塗布装置・搬送装置"
+      }
+     ],
+     "solo": []
     }
    ]
   },
@@ -2214,6 +2249,28 @@
        "code": "3156",
        "name": "レスターHD",
        "note": "電子部品商社"
+      }
+     ]
+    },
+    {
+     "name": "半導体商社(追加)",
+     "us": [
+      {
+       "symbol": "RMBS",
+       "name": "Rambus"
+      }
+     ],
+     "jp": [],
+     "solo": [
+      {
+       "code": "7537",
+       "name": "丸文",
+       "note": "半導体・電子部品商社"
+      },
+      {
+       "code": "167A",
+       "name": "リョーサン菱洋HD",
+       "note": "半導体商社(2024年持株会社化)"
       }
      ]
     }
