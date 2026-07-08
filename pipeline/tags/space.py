@@ -49,11 +49,10 @@ TAGS = {
     "6724": ["GNSS", "タイミングデバイス", "日本株"],
     # ===== 防衛宇宙 =====
     "LDOS": ["早期警戒", "SSA", "宇宙デブリ", "米国株"],
-    "6502": ["早期警戒レーダー", "防衛", "日本株"],
+    # 除外(上場廃止/マスタ未登録): "6502": ["早期警戒レーダー", "防衛", "日本株"],
     # ===== 商用・探査 =====
     "LUNR": ["月面着陸", "Artemis", "NASA", "米国株"],
-    "9348": ["月面探査", "ispace", "着陸ミッション", "日本株"],
-    "464A": ["SAR衛星", "QPSホールディングス", "小型衛星", "日本株"],
+    "464A": ["月面探査", "ispace", "着陸ミッション", "日本株"],
     # ===== 政策・ETF =====
     "UFO": ["宇宙ETF", "Procure Space", "米国株"],
     "ARKX": ["宇宙ETF", "ARK Space", "米国株"],
@@ -72,7 +71,7 @@ TAGS = {
     "GOOGL": ["Kuiper関連", "衛星通信", "米国株"],
     "SES": ["通信衛星", "GEO/MEO", "米国株"],
     "TXT": ["Textron", "Bell", "航空宇宙", "米国株"],
-    "SPR": ["Spirit AeroSystems", "航空構造", "米国株"],
+    # 除外(上場廃止/マスタ未登録): "SPR": ["Spirit AeroSystems", "航空構造", "米国株"],
     "MOG-A": ["Moog", "宇宙制御", "アクチュエータ", "米国株"],
     "HWM": ["Howmet Aerospace", "エンジン部品", "米国株"],
     "PLTR": ["衛星データ分析", "政府宇宙", "米国株"],
@@ -97,3 +96,49 @@ TAGS = {
 
 def get_tags(code):
     return TAGS.get(code, [])
+
+# ===== v3 追加タグ (2026-07-08) =====
+TAGS.update({
+    "9348": ["月面探査", "ランダー", "月輸送"],
+    "464A": ["小型SAR衛星", "コンステレーション", "QPSホールディングス"],
+    "186A": ["デブリ除去", "軌道上サービス", "2024年IPO"],
+    "290A": ["小型SAR衛星", "解析サービス", "2024年IPO"],
+    "2667": ["衛星画像販売", "GEOソリューション"],
+    "4825": ["気象データ", "民間気象最大手", "海運気象"],
+    "5726": ["スポンジチタン", "ロケット材料", "航空材"],
+    "3402": ["炭素繊維", "ロケット・衛星構体"],
+    "3401": ["アラミド", "炭素繊維", "防衛兼業"],
+    "7721": ["ジャイロ", "慣性センサ", "防衛兼業"],
+    "6807": ["宇宙用コネクタ", "慣性計測装置"],
+    "6965": ["宇宙用光センサ", "イメージセンサ"],
+    "VOYG": ["宇宙ステーション", "防衛宇宙", "2025年IPO"],
+    "KRMN": ["ロケット部品", "ミサイル部品", "2025年IPO"],
+    "FLY": ["小型ロケット", "月着陸船", "2025年IPO"],
+})
+
+
+# ===== v3: テーマ構造からの自動タグ生成 (2026-07-08) =====
+# 手書きTAGSに無い銘柄へ「市場区分+マクロテーマ名+サブテーマ名」を自動付与し、
+# 手書き済み銘柄にもテーマ名タグを補完する。themes/*.py に銘柄を足すだけでタグ検索対象になる。
+def _v3_autofill_tags():
+    import importlib.util as _ilu
+    from pathlib import Path as _P
+    _f = _P(__file__).resolve()
+    _theme_path = _f.parent.parent / "themes" / _f.name
+    _spec = _ilu.spec_from_file_location("_v3_themes_" + _f.stem, _theme_path)
+    _m = _ilu.module_from_spec(_spec)
+    _spec.loader.exec_module(_m)
+    for _mc in _m.MACRO:
+        for _s in _mc["subs"]:
+            for _lst, _mkt in ((_s.get("us", []), "米国株"),
+                               (_s.get("jp", []), "日本株"),
+                               (_s.get("solo", []), "日本株")):
+                for _row in _lst:
+                    _code, _name = _row[0], _row[1]
+                    _base = TAGS.setdefault(_code, [])
+                    for _t in (_mkt, _mc["name"], _s["name"]):
+                        if _t not in _base:
+                            _base.append(_t)
+                    if ("ETF" in _name or "ブル" in _name) and "ETF" not in _base:
+                        _base.append("ETF")
+_v3_autofill_tags()

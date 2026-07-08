@@ -168,3 +168,43 @@ TAGS = {
 
 def get_tags(code):
     return TAGS.get(code, [])
+
+# ===== v3 追加タグ (2026-07-08) =====
+TAGS.update({
+    "4238": ["FOUP", "ウエハ搬送容器", "300mm"],
+    "7970": ["ウエハケース", "シリコーン成形"],
+    "6266": ["塗布装置", "搬送装置", "後工程"],
+    "7537": ["半導体商社", "電子部品商社"],
+    "167A": ["半導体商社", "統合会社(リョーサン+菱洋)"],
+    "CAMT": ["検査装置", "先端パッケージ検査", "イスラエル"],
+    "VECO": ["成膜装置", "MBE", "レーザーアニール"],
+    "AEHR": ["ウエハレベルテスト", "SiC向け"],
+    "RMBS": ["メモリIP", "DDRインターフェース"],
+})
+
+
+# ===== v3: テーマ構造からの自動タグ生成 (2026-07-08) =====
+# 手書きTAGSに無い銘柄へ「市場区分+マクロテーマ名+サブテーマ名」を自動付与し、
+# 手書き済み銘柄にもテーマ名タグを補完する。themes/*.py に銘柄を足すだけでタグ検索対象になる。
+def _v3_autofill_tags():
+    import importlib.util as _ilu
+    from pathlib import Path as _P
+    _f = _P(__file__).resolve()
+    _theme_path = _f.parent.parent / "themes" / _f.name
+    _spec = _ilu.spec_from_file_location("_v3_themes_" + _f.stem, _theme_path)
+    _m = _ilu.module_from_spec(_spec)
+    _spec.loader.exec_module(_m)
+    for _mc in _m.MACRO:
+        for _s in _mc["subs"]:
+            for _lst, _mkt in ((_s.get("us", []), "米国株"),
+                               (_s.get("jp", []), "日本株"),
+                               (_s.get("solo", []), "日本株")):
+                for _row in _lst:
+                    _code, _name = _row[0], _row[1]
+                    _base = TAGS.setdefault(_code, [])
+                    for _t in (_mkt, _mc["name"], _s["name"]):
+                        if _t not in _base:
+                            _base.append(_t)
+                    if ("ETF" in _name or "ブル" in _name) and "ETF" not in _base:
+                        _base.append("ETF")
+_v3_autofill_tags()

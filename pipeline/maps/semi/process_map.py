@@ -171,3 +171,15 @@ PROCESS_MAP = [
         "material": [],
     },
 ]
+
+# ===== v3 追加工程 (2026-07-08) =====
+PROCESS_MAP.extend([
+    {
+        "stage": "facility",
+        "name": "搬送容器・商社(補完)",
+        "icon": "📦",
+        "desc": "FOUP・ウエハケースと半導体商社",
+        "equip": ["7537", "167A"],
+        "material": ["4238", "7970", "6266"],
+    },
+])

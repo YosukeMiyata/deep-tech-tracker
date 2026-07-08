@@ -56,7 +56,7 @@ PROCESS_MAP = [
         "name": "⑤ 防衛衛星・早期警戒",
         "icon": "🛡️",
         "desc": "軍事衛星・ミサイル防衛・SSA",
-        "equip": ["LMT", "RTX", "NOC", "LHX", "LDOS", "6502", "7011"],
+        "equip": ["LMT", "RTX", "NOC", "LHX", "LDOS", "7011"],
         "material": [],
     },
     {
@@ -80,7 +80,7 @@ PROCESS_MAP = [
         "name": "⑧ 軌道上サービス",
         "icon": "🔧",
         "desc": "軌道上製造・輸送・デブリ対策",
-        "equip": ["RDW", "RKLB", "LUNR", "ASTS", "9348"],
+        "equip": ["RDW", "RKLB", "LUNR", "ASTS", "464A"],
         "material": [],
     },
     {
@@ -88,7 +88,35 @@ PROCESS_MAP = [
         "name": "⑨ 探査・深宇宙",
         "icon": "🌙",
         "desc": "月面・火星・深宇宙ミッション",
-        "equip": ["BA", "LMT", "LUNR", "9348", "7011"],
+        "equip": ["BA", "LMT", "LUNR", "464A", "7011"],
         "material": [],
     },
 ]
+
+# ===== v3 追加工程 (2026-07-08) =====
+PROCESS_MAP.extend([
+    {
+        "stage": "launch",
+        "name": "ロケット材料・部品(日本)",
+        "icon": "🧱",
+        "desc": "チタン・炭素繊維・慣性センサ・宇宙用コネクタ",
+        "equip": ["7721", "6807", "6965"],
+        "material": ["5726", "3402", "3401"],
+    },
+    {
+        "stage": "orbit",
+        "name": "新興衛星・軌道上サービス",
+        "icon": "🛰️",
+        "desc": "SAR衛星・デブリ除去・月輸送の新興勢",
+        "equip": ["9348", "464A", "186A", "290A", "VOYG", "KRMN", "FLY"],
+        "material": [],
+    },
+    {
+        "stage": "service",
+        "name": "衛星データ利用",
+        "icon": "🗺️",
+        "desc": "衛星画像解析・気象・地理空間情報",
+        "equip": ["2667", "4825", "PL", "BKSY"],
+        "material": [],
+    },
+])

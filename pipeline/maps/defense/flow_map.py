@@ -128,7 +128,7 @@ FLOW = [
                 "icon": "⚙️",
                 "desc": "チタン・複合材・精密部品",
                 "roles": [
-                    {"label": "米国材料", "codes": ["HWM", "HXL", "CRS", "ATI", "SPR", "HEI", "TDG"]},
+                    {"label": "米国材料", "codes": ["HWM", "HXL", "CRS", "ATI", "HEI", "TDG"]},
                     {"label": "日本部品", "codes": ["6324", "6479", "6345", "6807", "5727", "3401"]},
                 ],
             },
@@ -241,3 +241,52 @@ def resolve_flow(all_symbols):
             })
         out.append(st)
     return out
+
+# ===== v3 追加ステップ (2026-07-08) =====
+_V3_FLOW_STEPS = {
+    "mfg": [
+        {
+            "name": "無人機・空モビリティ",
+            "icon": "🛩️",
+            "desc": "UAS/UUV・eVTOLの開発製造",
+            "roles": [
+                {"label": "米国UAS", "codes": ["AVAV", "KTOS", "RCAT", "ONDS"]},
+                {"label": "国産ドローン", "codes": ["6232", "278A", "218A"]},
+                {"label": "eVTOL", "codes": ["ACHR", "JOBY"]},
+            ],
+        },
+        {
+            "name": "火工品・陸上装備",
+            "icon": "🧨",
+            "desc": "火薬・弾薬部材・小銃・特装車",
+            "roles": [
+                {"label": "火工品", "codes": ["4274", "4275", "4272", "6208"]},
+                {"label": "火砲・特機", "codes": ["5631", "6203", "7224"]},
+            ],
+        },
+    ],
+    "deploy": [
+        {
+            "name": "サイバー防衛",
+            "icon": "🔐",
+            "desc": "ネットワーク防護・ゼロトラスト・監視",
+            "roles": [
+                {"label": "グローバル", "codes": ["CRWD", "PANW", "FTNT", "ZS"]},
+                {"label": "国内セキュリティ", "codes": ["4704", "3692", "4288"]},
+            ],
+        },
+    ],
+    "sustain": [
+        {
+            "name": "防護装備・商社",
+            "icon": "🧤",
+            "desc": "個人防護具・装備品商流・後方支援",
+            "roles": [
+                {"label": "防護装備", "codes": ["7963", "7980"]},
+                {"label": "防衛商社", "codes": ["8001", "8020", "8031", "8053"]},
+            ],
+        },
+    ],
+}
+for _st in FLOW:
+    _st["steps"].extend(_V3_FLOW_STEPS.get(_st["key"], []))

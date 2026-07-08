@@ -80,7 +80,7 @@ FLOW = [
                 "roles": [
                     {"label": "製造(米)", "codes": ["LHX", "BA", "NOC", "RTX", "LMT", "KTOS"]},
                     {"label": "製造(日)", "codes": ["6701", "6702", "6503"]},
-                    {"label": "防衛", "codes": ["LMT", "RTX", "LDOS", "6502", "7011"]},
+                    {"label": "防衛", "codes": ["LMT", "RTX", "LDOS", "7011"]},
                 ],
             },
         ],
@@ -136,7 +136,7 @@ FLOW = [
                 "desc": "Artemis/月面着陸/火星探査",
                 "roles": [
                     {"label": "探査(米)", "codes": ["BA", "LMT", "LUNR", "NOC"]},
-                    {"label": "探査(日)", "codes": ["9348", "7011"]},
+                    {"label": "探査(日)", "codes": ["464A", "7011"]},
                 ],
             },
             {
@@ -146,7 +146,7 @@ FLOW = [
                 "roles": [
                     {"label": "打ち上げ", "codes": ["7011", "7012"]},
                     {"label": "通信", "codes": ["9412", "9432", "9434"]},
-                    {"label": "新興", "codes": ["9348", "402A", "6103", "6724"]},
+                    {"label": "新興", "codes": ["464A", "402A", "6103", "6724"]},
                 ],
             },
         ],
@@ -186,3 +186,61 @@ def resolve_flow(all_symbols):
             })
         out.append(st)
     return out
+
+# ===== v3 追加 (2026-07-08): 第5ステージ「データ利用」+ 既存ステージ補強 =====
+_V3_FLOW_STEPS = {
+    "launch": [
+        {
+            "name": "ロケット材料・部品",
+            "icon": "🧱",
+            "desc": "チタン・炭素繊維・センサ類の供給網",
+            "roles": [
+                {"label": "材料(日本)", "codes": ["5726", "3402", "3401"]},
+                {"label": "部品(日本)", "codes": ["7721", "6807", "6965"]},
+                {"label": "米国部品", "codes": ["KRMN"]},
+            ],
+        },
+    ],
+    "orbit": [
+        {
+            "name": "新興宇宙(日本)",
+            "icon": "🚀",
+            "desc": "月輸送・デブリ除去・SAR観測の新興勢",
+            "roles": [
+                {"label": "月・軌道上サービス", "codes": ["9348", "186A"]},
+                {"label": "SAR衛星", "codes": ["464A", "290A"]},
+            ],
+        },
+    ],
+}
+for _st in FLOW:
+    _st["steps"].extend(_V3_FLOW_STEPS.get(_st["key"], []))
+
+FLOW.append({
+    "key": "data",
+    "name": "⑤ データ利用・応用サービス",
+    "icon": "🗺️",
+    "color": "#2E86C1",
+    "desc": "衛星データの解析・防災・気象・地理空間情報への応用。宇宙の価値が地上ビジネスに変わる出口。",
+    "visual": "map",
+    "steps": [
+        {
+            "name": "衛星画像・解析",
+            "icon": "🛰️",
+            "desc": "SAR/光学画像の解析・販売",
+            "roles": [
+                {"label": "日本", "codes": ["2667", "464A", "290A"]},
+                {"label": "米国", "codes": ["PL", "BKSY", "SPIR"]},
+            ],
+        },
+        {
+            "name": "気象・防災データ",
+            "icon": "🌦️",
+            "desc": "気象予測・防災・海運への応用",
+            "roles": [
+                {"label": "気象サービス", "codes": ["4825"]},
+                {"label": "測位・通信", "codes": ["IRDM", "GSAT"]},
+            ],
+        },
+    ],
+})

@@ -54,7 +54,7 @@ TAGS = {
     "MTSI": ["米国株", "AI DC", "CPO", "光IC", "800G"],
     "AAOI": ["米国株", "AI DC", "光トランシーバ", "800G"],
     "FN": ["米国株", "AI DC", "光トランシーバ", "EMS"],
-    "COMM": ["米国株", "AI DC", "光ファイバー", "DC配線"],
+    # 除外(上場廃止/マスタ未登録): "COMM": ["米国株", "AI DC", "光ファイバー", "DC配線"],
     "9432": ["日本株", "AI DC", "IOWN", "CPO", "国内クラウド", "MEC"],
     "4062": ["日本株", "AI DC", "光電融合基板", "CPO"],
     "6777": ["日本株", "AI DC", "光部品", "波長可変光源"],
@@ -149,3 +149,60 @@ TAGS = {
 
 def get_tags(code):
     return TAGS.get(code, [])
+
+# ===== v3 追加タグ (2026-07-08) =====
+TAGS.update({
+    "9501": ["電力", "DC電力需要", "首都圏"],
+    "9503": ["電力", "原発比率高", "DC誘致"],
+    "9506": ["電力", "東北", "半導体・DC集積"],
+    "9509": ["電力", "北海道", "石狩・千歳DC"],
+    "9513": ["卸電力", "送電", "Jパワー"],
+    "6508": ["変電設備", "受配電", "EV部品兼業"],
+    "6752": ["蓄電池", "電源システム", "総合電機"],
+    "9433": ["通信キャリア", "TELEHOUSE", "生成AI基盤"],
+    "9434": ["通信キャリア", "AI計算基盤", "DC建設"],
+    "1801": ["ゼネコン", "DC建設"],
+    "1802": ["ゼネコン", "DC建設先行"],
+    "1803": ["ゼネコン", "DC・半導体工場"],
+    "1812": ["ゼネコン", "DC建設", "再開発"],
+    "1959": ["電気工事", "九州", "半導体・DC"],
+    "1982": ["空調工事", "衛生設備"],
+    "1721": ["通信インフラ工事", "DC電気工事"],
+    "CLS": ["EMS", "AIサーバーODM", "ネットワーク機器"],
+    "JBL": ["EMS", "AIインフラ製造"],
+    "FLEX": ["EMS", "電源・DCインフラ"],
+    "SANM": ["EMS", "通信・防衛エレキ"],
+    "CMI": ["発電機", "非常用電源", "エンジン"],
+    "GNRC": ["発電機", "バックアップ電源"],
+    "AGX": ["発電所建設", "ガス火力", "EPC"],
+    "TLN": ["独立系電力", "原子力PPA", "AWS契約"],
+    "NRG": ["独立系電力", "テキサス", "DC電力"],
+    "TSM": ["ファウンドリ", "AI半導体製造", "ADR"],
+})
+
+
+# ===== v3: テーマ構造からの自動タグ生成 (2026-07-08) =====
+# 手書きTAGSに無い銘柄へ「市場区分+マクロテーマ名+サブテーマ名」を自動付与し、
+# 手書き済み銘柄にもテーマ名タグを補完する。themes/*.py に銘柄を足すだけでタグ検索対象になる。
+def _v3_autofill_tags():
+    import importlib.util as _ilu
+    from pathlib import Path as _P
+    _f = _P(__file__).resolve()
+    _theme_path = _f.parent.parent / "themes" / _f.name
+    _spec = _ilu.spec_from_file_location("_v3_themes_" + _f.stem, _theme_path)
+    _m = _ilu.module_from_spec(_spec)
+    _spec.loader.exec_module(_m)
+    for _mc in _m.MACRO:
+        for _s in _mc["subs"]:
+            for _lst, _mkt in ((_s.get("us", []), "米国株"),
+                               (_s.get("jp", []), "日本株"),
+                               (_s.get("solo", []), "日本株")):
+                for _row in _lst:
+                    _code, _name = _row[0], _row[1]
+                    _base = TAGS.setdefault(_code, [])
+                    for _t in (_mkt, _mc["name"], _s["name"]):
+                        if _t not in _base:
+                            _base.append(_t)
+                    if ("ETF" in _name or "ブル" in _name) and "ETF" not in _base:
+                        _base.append("ETF")
+_v3_autofill_tags()

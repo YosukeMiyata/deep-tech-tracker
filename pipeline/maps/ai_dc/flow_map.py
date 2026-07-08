@@ -246,3 +246,60 @@ def resolve_flow(all_symbols):
             )
         out.append(st)
     return out
+
+# ===== v3 追加ステップ (2026-07-08) =====
+_V3_FLOW_STEPS = {
+    "power": [
+        {
+            "name": "電力会社・PPA",
+            "icon": "⚡",
+            "desc": "DC集積地の電力供給・原子力PPA",
+            "roles": [
+                {"label": "日本電力", "codes": ["9501", "9503", "9506", "9509", "9513"]},
+                {"label": "米国IPP", "codes": ["TLN", "NRG", "VST", "GEV"]},
+            ],
+        },
+        {
+            "name": "発電機・変電設備",
+            "icon": "🔌",
+            "desc": "非常用発電・変圧器・受配電",
+            "roles": [
+                {"label": "発電機", "codes": ["CMI", "GNRC", "AGX"]},
+                {"label": "変電・配電", "codes": ["6508", "POWL", "ETN"]},
+            ],
+        },
+    ],
+    "gpu": [
+        {
+            "name": "EMS・ODM(サーバー製造)",
+            "icon": "🏭",
+            "desc": "AIサーバーの受託製造",
+            "roles": [
+                {"label": "北米ODM", "codes": ["CLS", "JBL", "FLEX", "SANM"]},
+            ],
+        },
+    ],
+    "cooling": [
+        {
+            "name": "DC建設・空調工事",
+            "icon": "🏗️",
+            "desc": "ゼネコン・空調/電気設備工事",
+            "roles": [
+                {"label": "ゼネコン", "codes": ["1801", "1802", "1803", "1812"]},
+                {"label": "設備工事", "codes": ["1959", "1982", "1969", "1961"]},
+            ],
+        },
+    ],
+    "network": [
+        {
+            "name": "通信キャリア・国内DC",
+            "icon": "📡",
+            "desc": "キャリアのDC・AI計算基盤",
+            "roles": [
+                {"label": "国内キャリア", "codes": ["9432", "9433", "9434"]},
+            ],
+        },
+    ],
+}
+for _st in FLOW:
+    _st["steps"].extend(_V3_FLOW_STEPS.get(_st["key"], []))

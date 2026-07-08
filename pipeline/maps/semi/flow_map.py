@@ -316,3 +316,20 @@ def resolve_flow(all_symbols):
             })
         out.append(st)
     return out
+
+# ===== v3 追加ステップ (2026-07-08) =====
+_V3_FLOW_STEPS = {
+    "back": [
+        {
+            "name": "搬送容器・検査(補完)",
+            "icon": "📦",
+            "desc": "ウエハ搬送容器と追加の検査・テスト",
+            "roles": [
+                {"label": "容器・部材", "codes": ["4238", "7970"]},
+                {"label": "装置", "codes": ["6266", "CAMT", "VECO", "AEHR"]},
+            ],
+        },
+    ],
+}
+for _st in FLOW:
+    _st["steps"].extend(_V3_FLOW_STEPS.get(_st["key"], []))

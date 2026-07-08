@@ -59,7 +59,7 @@ PROCESS_MAP = [
         "icon": "✈️",
         "desc": "戦闘機・艦艇・車両の組立",
         "equip": ["LMT", "NOC", "BA", "GD", "HII", "7011", "7012", "6301", "OSK"],
-        "material": ["SPR", "HEI", "TDG"],
+        "material": ["HEI", "TDG"],
     },
     {
         "stage": "mfg",
@@ -134,3 +134,47 @@ PROCESS_MAP = [
         "material": [],
     },
 ]
+
+# ===== v3 追加工程 (2026-07-08) =====
+PROCESS_MAP.extend([
+    {
+        "stage": "mfg",
+        "name": "航空機部品・エンジン",
+        "icon": "🔩",
+        "desc": "エンジン・降着装置・機体部品のサプライヤー",
+        "equip": ["GE", "HON", "TDY", "LOAR", "KRMN", "8053"],
+        "material": ["HWM", "CRS", "5726", "5727"],
+    },
+    {
+        "stage": "mfg",
+        "name": "火工品・弾薬部材",
+        "icon": "🧨",
+        "desc": "火薬・照明弾・推進薬・火砲",
+        "equip": ["6208", "6203", "5631"],
+        "material": ["4274", "4275", "4272"],
+    },
+    {
+        "stage": "mfg",
+        "name": "無人機製造",
+        "icon": "🛩️",
+        "desc": "軍用UAS・産業ドローン・eVTOL",
+        "equip": ["AVAV", "KTOS", "RCAT", "ONDS", "6232", "278A", "218A"],
+        "material": [],
+    },
+    {
+        "stage": "deploy",
+        "name": "サイバー防衛",
+        "icon": "🔐",
+        "desc": "官民のサイバーセキュリティ・ゼロトラスト",
+        "equip": ["CRWD", "PANW", "FTNT", "ZS", "4704", "3692", "4288"],
+        "material": [],
+    },
+    {
+        "stage": "sustain",
+        "name": "防護装備・防衛商社",
+        "icon": "🧤",
+        "desc": "個人防護具と装備品の商流",
+        "equip": ["8001", "8020", "8031", "8053"],
+        "material": ["7963", "7980"],
+    },
+])

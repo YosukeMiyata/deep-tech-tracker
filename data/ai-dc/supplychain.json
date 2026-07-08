@@ -1,12 +1,366 @@
 {
-  "stages": [
+ "_schema": "stages: サプライチェーン順のステージ。steps は pipeline/maps/*/process_map.py から build_supplychain.py が自動生成。topic(今週の論点)は手動更新可(再生成でも温存)。",
+ "stages": [
+  {
+   "id": "compute",
+   "num": "STAGE 1",
+   "name": "AI半導体・サーバー製造",
+   "desc": "GPU/アクセラレータとAIサーバーの設計・製造。CapExサイクルの起点。",
+   "topic": "NVIDIA Vera Rubin量産開始でODM各社の受注が拡大。",
+   "steps": [
     {
-      "id": "gpu",
-      "num": "1",
-      "name": "GPU層",
-      "desc": "AI計算の中核",
-      "topic": "Blackwell世代",
-      "steps": []
+     "name": "AI DCの主体: ハイパースケーラー",
+     "stocks": [
+      "AMZN",
+      "MSFT",
+      "GOOGL",
+      "META",
+      "ORCL"
+     ]
+    },
+    {
+     "name": "AI DCの主体: GPUクラウド",
+     "stocks": [
+      "CRWV",
+      "NBIS",
+      "IREN",
+      "CORZ"
+     ]
+    },
+    {
+     "name": "AI DCの主体: DC REIT",
+     "stocks": [
+      "EQIX",
+      "DLR",
+      "AMT",
+      "CCI"
+     ]
+    },
+    {
+     "name": "① 設計・アーキテクチャ",
+     "equip": [
+      "NVDA",
+      "SMCI",
+      "VRT",
+      "ANET",
+      "ALAB"
+     ],
+     "material": [
+      "6526",
+      "6702",
+      "6701"
+     ]
+    },
+    {
+     "name": "② AI Pod・ラック設計",
+     "equip": [
+      "NVDA",
+      "SMCI",
+      "DELL",
+      "HPE",
+      "VRT"
+     ],
+     "material": [
+      "6501",
+      "6622"
+     ]
+    },
+    {
+     "name": "AIサーバー製造(EMS/ODM)",
+     "equip": [
+      "CLS",
+      "JBL",
+      "FLEX",
+      "SANM",
+      "SMCI",
+      "DELL"
+     ]
     }
-  ]
+   ]
+  },
+  {
+   "id": "build",
+   "num": "STAGE 2",
+   "name": "DC建設・設備工事",
+   "desc": "データセンターの建屋・電気・空調工事。国内はゼネコン・サブコンの独壇場。",
+   "topic": "苫小牧・石狩など地方立地が加速。建設費高騰と電力確保がボトルネック。",
+   "steps": [
+    {
+     "name": "③ DC建設・電気工事",
+     "equip": [
+      "PWR",
+      "FIX",
+      "IESC",
+      "EME",
+      "MYRG"
+     ],
+     "material": [
+      "1942",
+      "1944",
+      "1961",
+      "6366"
+     ]
+    },
+    {
+     "name": "④ サーバー・ストレージ導入",
+     "equip": [
+      "SMCI",
+      "DELL",
+      "HPE",
+      "P",
+      "NTAP",
+      "WDC",
+      "STX"
+     ],
+     "material": [
+      "285A",
+      "6526"
+     ]
+    },
+    {
+     "name": "DC建設・設備工事",
+     "equip": [
+      "1801",
+      "1802",
+      "1803",
+      "1812",
+      "1959",
+      "1982",
+      "1721",
+      "1942",
+      "1944"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "power",
+   "num": "STAGE 3",
+   "name": "電力・電源",
+   "desc": "受電・変電・非常用電源から電力調達(PPA)まで。AI電力問題の主戦場。",
+   "topic": "原子力PPA・ガスタービン争奪戦。日本は原発再稼働とDC誘致が連動するテーマに。",
+   "steps": [
+    {
+     "name": "⑤ 受配電・変圧器",
+     "equip": [
+      "GEV",
+      "ETN",
+      "POWL",
+      "HUBB",
+      "BE"
+     ],
+     "material": [
+      "6622",
+      "6501",
+      "6504",
+      "6503"
+     ]
+    },
+    {
+     "name": "⑥ UPS・ラック電源",
+     "equip": [
+      "VRT",
+      "ETN",
+      "MPWR",
+      "6707"
+     ],
+     "material": [
+      "6674",
+      "6504"
+     ]
+    },
+    {
+     "name": "⑦ 銅配線・母線",
+     "equip": [
+      "APH",
+      "MLI",
+      "BDC",
+      "FCX"
+     ],
+     "material": [
+      "5801",
+      "5803",
+      "5706",
+      "5016",
+      "5802",
+      "5805"
+     ]
+    },
+    {
+     "name": "⑧ 冷却・液冷(CDU)",
+     "equip": [
+      "VRT",
+      "MOD",
+      "CARR",
+      "TT",
+      "JCI",
+      "NVT"
+     ],
+     "material": [
+      "6367",
+      "6584",
+      "6516",
+      "6458",
+      "1969",
+      "6363",
+      "6490"
+     ]
+    },
+    {
+     "name": "電力供給・発電",
+     "equip": [
+      "GEV",
+      "CMI",
+      "GNRC",
+      "AGX",
+      "TLN",
+      "NRG"
+     ],
+     "material": [
+      "9501",
+      "9503",
+      "9506",
+      "9509",
+      "9513"
+     ]
+    },
+    {
+     "name": "変電・受配電・蓄電",
+     "equip": [
+      "6508",
+      "ETN",
+      "VRT",
+      "POWL",
+      "6501"
+     ],
+     "material": [
+      "6752",
+      "6674"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "network",
+   "num": "STAGE 4",
+   "name": "ネットワーク・光接続",
+   "desc": "DC内外を結ぶスイッチ・光モジュール・ケーブル。帯域需要は生成AIで急拡大。",
+   "topic": "800G/1.6T光モジュールへの移行が進行。CPO(光電融合)実用化前夜。",
+   "steps": [
+    {
+     "name": "⑨ スイッチ・DPU",
+     "equip": [
+      "ANET",
+      "CSCO",
+      "AVGO",
+      "ALAB",
+      "CRDO",
+      "MRVL",
+      "NVDA"
+     ],
+     "material": [
+      "6702",
+      "6701"
+     ]
+    },
+    {
+     "name": "⑩ 光接続(CPO/トランシーバ)",
+     "equip": [
+      "LITE",
+      "COHR",
+      "AAOI",
+      "CIEN",
+      "AVGO",
+      "MRVL",
+      "MTSI"
+     ],
+     "material": [
+      "5803",
+      "5801",
+      "5802",
+      "GLW",
+      "6703",
+      "4062",
+      "9432"
+     ]
+    },
+    {
+     "name": "⑪ 光ファイバー・配線",
+     "equip": [
+      "GLW",
+      "TEL",
+      "APH"
+     ],
+     "material": [
+      "5803",
+      "5801",
+      "5802",
+      "6834"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "operate",
+   "num": "STAGE 5",
+   "name": "運用・クラウド",
+   "desc": "ハイパースケーラー・国内キャリア・GPUクラウドの運用レイヤー。",
+   "topic": "国内AI計算基盤の整備が政策支援で進む。GPUクラウド新興の設備投資が続く。",
+   "steps": [
+    {
+     "name": "⑫ DC運営・コロ",
+     "equip": [
+      "EQIX",
+      "DLR",
+      "CRWV",
+      "NBIS",
+      "3778",
+      "3774"
+     ],
+     "material": [
+      "3905",
+      "9432"
+     ]
+    },
+    {
+     "name": "◆ GPU・メモリ(需要ドライバ)",
+     "equip": [
+      "NVDA",
+      "AMD",
+      "MU",
+      "AVGO"
+     ],
+     "material": [
+      "285A"
+     ]
+    },
+    {
+     "name": "◆ エッジAI展開",
+     "equip": [
+      "QCOM",
+      "ARM",
+      "HPE",
+      "DELL",
+      "ERIC",
+      "NOK"
+     ],
+     "material": [
+      "6723",
+      "6701",
+      "9432"
+     ]
+    },
+    {
+     "name": "国内クラウド・通信キャリア",
+     "equip": [
+      "9432",
+      "9433",
+      "9434",
+      "3778",
+      "3774"
+     ]
+    }
+   ]
+  }
+ ]
 }

@@ -107,7 +107,7 @@ PROCESS_MAP = [
         "name": "⑪ 光ファイバー・配線",
         "icon": "🧵",
         "desc": "DC内・DC間の高密度光配線",
-        "equip": ["GLW", "COMM", "TEL", "APH"],
+        "equip": ["GLW", "TEL", "APH"],
         "material": ["5803", "5801", "5802", "6834"],
     },
     {
@@ -135,3 +135,47 @@ PROCESS_MAP = [
         "material": ["6723", "6701", "9432"],
     },
 ]
+
+# ===== v3 追加工程 (2026-07-08) =====
+PROCESS_MAP.extend([
+    {
+        "stage": "power",
+        "name": "電力供給・発電",
+        "icon": "⚡",
+        "desc": "DC向け電力・原子力PPA・非常用発電",
+        "equip": ["GEV", "CMI", "GNRC", "AGX", "TLN", "NRG"],
+        "material": ["9501", "9503", "9506", "9509", "9513"],
+    },
+    {
+        "stage": "power",
+        "name": "変電・受配電・蓄電",
+        "icon": "🔌",
+        "desc": "変圧器・配電盤・UPS・蓄電池",
+        "equip": ["6508", "ETN", "VRT", "POWL", "6501"],
+        "material": ["6752", "6674"],
+    },
+    {
+        "stage": "build",
+        "name": "DC建設・設備工事",
+        "icon": "🏗️",
+        "desc": "ゼネコン・電気/空調サブコン",
+        "equip": ["1801", "1802", "1803", "1812", "1959", "1982", "1721", "1942", "1944"],
+        "material": [],
+    },
+    {
+        "stage": "design",
+        "name": "AIサーバー製造(EMS/ODM)",
+        "icon": "🖥️",
+        "desc": "AIサーバーの受託製造・ODM",
+        "equip": ["CLS", "JBL", "FLEX", "SANM", "SMCI", "DELL"],
+        "material": [],
+    },
+    {
+        "stage": "operate",
+        "name": "国内クラウド・通信キャリア",
+        "icon": "☁️",
+        "desc": "キャリアDC・国内クラウド事業者",
+        "equip": ["9432", "9433", "9434", "3778", "3774"],
+        "material": [],
+    },
+])

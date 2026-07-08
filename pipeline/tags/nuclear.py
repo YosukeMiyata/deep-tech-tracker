@@ -9,7 +9,7 @@ TAGS = {
     "1801": ["原子力土木", "耐震", "日本株"],
     "1721": ["原子力設備工事", "放射性廃棄物", "日本株"],
     "6501": ["ABWR", "BWRX-300", "SMR", "I&C", "廃炉", "日本株"],
-    "6502": ["BWR", "PWR", "I&C", "廃炉", "日本株"],
+    # 除外(上場廃止/マスタ未登録): "6502": ["BWR", "PWR", "I&C", "廃炉", "日本株"],
     "5631": ["圧力容器", "鍛造", "日本株"],
     "5713": ["特殊材料", "ウラン", "廃棄物容器", "日本株"],
     "SMR": ["SMR", "NuScale", "小型炉", "米国株"],
@@ -82,3 +82,51 @@ TAGS = {
 
 def get_tags(code):
     return TAGS.get(code, [])
+
+# ===== v3 追加タグ (2026-07-08) =====
+TAGS.update({
+    "6492": ["原発バルブ", "保守・点検", "再稼働関連"],
+    "6466": ["原発バルブ", "点検工事", "再稼働関連"],
+    "6356": ["バルブアクチュエータ", "原発向けギア"],
+    "6378": ["核燃料サイクル機器", "化工機", "再処理"],
+    "1945": ["発電所工事", "東電系", "保守"],
+    "1968": ["発電設備工事", "原発メンテ"],
+    "1966": ["プラントメンテ", "九州"],
+    "7711": ["核融合", "ナトリウム機器", "計測", "ITER関連"],
+    "5310": ["等方性黒鉛", "核融合", "高温ガス炉", "半導体兼業"],
+    "6965": ["レーザー核融合", "光センサ"],
+    "9505": ["電力", "志賀原発", "再稼働思惑"],
+    "9513": ["卸電力", "大間原発建設中"],
+    "CW": ["原子炉ポンプ", "艦艇原子力", "防衛兼業"],
+    "FLR": ["EPC", "NuScale親会社", "SMR"],
+    "LTBR": ["先進核燃料", "金属燃料"],
+    "BW": ["ボイラー", "環境装置", "原子力サービス"],
+    "TLN": ["独立系電力", "原子力PPA", "AWS契約"],
+})
+
+
+# ===== v3: テーマ構造からの自動タグ生成 (2026-07-08) =====
+# 手書きTAGSに無い銘柄へ「市場区分+マクロテーマ名+サブテーマ名」を自動付与し、
+# 手書き済み銘柄にもテーマ名タグを補完する。themes/*.py に銘柄を足すだけでタグ検索対象になる。
+def _v3_autofill_tags():
+    import importlib.util as _ilu
+    from pathlib import Path as _P
+    _f = _P(__file__).resolve()
+    _theme_path = _f.parent.parent / "themes" / _f.name
+    _spec = _ilu.spec_from_file_location("_v3_themes_" + _f.stem, _theme_path)
+    _m = _ilu.module_from_spec(_spec)
+    _spec.loader.exec_module(_m)
+    for _mc in _m.MACRO:
+        for _s in _mc["subs"]:
+            for _lst, _mkt in ((_s.get("us", []), "米国株"),
+                               (_s.get("jp", []), "日本株"),
+                               (_s.get("solo", []), "日本株")):
+                for _row in _lst:
+                    _code, _name = _row[0], _row[1]
+                    _base = TAGS.setdefault(_code, [])
+                    for _t in (_mkt, _mc["name"], _s["name"]):
+                        if _t not in _base:
+                            _base.append(_t)
+                    if ("ETF" in _name or "ブル" in _name) and "ETF" not in _base:
+                        _base.append("ETF")
+_v3_autofill_tags()

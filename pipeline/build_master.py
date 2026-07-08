@@ -111,6 +111,10 @@ def build_theme(theme: str) -> None:
     )
     print(f"wrote {tags_path.name} ({len(tags_mod.TAGS)} symbols)")
 
+    from build_supplychain import build_for_theme as build_supplychain_for_theme  # noqa: E402
+
+    build_supplychain_for_theme(theme)
+
 
 def main() -> None:
     parser = argparse.ArgumentParser()
