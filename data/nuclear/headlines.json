@@ -1,4 +1,425 @@
 {
- "last_updated": "2026-07-01",
- "items": []
+  "_schema": "id: 安定ID / date: YYYY-MM-DD / title: 見出し / url: 原文リンク / source: 媒体名 / published_at: ISO8601(任意)",
+  "fetched_at": "2026-07-08T11:52:08.508913+00:00",
+  "theme": "nuclear",
+  "sources": [
+    "日経",
+    "Bloomberg",
+    "Reuters",
+    "CNBC",
+    "WSJ",
+    "日刊工業",
+    "東洋経済"
+  ],
+  "fetch_notes": [
+    "日経: 20件",
+    "Bloomberg: 10件",
+    "Reuters: 7件",
+    "CNBC: 2件",
+    "WSJ: 6件",
+    "日刊工業: 3件",
+    "東洋経済: 15件"
+  ],
+  "items": [
+    {
+      "id": "hl-3c40b925615eb75b",
+      "date": "2026-07-08",
+      "title": "Heat Wave Threatens Output at Five French Nuclear Reactors",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRVB4bm1XMkdwM2R4Ym1DWHdsRGlFbDlDVzUxT2Rxc3dkc1VCN1JBeHQ2amlPbXRtbk5kdk14QkV4UW1jVklPOGFlYUpQLVRoYk01OS04bjl1NGtraWZ0TUoxdENUdXA5VktqN2pjY2ZBTEhzTUFFT2MwMFFVVDBCS080WTRrZlp2bGUybE5adXFtVng1eXZWRHA3RjRubTVhR05sd296bkZ1U1VTWnc?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-07-08T09:46:35+00:00"
+    },
+    {
+      "id": "hl-028931430c498097",
+      "date": "2026-07-08",
+      "title": "Nuclear Power to Climb 44% Worldwide as China Tops US, BNEF Says",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaG9YdmVEMXNGNTg5QkE1M1lJUGlMdi13a19KbjRiMUxzQzJxaFIweElkZVFfaTNieE5MMExteHZGcGRLOFFUVmU5NFZsMW9lSDVaci1vSjlraTBCQ2dnU1Z0dmdSbDl2Y3dBZ2F0TThPdVUxUG5FVGg4a1dMc3cwUVozVlR6LUl6V2VuMUVBX2NRN3pxN3NjeU5OVkY5T0J2VGhvc1ktX2I2MnlqZTRhaHU5em81RnoxR1FCUjdpTnhpaXlVeExyaUk3R202X3RwV3c?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-07-08T07:00:00+00:00"
+    },
+    {
+      "id": "hl-e5cad4fc143c8208",
+      "date": "2026-07-08",
+      "title": "日本製鋼所株価が反発 中計の目標を上方修正、原発関連が需要増",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PTWNaRmlRcWl3QlBwUTF6LWh2UG1JbHAtNzVpNlNzeUtEX2FYN21QcDQwWnp0OWFucVBQRE1TTDNQZWNSOVFYS0xmWUppM2hGSGxQaGJXaU80SURjdXJCSHJBY25qUnJxWTYzRw?oc=5",
+      "source": "日経",
+      "published_at": "2026-07-08T02:03:41+00:00"
+    },
+    {
+      "id": "hl-72b640bf62af1052",
+      "date": "2026-07-07",
+      "title": "South Korea, US and Japan agree to cooperate on SMR deployment, Seoul says",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZWw4cmRKTmdZRGR5V3NuN2xvX0w3WkctUjdEczVjRjF3OGxwZHZDY012RjROMHdOeVJZZDk4bWQyVXZ3VDMwLV9HSWFnM2g1ZUdFeEs0TWhCeDRFakpyTkVWMjNmZ3pNQklJdWYtYmlZM0U0cVJCbVgzWEFCUUNCWUJaeDR0RnZfUmwzSGJPMlhRVzc2aE4wQUFSVlQ1YUQxZTRYUXI5VUg5UElGQWVHSDFaT20?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-07-07T22:20:10+00:00"
+    },
+    {
+      "id": "hl-9fe1d9ab5a034ca8",
+      "date": "2026-07-07",
+      "title": "風前の原発新設ノウハウ、40年代までに最大5基へ暗雲 仏は官民で育成",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZzFpUFFfYlpycXRjZWExVENmRl9yTHRVZUItN2JUZUV2eHNjbm5tNGR2WU9SaENjNXpuZHNKQnNUQzIwc2NRSWpSTWlrWUxtWndPTG9ET1VLR2VGZ1NTOTAzRkU4V2hvUW91SU9UZTZNQk5JOVJoVkUxZGI4WlRHRnFKRzJqSjNvSGY5Q25WeEtKSUxXa3VqbW5ILWtiMjJmVnU3a0hrbXg?oc=5",
+      "source": "日経",
+      "published_at": "2026-07-07T20:00:00+00:00"
+    },
+    {
+      "id": "hl-241f90bda6e60aa5",
+      "date": "2026-07-07",
+      "title": "風前の原発新設ノウハウ、40年代までに最大5基へ暗雲 仏は官民で育成",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkSEo1eTJsbzF3NWQ3QUtSTGc4ZE5FbnM4Y3l4ZFhPMGdrU3dVb1g5Umd4V1hjQ2JNSmUwa2NuSnIwRjNmRXM2OENKc2Y4S1N4bDRXUkFxQlAtVEJwMEtJR0ZFeWRtVHlLeHFobA?oc=5",
+      "source": "日経",
+      "published_at": "2026-07-07T20:00:00+00:00"
+    },
+    {
+      "id": "hl-1d992cb1178af20b",
+      "date": "2026-07-07",
+      "title": "「脱原発」の台湾、風力発電が西岸で加速 - 日経クロステック",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1teWJBNHQtdy1oU0djRWZPOTNuVy1nZUVaY01PZlFjNFZ3Sml5QUhjVWVQSWl3S3pZTE1rbkkwRDJweWVOeDQ5Q05sMm5kTlFPT2J5QWZFYnowN0lRU0JnUjVLRWdtODlITi0wTA?oc=5",
+      "source": "日経",
+      "published_at": "2026-07-07T20:00:00+00:00"
+    },
+    {
+      "id": "hl-7832a8382b06cad4",
+      "date": "2026-07-07",
+      "title": "The U.S. Has 100,000 Tons of Nuclear Waste. Now What?",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY3g0bGV4MnZUWDNfY2tlR2R4ckJjTHhfVHRsdWVGb1N3YTF4STNtRFpFUlJEb2ZZWVZtRk82RnBlY0JvbXZRV0xkTjRtOV85NXBfQmJKMUZUMW5Hc19sMjhlbWpnYmpMWlR3a0xucWVJUUd2N2lYMjRlNUp0VFM1WmFKZjRVNjJjUFB5REstNHIxQ2dzek5uT2ZsWHo4M0p4aDctcHlvX09BVjE4QXZNUA?oc=5",
+      "source": "WSJ",
+      "published_at": "2026-07-07T18:12:22+00:00"
+    },
+    {
+      "id": "hl-14818f6139ad84d2",
+      "date": "2026-07-07",
+      "title": "原発再稼働の盲点（上）使用済み燃料 窮余の輸出 関電、貯蔵プールの9割埋まる 核燃サイクル 仏に依存",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNW1ZZ3p0WXY1Ymd6dmRGM0dHOE56X1NjYnlKRzY2WlBDMDc2djU3dU9YVTZiY2E4emdjdzVkd1BtWHJHX0JSdjhNVDhFTEtrUUdNbnhkb1dacFNxNm5RdTNFZk1IVVlhdzNuRXo2aG9EdTlUZnFWUXRPeU41TklqeEZBd0VEZTFhUi1McVU2c2hVTzdiTUNpTk9TREVOYzFEcjExOUZQZks?oc=5",
+      "source": "日経",
+      "published_at": "2026-07-07T17:23:01+00:00"
+    },
+    {
+      "id": "hl-5eb46812ca3eb61d",
+      "date": "2026-07-07",
+      "title": "原発再稼働の盲点（上）使用済み燃料 窮余の輸出 関電、貯蔵プールの9割埋まる 核燃サイクル 仏に依存",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wMjJiZ0VCV200TFhCaXpycmlPWUR6bjFjbFJPUUUxellUSTk0MHJfanFIUVg2TWNkMHgxY080UTR2WnRNZl9qQnlOWGdLN05tanlpX3pLOW5zeUR3VXY3M2VUMlVDTkdXMWhOWg?oc=5",
+      "source": "日経",
+      "published_at": "2026-07-07T17:00:00+00:00"
+    },
+    {
+      "id": "hl-23633e3e7027ebb0",
+      "date": "2026-07-07",
+      "title": "柏崎刈羽原発の特別委を 新潟県議会に請願提出",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOa0xaUDdSWE5XbzVKMFNsdVVxNm80T0FKWnBIR3U0dXBZTFJ1WGZva0VvUkk4cHBkSGdEcFlsd0UtcUlBaHB3RmZWSkdsdUI3VXpKTFFpcTVfcWFsbXJpd2FpOW1kaUdZR2plNmtmS2FOX0dMek5HQTNfLW4zcTAwSGVtM0liUkRHNjVicDBQbkN3ajZjUHdDU09PQTFpNXYwZkJfSV83R2M?oc=5",
+      "source": "日経",
+      "published_at": "2026-07-07T16:52:59+00:00"
+    },
+    {
+      "id": "hl-2a14465552e7eb19",
+      "date": "2026-07-07",
+      "title": "Nuclear fuel firm Standard Nuclear eyes up to $3.55 billion valuation in US IPO",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeDhBX3BHQ1Z5MDE5ang0cnhrVG56eVhjYXByWFprdGROVkJ1N0tBaExkbEgwY2lJNUhXRExhdU9ZOERkdU9HSGpKTEJReTFzTWppQ2lWUTNzSklibjY3WkZfNmhfa3lTZ3Nrdi1KYXFMOURkU2s4R1BLX1ozVEo3bnFyTGlDWUlmdzdfaklFLWd5d0thSnZlSHExTjhoTk1oTVdvMGVJdmh0N3ZuMVNuVlR0aVpzWi0wZ2FBZTIxLVZHSENBTWc?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-07-07T16:50:31+00:00"
+    },
+    {
+      "id": "hl-9f61b2fd6b941c6a",
+      "date": "2026-07-07",
+      "title": "柏崎刈羽原発の特別委を 新潟県議会に請願提出",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1mUGJ2TUZ2cjEtWm5qU0JZc2d3TlVJMnNBS0RrLXhlckhwTW1mUmt0MmJDdlhWZlo4TFR4SUdPUzU5RUZBVDVCT3d3VDlzb2lhUGl6YnE4dUxockF1a0VuR0R3a0kyUzdjTEJaSw?oc=5",
+      "source": "日経",
+      "published_at": "2026-07-07T16:49:00+00:00"
+    },
+    {
+      "id": "hl-8a32f21b7b9ffe9e",
+      "date": "2026-07-07",
+      "title": "Standard Nuclear Seeks to Raise $383 Million in US IPO",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRHdRcGpYbzJrcldJUzVic21LUVdtdE9KUVFpM05IdDFCVEh6TWpadUpEX2d2T09xNVM5M3BYSXFLUktzbWZEZ0VYOW5SOWQ1bGtIdEN3Qzh1V2tLMkZpY1ZjQXJabV9OUzI2ZUZwWkZRdHotRHpibHFmeDBGZHJrcnhYYmJ1alM1XzdWVHZIczVLaHVxR2ViejNCeXZMX1h3eVFPM1pFZw?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-07-07T12:09:43+00:00"
+    },
+    {
+      "id": "hl-fe5d0cec42492bfd",
+      "date": "2026-07-07",
+      "title": "新潟県議会に柏崎刈羽原発の特別委求める請願 6月定例会で提出",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4xbUhIN19qV2pwSUFnbmctSFV3RU82Q3lrYWctMWQwQjFkQTlQQ2tXX2ZVVE1QeGFSRlYwTmtEazVsR1hJcHNPR05wZUZydDFlZjFRQkdsX0ZNaEFtYmxCMF82OFBZbTZyNmN4eQ?oc=5",
+      "source": "日経",
+      "published_at": "2026-07-07T09:23:08+00:00"
+    },
+    {
+      "id": "hl-9ff9c28d60bb4b2d",
+      "date": "2026-07-07",
+      "title": "災害時にスマホ使い放射線測定 原子力規制庁、KDDIと8月から実証",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBMNUw2MmxUMkF1M0dOMmZDUTR2bXliNS1rbDZCcGhwSEowa0ktMUo2NWs0ajY3UVQ0VWZ5QXJUZEFWZWM1RVg0QllwSVY1LUdnUE9SeXo4MWpjMEpDYWdSUjFWOVdjcWZzYTVUZg?oc=5",
+      "source": "日経",
+      "published_at": "2026-07-07T07:20:19+00:00"
+    },
+    {
+      "id": "hl-c6fabf8448e405fb",
+      "date": "2026-07-07",
+      "title": "災害時にスマホで放射線測定 原子力規制庁、KDDIと8月から実証",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdjFMWktSWFR6TW5xSUJmZk5mdXlFY1hfZVdnTjV0Q3J4el9kRVlQbXRRbjBUSkt2bDFiSVNMMXFNZThzX1ZLTmFPX052eXR1RVM2Zm5xVnE3RlotZFBMclF5WFhKR2I4d2dramdGQ0ROUWQzOXZEY0dteG9qcVNOcmh5aVl6OEh5eXhsSGFFYzBwVk16WFJ1WHdhSnNPamhPVjVVNjhB?oc=5",
+      "source": "日経",
+      "published_at": "2026-07-07T07:20:00+00:00"
+    },
+    {
+      "id": "hl-0736ed8be049a35c",
+      "date": "2026-07-07",
+      "title": "Google and RWE Back German Nuclear Startup Proxima Fusion at €2.4 Billion Valuation",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQU3lwN2JQSWFkaTNfbi1DRU1BYlNVY3RsdjMwdHpVeVVyc055d3ZXRnpzNUVyWkF4WEx4SFNmSnBRZmhQbVhJOTJ0bkszVDZ0TW1vUGU1U1Z4TlJzdmFsbVZkMlR6VndVaTRoSXB1VXNIR3hmMndaUzNGbDNJOGhzYlppellrNUZDZTA4NkdFZ21FYXBaT01wMDFueW9PaS1wTTVwNGliOE42OVFFazJwRDRSZlI2M0x5aDNzRjJHU2JOQWg4MHN1Vg?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-07-07T06:45:00+00:00"
+    },
+    {
+      "id": "hl-83f1051927cd43ee",
+      "date": "2026-07-07",
+      "title": "Google backs nuclear fusion startup targeting Europe’s first commercial power plant",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE84dFZTeUI5R1RnMEFOazktdG5fbV9wZlZUZUJrX3RacmlsWUYyR2N4MW1LMWljc3Npa3FWZGhPdzh2anZtN01xcmRUUk0tR3lhdWpWS1hra20zTUNscExkMWFBSVNjVU94RjBWS0V6d1Fyb2Rs0gF6QVVfeXFMTXdQNHdZQ0FtZVdZaXBoX05SUlFaSjlYQURYWHIxdUE1M3A4aFNSUlB0V0RIU0k5X01lazVyRFJsT0Rxdy1LcWRoaWtUaWhsYzRPblJjeHZ4bnlUNlc4VlZqU2R3ODlNeFgybGdrYi0wekhqNzFFcW9Ic0E?oc=5",
+      "source": "CNBC",
+      "published_at": "2026-07-07T06:24:28+00:00"
+    },
+    {
+      "id": "hl-68e6ee2fb77da776",
+      "date": "2026-07-07",
+      "title": "Chinese Nuclear Submarine Test-Launches Long-Range Missile",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNnVBcW9fU2F2QzloMzBkT3Vsc3I1aW40NW96VmczOHM5ZUIycmY0SjRRMUFNbl9KTWJtZDlyZTg3c3dvVmpWdmhJb2pDYXVLVTd4LW9WVmVteE9WZVVZWHpBNHE5QUltX0Uzank3bkZvd1RNZE11SDY5S196ejdON1dUeTdwbmhLQmlZbW9rWmdORTdw?oc=5",
+      "source": "WSJ",
+      "published_at": "2026-07-07T02:41:00+00:00"
+    },
+    {
+      "id": "hl-b22e0035050921a5",
+      "date": "2026-07-07",
+      "title": "原子力機構の価値 原子力の社会実装に向けて（175）中性子集光スーパーミラー",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBnUUNGWURYcFIyNE9jSXlqSnZBR21BVkVnMTJzamVYWWtkOXVwTUNfTk1YUEoyLVpFOS1qQXQ3ZGhZWkFwdWIwdEhSVzdHekZ6SGg4Qk40Tm9GVjg?oc=5",
+      "source": "日刊工業",
+      "published_at": "2026-07-07T00:05:40+00:00"
+    },
+    {
+      "id": "hl-6722de8b733a6ce9",
+      "date": "2026-07-06",
+      "title": "中国原子力潜水艦、太平洋へ弾道ミサイル発射 日本のEEZ外に着弾",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5NdTU3cGpuVUdUcFA4OUcxeWJVZy1QTmpkV3FsM0xETGxURHNSeGVnNURIbzBtNk9lOFUwWEN4Z1VtR1JMZzQ0ZXV5am5rRU5RVlNPeEhiT1lVZGNoTldrN25vU2JBV0dSekxsTg?oc=5",
+      "source": "日経",
+      "published_at": "2026-07-06T05:07:56+00:00"
+    },
+    {
+      "id": "hl-cb3ad15a6c4b9f6f",
+      "date": "2026-07-06",
+      "title": "Watch Nuclear-Arms Exposure in ESG Funds Rises 95%",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOelpwcGx5WmlISWRmdVJDZnVnOWZweFF5a0huYlpjX3dERXdfNzl3WU5Wd2RqTU5HeUk5SmNWNU5RQUFuQzFHUUFjQ1hQdVpQVGFiaGpENkJSQVF0dkdCTmhhRFJLdU5pX0xCWUs1cW1QYlFiQzJjYy1Yd0Z6bjdIODl5S19XM3FNbXQ4TG56VWhDU0RFSHlkaTI2dE1NZ2s?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-07-06T00:00:00+00:00"
+    },
+    {
+      "id": "hl-6d0b1b944332caf3",
+      "date": "2026-07-05",
+      "title": "Opinion | America’s Nuclear Renaissance Is Underway",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZWo0U2ZVLXlQM2tWakhOZmlYOGJ4V29CYlR1NHNkWnNZTmpSdjFTRkpleGtSSTg3YjNYS09tRk45SzFIQmxpS2lwQTVQSmtkVWw0eEppajhMLTg1VmlIZm81MlhENU4wSndIVWVWN2UwT1Z5Snk3ZTVIN3hsQ0V4ZkN3aw?oc=5",
+      "source": "WSJ",
+      "published_at": "2026-07-05T16:34:00+00:00"
+    },
+    {
+      "id": "hl-6661017e389d74ca",
+      "date": "2026-07-03",
+      "title": "篠山紀信氏が撮った建設現場と震災・原発事故 - 日経クロステック",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeUhUQnBxc3hSbGZyZVdNaXVReE1uN2NqZFhrOTczSUZ5Mno1WXhTdG1LUi1zaE1XdFJLS1BOdlBpM2tlYXZMLXkyQk1TMzdZTDMtYjhjdGx0ZWpocnVIVURhZ3hERjZFVzJSZUNGYnJEcnJRNVZGVE1lR0xfM1ozSU5Na184d1k4UkJ2WmFOaXpEalAzUEZjSXc1aGQtR3RFaDZINHZRTjRPb0FKTEhFODY1d2R1a2wzRGRsXzVoNnY3VEdRYXFpT2Q0S0lfajg?oc=5",
+      "source": "日経",
+      "published_at": "2026-07-03T23:10:46+00:00"
+    },
+    {
+      "id": "hl-46441a41ded64c23",
+      "date": "2026-07-03",
+      "title": "Vietnam has had talks with KEPCO as seeks foreign partner for second nuclear power plant",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaUVRdnk1NmNRZ2U2c3ZpUFNBQXlQMC1LYndQSm04OUNvTXVYR1B0eEttS2xHUnlaUHl1d3hzbV9QWXVzbWdfeTh5d2VZZnBGS1RLV1gya091ai1WUGNETUVtcUNuYWIxRXQ1Rl8ya05jR0xWRFNSaWxfZVBGRFBVbHRUc2lhN0ZqME1kaU1aNk1xTzFzU1pXUVMzWmx2bmh2akk2M05paHRfTDJsVVVpTWhqMkFxdVZhMldxQWxDT2JyZ29wMHc?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-07-03T14:41:26+00:00"
+    },
+    {
+      "id": "hl-404af840ba681b29",
+      "date": "2026-07-03",
+      "title": "Canada's AtkinsRealis anticipates Turkey's early nuclear assessment will be completed after summer",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQjdjTE9HLXpWX3poSFdNWmxEbmVWTHIyQ2Q5ZFhYZTNfMVdYRGxfMksyTl9WbURCa1hlTFB6NG1VbVg3RnB5YTE5X05vTTRLR2RPMUh0VFBUVWplNFhla01aVTk0S2Z0d3ByNXE1SFFUQ3U3ZW5hbUE4ZGh1LVdXQmJJRFM5LTV0X0ZzMGgwSnFXWkFZdFRCV2FSNktESmRVdlZJZ1pJVlQ4ZVFwRGZZMV9EUU5xTGRkX1E?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-07-03T09:20:19+00:00"
+    },
+    {
+      "id": "hl-b5c1d7986c5bcd10",
+      "date": "2026-07-03",
+      "title": "Europe’s Newest Nuclear Unit Took 39 Years for Slovaks to Build",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNd2hMRE9LRFFvM0NVQ0daOFZvSE16YmpSVkZlQnVRT3BTR0JjREhKbFRNRW9Ea0NuOFBaaThBR0pnb21LMFY4T0h3Qm9WdV9CeDhZdmE2OHBnUW5OcjVaVDhnNTZoLWI0WDgtc2dVOXlVN0JKRWNVZjJmVndEbzQwTU9lUHNRN1ZYMnZYaVJDeTIwZGFKTHRPalh5c2tRTzdwSjlWbF9xY2tTRzF1THgzam5QQzZYaW94QmhmV29SWFRnMUhJ?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-07-03T04:30:00+00:00"
+    },
+    {
+      "id": "hl-8cfc22b5552600aa",
+      "date": "2026-07-03",
+      "title": "浜岡原発不正、経産相「厳正に対処」 規制庁調査後もデータ改ざん",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYnNCYVloMDBtaDZhNHM1NjRSNl9GazdiNVVJeTlDWkZQdG1zS1RReE1VSmpPRldLR1hjaWpMNFByQ053YTE1UkJHNWdvWFNvYm5rSUttdm1UbWxRSXh0dVVFbFp1RHRSb1VFeEI2Q3ZJZUM4V2FkMnp0REVHalFnUkdkcTRVbTdvNlBCMGtPeVZvdXBxVGZJOTlHYjdHUGdveXplejVn?oc=5",
+      "source": "日経",
+      "published_at": "2026-07-03T02:25:00+00:00"
+    },
+    {
+      "id": "hl-e23c6f5d649cb722",
+      "date": "2026-07-02",
+      "title": "NUCL | Eagle Nuclear Energy Corp. Stock Price & News",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1VZ1BBQ1VQc1c1WHFwQno4Vk4tNHZJMXMyOC1FcVBMX3hvMDQ0elZCdUtOTkV1Q2pMZ29QMFN6WlgtVmptQ2dfU083OVRweFdFRDdHMFBlWkFxYkl6UGNFaQ?oc=5",
+      "source": "WSJ",
+      "published_at": "2026-07-02T23:08:00+00:00"
+    },
+    {
+      "id": "hl-eb4d42dd27dbf64a",
+      "date": "2026-07-02",
+      "title": "原発「基準地震動」のばらつき、大飯逆転判決の意味と浜岡データ不正の罪 - 日経クロステック",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pWEI4U2lQMkxyLWVLbFZnYTVja0pzOTFLOXhkbzVRT3VzRnFTM281SjctVmh2SEx1OXlfc1BvY0ZhaV8za3dFbjYtdVM0WU1UOHQyaE51QU1uT3lPWGdLaVhDVmQteGZFd2F5eg?oc=5",
+      "source": "日経",
+      "published_at": "2026-07-02T20:00:00+00:00"
+    },
+    {
+      "id": "hl-aca72c28cc976c5d",
+      "date": "2026-07-02",
+      "title": "経営ひと言／日本原子力学会・小崎完会長「福島に貢献」",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5CNFFXeTlWTEFPNnAxWWJNUlA2SFh3dXR6RGV6UVVBcTA4T1UySXY4TjZNNTQ3Zm1oUHZWcTRVS2ZwRkc3eVFiY0kxeVBxSV9GdGJITDFPRUpmMU0?oc=5",
+      "source": "日刊工業",
+      "published_at": "2026-07-02T20:00:00+00:00"
+    },
+    {
+      "id": "hl-0c11ce08a785e6a3",
+      "date": "2026-07-02",
+      "title": "Watch Nuclear Reactor Powers Nvidia AI Chip in US First",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPN2R5aklYWlRIaGpaQlA2SzJMUHduZmZPdk1La2MtcS1OSllQa3o5NVp4VmVleFRKdG5SZy1DUmw3elJqYVJvLWJOZmNIMHc1a3hfVE1IS2k1TXM0SXhwRGJpb3VTc2FleU5ma2RVTDQ1Q3BUR1RGZFpHV29rYm53VGtYZS04dzBTSU1ZN2hjV0IwTVV6Ynd1cDVQYTBsbkh1cjRXQW8taw?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-07-02T17:40:17+00:00"
+    },
+    {
+      "id": "hl-444904e899cd37a0",
+      "date": "2026-07-02",
+      "title": "九州電力、玄海原発4号機の長期管理計画認可申請 27年7月で運転30年",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdFlQRFB2UFppQnp1YnFvVlZfZ1dWcHVVT3dveTk3UzJkYVpHaVZRVzlOekNJS3NNYU82NnRFSEdmYVpjeHMzUXA4TWwwbGtIT3plYUcyS0t2U240ZU9lUUtlaFZxTURWb0FKUmFRX3hySnRDMjRlVk9xNjV2ZlNRdEV0WkhsaFRGU2FQTF90QnJTVmx1Qk9halQwUlJIUk9nYW9tbFF2WnA?oc=5",
+      "source": "日経",
+      "published_at": "2026-07-02T10:27:00+00:00"
+    },
+    {
+      "id": "hl-83cbbc325fddb41a",
+      "date": "2026-07-02",
+      "title": "Nano Nuclear reveals UAE microreactor strategy to diversify regional energy risks",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWmxXVlU2VzJsWXN5RDc5NUNJOTh6Tk95SVh5dkp4dGhCRkJDYmRCUERZVGRTNVNncENyZ1QtU3NWVGVaZEVjSmZaTmduSUphenpuR2RHMHFqWkl2eHZhRzlING41dVJtQUFPV0g4M0JkMGZkTVltTWI4LTFDTktzX1JNM2t0OTdzN09tZFRsVjZJZ1NENXFzT0xRZ2ZrWmUzYmtGX1E4eEVRNUdj?oc=5",
+      "source": "CNBC",
+      "published_at": "2026-07-02T07:45:00+00:00"
+    },
+    {
+      "id": "hl-ef9fdd4f4e399bf9",
+      "date": "2026-07-02",
+      "title": "画像 | アメリカ海軍原子力空母で発覚した大規模薬物事件の深刻事態…違法薬物は横須賀基地外や民間にも流通していた可能性",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE10UWdMcTNUa3M3YUM0UkdKNWl0cmdtUnJZNTNzbXdHX1F3YUlBM054VXU3RWxTRC11dWk2Yi1Yd2M0cFJBeG1JR3RrQzZJMEFIMXNjZDZCTQ?oc=5",
+      "source": "東洋経済",
+      "published_at": "2026-07-02T05:11:46+00:00"
+    },
+    {
+      "id": "hl-49732f8f1bf1779a",
+      "date": "2026-07-01",
+      "title": "US nuclear power regulator proposes changing rule protecting people from radiation",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQS0M0clBnUnpWa0NVdnRCYlFjcFFDaGg5TXU0VnRZS3JROF9YZzB1LWduQ05IMUc4S0M1WGRqb0VTMTkzcHEzM2RjZWZRbVNRZVhmY0NoT2U3dWE0UXhuYzNlaDM5VFVRNEhvVy1SeWdIZkZ4QUpEc2U5aTQ0NlVYRzdkUkxXVGxyd3pOS3d2RV94RjR3T0FLQUVhZ1Z1eDc3a2E1TmN2b3JjTFRxOTFLdjlmMU81Sjd5dU4wVExrVGEwZWhyQTBPYTlR?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-07-01T23:59:58+00:00"
+    },
+    {
+      "id": "hl-83df9ad8ac74ee11",
+      "date": "2026-07-01",
+      "title": "Polish small nuclear plant developer SGE targets £35 billion fleet in Britain",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdUs2Sy1iVG94OThVZUNjWXRRNlNSem5vR0NCd1htZHRCSFRheVp6TGlrN0ZhaHAxNHFhLURGV2xVS0FYMjlPYzJpUGZXZG1xb3VLX3ptcDlXUmp2ekN5S2lvNWgxT3NHR185MHZERllISHB2QjF1NGNSb1NJSzVyX0tlQnQtVmR1bkdWa2dYb096U1FKQXBfY2RtVHBZakZsQlZRNEJTOFJ6Q2tIWFZ6SVpkYy14OWNObldvVlZTQ0NjTjA?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-07-01T23:07:48+00:00"
+    },
+    {
+      "id": "hl-b1eac498467b59a3",
+      "date": "2026-07-01",
+      "title": "Billionaire Solowow’s SGE Planning $46 Billion UK Nuclear Fleet",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaWpadHV1ZFFYZWY2Wm9yOWYybFBtX3NpWkt0blY5ODBvY3V5Qk5FcnZnYVdndHJQck1jSVJ6d1R4U0lYSkh5MGprampYNVFnNkNTS3lfVklBZnEzVE1pZG5YMGRYamxzUDJPQ3hrYk5tWnh1YmRkT0xsWjRBcTBqa1FsZXZHOE5hOFVvQWExMnUwSFhPOGhGQnFBWnQ2T203RkRpdzNpS1FfOWFWVW1aS09vWQ?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-07-01T23:01:00+00:00"
+    },
+    {
+      "id": "hl-5294f06cb2e3e7d3",
+      "date": "2026-07-01",
+      "title": "Trump’s Nuclear Watchdog to Ditch 50-Year-Old Radiation Guidance",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeHg1TWE3cFotZ2huYXhYYU9CSmxFcmVrVjFGeTRvY3R5TkJqQS1Ra0oxelNyMEF3SVVTcnk2RVZkLUd3YUNSQnRZS1p1RzRUQ0RvalRvWVJFQlFaWGFVcHBpMW55UHNVZkpncWFMcUxDMUFfMHN0UnZHSkQxRU5LR24zbkJ6bXlGdjQ4c1gya3UyNHZNREUxLWE5ZnhJa0tpVUZYQW43T1dXWDR4eHhyU2g2azA0QQ?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-07-01T21:48:10+00:00"
+    },
+    {
+      "id": "hl-2aec219516dbbacd",
+      "date": "2026-07-01",
+      "title": "Nuclear Firm First in US to Produce Power From Advanced Reactor",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPamJXT1FhVlFkeWNjQ0h2VkZMXzIzYmRybzJzOE40NlJVaF9Pdmc3SmttbVV0WU1IN05VRDRwbmFsNzVaOVdRWVQ1ME9WcjIwSnJBd1EyN3Z5RWp2MG5sYzJaWlBOM3d0N0dybHBHUEJqTmtmSlNGX3l6aW04ZFNfaDU4dzVwR2JCemFseXlRZWJiMkdoUTV3cDFnTXl4YUhhNXE4d0phZlY?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-07-01T21:14:39+00:00"
+    },
+    {
+      "id": "hl-e70fbc5798c0b870",
+      "date": "2026-07-01",
+      "title": "アメリカ海軍原子力空母で発覚した大規模薬物事件の深刻事態…違法薬物は横須賀基地外や民間にも流通していた可能性",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBUdWN2THRyTUszLWZlNzJJdFR2MUxOV3RVQ21Fc3NWcmNhbXNxdEgtUk1ScVNxWHhaaFhwdjIzNkhBYU0tQ3p4Vm0tTExCLTNtaV9RdU1EYkc0VXdOZTZ3?oc=5",
+      "source": "東洋経済",
+      "published_at": "2026-07-01T21:02:00+00:00"
+    },
+    {
+      "id": "hl-92ebe68f20e0095b",
+      "date": "2026-07-01",
+      "title": "アメリカ海軍原子力空母で発覚した大規模薬物事件の深刻事態…違法薬物は横須賀基地外や民間にも流通していた可能性",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5wbXBvMFBSMEVlMkhQWVo3bWF1aG5nZEJvN1Nxb29zMlkyX284M19Va0kyYktXWnZvNXJvLUJNS0x5MGhGRE1Tek44R1pPTnlyaVE?oc=5",
+      "source": "東洋経済",
+      "published_at": "2026-07-01T21:02:00+00:00"
+    },
+    {
+      "id": "hl-15255462558d7710",
+      "date": "2026-07-01",
+      "title": "調査開始後データ上書き 浜岡原発不正 中部電、弁明目的か",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1jb0pjQVRfbnpEaXE4NmlhNFZvZnp4RWM1VnN2X2t5QjVhTXpuc1FQNUpDZE8zQTEwQ1Y2ZXhXNGVoUFFDWmNXc1BPYjJ3VXBERC00VmZmQVVXSGZaU2NqUzlmU3RlNDlGLTlpWnpZU2lkQmxr?oc=5",
+      "source": "日刊工業",
+      "published_at": "2026-07-01T20:31:19+00:00"
+    },
+    {
+      "id": "hl-3b93deea3a6ebeb4",
+      "date": "2026-07-01",
+      "title": "Valar nuclear startup partners with Nvidia on data center aiming to conserve water",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdnVJVHpJVTJtc1E3WTJ1VGQzRGdaQzRKM2tFRXliU3ZWVGZya1ZJdEE5X2YyaTlGZ1hjdUw3dEFuZl92TnVGWXlFbW4xaFZ3OTkyckE5SGxibzlHS093REtmVS1Hd1lBSXlIMHExRVJ6UGdHLVNfYXIxT0ItYnFGMkFLb2Z4RjcyU3VxQVJ4V3BIZW9UTWdKWEJtSkZhb1gxZkEwZDZQYTYxOHVCME5XbmhzUlVsZUw5a2syT1NCSGVQSkFXWTR3?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-07-01T19:11:53+00:00"
+    },
+    {
+      "id": "hl-8c1f8eefb35377c9",
+      "date": "2026-07-01",
+      "title": "浜岡原発不正、調査開始後も改ざん継続 中部電、追及逃れか",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMXFTcU9sSGljYjZldDJwblZOczZfNFV1eGo2THk4N1A1UTlLMHNveVdJbDhJZGJ0WWtPenppaFdhRU9BOU1WclBKLWVnZTRHR3dwSTV0TGU5RjBMTVRrR3VMaXRCYVhjaG5rd3VVaGpWSDI0OVgyNkxmTC1uM2tsUWZhWWtOWXJwT3JFRkRpY0dPeFQwV3ctNkhUdXRJdzZjVl9yampR?oc=5",
+      "source": "日経",
+      "published_at": "2026-07-01T17:10:25+00:00"
+    },
+    {
+      "id": "hl-a5bba7e57f3c5a33",
+      "date": "2026-07-01",
+      "title": "元首相・福田康夫氏「変わらぬ中東依存 原子力の議論深めよ」",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWHBBYlNMajlQU19wcllkWm53eUItdGU4WnRJN0haWHJDTTFHdXVlc2Y1eW5vVjdDb0ZiaFNkT2F0dG9IOE9YR3FjVTV6VUlzbUdETTh4dHdfdEVNeURWdUpRNDFzQU14akRkOVozZmE5Z3F0WXZZd3ljUzFOcGtfU1Q2SkMyYVhfcmhucDJIMmR0a2M2c0VrMk5OVWRybTdsUDRSTGJB?oc=5",
+      "source": "日経",
+      "published_at": "2026-07-01T17:08:23+00:00"
+    },
+    {
+      "id": "hl-98536e45f6c5a442",
+      "date": "2026-07-01",
+      "title": "浜岡原発不正、調査開始後も改ざん継続 中部電、追及逃れか",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPN2Z3VDMwcUVUcE5uMl9aRkFFRGl0QVVrOXJmTU92bWVfMnJZOVJsN1VDYzRkbkhIeG9ZZVQyTWZKV2ZCcWd0d1lPS3IwMVkta0tOOUF4TDFXSjJZeElqbUYzS1hQdmo1ZHVGS1dsaEN6d2ZCeHpHZDhjeTRGbjZGVFp0X0c2Wk04aGNJQnpmOE5VZnpFeEtKOVhVWnVYSmotLTNDM21n?oc=5",
+      "source": "日経",
+      "published_at": "2026-07-01T17:04:04+00:00"
+    },
+    {
+      "id": "hl-cb0469cd5891697a",
+      "date": "2026-07-01",
+      "title": "元首相・福田康夫氏「変わらぬ中東依存 原子力の議論深めよ」",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAyYnBiMGsxdHFHbzV1WnhrSmxzWkUtTlRlTU9kZENlZUl2Q0wwZjNNS2FQZUFYSXNPNmVrUGpHaDVkbjA1WGNlR1BsQ1B1WlNuZUlYS0FLQnFXQmNVOURnbGVCOGlWSVp1aXl4VA?oc=5",
+      "source": "日経",
+      "published_at": "2026-07-01T17:00:00+00:00"
+    },
+    {
+      "id": "hl-ca945ea3b5befb66",
+      "date": "2026-07-01",
+      "title": "Opinion | Nuclear Generation and Capacity Is on the Rise",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUTYzbFFQYzNZNm12dkY4WUViY1hXM0dEb0JTM3lFWjZOdHMzemZEWlRTWEl6SjlCZ1RlNmo2Z3I1VDFnR0UycXVrMkJlYkdYSjNkU2tjOHNOcTdhaVo3WGtfbjNYSnZ3X0I4dlpZdEJmOWtnS2RTSGd3MnR3bFdHLTFfSndQcnRNRXow?oc=5",
+      "source": "WSJ",
+      "published_at": "2026-07-01T14:48:00+00:00"
+    }
+  ]
 }
