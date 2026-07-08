@@ -3,9 +3,11 @@ import { EventCalendarGrid } from "~/components/event-calendar-grid";
 import { Card, SectionTitle } from "~/components/section";
 import { upcomingEvents } from "~/lib/events";
 import { useSector } from "~/lib/sector-context";
+import { sectorBasePath } from "~/lib/sectors";
 
 export function EventCalendarPreview() {
-  const { data } = useSector();
+  const { data, sector } = useSector();
+  const newsPath = `${sectorBasePath(sector.id)}/news`;
   const events = upcomingEvents(data, 14);
   if (events.length === 0) {
     return null;
@@ -20,7 +22,7 @@ export function EventCalendarPreview() {
       <Card>
         <EventCalendarGrid compact showDetail={false} />
         <Link
-          to="/news"
+          to={newsPath}
           className="type-body-sm mt-3 block border-line border-t border-dashed pt-3 text-center text-copper underline md:mt-4 md:pt-4"
         >
           詳細・イベント一覧 ↗

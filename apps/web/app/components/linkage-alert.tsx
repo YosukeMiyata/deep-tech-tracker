@@ -2,10 +2,13 @@ import { Link } from "react-router";
 import { StockListShell } from "~/components/stock-list-row";
 import { fmtPct, pctColor } from "~/lib/data";
 import { useSector } from "~/lib/sector-context";
+import { sectorBasePath } from "~/lib/sectors";
 import { useTracker } from "~/lib/use-tracker";
 
 export function LinkageAlert() {
+  const { sector } = useSector();
   const tracker = useTracker();
+  const themesPath = `${sectorBasePath(sector.id)}/themes`;
   const triggered = tracker.linkageGroups().filter((g) => g.triggered);
 
   if (triggered.length === 0) {
@@ -26,7 +29,7 @@ export function LinkageAlert() {
         </span>
         <span className="type-card-title">米国テーマ前日+2%超 → 翌営業日の連動候補</span>
         <Link
-          to="/themes"
+          to={themesPath}
           className="type-body-sm ml-auto text-copper underline focus-visible:outline-2 focus-visible:outline-copper"
         >
           連動ビューで詳細 ↗

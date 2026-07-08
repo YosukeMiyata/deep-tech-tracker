@@ -2,13 +2,15 @@ import { Link } from "react-router";
 import { SectionTitle } from "~/components/section";
 import { glossaryTerms, themeNames } from "~/lib/news";
 import { useSector } from "~/lib/sector-context";
+import { sectorBasePath } from "~/lib/sectors";
 
 export function meta() {
   return [{ title: "学ぶ — 半導体テーマトラッカー" }];
 }
 
 export default function Learn() {
-  const { data } = useSector();
+  const { data, sector } = useSector();
+  const themesPath = `${sectorBasePath(sector.id)}/themes`;
   const terms = glossaryTerms(data);
   const names = themeNames(data);
 
@@ -32,7 +34,7 @@ export default function Learn() {
                 {term.tags.map((tag) => (
                   <Link
                     key={tag}
-                    to="/themes"
+                    to={themesPath}
                     className="type-meta rounded-full border border-cyan/40 bg-cyan/10 px-2 py-0.5 text-cyan underline-offset-2 hover:underline md:px-2.5 md:py-1"
                   >
                     {names.get(tag) ?? tag} ↗

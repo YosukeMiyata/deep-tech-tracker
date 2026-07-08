@@ -4,10 +4,12 @@ import { Sparkline } from "~/components/sparkline";
 import { StockListShell } from "~/components/stock-list-row";
 import { fmtPct, pctColor, volTier } from "~/lib/data";
 import { useSector } from "~/lib/sector-context";
+import { sectorBasePath } from "~/lib/sectors";
 import { themeSummaryRows } from "~/lib/theme-summary";
 
 export function ThemeSummary() {
   const { data, sector } = useSector();
+  const themesPath = `${sectorBasePath(sector.id)}/themes`;
   const benchmarkName = sector.benchmark.name;
   const rows = themeSummaryRows(data, sector.benchmark.symbol);
 
@@ -58,7 +60,7 @@ export function ThemeSummary() {
           return (
             <Link
               key={t.key}
-              to="/themes"
+              to={themesPath}
               className="block border-line border-b py-3 hover:bg-panel2/35 focus-visible:outline-2 focus-visible:outline-copper focus-visible:outline-offset-[-2px] md:flex md:items-center md:gap-3 md:py-4 last:border-b-0"
             >
               <div className="flex min-w-0 items-start gap-2 md:flex-1 md:items-center">
