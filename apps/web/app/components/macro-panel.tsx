@@ -11,7 +11,7 @@ function WstsChart() {
   const { data } = useSector();
   const macro = macroData(data);
   const points = wstsRecent(data, 6);
-  const yoys = points.map((p) => p.yoy_pct);
+  const yoys = points.map((p) => p.yoy_pct).filter((v): v is number => v !== null);
   const yMin = Math.min(...yoys, 0);
   const yMax = Math.max(...yoys, 1);
   const yRange = yMax - yMin || 1;
@@ -41,20 +41,28 @@ function WstsChart() {
         {points.map((p, i) => {
           const cx = PAD.l + BAR_W * i + BAR_W / 2;
           const barW = BAR_W * 0.55;
-          const y = yAt(p.yoy_pct);
-          const h = Math.max(Math.abs(y - zeroY), 1.5);
+          const yoy = p.yoy_pct;
+          const hasYoy = yoy !== null;
+          const y = hasYoy ? yAt(yoy) : zeroY;
+          const h = hasYoy ? Math.max(Math.abs(y - zeroY), 1.5) : 0;
           return (
             <g key={p.month}>
-              <rect
-                x={cx - barW / 2}
-                y={p.yoy_pct >= 0 ? y : zeroY}
-                width={barW}
-                height={h}
-                rx={2}
-                fill={p.yoy_pct >= 0 ? "var(--color-up)" : "var(--color-down)"}
-              >
-                <title>{`${p.month}: ${p.value}${macro.wsts?.unit} / 前年比 ${p.yoy_pct}%`}</title>
-              </rect>
+              {hasYoy ? (
+                <rect
+                  x={cx - barW / 2}
+                  y={yoy >= 0 ? y : zeroY}
+                  width={barW}
+                  height={h}
+                  rx={2}
+                  fill={yoy >= 0 ? "var(--color-up)" : "var(--color-down)"}
+                >
+                  <title>{`${p.month}: ${p.value}${macro.wsts?.unit} / 前年比 ${yoy}%`}</title>
+                </rect>
+              ) : (
+                <circle cx={cx} cy={zeroY} r={3} fill="var(--color-faint)">
+                  <title>{`${p.month}: ${p.value}${macro.wsts?.unit}`}</title>
+                </circle>
+              )}
               <text
                 x={cx}
                 y={CHART_H - 6}
@@ -70,8 +78,16 @@ function WstsChart() {
       <div className="type-meta mb-3 flex flex-wrap gap-x-3 gap-y-1 font-mono md:mb-4">
         {points.map((p) => (
           <span key={p.month} className="text-ink-2">
-            {monthLabel(p.month)} <b className={pctColor(p.yoy_pct)}>{fmtPct(p.yoy_pct, 1)}</b>
-            <small className="ml-0.5 text-faint">({p.value}B$)</small>
+            {monthLabel(p.month)}{" "}
+            {p.yoy_pct !== null ? (
+              <b className={pctColor(p.yoy_pct)}>{fmtPct(p.yoy_pct, 1)}</b>
+            ) : (
+              <b className="text-faint">—</b>
+            )}
+            <small className="ml-0.5 text-faint">
+              ({p.value}
+              {macro.wsts?.unit})
+            </small>
           </span>
         ))}
       </div>

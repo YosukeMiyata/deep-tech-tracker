@@ -2,6 +2,36 @@
  "_schema": "id: 一意ID / date: YYYY-MM-DD / sentiment: -2.0〜+2.0 / tags: themes.json の macro key / geo: 地政学フラグ / impact_chain: 影響の連鎖 / related_stocks: {code, name, direction(up|down|flat)} / source_url: 出典リンク(空なら非表示)",
  "items": [
   {
+   "id": "2026-06-29-china-list-defense",
+   "date": "2026-06-29",
+   "title": "中国の対日輸出規制リスト、三菱重工系の防衛関連が集中指定",
+   "summary": "6/29追加の規制管理リスト20機関は三菱重工系列の防衛関連が中心と報じられています。レアアース等の調達網に中国依存が残る防衛サプライチェーンへの揺さぶりで、部材調達リスクの点検材料です。",
+   "sentiment": -1.5,
+   "tags": [
+    "platforms",
+    "materials"
+   ],
+   "geo": true,
+   "impact_chain": [
+    "対日規制の標的化",
+    "防衛サプライチェーンの調達リスク",
+    "国産化・調達多様化の投資加速"
+   ],
+   "related_stocks": [
+    {
+     "code": "7011",
+     "name": "三菱重工業",
+     "direction": "down"
+    },
+    {
+     "code": "5726",
+     "name": "大阪チタニウム",
+     "direction": "flat"
+    }
+   ],
+   "source_url": "https://www.iru-miru.com/article/83434"
+  },
+  {
    "id": "2026-01-08-us-budget",
    "date": "2026-01-08",
    "title": "トランプ米政権、FY27国防予算1.5兆ドルを議会に要求 — 前年度比5割超増",

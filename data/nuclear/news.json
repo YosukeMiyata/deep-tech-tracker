@@ -2,6 +2,35 @@
  "_schema": "id: 一意ID / date: YYYY-MM-DD / sentiment: -2.0〜+2.0 / tags: themes.json の macro key / geo: 地政学フラグ / impact_chain: 影響の連鎖 / related_stocks: {code, name, direction(up|down|flat)} / source_url: 出典リンク(空なら非表示)",
  "items": [
   {
+   "id": "2026-07-03-fukushima-arm",
+   "date": "2026-07-03",
+   "title": "福島第一、ロボットアームを月内にも投入 — 燃料デブリ本格回収は秋以降",
+   "summary": "廃炉の最難関である燃料デブリ取り出しの工程が前進。廃炉は数十年規模の長期市場で、遠隔操作・ロボティクス・放射線計測の関連銘柄に息の長い事業機会が続きます。",
+   "sentiment": 0.5,
+   "tags": [
+    "decommission"
+   ],
+   "geo": false,
+   "impact_chain": [
+    "デブリ回収工程の前進",
+    "廃炉技術の実装フェーズ",
+    "遠隔・計測・除染関連へ長期波及"
+   ],
+   "related_stocks": [
+    {
+     "code": "9501",
+     "name": "東京電力HD",
+     "direction": "flat"
+    },
+    {
+     "code": "1945",
+     "name": "東京エネシス",
+     "direction": "flat"
+    }
+   ],
+   "source_url": ""
+  },
+  {
    "id": "2026-04-16-kk6-commercial",
    "date": "2026-04-16",
    "title": "柏崎刈羽6号機が営業運転開始 — 東電の原発再稼働は福島事故後初",

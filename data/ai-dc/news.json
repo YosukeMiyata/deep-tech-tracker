@@ -2,6 +2,42 @@
  "_schema": "id: 一意ID / date: YYYY-MM-DD / sentiment: -2.0〜+2.0 / tags: themes.json の macro key / geo: 地政学フラグ / impact_chain: 影響の連鎖 / related_stocks: {code, name, direction(up|down|flat)} / source_url: 出典リンク(空なら非表示)",
  "items": [
   {
+   "id": "2026-07-02-meta-resale",
+   "date": "2026-07-02",
+   "title": "Meta、余剰AI計算能力の外販計画報道 — 「AI投資ピークアウト」懸念が台頭",
+   "summary": "自社で使わない計算能力を外部販売する計画が報じられ、Meta株は+5.9%と評価される一方、供給過剰観測からMicronが14%急落。OpenAIの推論コスト半減報道も重なり、CapEx持続性への疑心が広がりました。",
+   "sentiment": -1.0,
+   "tags": [
+    "cloud",
+    "capex_cycle",
+    "memory_ai"
+   ],
+   "geo": false,
+   "impact_chain": [
+    "余剰計算能力の外販",
+    "AI CapExピークアウト観測",
+    "メモリ・インフラ銘柄の調整"
+   ],
+   "related_stocks": [
+    {
+     "code": "META",
+     "name": "Meta Platforms",
+     "direction": "up"
+    },
+    {
+     "code": "MU",
+     "name": "Micron",
+     "direction": "down"
+    },
+    {
+     "code": "SMCI",
+     "name": "Super Micro",
+     "direction": "down"
+    }
+   ],
+   "source_url": ""
+  },
+  {
    "id": "2026-07-01-modular-dc",
    "date": "2026-07-01",
    "title": "NTT系と日鉄系、モジュール型DCで工期を半減へ",

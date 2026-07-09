@@ -34,9 +34,9 @@ function buildSummary(data: SectorDataBundle, sector: SectorMeta): string {
   lines.push("", "## マクロ(サイクル)", macro.cycle_note);
   const lastWsts = macro.wsts?.series.at(-1);
   if (lastWsts && macro.wsts) {
-    lines.push(
-      `WSTS直近(${lastWsts.month}): ${lastWsts.value}${macro.wsts.unit} / 前年比 ${fmtPct(lastWsts.yoy_pct, 1)}`,
-    );
+    const yoy =
+      lastWsts.yoy_pct !== null ? ` / 前年比 ${fmtPct(lastWsts.yoy_pct, 1)}` : "";
+    lines.push(`WSTS直近(${lastWsts.month}): ${lastWsts.value}${macro.wsts.unit}${yoy}`);
   }
   if (macro.indicators?.length) {
     lines.push("", "## マクロ指標");

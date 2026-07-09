@@ -3,7 +3,7 @@ import type { SectorDataBundle } from "~/lib/sector-data";
 export interface WstsPoint {
   month: string;
   value: number;
-  yoy_pct: number;
+  yoy_pct: number | null;
 }
 
 export interface MacroIndicatorPoint {
