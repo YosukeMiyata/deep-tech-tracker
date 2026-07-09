@@ -3,7 +3,7 @@ import { WeeklyDigest } from "~/components/hub-weekly-digest";
 import { Card, SectionTitle } from "~/components/section";
 import { Sparkline } from "~/components/sparkline";
 import { fmtPct, pctColor } from "~/lib/data";
-import { HUB_WEEKLY, hubSectorSummaries, SECTOR_DATA } from "~/lib/sector-data";
+import { HUB_WEEKLY, hubSectorSummaries } from "~/lib/sector-data";
 import { SECTORS, sectorBasePath } from "~/lib/sectors";
 
 export function meta() {

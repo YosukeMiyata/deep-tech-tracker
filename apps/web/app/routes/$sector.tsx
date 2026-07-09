@@ -39,7 +39,10 @@ export default function SectorLayout() {
   if (!isValidSector(sectorId)) {
     throw new Response("Not Found", { status: 404 });
   }
-  const sector = SECTOR_BY_ID.get(sectorId)!;
+  const sector = SECTOR_BY_ID.get(sectorId);
+  if (!sector) {
+    throw new Response("Not Found", { status: 404 });
+  }
   const data = getSectorData(sectorId);
   const tabs = sectorTabs(sectorId);
 

@@ -6,14 +6,6 @@ function quotesOf(data: SectorDataBundle) {
   ).quotes;
 }
 
-type DailyRow = [string, number, number];
-
-interface Quote {
-  name: string;
-  market: "jp" | "us";
-  daily: DailyRow[];
-}
-
 export interface StockTechnical {
   chgPct: number | null;
   volRatio: number | null;

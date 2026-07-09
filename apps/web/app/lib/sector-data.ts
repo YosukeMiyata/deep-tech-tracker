@@ -1,11 +1,4 @@
-import type {
-  IndexStat,
-  LinkageTop,
-  ThemeDetail,
-  ThemePerf,
-  ThemesDetail,
-  ThemesPerf,
-} from "~/lib/data-types";
+import type { IndexStat, LinkageTop, ThemePerf, ThemesDetail, ThemesPerf } from "~/lib/data-types";
 import type { GlossaryTerm, NewsItem, TimelineItem } from "~/lib/news-types";
 import aiDcEvents from "../../../../data/ai-dc/events.json";
 import aiDcFlow from "../../../../data/ai-dc/flow.json";
