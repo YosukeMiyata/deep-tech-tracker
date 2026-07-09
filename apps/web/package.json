@@ -6,7 +6,9 @@
     "dev": "react-router dev",
     "build": "react-router build && node scripts/postbuild.mjs",
     "preview": "vite preview",
-    "typecheck": "react-router typegen && tsc"
+    "typecheck": "react-router typegen && tsc",
+    "biome:check": "pnpm -w exec biome check .",
+    "biome:fix": "pnpm -w exec biome check --write ."
   },
   "dependencies": {
     "@react-router/node": "^7.9.0",
