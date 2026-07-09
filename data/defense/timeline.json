@@ -1,3 +1,64 @@
 {
-  "items": []
+ "_schema": "date: YYYY-MM-DD または YYYY-MM / tone: pos|neg|neu / title / body / tags",
+ "items": [
+  {
+   "date": "2026-03-02",
+   "tone": "pos",
+   "title": "三菱重工が上場来高値5,208円",
+   "body": "政策期待から業績相場への移行を象徴。防衛テーマの中核に定着。",
+   "tags": [
+    "platforms"
+   ]
+  },
+  {
+   "date": "2026-01-08",
+   "tone": "pos",
+   "title": "米FY27国防予算1.5兆ドル要求",
+   "body": "前年度比5割超増の要求。日本の防衛関連株にも思惑買いが波及。",
+   "tags": [
+    "intl_etf",
+    "platforms"
+   ]
+  },
+  {
+   "date": "2025-10-06",
+   "tone": "pos",
+   "title": "高市政権発足期待で三菱重工+11%",
+   "body": "防衛力強化を掲げる政権の誕生が確実視され、防衛株が一斉高。43兆円計画の前倒し観測へ。",
+   "tags": [
+    "platforms",
+    "missiles"
+   ]
+  },
+  {
+   "date": "2025-08-05",
+   "tone": "pos",
+   "title": "豪州が「もがみ型」を次期フリゲートに選定",
+   "body": "日本の艦艇輸出として歴史的案件。装備輸出テーマの実績第1号に。",
+   "tags": [
+    "shipbuilding"
+   ]
+  },
+  {
+   "date": "2023-12",
+   "tone": "pos",
+   "title": "装備移転三原則の運用指針改正",
+   "body": "ライセンス生産品の輸出等を解禁。防衛企業の成長天井を外す転換点。",
+   "tags": [
+    "platforms",
+    "shipbuilding"
+   ]
+  },
+  {
+   "date": "2022-12",
+   "tone": "pos",
+   "title": "安保三文書決定 — 防衛費43兆円・GDP比2%へ",
+   "body": "国家安全保障戦略・国家防衛戦略・防衛力整備計画。現在の防衛相場の起点。",
+   "tags": [
+    "platforms",
+    "missiles",
+    "cyber"
+   ]
+  }
+ ]
 }

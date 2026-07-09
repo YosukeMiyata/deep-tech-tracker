@@ -1,10 +1,62 @@
 {
-  "last_updated": "2026-07-07",
-  "source_url": "",
-  "cycle_note": "手動更新(初版)",
-  "wsts": {
-    "label": "業界指標",
-    "unit": "—",
-    "series": []
+ "_schema": "cycle_note / indicators(手動更新)",
+ "last_updated": "2026-07-08",
+ "source_url": "https://www.gartner.co.jp/ja/newsroom/press-releases/pr-20260611-dc-forecast",
+ "cycle_note": "AI CapExサイクルは4年目。需要は堅調な一方、制約が「半導体の供給」から「電力・建設の供給」へ移ったのが2026年の特徴です。Gartnerは2026年のDC電力消費を前年比26%増と予測。日本では発電能力より送電網整備の遅れが制約で、系統増強・変電設備・DC建設が国策テーマ化しています。DeepSeekショック(25年1月)のような効率化ニュースによる急調整リスクは常に残ります。",
+ "indicators": [
+  {
+   "label": "世界のDC電力消費(Gartner予測)",
+   "unit": "TWh",
+   "series": [
+    {
+     "period": "2025年",
+     "value": 447
+    },
+    {
+     "period": "2026年",
+     "value": 565,
+     "note": "前年比+26%"
+    },
+    {
+     "period": "2030年",
+     "value": 1200,
+     "note": "予測(超過見込み)"
+    }
+   ],
+   "note": "AIサーバーは2026年に全体の31%、2027年に従来型サーバーを上回る見通し"
+  },
+  {
+   "label": "世界のDC電力需要",
+   "unit": "GW",
+   "series": [
+    {
+     "period": "2025年",
+     "value": 104
+    },
+    {
+     "period": "2026年",
+     "value": 132,
+     "note": "+27%"
+    },
+    {
+     "period": "2030年",
+     "value": 290,
+     "note": "予測"
+    }
+   ],
+   "note": "Gartner(2026年6月)"
+  },
+  {
+   "label": "米国のDC電力消費見通し(LBNL)",
+   "unit": "TWh",
+   "series": [
+    {
+     "period": "2030年",
+     "value": 649,
+     "note": "米国全体の電力消費の11.8%に相当"
+    }
+   ],
+   "note": "米エネルギー省傘下ローレンス・バークレー国立研究所"
   }
+ ]
 }

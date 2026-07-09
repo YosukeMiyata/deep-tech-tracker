@@ -1,3 +1,62 @@
 {
-  "items": []
+ "_schema": "date / tone / title / body / tags",
+ "items": [
+  {
+   "date": "2026-06-30",
+   "tone": "pos",
+   "title": "日立など12社が米DC電力連合を発足",
+   "body": "電力とDCの一体開発で接続リードタイム短縮へ。電力ボトルネック緩和の枠組み。",
+   "tags": [
+    "power_dc"
+   ]
+  },
+  {
+   "date": "2026-04",
+   "tone": "neu",
+   "title": "省エネ法のDC新措置 施行",
+   "body": "PUE等の報告・公表義務化。効率投資(液冷等)を促す規制環境へ。",
+   "tags": [
+    "cooling"
+   ]
+  },
+  {
+   "date": "2025-12-22",
+   "tone": "pos",
+   "title": "脱炭素電力100%のDC投資に最大半額補助(2100億円)",
+   "body": "再エネ・原子力とセットのDC立地を国が後押し。",
+   "tags": [
+    "power_dc",
+    "capex_cycle"
+   ]
+  },
+  {
+   "date": "2025-04",
+   "tone": "pos",
+   "title": "送配電・電線株が大相場に",
+   "body": "古河電工が1年で約9.5倍、フジクラ約6.9倍。AI電力需要×系統増強が評価された象徴。",
+   "tags": [
+    "power_dc"
+   ]
+  },
+  {
+   "date": "2025-01-27",
+   "tone": "neg",
+   "title": "DeepSeekショック — NVIDIA一日で約17%安",
+   "body": "低コストAIの登場でCapEx過剰投資懸念が噴出。テーマ全体が急調整した教訓イベント。",
+   "tags": [
+    "gpu_accel",
+    "capex_cycle"
+   ]
+  },
+  {
+   "date": "2022-11",
+   "tone": "pos",
+   "title": "ChatGPT公開",
+   "body": "生成AIブームの起点。DC投資サイクルはここから始まった。",
+   "tags": [
+    "cloud",
+    "gpu_accel"
+   ]
+  }
+ ]
 }

@@ -1,3 +1,58 @@
 {
-  "items": []
+ "_schema": "date / kind / title / body / tags / source_url",
+ "items": [
+  {
+   "date": "2026-07-15",
+   "kind": "earnings",
+   "title": "TSMC 2Q決算",
+   "body": "AI半導体のCapExガイダンス。DCサプライチェーン全体の先行指標。",
+   "tags": [
+    "capex_cycle",
+    "gpu_accel"
+   ],
+   "source_url": ""
+  },
+  {
+   "date": "2026-07-29",
+   "kind": "earnings",
+   "title": "Microsoft・Meta 決算(日程は目安)",
+   "body": "ハイパースケーラーのAI CapExガイダンス。増額なら電力・建設・冷却まで波及。",
+   "tags": [
+    "cloud",
+    "capex_cycle"
+   ],
+   "source_url": ""
+  },
+  {
+   "date": "2026-08-26",
+   "kind": "earnings",
+   "title": "NVIDIA 2Q決算(日程は目安)",
+   "body": "Vera Rubin立ち上がりとデータセンター売上。テーマ全体の方向を決める最重要イベント。",
+   "tags": [
+    "gpu_accel"
+   ],
+   "source_url": ""
+  },
+  {
+   "date": "2026-08-07",
+   "kind": "earnings",
+   "title": "さくらインターネット 1Q決算(日程は目安)",
+   "body": "国内GPUクラウドの稼働状況と政府クラウド案件の進捗。",
+   "tags": [
+    "cloud"
+   ],
+   "source_url": ""
+  },
+  {
+   "date": "2026-12-01",
+   "kind": "industry",
+   "title": "Gartner ITインフラ・オペレーション&クラウド戦略コンファレンス(東京, 12/1-3)",
+   "body": "DC電力・冷却の最新予測が更新されるタイミング。macro.json更新の材料。",
+   "tags": [
+    "power_dc",
+    "cooling"
+   ],
+   "source_url": "https://www.gartner.co.jp/"
+  }
+ ]
 }

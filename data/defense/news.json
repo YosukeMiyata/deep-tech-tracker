@@ -1,21 +1,143 @@
 {
-  "items": [
+ "_schema": "id: 一意ID / date: YYYY-MM-DD / sentiment: -2.0〜+2.0 / tags: themes.json の macro key / geo: 地政学フラグ / impact_chain: 影響の連鎖 / related_stocks: {code, name, direction(up|down|flat)} / source_url: 出典リンク(空なら非表示)",
+ "items": [
+  {
+   "id": "2026-01-08-us-budget",
+   "date": "2026-01-08",
+   "title": "トランプ米政権、FY27国防予算1.5兆ドルを議会に要求 — 前年度比5割超増",
+   "summary": "26年10月開始のFY27予算として過去最大規模を要求。思惑的な買いが日本の防衛関連株にも波及し、三菱重工は一時+3.9%と約1カ月ぶり高値をつけました。",
+   "sentiment": 1.5,
+   "tags": [
+    "intl_etf",
+    "platforms"
+   ],
+   "geo": true,
+   "impact_chain": [
+    "米国防予算の大幅増要求",
+    "米プライム受注期待",
+    "日本防衛株へ思惑買い波及"
+   ],
+   "related_stocks": [
     {
-      "id": "def-001",
-      "date": "2026-07-01",
-      "title": "防衛費増額トレンドの継続",
-      "summary": "主要国で防衛予算拡大が続き、プラットフォーム・電子・ミサイル各社の受注期待が高まっている。",
-      "sentiment": 0.8,
-      "tags": [
-        "budget_policy"
-      ],
-      "geo": true,
-      "impact_chain": [
-        "予算増",
-        "受注拡大"
-      ],
-      "related_stocks": [],
-      "source_url": ""
+     "code": "7011",
+     "name": "三菱重工業",
+     "direction": "up"
+    },
+    {
+     "code": "LMT",
+     "name": "Lockheed Martin",
+     "direction": "up"
+    },
+    {
+     "code": "RTX",
+     "name": "RTX",
+     "direction": "up"
     }
-  ]
+   ],
+   "source_url": "https://www.nikkei.com/article/DGXZQOFL081KM0Y6A100C2000000/"
+  },
+  {
+   "id": "2025-12-15-mhi-supply",
+   "date": "2025-12-15",
+   "title": "三菱重工、防衛売上を26年度に1兆円へ倍増見込み — 供給体制の整備を優先",
+   "summary": "防衛費43兆円計画と高市政権の前倒し方針を背景に、年5,000億円弱だった防衛事業が倍増へ。増産には設備だけでなく技能者育成が先行課題と社長が言及しています。",
+   "sentiment": 1.5,
+   "tags": [
+    "platforms"
+   ],
+   "geo": false,
+   "impact_chain": [
+    "防衛費増額の前倒し",
+    "プライム受注拡大",
+    "部品・素材サプライヤーへ波及"
+   ],
+   "related_stocks": [
+    {
+     "code": "7011",
+     "name": "三菱重工業",
+     "direction": "up"
+    },
+    {
+     "code": "7012",
+     "name": "川崎重工業",
+     "direction": "up"
+    },
+    {
+     "code": "7013",
+     "name": "IHI",
+     "direction": "up"
+    }
+   ],
+   "source_url": "https://novaist.jp/articles/mhi-strengthens-defense-supply/"
+  },
+  {
+   "id": "2025-08-05-mogami",
+   "date": "2025-08-05",
+   "title": "豪州、次期フリゲートに「もがみ型」能力向上型を選定 — 日本の艦艇輸出で歴史的案件",
+   "summary": "三菱重工が建造するもがみ型護衛艦の改良型が豪海軍の次期汎用フリゲートに選ばれました。防衛装備の本格輸出の突破口として、艦艇サプライチェーン全体の再評価につながります。",
+   "sentiment": 2.0,
+   "tags": [
+    "shipbuilding",
+    "platforms"
+   ],
+   "geo": false,
+   "impact_chain": [
+    "豪州が日本艦選定",
+    "装備輸出の実績化",
+    "艦艇機器・電子装備メーカーへ波及"
+   ],
+   "related_stocks": [
+    {
+     "code": "7011",
+     "name": "三菱重工業",
+     "direction": "up"
+    },
+    {
+     "code": "7003",
+     "name": "三井E&S",
+     "direction": "up"
+    },
+    {
+     "code": "7721",
+     "name": "東京計器",
+     "direction": "up"
+    }
+   ],
+   "source_url": ""
+  },
+  {
+   "id": "2026-03-02-mhi-high",
+   "date": "2026-03-02",
+   "title": "三菱重工、上場来高値5,208円 — 高市政権発足後の資金流入が継続",
+   "summary": "2025年10月の政権発足時(+11%)から上昇基調が続き上場来高値を更新。防衛テーマが「イベント物色」から「業績相場」へ移行しつつあることを示す動きです。",
+   "sentiment": 1.0,
+   "tags": [
+    "platforms"
+   ],
+   "geo": false,
+   "impact_chain": [
+    "政策期待の持続",
+    "業績成長の確認",
+    "中小型の防衛関連へ物色拡大"
+   ],
+   "related_stocks": [
+    {
+     "code": "7011",
+     "name": "三菱重工業",
+     "direction": "up"
+    },
+    {
+     "code": "6203",
+     "name": "豊和工業",
+     "direction": "up"
+    },
+    {
+     "code": "6208",
+     "name": "石川製作所",
+     "direction": "up"
+    }
+   ],
+   "source_url": ""
+  }
+ ]
 }

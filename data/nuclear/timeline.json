@@ -1,3 +1,64 @@
 {
-  "items": []
+ "_schema": "date / tone / title / body / tags",
+ "items": [
+  {
+   "date": "2026-04-16",
+   "tone": "pos",
+   "title": "柏崎刈羽6号機 営業運転開始",
+   "body": "福島事故後、東電初の再稼働。約14年ぶりの運転で再稼働テーマの象徴に。",
+   "tags": [
+    "operation",
+    "utilities"
+   ]
+  },
+  {
+   "date": "2026-02-16",
+   "tone": "pos",
+   "title": "柏崎刈羽6号機 発電・送電開始",
+   "body": "1月の原子炉起動→一時停止を経て2月に発電開始。",
+   "tags": [
+    "operation"
+   ]
+  },
+  {
+   "date": "2026-01",
+   "tone": "neg",
+   "title": "浜岡原発 地震動評価の不適切事案 — 審査中断",
+   "body": "中部電力のガバナンス問題。再稼働時期の後ずれ要因に。",
+   "tags": [
+    "operation",
+    "policy_nuclear"
+   ]
+  },
+  {
+   "date": "2025-07",
+   "tone": "pos",
+   "title": "泊3号機 設置変更許可",
+   "body": "北海道の電力供給(千歳の半導体・DC集積)を支える再稼働プロセスが前進。",
+   "tags": [
+    "operation",
+    "utilities"
+   ]
+  },
+  {
+   "date": "2023-05",
+   "tone": "pos",
+   "title": "GX脱炭素電源法 成立",
+   "body": "60年超運転と建て替え推進を明記。原子力回帰の法的基盤。",
+   "tags": [
+    "policy_nuclear",
+    "construction"
+   ]
+  },
+  {
+   "date": "2011-03",
+   "tone": "neg",
+   "title": "福島第一原子力発電所事故",
+   "body": "全原発停止へ。以後15年の政策・世論・審査体制の出発点。",
+   "tags": [
+    "operation",
+    "decommission"
+   ]
+  }
+ ]
 }

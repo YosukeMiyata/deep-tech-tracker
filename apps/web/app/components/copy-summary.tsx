@@ -32,11 +32,18 @@ function buildSummary(data: SectorDataBundle, sector: SectorMeta): string {
   }
   const macro = macroData(data);
   lines.push("", "## マクロ(サイクル)", macro.cycle_note);
-  const lastWsts = macro.wsts.series.at(-1);
-  if (lastWsts) {
+  const lastWsts = macro.wsts?.series.at(-1);
+  if (lastWsts && macro.wsts) {
     lines.push(
       `WSTS直近(${lastWsts.month}): ${lastWsts.value}${macro.wsts.unit} / 前年比 ${fmtPct(lastWsts.yoy_pct, 1)}`,
     );
+  }
+  if (macro.indicators?.length) {
+    lines.push("", "## マクロ指標");
+    for (const ind of macro.indicators) {
+      const last = ind.series.at(-1);
+      if (last) lines.push(`- ${ind.label}: ${last.period} ${last.value}${ind.unit}`);
+    }
   }
   if (macro.capex) {
     lines.push("", `## CapEx ガイダンス(${macro.capex.as_of})`);

@@ -1,21 +1,164 @@
 {
-  "items": [
+ "_schema": "id: 一意ID / date: YYYY-MM-DD / sentiment: -2.0〜+2.0 / tags: themes.json の macro key / geo: 地政学フラグ / impact_chain: 影響の連鎖 / related_stocks: {code, name, direction(up|down|flat)} / source_url: 出典リンク(空なら非表示)",
+ "items": [
+  {
+   "id": "2026-04-16-kk6-commercial",
+   "date": "2026-04-16",
+   "title": "柏崎刈羽6号機が営業運転開始 — 東電の原発再稼働は福島事故後初",
+   "summary": "約14年の停止を経て営業運転入り(2月に発電・送電開始)。国内最大の原発の再稼働は、再稼働テーマの象徴的マイルストーンで、バルブ・保守工事など周辺銘柄にも波及します。",
+   "sentiment": 2.0,
+   "tags": [
+    "operation",
+    "utilities"
+   ],
+   "geo": false,
+   "impact_chain": [
+    "東電初の再稼働実現",
+    "再稼働審査の前進期待",
+    "バルブ・定期検査・保守工事へ波及"
+   ],
+   "related_stocks": [
     {
-      "id": "nu-001",
-      "date": "2026-07-01",
-      "title": "再稼働・新設議論の継続",
-      "summary": "脱炭素とエネルギー安全保障の両立で原子力関連株に注目。",
-      "sentiment": 0.5,
-      "tags": [
-        "policy_nuclear"
-      ],
-      "geo": true,
-      "impact_chain": [
-        "政策",
-        "設備投資"
-      ],
-      "related_stocks": [],
-      "source_url": ""
+     "code": "9501",
+     "name": "東京電力HD",
+     "direction": "up"
+    },
+    {
+     "code": "1945",
+     "name": "東京エネシス",
+     "direction": "up"
+    },
+    {
+     "code": "6492",
+     "name": "岡野バルブ製造",
+     "direction": "up"
     }
-  ]
+   ],
+   "source_url": "https://www.enecho.meti.go.jp/about/special/johoteikyo/kk_nuclear_power_plant01.html"
+  },
+  {
+   "id": "2026-04-27-bigtech-nuclear",
+   "date": "2026-04-27",
+   "title": "米テック大手の原子力調達が拡大 — Meta最大7.8GW、Microsoft800MW超",
+   "summary": "AIデータセンター電力のためにMetaが最大7.8GWの原子力容量契約、Microsoftが既設炉更新で800MW超を専属確保。米政府も濃縮・新設の規制緩和と契約を発表しています。",
+   "sentiment": 2.0,
+   "tags": [
+    "smr",
+    "utilities",
+    "uranium"
+   ],
+   "geo": false,
+   "impact_chain": [
+    "AI電力需要",
+    "原子力PPA・SMR契約の拡大",
+    "燃料(ウラン)・機器需要へ波及"
+   ],
+   "related_stocks": [
+    {
+     "code": "CEG",
+     "name": "Constellation Energy",
+     "direction": "up"
+    },
+    {
+     "code": "TLN",
+     "name": "Talen Energy",
+     "direction": "up"
+    },
+    {
+     "code": "CCJ",
+     "name": "Cameco",
+     "direction": "up"
+    },
+    {
+     "code": "SMR",
+     "name": "NuScale Power",
+     "direction": "up"
+    }
+   ],
+   "source_url": "https://jp.tradingeconomics.com/commodity/uranium"
+  },
+  {
+   "id": "2026-06-01-uranium",
+   "date": "2026-06-01",
+   "title": "ウラン先物、85ドル前後で推移 — 年初の急騰は一服",
+   "summary": "年初の投機的な急騰が冷え、5月下旬には約2カ月ぶり安値の85ドル割れ。電力会社は長期契約依存でスポット購入は低調ですが、AI・原子力回帰による長期需要の強さは不変です。",
+   "sentiment": 0.0,
+   "tags": [
+    "uranium"
+   ],
+   "geo": false,
+   "impact_chain": [
+    "投機資金の一巡",
+    "スポット価格のレンジ推移",
+    "長期契約価格は高止まり"
+   ],
+   "related_stocks": [
+    {
+     "code": "CCJ",
+     "name": "Cameco",
+     "direction": "flat"
+    },
+    {
+     "code": "UEC",
+     "name": "Uranium Energy",
+     "direction": "flat"
+    }
+   ],
+   "source_url": "https://jp.tradingeconomics.com/commodity/uranium"
+  },
+  {
+   "id": "2026-01-hamaoka",
+   "date": "2026-01-20",
+   "title": "浜岡原発、地震動評価の不適切事案 — 規制委が審査を中断",
+   "summary": "中部電力が基準地震動策定で審査会合と異なる方法を用いていたことを公表。審査中断は再稼働時期の後ずれ要因で、調査開始後も改ざんが続いたとの報道もありガバナンス面の逆風です。",
+   "sentiment": -1.5,
+   "tags": [
+    "operation",
+    "policy_nuclear"
+   ],
+   "geo": false,
+   "impact_chain": [
+    "審査プロセスの信頼低下",
+    "浜岡再稼働の後ずれ",
+    "再稼働テーマ内の選別強まる"
+   ],
+   "related_stocks": [
+    {
+     "code": "9502",
+     "name": "中部電力",
+     "direction": "down"
+    }
+   ],
+   "source_url": "https://www.meti.go.jp/shingikai/enecho/denryoku_gas/genshiryoku/pdf/048_01_00.pdf"
+  },
+  {
+   "id": "2026-02-12-rokkasho",
+   "date": "2026-02-12",
+   "title": "六ヶ所再処理工場、2026年度中の竣工目標へ進捗管理を継続",
+   "summary": "設工認審査が大詰め。竣工すれば核燃料サイクルの中核が四半世紀越しに動き出し、サイクル機器・保守の関連銘柄に長期の事業機会が生まれます。",
+   "sentiment": 1.0,
+   "tags": [
+    "fuel"
+   ],
+   "geo": false,
+   "impact_chain": [
+    "再処理工場の竣工接近",
+    "核燃料サイクルの実運用",
+    "サイクル機器・輸送・保守へ波及"
+   ],
+   "related_stocks": [
+    {
+     "code": "6378",
+     "name": "木村化工機",
+     "direction": "up"
+    },
+    {
+     "code": "9501",
+     "name": "東京電力HD",
+     "direction": "flat"
+    }
+   ],
+   "source_url": "https://www.meti.go.jp/shingikai/enecho/denryoku_gas/genshiryoku/pdf/048_01_00.pdf"
+  }
+ ]
 }

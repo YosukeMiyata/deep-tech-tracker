@@ -6,15 +6,29 @@ export interface WstsPoint {
   yoy_pct: number;
 }
 
+export interface MacroIndicatorPoint {
+  period: string;
+  value: number;
+  note?: string;
+}
+
+export interface MacroIndicator {
+  label: string;
+  unit: string;
+  series: MacroIndicatorPoint[];
+  note?: string;
+}
+
 export interface MacroData {
   last_updated: string;
   source_url: string;
   cycle_note: string;
-  wsts: {
+  wsts?: {
     label: string;
     unit: string;
     series: WstsPoint[];
   };
+  indicators?: MacroIndicator[];
   capex?: {
     label: string;
     unit: string;
@@ -35,4 +49,8 @@ export function monthLabel(ym: string): string {
 export function wstsRecent(data: SectorDataBundle, count = 6): WstsPoint[] {
   const m = macroData(data);
   return m.wsts?.series?.slice(-count) ?? [];
+}
+
+export function hasWstsSeries(data: SectorDataBundle): boolean {
+  return (macroData(data).wsts?.series?.length ?? 0) > 0;
 }

@@ -1,13 +1,13 @@
 import { Card, SectionTitle } from "~/components/section";
 import { fmtPct, pctColor } from "~/lib/data";
-import { macroData, monthLabel, wstsRecent } from "~/lib/macro";
+import { hasWstsSeries, macroData, monthLabel, wstsRecent } from "~/lib/macro";
 import { useSector } from "~/lib/sector-context";
 
 const BAR_W = 28;
 const CHART_H = 72;
 const PAD = { l: 4, r: 4, t: 8, b: 22 };
 
-export function MacroPanel() {
+function WstsChart() {
   const { data } = useSector();
   const macro = macroData(data);
   const points = wstsRecent(data, 6);
@@ -23,60 +23,110 @@ export function MacroPanel() {
 
   return (
     <>
-      <SectionTitle title="マクロ指標" note={`WSTS月次(手動) · 更新 ${macro.last_updated}`} />
-      <Card>
-        <div className="mb-2 type-list-primary font-bold">{macro.wsts.label}</div>
-        <svg
-          viewBox={`0 0 ${W} ${CHART_H}`}
-          className="mb-2 w-full max-w-[360px] md:max-w-[480px]"
-          role="img"
-          aria-label="WSTS月次前年比推移"
+      <div className="mb-2 type-list-primary font-bold">{macro.wsts?.label}</div>
+      <svg
+        viewBox={`0 0 ${W} ${CHART_H}`}
+        className="mb-2 w-full max-w-[360px] md:max-w-[480px]"
+        role="img"
+        aria-label="WSTS月次前年比推移"
+      >
+        <line
+          x1={PAD.l}
+          x2={W - PAD.r}
+          y1={zeroY}
+          y2={zeroY}
+          stroke="var(--color-faint)"
+          strokeDasharray="3 3"
+        />
+        {points.map((p, i) => {
+          const cx = PAD.l + BAR_W * i + BAR_W / 2;
+          const barW = BAR_W * 0.55;
+          const y = yAt(p.yoy_pct);
+          const h = Math.max(Math.abs(y - zeroY), 1.5);
+          return (
+            <g key={p.month}>
+              <rect
+                x={cx - barW / 2}
+                y={p.yoy_pct >= 0 ? y : zeroY}
+                width={barW}
+                height={h}
+                rx={2}
+                fill={p.yoy_pct >= 0 ? "var(--color-up)" : "var(--color-down)"}
+              >
+                <title>{`${p.month}: ${p.value}${macro.wsts?.unit} / 前年比 ${p.yoy_pct}%`}</title>
+              </rect>
+              <text
+                x={cx}
+                y={CHART_H - 6}
+                textAnchor="middle"
+                className="fill-ink-2 font-mono text-[8px] md:text-[10px]"
+              >
+                {monthLabel(p.month)}
+              </text>
+            </g>
+          );
+        })}
+      </svg>
+      <div className="type-meta mb-3 flex flex-wrap gap-x-3 gap-y-1 font-mono md:mb-4">
+        {points.map((p) => (
+          <span key={p.month} className="text-ink-2">
+            {monthLabel(p.month)} <b className={pctColor(p.yoy_pct)}>{fmtPct(p.yoy_pct, 1)}</b>
+            <small className="ml-0.5 text-faint">({p.value}B$)</small>
+          </span>
+        ))}
+      </div>
+    </>
+  );
+}
+
+function IndicatorList() {
+  const { data } = useSector();
+  const indicators = macroData(data).indicators ?? [];
+
+  return (
+    <div className="space-y-3 md:space-y-4">
+      {indicators.map((ind) => (
+        <div
+          key={ind.label}
+          className="rounded-[10px] border border-line bg-panel2 px-3 py-2.5 md:px-4 md:py-3"
         >
-          <line
-            x1={PAD.l}
-            x2={W - PAD.r}
-            y1={zeroY}
-            y2={zeroY}
-            stroke="var(--color-faint)"
-            strokeDasharray="3 3"
-          />
-          {points.map((p, i) => {
-            const cx = PAD.l + BAR_W * i + BAR_W / 2;
-            const barW = BAR_W * 0.55;
-            const y = yAt(p.yoy_pct);
-            const h = Math.max(Math.abs(y - zeroY), 1.5);
-            return (
-              <g key={p.month}>
-                <rect
-                  x={cx - barW / 2}
-                  y={p.yoy_pct >= 0 ? y : zeroY}
-                  width={barW}
-                  height={h}
-                  rx={2}
-                  fill={p.yoy_pct >= 0 ? "var(--color-up)" : "var(--color-down)"}
-                >
-                  <title>{`${p.month}: ${p.value}${macro.wsts.unit} / 前年比 ${p.yoy_pct}%`}</title>
-                </rect>
-                <text
-                  x={cx}
-                  y={CHART_H - 6}
-                  textAnchor="middle"
-                  className="fill-ink-2 font-mono text-[8px] md:text-[10px]"
-                >
-                  {monthLabel(p.month)}
-                </text>
-              </g>
-            );
-          })}
-        </svg>
-        <div className="type-meta mb-3 flex flex-wrap gap-x-3 gap-y-1 font-mono md:mb-4">
-          {points.map((p) => (
-            <span key={p.month} className="text-ink-2">
-              {monthLabel(p.month)} <b className={pctColor(p.yoy_pct)}>{fmtPct(p.yoy_pct, 1)}</b>
-              <small className="ml-0.5 text-faint">({p.value}B$)</small>
-            </span>
-          ))}
+          <div className="mb-2 flex flex-wrap items-baseline gap-2">
+            <span className="type-list-primary font-bold">{ind.label}</span>
+            <span className="type-meta font-mono text-faint">{ind.unit}</span>
+          </div>
+          <div className="space-y-1.5">
+            {ind.series.map((p) => (
+              <div
+                key={`${ind.label}-${p.period}`}
+                className="flex flex-wrap items-baseline justify-between gap-2 type-body-sm"
+              >
+                <span className="text-ink-2">{p.period}</span>
+                <span className="type-mono-code font-bold text-ink">
+                  {p.value}
+                  <span className="ml-1 font-normal text-faint">{ind.unit}</span>
+                </span>
+              </div>
+            ))}
+          </div>
+          {ind.note ? <p className="type-body-sm mt-2 text-ink-2">{ind.note}</p> : null}
         </div>
+      ))}
+    </div>
+  );
+}
+
+export function MacroPanel() {
+  const { data } = useSector();
+  const macro = macroData(data);
+  const showWsts = hasWstsSeries(data);
+  const showIndicators = !showWsts && (macro.indicators?.length ?? 0) > 0;
+
+  return (
+    <>
+      <SectionTitle title="マクロ指標" note={`手動更新 · 更新 ${macro.last_updated}`} />
+      <Card>
+        {showWsts ? <WstsChart /> : null}
+        {showIndicators ? <IndicatorList /> : null}
         <div className="type-body-sm rounded-[10px] border border-copper/30 border-dashed bg-panel2 px-3 py-2.5 md:px-4 md:py-3">
           <div className="type-badge mb-1 text-copper tracking-[0.1em]">サイクル位置づけ</div>
           {macro.cycle_note}
@@ -88,7 +138,7 @@ export function MacroPanel() {
             rel="noopener noreferrer"
             className="type-body-sm mt-2 inline-block text-copper underline md:mt-3"
           >
-            出典: WSTS ↗
+            出典 ↗
           </a>
         ) : null}
 

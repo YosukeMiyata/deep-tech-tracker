@@ -1,3 +1,81 @@
 {
-  "items": []
+ "_schema": "date / tone / title / body / tags",
+ "items": [
+  {
+   "date": "2026-06-12",
+   "tone": "pos",
+   "title": "SpaceX ナスダック上場",
+   "body": "宇宙セクター最大のIPO。セクターへの資金流入の起点に。",
+   "tags": [
+    "commercial",
+    "launch"
+   ]
+  },
+  {
+   "date": "2026-06",
+   "tone": "pos",
+   "title": "H3ロケット打ち上げ成功 — 失敗から復帰",
+   "body": "2025年12月の失敗から原因究明を経て再開に成功。",
+   "tags": [
+    "launch"
+   ]
+  },
+  {
+   "date": "2026-03-09",
+   "tone": "pos",
+   "title": "JPXスタートアップ急成長100指数 配信開始",
+   "body": "宇宙3社が構成銘柄入り。指数経由の資金流入経路が誕生。",
+   "tags": [
+    "japan_space",
+    "policy"
+   ]
+  },
+  {
+   "date": "2026-01-09",
+   "tone": "pos",
+   "title": "アストロスケールHD、NASA事業採択で一時+13%",
+   "body": "半年で株価4倍超の急騰局面。その後は急反落しており、新興宇宙のボラティリティを象徴。",
+   "tags": [
+    "japan_space"
+   ]
+  },
+  {
+   "date": "2025-12",
+   "tone": "neu",
+   "title": "QPS研究所、持株会社体制へ — QPSホールディングス(464A)に",
+   "body": "銘柄コードが5595から464Aへ変更。データ取得時は新コードを使用。",
+   "tags": [
+    "japan_space",
+    "satellites"
+   ]
+  },
+  {
+   "date": "2025-12",
+   "tone": "neg",
+   "title": "H3ロケット打ち上げ失敗",
+   "body": "連続成功が途切れる。三菱重工・IHIなど関連銘柄に短期の重し。",
+   "tags": [
+    "launch"
+   ]
+  },
+  {
+   "date": "2024-01",
+   "tone": "pos",
+   "title": "JAXA SLIM、月面着陸成功",
+   "body": "日本初の月面軟着陸。月面テーマ(ispace等)の再評価につながった。",
+   "tags": [
+    "exploration"
+   ]
+  },
+  {
+   "date": "2023-04",
+   "tone": "neg",
+   "title": "ispace上場直後、月面着陸失敗で連日ストップ安",
+   "body": "初値は公開価格の約4倍→着陸失敗で急落。イベントドリブン型銘柄の教訓。",
+   "tags": [
+    "japan_space",
+    "exploration"
+   ]
+  }
+ ]
 }

@@ -1,3 +1,59 @@
 {
-  "items": []
+ "_schema": "date: YYYY-MM-DD / kind: earnings|regulation|industry|macro / title / body / tags / source_url: 任意",
+ "items": [
+  {
+   "date": "2026-08-04",
+   "kind": "earnings",
+   "title": "三菱重工 1Q決算(日程は目安・要確認)",
+   "body": "防衛・宇宙セグメントの受注残と利益率。防衛売上1兆円計画の進捗確認。",
+   "tags": [
+    "platforms"
+   ],
+   "source_url": ""
+  },
+  {
+   "date": "2026-08-06",
+   "kind": "earnings",
+   "title": "川崎重工・IHI 1Q決算(日程は目安・要確認)",
+   "body": "潜水艦・航空エンジンの受注動向。防衛3社の業績相場が続くかの確認材料。",
+   "tags": [
+    "platforms",
+    "shipbuilding"
+   ],
+   "source_url": ""
+  },
+  {
+   "date": "2026-08-31",
+   "kind": "regulation",
+   "title": "防衛省 2027年度予算 概算要求",
+   "body": "例年8月末。GDP比2%達成の前倒しがどこまで数字に反映されるかが最大の焦点。",
+   "tags": [
+    "platforms",
+    "missiles",
+    "cyber"
+   ],
+   "source_url": ""
+  },
+  {
+   "date": "2026-10-14",
+   "kind": "industry",
+   "title": "国際航空宇宙展 JA2026(開催時期は目安)",
+   "body": "国内最大級の航空宇宙・防衛展示会。無人機・新規参入企業の発表に注目。",
+   "tags": [
+    "uas",
+    "electronics"
+   ],
+   "source_url": ""
+  },
+  {
+   "date": "2026-12-15",
+   "kind": "regulation",
+   "title": "米FY27国防授権法(NDAA)の年内成立ウォッチ",
+   "body": "1.5兆ドル要求がどこまで通るか。米プライムと日本の連動テーマに直結。",
+   "tags": [
+    "intl_etf"
+   ],
+   "source_url": ""
+  }
+ ]
 }

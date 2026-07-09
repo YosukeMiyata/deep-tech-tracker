@@ -1,21 +1,173 @@
 {
-  "items": [
+ "_schema": "id: 一意ID / date: YYYY-MM-DD / sentiment: -2.0〜+2.0 / tags: themes.json の macro key / geo: 地政学フラグ / impact_chain: 影響の連鎖 / related_stocks: {code, name, direction(up|down|flat)} / source_url: 出典リンク(空なら非表示)",
+ "items": [
+  {
+   "id": "2026-07-01-modular-dc",
+   "date": "2026-07-01",
+   "title": "NTT系と日鉄系、モジュール型DCで工期を半減へ",
+   "summary": "部材を工場で組み立てて現地設置する「モジュール型」開発で、データセンターの建設工期を半分に短縮。建設がボトルネックの国内DC投資を加速させる材料です。",
+   "sentiment": 1.0,
+   "tags": [
+    "capex_cycle"
+   ],
+   "geo": false,
+   "impact_chain": [
+    "工期半減の新工法",
+    "DC供給の立ち上がり加速",
+    "建設・設備工事の受注回転率向上"
+   ],
+   "related_stocks": [
     {
-      "id": "aidc-001",
-      "date": "2026-07-01",
-      "title": "ハイパースケーラーCapEx継続",
-      "summary": "GPU/サーバー/ネットワーク/冷却の全レイヤーに投資が集中。",
-      "sentiment": 1.0,
-      "tags": [
-        "capex_cycle"
-      ],
-      "geo": false,
-      "impact_chain": [
-        "CapEx",
-        "GPU需要"
-      ],
-      "related_stocks": [],
-      "source_url": ""
+     "code": "9432",
+     "name": "NTT",
+     "direction": "up"
+    },
+    {
+     "code": "1801",
+     "name": "大成建設",
+     "direction": "flat"
+    },
+    {
+     "code": "1969",
+     "name": "高砂熱学工業",
+     "direction": "flat"
     }
-  ]
+   ],
+   "source_url": ""
+  },
+  {
+   "id": "2026-06-30-power-coalition",
+   "date": "2026-06-30",
+   "title": "日立など12社、米で「データセンター電力連合」発足",
+   "summary": "発電・蓄電・送電とコンピューティングを一体設計する枠組み。電力確保のリードタイムを数年から数カ月へ短縮する狙いで、電力ボトルネック解消の枠組みとして注目です。",
+   "sentiment": 1.5,
+   "tags": [
+    "power_dc"
+   ],
+   "geo": false,
+   "impact_chain": [
+    "電力とDCの共同開発",
+    "接続待ち時間の短縮",
+    "電源・変電機器の需要拡大"
+   ],
+   "related_stocks": [
+    {
+     "code": "6501",
+     "name": "日立製作所",
+     "direction": "up"
+    },
+    {
+     "code": "VRT",
+     "name": "Vertiv",
+     "direction": "up"
+    },
+    {
+     "code": "GEV",
+     "name": "GE Vernova",
+     "direction": "up"
+    }
+   ],
+   "source_url": "https://www.jetro.go.jp/biznews/2026/07/c7136d80d83e59c1.html"
+  },
+  {
+   "id": "2026-06-11-gartner-power",
+   "date": "2026-06-11",
+   "title": "Gartner予測: 2026年のDC電力消費は26%増の565TWh",
+   "summary": "AIサーバーの電力消費は8割以上増の175TWhで全体の3割に。2027年には従来型サーバーを上回る見通し。日本では発電より送電網の整備遅れが建設の制約と指摘されています。",
+   "sentiment": 1.0,
+   "tags": [
+    "power_dc",
+    "capex_cycle"
+   ],
+   "geo": false,
+   "impact_chain": [
+    "AI電力需要の急拡大",
+    "送電網・電源が新ボトルネック",
+    "電力インフラ銘柄へ資金シフト"
+   ],
+   "related_stocks": [
+    {
+     "code": "6508",
+     "name": "明電舎",
+     "direction": "up"
+    },
+    {
+     "code": "9501",
+     "name": "東京電力HD",
+     "direction": "up"
+    },
+    {
+     "code": "ETN",
+     "name": "Eaton",
+     "direction": "up"
+    }
+   ],
+   "source_url": "https://www.gartner.co.jp/ja/newsroom/press-releases/pr-20260611-dc-forecast"
+  },
+  {
+   "id": "2026-07-01-ntt-data-grid",
+   "date": "2026-07-01",
+   "title": "NTTデータ、DCを活用して電力の需給調整市場に参入",
+   "summary": "DCの電力消費を柔軟に調整して系統安定化に貢献するモデル。「電力を食うだけ」だったDCが電力市場のプレーヤーになる構造変化の兆しです。",
+   "sentiment": 0.5,
+   "tags": [
+    "cloud",
+    "power_dc"
+   ],
+   "geo": false,
+   "impact_chain": [
+    "DCのデマンドレスポンス活用",
+    "系統制約の緩和",
+    "DC立地の選択肢拡大"
+   ],
+   "related_stocks": [
+    {
+     "code": "9613",
+     "name": "NTTデータG",
+     "direction": "up"
+    },
+    {
+     "code": "9432",
+     "name": "NTT",
+     "direction": "flat"
+    }
+   ],
+   "source_url": ""
+  },
+  {
+   "id": "2025-12-22-meti-subsidy",
+   "date": "2025-12-22",
+   "title": "経産省、脱炭素電力100%のDC・工場投資を最大半額補助 — 2100億円",
+   "summary": "再エネ・原子力100%で稼働するデータセンターへの投資を最大50%補助する新制度。電力調達と立地の両面で国内DC投資の後押しになります。",
+   "sentiment": 1.5,
+   "tags": [
+    "power_dc",
+    "capex_cycle"
+   ],
+   "geo": false,
+   "impact_chain": [
+    "国の投資補助",
+    "脱炭素電源とDCのセット立地",
+    "地方電力・建設への波及"
+   ],
+   "related_stocks": [
+    {
+     "code": "9509",
+     "name": "北海道電力",
+     "direction": "up"
+    },
+    {
+     "code": "9506",
+     "name": "東北電力",
+     "direction": "up"
+    },
+    {
+     "code": "1812",
+     "name": "鹿島",
+     "direction": "up"
+    }
+   ],
+   "source_url": "https://www.nikkei.com/article/DGXZQOUA2026E0Q5A221C2000000/"
+  }
+ ]
 }

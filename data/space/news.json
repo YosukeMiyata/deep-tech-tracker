@@ -1,21 +1,135 @@
 {
-  "items": [
+ "_schema": "id: 一意ID / date: YYYY-MM-DD / sentiment: -2.0〜+2.0 / tags: themes.json の macro key / geo: 地政学フラグ / impact_chain: 影響の連鎖 / related_stocks: {code, name, direction(up|down|flat)} / source_url: 出典リンク(空なら非表示)",
+ "items": [
+  {
+   "id": "2026-06-12-spacex-ipo",
+   "date": "2026-06-12",
+   "title": "SpaceX、ナスダック上場 — 宇宙セクター最大のIPO",
+   "summary": "5月20日の申請から約3週間での上場。宇宙セクターへの資金流入の起点となる一方、打ち上げ・衛星通信の競合には競争激化の二面性があります。",
+   "sentiment": 1.0,
+   "tags": [
+    "commercial",
+    "launch"
+   ],
+   "geo": false,
+   "impact_chain": [
+    "超大型IPOで宇宙に資金流入",
+    "セクター全体の再評価",
+    "競合には競争激化の側面も"
+   ],
+   "related_stocks": [
     {
-      "id": "sp-001",
-      "date": "2026-07-01",
-      "title": "小型ロケット・衛星需要の拡大",
-      "summary": "商用LEOコンステレーションが打ち上げ・部品・地上局各社を牽引。",
-      "sentiment": 0.6,
-      "tags": [
-        "commercial"
-      ],
-      "geo": false,
-      "impact_chain": [
-        "LEO",
-        "打ち上げ需要"
-      ],
-      "related_stocks": [],
-      "source_url": ""
+     "code": "RKLB",
+     "name": "Rocket Lab",
+     "direction": "flat"
+    },
+    {
+     "code": "9412",
+     "name": "スカパーJSAT",
+     "direction": "flat"
+    },
+    {
+     "code": "ASTS",
+     "name": "AST SpaceMobile",
+     "direction": "up"
     }
-  ]
+   ],
+   "source_url": ""
+  },
+  {
+   "id": "2026-06-h3-return",
+   "date": "2026-06-20",
+   "title": "H3ロケット、打ち上げ成功 — 2025年12月の失敗から復帰",
+   "summary": "失敗からの原因究明を経て打ち上げ再開に成功。年間打ち上げ数の拡大と商業受注の獲得へ、国産基幹ロケットの信頼回復が進みます(成功日は6月、日付は掲載用の目安)。",
+   "sentiment": 1.5,
+   "tags": [
+    "launch",
+    "japan_space"
+   ],
+   "geo": false,
+   "impact_chain": [
+    "基幹ロケットの信頼回復",
+    "打ち上げペース拡大",
+    "国内衛星勢の輸送手段安定"
+   ],
+   "related_stocks": [
+    {
+     "code": "7011",
+     "name": "三菱重工業",
+     "direction": "up"
+    },
+    {
+     "code": "7013",
+     "name": "IHI",
+     "direction": "up"
+    }
+   ],
+   "source_url": ""
+  },
+  {
+   "id": "2026-01-09-astroscale-nasa",
+   "date": "2026-01-09",
+   "title": "アストロスケールHD、NASA調査事業に採択 — 一時+13%",
+   "summary": "デブリ除去・軌道上サービスの技術が米政府案件に採用。国内新興宇宙の「官需獲得」の代表例として資金が集中しました。",
+   "sentiment": 1.5,
+   "tags": [
+    "japan_space",
+    "satellites"
+   ],
+   "geo": false,
+   "impact_chain": [
+    "米官需の獲得",
+    "軌道上サービスの商用化前進",
+    "国内新興宇宙全体への物色"
+   ],
+   "related_stocks": [
+    {
+     "code": "186A",
+     "name": "アストロスケールHD",
+     "direction": "up"
+    },
+    {
+     "code": "9348",
+     "name": "ispace",
+     "direction": "up"
+    }
+   ],
+   "source_url": "https://www.nikkei.com/"
+  },
+  {
+   "id": "2026-02-13-jpx-index",
+   "date": "2026-02-13",
+   "title": "「JPXスタートアップ急成長100指数」に宇宙3社 — 3月9日から配信",
+   "summary": "ispace・QPSホールディングス・アストロスケール等が構成銘柄に。指数連動資金の流入経路ができることは、新興宇宙株の需給に構造的なプラスです。",
+   "sentiment": 1.0,
+   "tags": [
+    "japan_space",
+    "policy"
+   ],
+   "geo": false,
+   "impact_chain": [
+    "新指数への組み入れ",
+    "パッシブ資金の流入経路",
+    "新興宇宙の流動性向上"
+   ],
+   "related_stocks": [
+    {
+     "code": "9348",
+     "name": "ispace",
+     "direction": "up"
+    },
+    {
+     "code": "464A",
+     "name": "QPSホールディングス",
+     "direction": "up"
+    },
+    {
+     "code": "186A",
+     "name": "アストロスケールHD",
+     "direction": "up"
+    }
+   ],
+   "source_url": "https://space-connect.jp/jpxstartup-100/"
+  }
+ ]
 }
