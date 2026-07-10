@@ -1,6 +1,6 @@
 {
   "_schema": "id: 安定ID / date: YYYY-MM-DD / title: 見出し / url: 原文リンク / source: 媒体名 / published_at: ISO8601(任意)",
-  "fetched_at": "2026-07-09T12:35:43.715562+00:00",
+  "fetched_at": "2026-07-10T12:28:54.123343+00:00",
   "theme": "space",
   "sources": [
     "日経",
@@ -13,16 +13,248 @@
     "SpaceNews"
   ],
   "fetch_notes": [
-    "日経: 38件",
-    "Bloomberg: 9件",
-    "Reuters: 10件",
-    "CNBC: 23件",
-    "WSJ: 3件",
+    "日経: 37件",
+    "Bloomberg: 7件",
+    "Reuters: 6件",
+    "CNBC: 26件",
+    "WSJ: 4件",
     "日刊工業: 4件",
-    "東洋経済: 4件",
+    "東洋経済: 8件",
     "SpaceNews: 24件"
   ],
   "items": [
+    {
+      "id": "hl-15a96acf726f9032",
+      "date": "2026-07-10",
+      "title": "Here are Friday's biggest analyst calls: Nvidia, SpaceX, Toll, Shopify, Twilio, Seagate, Chipotle & more",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRDNMWDRFUE1YcXNEWS1la29WNzAwa0RRR1dSZkJxZThEWG14OFlGSFVLbnl0Z0FiZUQ0TTNTNzY3ZVVxRlVZaUJ4U1ZRdlcwVFdoQ2RVZVgydUppcGZoSDlaX211aFVrbktLa2dWZTZlWXl1WTA4UEt4N3JLSmV3UkRRNHE2cWtnRmJKeHQxYkFkNzVxM3JMM2hTTFNPVkl3aDZ5alU1RTNjUW8?oc=5",
+      "source": "CNBC",
+      "published_at": "2026-07-10T12:22:59+00:00"
+    },
+    {
+      "id": "hl-cbba3674a10ad3f2",
+      "date": "2026-07-10",
+      "title": "Circle Receives Approval to Launch Crypto-Focused Bank",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWEhSU3BMTG5lM2Uxck5pVFpHY0o1MkpUd1VIUUF1akU0Y3JYT0lDeW5NaEhoRHYxSnliNmxkOUh4dm9uT3Z2WmRpTVM4R0FLRDVmVk9jNzYxTkt0ODlNWmlnY2ZGQ19HS2JxTG5SbEozXzZrX0VhOXpvbmhCc2tnbDJoS2ZQY1psZzRic0R3ZGNrTmtRVnN5NnhQTG52Z2ZXNzd3Yw?oc=5",
+      "source": "WSJ",
+      "published_at": "2026-07-10T12:08:00+00:00"
+    },
+    {
+      "id": "hl-180c89adcf2d565b",
+      "date": "2026-07-10",
+      "title": "ElevationSpace advances work on commercial reentry vehicle",
+      "url": "https://spacenews.com/elevationspace-advances-work-on-commercial-reentry-vehicle/",
+      "source": "SpaceNews",
+      "published_at": "2026-07-10T11:25:14+00:00"
+    },
+    {
+      "id": "hl-e56ce1e34e44740a",
+      "date": "2026-07-10",
+      "title": "China successfully tests sea-based rocket booster recovery system",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNN2RjUGFsaXBkem9rVmIyZlJvaUROSmJJY2lVVC1tV0xPcGo2eEd6WHhMeDlLMkV4dnhlaHZwYm9LeThGYkJ3Zm5zZmhiWGtNWmI3Q3hYZFV5M3dYQXpMclMzYTNIV3RSMWlKN2JQLUQ4dzN5OXpKSmctVkt1ckthVV9MQmFHYkFURC16MWxseDVfc0l5SURlb1ktb1lXNnpXalF2Tkkza3dXdXpHSGVHSUdnSm10Q0RqTW53V0lR?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-07-10T08:13:46+00:00"
+    },
+    {
+      "id": "hl-e5df9a7a5514d285",
+      "date": "2026-07-10",
+      "title": "砂一粒で宇宙を描いた画家「高島野十郎」｜若佐 慎一(美術家) - 日経COMEMO",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBwZ2tRazI3OGgtTC04NnRpeG03NlFORksxOXREWGhsbVhob0M3LVlNMnYtdzlXeE5MdDRzRU1uRlNUNjFyVHlEYVNMYmhCakRYb0Nr?oc=5",
+      "source": "日経",
+      "published_at": "2026-07-10T08:13:15+00:00"
+    },
+    {
+      "id": "hl-f6b3516fabb88cf1",
+      "date": "2026-07-10",
+      "title": "China becomes second country to recover orbital booster with Long March 10B",
+      "url": "https://spacenews.com/china-becomes-second-country-to-recover-orbital-booster-with-long-march-10b/",
+      "source": "SpaceNews",
+      "published_at": "2026-07-10T06:55:42+00:00"
+    },
+    {
+      "id": "hl-0d7d2ce8651fcd7b",
+      "date": "2026-07-10",
+      "title": "China Successfully Launches, Retrieves Reusable Rocket Booster",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWDV0Wi1qaUZ5enB1ck02eEswaTgxd1NOMWlRMDdXR2g3dmRkRTB3YVgwcFRNaE5UaGplaXdYUTJTRElGbnNwNXBwRTlqTC1KQnpkRWtKTmlfQVVCQjdRNE5tb001UWNqVnM3MWRBTjh5M3BYZkJUZWZiQ2QyQWdsUHlMamc1STQ2R19RdFdvMFZPM0hIQ0hyWFdJSjNaeWJucnNUTEQ1SmZJcThGb1VpWFZn?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-07-10T06:18:00+00:00"
+    },
+    {
+      "id": "hl-203777d680781716",
+      "date": "2026-07-10",
+      "title": "海底ケーブル､宇宙･防衛関連のテーマ持つ電子部品銘柄 - 四季報オンライン",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1nRzVQNEpfNlluOUVGYlRLbGg4NFZpQ3hNM3B0c1luVHdlSDJadVNTOGxNWFdzbnhjbXRMMFhLNWZZbWd5cnNJbVRJWUJrM2VyZzAweEI2VQ?oc=5",
+      "source": "東洋経済",
+      "published_at": "2026-07-10T02:30:00+00:00"
+    },
+    {
+      "id": "hl-e90197cc7685d766",
+      "date": "2026-07-09",
+      "title": "画像 | ストップ高となった宇宙ベンチャーのispace､スペースXとの連携で挑む月面輸送…81億円投じる新戦略の財務リスクと勝算",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1WLWRvNWIzTkZaMEJyT0FSNVJwcFA1RUgwWEJnaUgxcjRXWlBqWWFjc05kcEhnSW5rV3ZwTVBXVEhqSE1LRzRpU3hnWnl2cnozMWpCMFI4Yw?oc=5",
+      "source": "東洋経済",
+      "published_at": "2026-07-09T23:30:00+00:00"
+    },
+    {
+      "id": "hl-a86a571b636f5a9e",
+      "date": "2026-07-09",
+      "title": "ストップ高となった宇宙ベンチャーのispace､スペースXとの連携で挑む月面輸送…81億円投じる新戦略の財務リスクと勝算",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5yTTh3cmV1ZVYzMHJ3eTIxa2x3bU9EQVhzaVVRUUFLS0ZvNU9COUNpa1Zxa1ZaWm9VQ1FabVh3LUZBQmV1SVFWRGRMZ19yU3RTZUE?oc=5",
+      "source": "東洋経済",
+      "published_at": "2026-07-09T23:30:00+00:00"
+    },
+    {
+      "id": "hl-90a6dc5d3084e503",
+      "date": "2026-07-09",
+      "title": "ストップ高となった宇宙ベンチャーのispace､スペースXとの連携で挑む月面輸送…81億円投じる新戦略の財務リスクと勝算",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aWlZzVmE4a2E4RE9CQ21HQ3Nsd1BpQ0VMZFdUdGlSZm50SWdXOTJuWmN1XzRkMFc1VFhUOUdwbHI0blF4TFpPckRrQ3hsMnlSdWRheVRnVVgybUhpRUxV?oc=5",
+      "source": "東洋経済",
+      "published_at": "2026-07-09T23:30:00+00:00"
+    },
+    {
+      "id": "hl-bd3f1cd627d901eb",
+      "date": "2026-07-09",
+      "title": "Interior Department requests information on offshore launch options",
+      "url": "https://spacenews.com/interior-department-requests-information-on-offshore-launch-options/",
+      "source": "SpaceNews",
+      "published_at": "2026-07-09T23:20:58+00:00"
+    },
+    {
+      "id": "hl-a20f8cf6d1718f1a",
+      "date": "2026-07-09",
+      "title": "SDA TAP Lab Evolves Into BMC3I TAP Lab And In Partnership With Catalyst Campus Launches A New Multi-Phased Program To Accelerate Mission-Focused Technology Development",
+      "url": "https://spacenews.com/sda-tap-lab-evolves-into-bmc3i-tap-lab-and-in-partnership-with-catalyst-campus-launches-a-new-multi-phased-program-to-accelerate-mission-focused-technology-development/",
+      "source": "SpaceNews",
+      "published_at": "2026-07-09T22:35:28+00:00"
+    },
+    {
+      "id": "hl-fea8052ed411d41b",
+      "date": "2026-07-09",
+      "title": "アストロスケールHD岡田社長「スペースX上場で民間宇宙ビジネスの幕開く」 - 日経ビジネス電子版",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSl9vWnl0OUtOZnFYbkhjTmUteWFHZEg4Q0RtOHRNZE5GOEpGLThIWXBSOFlFTy1QLS1Mc2h4ZkI4U1Y1N0JXWHhrNDdQbFZYeTJVQ1JEUWY1YVRGV2FzeXp5QVhjdS1TQVFPd2gxemVIaEdPQk5NY1FKTDFrS3pBdTU5MURyY00?oc=5",
+      "source": "日経",
+      "published_at": "2026-07-09T22:28:26+00:00"
+    },
+    {
+      "id": "hl-5fc75a1703b10416",
+      "date": "2026-07-09",
+      "title": "長野県、地域産業計画素案 航空宇宙分野の集積促す",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1tTXdwRWtObjlDbWQyWHB3dkU2ZnFpbEotMVg4TUFnUU5TSVBERFQ0TUU0VF85V2VDVXlGMkN0Y291cWZMQmI0cnJ6Z0ZKSUlHS3VtREdLbnFBWVFQV2VmOURkVnlPbmhjakRMaTIteTZaY0Fa?oc=5",
+      "source": "日刊工業",
+      "published_at": "2026-07-09T21:17:34+00:00"
+    },
+    {
+      "id": "hl-6f770de1ee27c314",
+      "date": "2026-07-09",
+      "title": "The Exploration Company establishes US entity to pursue government contracts",
+      "url": "https://spacenews.com/the-exploration-company-establishes-us-entity-to-pursue-government-contracts/",
+      "source": "SpaceNews",
+      "published_at": "2026-07-09T20:12:33+00:00"
+    },
+    {
+      "id": "hl-f2b287040d813190",
+      "date": "2026-07-09",
+      "title": "JAXA、再使用ロケット実験機打ち上げ コスト削減でスペースX追う",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXWnJxMjU0ajh4Y1ZzWmtqRU1HaVIxbFhQRU5mWFdwZWFwRFY0d3pBdnJlN184aVZwNzQwU2w5OXA5VTFvNF9QU2JyZWFRSnNhYXVRUmk0dG1yS29McUlKSW1hTlNlMENhaXBEaQ?oc=5",
+      "source": "日経",
+      "published_at": "2026-07-09T20:00:00+00:00"
+    },
+    {
+      "id": "hl-9434c8cb1c7ff7c2",
+      "date": "2026-07-09",
+      "title": "Environmental groups urge FCC to pause orbital data center applications",
+      "url": "https://spacenews.com/environmental-groups-seek-fcc-pause-on-orbital-data-center-constellations/",
+      "source": "SpaceNews",
+      "published_at": "2026-07-09T19:39:42+00:00"
+    },
+    {
+      "id": "hl-0e2a254ce9e374cc",
+      "date": "2026-07-09",
+      "title": "Unashamedly bullish on AI data center space, says Morgan Stanley's Stephen Byrd",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYkU4bW5GV18zZjR1UkFWTDlYb1pyNFQ2Q3dnLWJvWjBBS1lVT0dtSjI5NHFqMEMwTTRuUTRNV0p0MDRhWDVfN2dIaU50bDU0Q04tZkU0cGw0Vy1CN0kzMW1ld3gxbnduSFM1d09hWDR1dm50UTYzTFp2UlFRenZIMGd1U21UVGxBNkladFFUcnZGMmxveTdYV0tCYjMyQ29XMlV2MjBZWFRmNzcyUTZpZEVrUWV6LXh1Q1RQRg?oc=5",
+      "source": "CNBC",
+      "published_at": "2026-07-09T18:46:38+00:00"
+    },
+    {
+      "id": "hl-3ad49d4dbf9010a1",
+      "date": "2026-07-09",
+      "title": "ダイヘン、3Dプリンター参入 造船・宇宙高市戦略を意識 金型不要、人手不足に対応",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOTItNHpYR2dGWEhKaUxNeENoWUdlSW1keHNZeUdRRnE1Q291NG0tOGIwc1ZYbWxpQ3lnaEJsYTdUdWh5djQ1bkJOLWJoQlJYTXhTaG03cTltWnE5VnliWDViZURfdFpLSml4OER3U1VYRzljakt6SFlIX2lDUERsTDJyTWQtdmlKTVItZFFzaFJzYWhHRVhuaDdYdF80Q19MYm5SNUNR?oc=5",
+      "source": "日経",
+      "published_at": "2026-07-09T17:49:01+00:00"
+    },
+    {
+      "id": "hl-aa8874de3656b4a4",
+      "date": "2026-07-09",
+      "title": "Palo Alto CEO Arora says AI pricing needs to fall 90% as token costs skyrocket",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Rb1ZnSGZJMWoyeFdCTlQtQ3hrZ29VWThhV1V0LXVQUHZrbjZURDlSdnFrTWI4eWdvWU5VdlpfYnV5SXp2aUNSaVN2dVRoNzBuS0ZKdmNuUGR0NlBSS1dKMnpUdEttT0xBRXkyM0hUUVhZanFVdHfSAXtBVV95cUxNUXJMRXV5bGlVZ0U2bFNULVNQOUNVdDA4RDFvWGtJanBLdUQwMHVIOEFfSVFSSlVJZzlTQ0Qzb3FrOXZyNG1ZdTY5THVQN1hRZXh6NjQ0VFVvbWtWY1lNNWFrUUptWHBnbTJsdVVaZk44OWhKU2VaZmx0R28?oc=5",
+      "source": "CNBC",
+      "published_at": "2026-07-09T17:10:24+00:00"
+    },
+    {
+      "id": "hl-49c50dc7f3e6ddf5",
+      "date": "2026-07-09",
+      "title": "ダイヘン、3Dプリンター参入 造船・宇宙高市戦略を意識 金型不要、人手不足に対応",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBuOHlsZ2s1eHJDV3hmWnhZUHZiTXJoUG0wLUd2cldSU25YTGNpejZtV0V4dkdVVUdBUXZGaXU0dERtQVZIQVJUZkJTMHBQR3ZRWnFrX0NMbl9iVlQ0eEJEbGY3V3BBb2dXeTU3bw?oc=5",
+      "source": "日経",
+      "published_at": "2026-07-09T17:00:00+00:00"
+    },
+    {
+      "id": "hl-c985a517503846c1",
+      "date": "2026-07-09",
+      "title": "Xona unveils program to verify Pulsar-compatible devices",
+      "url": "https://spacenews.com/xona-unveils-program-to-verify-pulsar-compatible-devices/",
+      "source": "SpaceNews",
+      "published_at": "2026-07-09T15:00:00+00:00"
+    },
+    {
+      "id": "hl-b09a78024199a920",
+      "date": "2026-07-09",
+      "title": "Volatility is often the price of ambition",
+      "url": "https://spacenews.com/volatility-is-often-the-price-of-ambition/",
+      "source": "SpaceNews",
+      "published_at": "2026-07-09T15:00:00+00:00"
+    },
+    {
+      "id": "hl-4e396d6542a47526",
+      "date": "2026-07-09",
+      "title": "アストロスケールHD岡田社長「スペースX上場で民間宇宙ビジネスの幕開く」 - 日経ビジネス電子版",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE16LXhjS3dnTmhaS3RJYTB6bkRqSkdBY1U0ZU9ueG9DVG9Lb3BTSFdKVFAweFBLLTg5UEhxSEhoSlNIdzg0T3NQRkpoanVBMHRxbVA4UkRFdjRkSnVQbjYycGZR?oc=5",
+      "source": "日経",
+      "published_at": "2026-07-09T15:00:00+00:00"
+    },
+    {
+      "id": "hl-cdf3d9d423ec7b9b",
+      "date": "2026-07-09",
+      "title": "Maintaining leadership in space with Victoria Coleman",
+      "url": "https://spacenews.com/maintaining-leadership-in-space-with-victoria-coleman/",
+      "source": "SpaceNews",
+      "published_at": "2026-07-09T14:47:03+00:00"
+    },
+    {
+      "id": "hl-62c00531d03d0946",
+      "date": "2026-07-09",
+      "title": "Space Force completes procurement reorganization, creating nine acquisition portfolios",
+      "url": "https://spacenews.com/space-force-completes-procurement-reorganization-creating-nine-acquisition-portfolios/",
+      "source": "SpaceNews",
+      "published_at": "2026-07-09T14:30:56+00:00"
+    },
+    {
+      "id": "hl-1446728447870539",
+      "date": "2026-07-09",
+      "title": "Bank of America: SpaceX IPO has affirmed the scale of space industry",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNUZXRTNneG5Pd1ZTcG1CVlBVdVA1R1B0SFhBb0oxeUt6d1hwaktyZjg1andWaXBPV1Q4aFF0RHhWWjA5a1VlUUdDN21VWncweGEyNVp6UF9FR09EZ0pkc05GY2JEcWJGVmhqV1YtRWtGdTFjRWxEbU93dWFEaHJzZTkzRll0SkFiTEE0Nnl5aVA5T3lLS0lXVlZhcjFHcHlXWWo5RnNTY3lxX2tBM2Z1Sw?oc=5",
+      "source": "CNBC",
+      "published_at": "2026-07-09T14:14:33+00:00"
+    },
+    {
+      "id": "hl-41628fdf7c49e7f2",
+      "date": "2026-07-09",
+      "title": "Space Force awards Pulse Space $40 million to advance laser power technology",
+      "url": "https://spacenews.com/space-force-awards-pulse-space-40-million-to-advance-laser-power-technology/",
+      "source": "SpaceNews",
+      "published_at": "2026-07-09T13:00:00+00:00"
+    },
     {
       "id": "hl-2596cb2e722ea503",
       "date": "2026-07-09",
@@ -80,12 +312,12 @@
       "published_at": "2026-07-09T08:24:00+00:00"
     },
     {
-      "id": "hl-a183aaa2ab961ee8",
+      "id": "hl-f12b233562dfcb3a",
       "date": "2026-07-09",
-      "title": "Novo Nordisk launches weekly insulin shot Awiqli in India",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWmlLM1N2RC1HcVRscG1xcXlHN1V3bjJzTXVJVkl5eS03My0wUHdJUWdKTVVzUUJjdkhMOU1IS3ZBeDNFMVFkY0VGOHdUZExHX1docExWZ3BhTGtFMnhzRWtKOXJRckIwaXg0V1JPT1BHQzJJOXlXUWdnV2V6V1Q1eHlKX2VrcU95djFOdXRFOUFDVXVVbDhUbTNqQjRlMFhubnpWLVlWWFpTREpGa2dNV3RGU3VCY2VXVmFvMU5MaVBXR1dTQVBiUHlaSXhrbFJuU0QyUldSUVphcFk?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-07-09T06:23:00+00:00"
+      "title": "Japan’s Ispace Rises on Lunar Transportation Plans With SpaceX",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNU5pNXFXLWdvY1dQcGM2OHdpVzlNY1BNN082cHUtb2JzN3JxUWdYT3VOeE9MNkYyX2hrZ2Vfdkh4VmVEVWtJWGVDWDhHMUNLejFSNGFicGZRT2plSmxpa1l2LUl6TkFXcnFxTlNJbVZIOEpJVmJhSzNfa2g0Q0QwVUlCSGJnR1FDXzVOTlAxV1RmWFNuN05nOGtfTWxIbC1RM2h4RHd3SUZDSEVsMFUtd3FMbw?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-07-09T07:01:56+00:00"
     },
     {
       "id": "hl-6a3ef29a698fa8aa",
@@ -152,14 +384,6 @@
       "published_at": "2026-07-08T18:06:39+00:00"
     },
     {
-      "id": "hl-694c33ae7e9f49db",
-      "date": "2026-07-08",
-      "title": "OpenAI launches GPT-Live voice models that listen and speak simultaneously",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUEx6Y21CZ0l1NDduWVB4dFcyX2pjdm9jY0RhU3Nna1N4V1VnZTB2Wjh4X01PLTRubDgtRGtjOTZCTWRPQy1DTllJQl94TVF6QmxFQWJfbkMta0xXNzJ4ekIyazBRNkxLVHZqVElSZDJoRGVYbFIzYlBXWnFGeXJ2VFJQRjBQQjlUQURUbVdCaU90SC1LanNaVVRWZjBiR0pJMXdjZE9Dczc3YVMzQzl0VHktT0FiZw?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-07-08T17:53:43+00:00"
-    },
-    {
       "id": "hl-23b75b201625b9e0",
       "date": "2026-07-08",
       "title": "JPMorgan calls the possibility of a SpaceX-Tesla merger 'strategically coherent'",
@@ -182,6 +406,14 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWEhvMGlyMXhJREFWZURld1hnTEJaMUpoeTA4d1pZQUQyQTNwZUhDOHE2SGJqTzJnZlNXelJTR2FDSGwtb00zRTlzZFlHVnh6dGp4X2s0dXhwd1V4S2JnWUw1cUY4Ylppd09nM21lQ1RfM0tIM1VmYjc3NlRGeDdSSUJmTDBqRGttZmxIemtSX2JVNTdFdm5vMktBVlNXMnB0?oc=5",
       "source": "Reuters",
       "published_at": "2026-07-08T15:45:43+00:00"
+    },
+    {
+      "id": "hl-af5f338f3f1a778f",
+      "date": "2026-07-08",
+      "title": "With SpaceX Starship, Japan's ispace provides ride-share to the moon",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNemhKYUp4ODVXOUhMWHlHZC0wRHFDU3pobFVEcFhzaUw1WVVMa2ZCLVdTLTg4RFNqczgyQ1QxQkRORndOUVFhbm5qWGRVTHFmOW56WFBWQzlpY1dMTks1dGVIand5V29lakgyVkZIVkpuX3g2S1lJYlAtd2RhTDhGUmRBSlAtYnhTSkkwdEsybjV0MF9YYXFRRzJjTHh0WkhYcVk0ZHhR?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-07-08T14:59:05+00:00"
     },
     {
       "id": "hl-a920cee94648830e",
@@ -229,7 +461,7 @@
       "title": "From space rocks to smartwatches, AI millionaires rewrite the luxury playbook",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdExOcWhibDJUaWxMZm1ZMEVrUktKYzdOYzM1YUh1cXh0OHlmdFBpSUZ5TGI3Z1ZsT2lwOGM2bHZkc3NWSndsU0lSaEkzOWcwM1RLV2t6V3hDWlN1aWpXOFYzNWtGVGZFRWtBR1pMaGpSNFFVSldvY0ZXejk0a0lQZTZMT1dVbFRjZ0tGY3doanhnOHhncWh2YkFUUUtwYUpkaEw3a3NfNHprajVlYlE?oc=5",
       "source": "Reuters",
-      "published_at": "2026-07-08T10:04:00+00:00"
+      "published_at": "2026-07-08T10:08:50+00:00"
     },
     {
       "id": "hl-8bc20b8ef8e88018",
@@ -238,22 +470,6 @@
       "url": "https://spacenews.com/space-force-adds-relativity-impulse-space-to-national-security-launch-program/",
       "source": "SpaceNews",
       "published_at": "2026-07-08T07:48:02+00:00"
-    },
-    {
-      "id": "hl-f84487936b4996d2",
-      "date": "2026-07-08",
-      "title": "Milk.、宇宙技術で鮮度判定 食品に光センサー拡販",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1kVk5MR3V6MXRUQ3hJSkZ3S3N3ZTFJVkhyOXhSTDRiTTl6Vl9vaVFWQTFPRUFEOUNSNjdUc0RKcklTeXp4OXdtV2xpV3E1QTJVbGpqZzZuMkx2Nk1MQnYyRmg1eVh2VkFVZGhTTHFwbmp0SUpj?oc=5",
-      "source": "日刊工業",
-      "published_at": "2026-07-08T07:29:02+00:00"
-    },
-    {
-      "id": "hl-af5f338f3f1a778f",
-      "date": "2026-07-08",
-      "title": "With SpaceX Starship, Japan's ispace provides ride-share to the moon",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNemhKYUp4ODVXOUhMWHlHZC0wRHFDU3pobFVEcFhzaUw1WVVMa2ZCLVdTLTg4RFNqczgyQ1QxQkRORndOUVFhbm5qWGRVTHFmOW56WFBWQzlpY1dMTks1dGVIand5V29lakgyVkZIVkpuX3g2S1lJYlAtd2RhTDhGUmRBSlAtYnhTSkkwdEsybjV0MF9YYXFRRzJjTHh0WkhYcVk0ZHhR?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-07-08T06:52:00+00:00"
     },
     {
       "id": "hl-d7c632f330bee1fd",
@@ -312,14 +528,6 @@
       "published_at": "2026-07-07T23:00:58+00:00"
     },
     {
-      "id": "hl-8fa684ed42a160e4",
-      "date": "2026-07-07",
-      "title": "Orbit Fab hires new CEO and raises funding to support satellite refueling business",
-      "url": "https://spacenews.com/orbit-fab-hires-new-ceo-and-raises-funding-to-support-satellite-refueling-business/",
-      "source": "SpaceNews",
-      "published_at": "2026-07-07T22:45:09+00:00"
-    },
-    {
       "id": "hl-08e37f22b7f3dc3f",
       "date": "2026-07-07",
       "title": "京都産大と中央エンジ、宇宙産業人材育成で連携",
@@ -360,14 +568,6 @@
       "published_at": "2026-07-07T20:00:00+00:00"
     },
     {
-      "id": "hl-e622ba96794fd6a7",
-      "date": "2026-07-07",
-      "title": "三菱UFJ、宇宙から不動産担保を点検 訪問削減で中小融資効率的に",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcnREclVTR1lHUGV5WnVCY1lTSU5ETkhmbXJ4dVctSFNFMG9iNDhTaUFnb2pEdkZ5bExDZWpmNFVqQTBBakVTY1RmNk1pYWJra1ZDRDQyOFpndGZiTnhRZ1F2OWhSQXhncTRJSUdjM1h0ZzB1QjlaNm5TY2MtdWJUTFFYaW9QVFQzSW5uVG9fclpycUdCcUN4V3MwLTZUOVhYTGhXQTB0RnU3QQ?oc=5",
-      "source": "日経",
-      "published_at": "2026-07-07T20:00:00+00:00"
-    },
-    {
       "id": "hl-d8ed6b2b85572760",
       "date": "2026-07-07",
       "title": "小型ロケットの雄、スペースXに挑む 1.3兆円買収の賭け",
@@ -398,206 +598,6 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tcGxwYXNsRlREQTVCWmRDd040ZElodHVUOWJOSkx6WHZ5QUMzVDRvbWRjT3Vua2haQldlbGt6WUkzY3B3dTB3UkFlUm9neGRxOXFsX3hYZ0k1VHY0SHZoYXdmWV9EWmpSWl92Vg?oc=5",
       "source": "日経",
       "published_at": "2026-07-07T20:00:00+00:00"
-    },
-    {
-      "id": "hl-799d02a2c7f48c71",
-      "date": "2026-07-07",
-      "title": "SpaceX's value is in orbital data centers, says Bernstein's Doug Harned",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQN2QyZWR0NUZXRDBlcElXR0VGODYtSkRjMU9laldkZFFURWI1Wm4yZFlpNDdGWFJ6NmVLUVNBRU9RQ0VIT2dBZzc5OGNtUUIyZXBMbTBqZy15TUxoYnEwM0FUTVBPS0VhVnkyUXluaFB3VzBZTl9lNVozU0RCNVl1LUtVLXdsNGdLYzNrbWVEM3l6ZldYNnk0dV9hX3JkWVRrMXQ3cVJnOWhmZXgzc0VRcA?oc=5",
-      "source": "CNBC",
-      "published_at": "2026-07-07T18:53:00+00:00"
-    },
-    {
-      "id": "hl-c2d9ce2f4dbe01c6",
-      "date": "2026-07-07",
-      "title": "Spirit Electronics Announces Managed Access to U.S.-Based Advanced Semiconductor Manufacturing for Aerospace and Defense Programs",
-      "url": "https://spacenews.com/spirit-electronics-announces-managed-access-to-u-s-based-advanced-semiconductor-manufacturing-for-aerospace-and-defense-programs/",
-      "source": "SpaceNews",
-      "published_at": "2026-07-07T18:46:40+00:00"
-    },
-    {
-      "id": "hl-5e3d190278f73330",
-      "date": "2026-07-07",
-      "title": "Apolink makes contact with first relay satellite",
-      "url": "https://spacenews.com/apolink-makes-contact-with-first-relay-satellite/",
-      "source": "SpaceNews",
-      "published_at": "2026-07-07T18:11:41+00:00"
-    },
-    {
-      "id": "hl-b5796f55372d8326",
-      "date": "2026-07-07",
-      "title": "Arianespace opens door to GEO rideshare opportunities from 2029",
-      "url": "https://spacenews.com/arianespace-opens-door-to-geo-rideshare-opportunities-from-2029/",
-      "source": "SpaceNews",
-      "published_at": "2026-07-07T17:52:30+00:00"
-    },
-    {
-      "id": "hl-7a2a28588a50e777",
-      "date": "2026-07-07",
-      "title": "Breakingviews - Wall Street gets high on Elon Musk's SpaceX supply",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQW13RUt5VHY2bU9BWXV2cU5neHFBaGgxWS1LQ2F1QjRBME5zOWtjWkNTZlVGZVNWVDFYaUk2RTVqUlhJMVNCWW9oYVJRcUtHQzJJQjBlR082N01ITktvMWFranNGTUZrd3Jfc3V0QnotR0RKM2lUTTRFTHBoT2tSVDJUekhCaXhlcHZkODNFdnFGaFFGRDBRNFpCMG1rLVlscWJDZGRCN3ZWVG8?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-07-07T17:45:00+00:00"
-    },
-    {
-      "id": "hl-42b53c77d484bfea",
-      "date": "2026-07-07",
-      "title": "How to buy SpaceX at a 20% discount",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOR05PS21GRWVjUUF2Wl9rZ3FadEM2eVBhUkNfRnVFX0VadDRSNWhjZGRjWVlST2dVRjBWRWp6d0ZVLUFkYVFIRHpDRWlzeE02ZTl5ZVFxa09BU3YxVDBiU3FoTDc4Tjl5dzJFTkpmZkswblQ3UWFxVWh2Q093MHkyb29ZdXM?oc=5",
-      "source": "CNBC",
-      "published_at": "2026-07-07T17:00:02+00:00"
-    },
-    {
-      "id": "hl-13365aa3df9d25f5",
-      "date": "2026-07-07",
-      "title": "Stocks making the biggest moves midday: SpaceX, GE Vernova, Crinetics Pharmaceuticals, Rivian & more",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNanFiV05ELWJ6S1lJT2NoNlZEZzdOMTJzVm8yOUxlZmRXWkJhUnJnT1NvSXBXZDFoUXdMclVWTS13TVBhZUQtaFNwQnFxb1RhY1BEWDM3TFRrQ251ZWNadjZHWXdxU2cxd3NWVGVQbEpPU3p6dkptUFZnekhvQ2pxRzhlUnItQkxyWmVBX29scnR2bk4xcTRiTnVn?oc=5",
-      "source": "CNBC",
-      "published_at": "2026-07-07T16:45:19+00:00"
-    },
-    {
-      "id": "hl-bdd077ac7472179d",
-      "date": "2026-07-07",
-      "title": "SpaceX’s Biggest Bull Sees Valuation Soaring Above $10 Trillion",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPd2RnY21KVmZtRXJqOUYzd3VHUEgwNUdHUHBOWmxuLU5LaHNtTy0yQUNsTVZqcUo2RlQ2SkdkUk9ZS2RtSnp0d2hwOGozd1R1MUExMFlLRDhTMkdZU0RvQXFSa1pwNFZvY0drVkxoNDVtVzZUVV8xVXBHV1RMNzlVLXJ3REZCYVFGQnlzU3UwcnplTXdKVjZyWkdfeG01ckZJZndvblZMRFh6UGQ3R1VTb2MwTQ?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-07-07T15:39:28+00:00"
-    },
-    {
-      "id": "hl-504b09b83f97b755",
-      "date": "2026-07-07",
-      "title": "SpaceX launches Transporter-17 amid concerns about rideshare program’s future",
-      "url": "https://spacenews.com/spacex-launches-transporter-17-amid-concerns-about-rideshare-programs-future/",
-      "source": "SpaceNews",
-      "published_at": "2026-07-07T15:31:35+00:00"
-    },
-    {
-      "id": "hl-eb4ad7f1fc9b81dd",
-      "date": "2026-07-07",
-      "title": "Only one SpaceX analyst out of all the bulls Tuesday is calling for the stock to drop. Here's why",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMmNwUmVjWHBBZGItZ0E3dEpRM21QcVVwQ21RaXRRNzJCbnFXYTQ0NDFjTU12akY4Sk13WEVpNWRqTEZXQ2ZEM3lGaENRX2RLTmpDM1I4WEVXQWNaNzRCM2dRc0xCTzd4V1B3bExoN2laeDlxbTloUWRRX05BLWdRZUZadGk3SWh4d0U0NjZIN3JDVlRsT3R3RU43cmpseGxqWHkzMHV3?oc=5",
-      "source": "CNBC",
-      "published_at": "2026-07-07T14:06:20+00:00"
-    },
-    {
-      "id": "hl-e034e452a70b8bf1",
-      "date": "2026-07-07",
-      "title": "Major banks give their first ratings on SpaceX and they're quite bullish: 'Apex of civilizational ambition'",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOci1zVGpSalQ5bWJHOTRDYmZFQzRhNHNtZGQyeWY0ZFRFSWJNWmVSUVZTN1g3aFJHWkNYa3UzbXdQcGdFU0RVdDVGRkNobXZpNkNiZTBld2ZMMGJFb3cxNGVxT3NvSlhXcEpDWHNrNTRySDhxbWlSQXJsd3hZMzlHcmdzeVdqb1J4VGI0aTdyUlRlSWRtN2Fzby1MTUEySFhyVzUzQk9XY3loZw?oc=5",
-      "source": "CNBC",
-      "published_at": "2026-07-07T13:11:06+00:00"
-    },
-    {
-      "id": "hl-64260dad8f3a399d",
-      "date": "2026-07-07",
-      "title": "One SpaceX analyst sees Musk's space company quintupling to $800",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUEdVRGtMdkFPaS03ZUt6YnYtQWlVX1p4VlZiWGphQU5EbFkyS2Z0VTdtWDBoS2xPZUJibmFSeFRDTHEya2h0LUtfRFhkZnJsYm9qVW1rcUdDa1RqcEJwcEFON0ZsZnhRVGJCX2VPeC1UMTFlYnE2NWhmLVQ1YVZkaGtEaTQ0aEIwU2VYVXhRUS14VzlIdHFBR2phNmJIaGt3?oc=5",
-      "source": "CNBC",
-      "published_at": "2026-07-07T12:40:35+00:00"
-    },
-    {
-      "id": "hl-7315aad5b0542e43",
-      "date": "2026-07-07",
-      "title": "BofA initiates coverage on SpaceX: Here's what you need to know",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSzR0R0pBQ1JaRERxNzB3RUNENXhQdnJUT1Y0TldNU20zeFEyOHJuRDdoRXhCZndKcV9lNy1XbmEteXpSNGlVa0pTaTBQcEJ0bkRtekdhVjVZbFYwUm1XS0hZeTRSQTNydWRpTS1qZ1ZzVFQwVlIzVWVmZjFQbmJDQnZHUHI0OUsxV1RTeVNPY3pxS19qeTByZ1doenZsekpQb3AwYlFzUQ?oc=5",
-      "source": "CNBC",
-      "published_at": "2026-07-07T12:40:00+00:00"
-    },
-    {
-      "id": "hl-b138e46cbcbb37a0",
-      "date": "2026-07-07",
-      "title": "Here are Tuesday's biggest analyst calls: SpaceX, Nvidia, Apple, Figma, Shopify, First Solar, Ferrari & more",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTmR6WjFpQTFVOGk0dFhReTVVY1Nwdm5DeXNEcTlHLTFBUVIwNGJqVWpwNW5qWW11ZWZTMFFjRzA2Rm9BVlFmWUNNenEzMmZtSnhxNmU5NVRuM2k1M0JMd0hpd3B6M2Fxb3c5cDU1dzBKdVJkc0hIMkhXeGsyQWtweEZiQXpQaXZiR2c?oc=5",
-      "source": "CNBC",
-      "published_at": "2026-07-07T12:18:29+00:00"
-    },
-    {
-      "id": "hl-5a9c3a9a2cf7d065",
-      "date": "2026-07-07",
-      "title": "Simera Sense to provide imagers for Canary Islands constellation",
-      "url": "https://spacenews.com/simera-sense-to-provide-imagers-for-canary-islands-constellation/",
-      "source": "SpaceNews",
-      "published_at": "2026-07-07T12:01:41+00:00"
-    },
-    {
-      "id": "hl-01f6aa2ef46f04ef",
-      "date": "2026-07-07",
-      "title": "SpaceX satellite wins test Pentagon’s commitment to competition",
-      "url": "https://spacenews.com/spacexs-wins-test-pentagons-commitment-to-competition/",
-      "source": "SpaceNews",
-      "published_at": "2026-07-07T11:00:00+00:00"
-    },
-    {
-      "id": "hl-0d74304abb9c72ea",
-      "date": "2026-07-07",
-      "title": "Apex Group on AI in the financial space and the future of tokenized assets",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcG05ellkUUU0cUVaZGV0VVBsYWp1cjNPc1dPRThCUE9sMVh3TjVUNUlzUHFuNjd1dW1jSW5JSWtXVHZKUUUxbkhqOHZKc1FrRG5GMlFaVXY3bXl1dVRnOUdObzhTODg1YzhBVGJiU1U4S19BUFpjd01NLW1yeWg2VDBxTTRzTVBuSDUxOFhTRVBTQ1BDS2VQenE4SWlJVXFxbmMzNnpxZGo0MGRmS08xazE4aWNfdDBP?oc=5",
-      "source": "CNBC",
-      "published_at": "2026-07-07T10:58:00+00:00"
-    },
-    {
-      "id": "hl-28d87499c5b5a956",
-      "date": "2026-07-07",
-      "title": "SpaceX joins the Nasdaq 100 as passive buying drives momentum",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQS29Tb0t3MDV4WmdPZllRQVY0bnoxbGdpdmhyNXh6dlEtbVFRb0hnaWVEU19NaDBodGJ2SUNJUDNNOWxya1R1Z2YzQThuZFdqWTN2UGtjTjI5OVR4ZmhZanlrQWlob1FqdFR2UXdNQmVRMmFfTmduSFRQZGVGWC1vdklsaHJyMVVtTWZRU3djWHlNd2JyQ1NDNHdLOVByMHdIQTBzZXYtWQ?oc=5",
-      "source": "CNBC",
-      "published_at": "2026-07-07T10:48:00+00:00"
-    },
-    {
-      "id": "hl-4849b4785870df3f",
-      "date": "2026-07-07",
-      "title": "エレベーションスペース、欧新興と協業 宇宙空間からの輸送で連携",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvWWlDLUpHZmMzWG1VZVJ3U1RaV2ZGakhSQW5RWmJqRVkyeWJvU3RpN09CUENOdE9FOXp3VlpmV1lkSTJvelZ6SndYVFJyUlBYUGtaWkwtMXFCVDhJcXpxbG9XZXVIR2NUM25uYg?oc=5",
-      "source": "日経",
-      "published_at": "2026-07-07T10:08:23+00:00"
-    },
-    {
-      "id": "hl-2b8d91358e60712a",
-      "date": "2026-07-07",
-      "title": "エレベーションスペース、欧新興と協業 宇宙空間からの輸送で連携",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVXM3U3RncTFqUTMyS1pmSmh4OHZNaVJKTDFVb0luZGZ0MnFiUzlhVTZsc05sNVRhOXdfVG5aLUR0dHRKQXh0c0FmYl8wV2RWSUYtNkZVV1lYN2NQRjNkNFFuUVZsSEUyUzlaMmZFTUN5UmthcjNVc3VrcnZvZmV5eVJXa09KMTh6clFaZGhMZGhrV2JiUlBMSg?oc=5",
-      "source": "日経",
-      "published_at": "2026-07-07T10:08:00+00:00"
-    },
-    {
-      "id": "hl-b3450fb1347bad69",
-      "date": "2026-07-07",
-      "title": "労務・福利厚生企画【三菱G/航空宇宙向けシステムメーカー/フレックス可】 - 日経転職版",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBQSlRVcE96eFgxVVo0R0xqaENJT0VldV9EZmdaUXoxdEZBWXAwM0E2NXlCSE12N2w0SDBMOFJIeXhvWEhnNXJXa1YwdUhBRjBRSmtsY1dlbW9oeFU1cDZoVGpjR1Q2V01UVngzOHV3?oc=5",
-      "source": "日経",
-      "published_at": "2026-07-07T10:06:56+00:00"
-    },
-    {
-      "id": "hl-271d809a0cfe95e1",
-      "date": "2026-07-07",
-      "title": "Isar Aerospace signs agreement for Canadian launch site",
-      "url": "https://spacenews.com/isar-aerospace-signs-agreement-for-canadian-launch-site/",
-      "source": "SpaceNews",
-      "published_at": "2026-07-07T08:00:00+00:00"
-    },
-    {
-      "id": "hl-32826e6ab669a6c6",
-      "date": "2026-07-07",
-      "title": "新興株前引け グロース250が反落 宇宙関連に売り",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1DWDkybFZuLWl4Wk5heDgwSVVnWGhzWVdCZ3Nkek1RbkdsMkZ6SDFMQ1Z4WU5BR3JZZloyUTFpVTRTNTkyYWxVUFZfMEFtdHVtM3F1MEk2YWExVjloSW5qckFydC1VbUMtcmZBOQ?oc=5",
-      "source": "日経",
-      "published_at": "2026-07-07T02:47:14+00:00"
-    },
-    {
-      "id": "hl-b7ed84f31c41c7b5",
-      "date": "2026-07-06",
-      "title": "テンバガー候補複数？宇宙株の今後を占う｢3つのフェーズ｣ - 四季報オンライン",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBnTVE5SXpQRktheXFaOE5CTnhvR1hiX255RHFaVVZUYXJSMS1xUm12Qnp4NTBoRkJxQ2lUcXdhNjVwUHM2eFBYS0tjQlBJSHBCcU5PdmVqcw?oc=5",
-      "source": "東洋経済",
-      "published_at": "2026-07-06T22:30:00+00:00"
-    },
-    {
-      "id": "hl-d6ace326d3bd1dd8",
-      "date": "2026-07-06",
-      "title": "Selling SpaceX puts and would happily own it at $139, says KKM Financial's Jeff Kilburg",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaEhYOVlGQnplcEpETlY1Y01UdmpidE52LW9xUWtXZ09aX3Y4dHZ4ZmdscWRXb1FnMmFwWWxEQ0lweXNjRWE0aUZLVThPaVVwdC1TcFBTQzJWY1RpcFZKejgzMzk4Q1ZCV1ZZMmtZcUVESEYyUzJPUktNR2pJRDV3eXRBS1pWYnV6VGN4SldMWFZKOWJKdW5fWHpkVDBnandyeXNTY0pTNDBSZWNJSmtrOXBjZVhzYWcxMEhtUjRyTFE4eUNsLVE?oc=5",
-      "source": "CNBC",
-      "published_at": "2026-07-06T20:29:00+00:00"
     }
   ]
 }
