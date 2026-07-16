@@ -1,6 +1,6 @@
 {
   "_schema": "id: 安定ID / date: YYYY-MM-DD / title: 見出し / url: 原文リンク / source: 媒体名 / published_at: ISO8601(任意)",
-  "fetched_at": "2026-07-15T11:29:56.369283+00:00",
+  "fetched_at": "2026-07-16T11:37:46.539791+00:00",
   "theme": "nuclear",
   "sources": [
     "日経",
@@ -12,20 +12,68 @@
     "東洋経済"
   ],
   "fetch_notes": [
-    "日経: 23件",
-    "Bloomberg: 14件",
-    "Reuters: 10件",
+    "日経: 19件",
+    "Bloomberg: 10件",
+    "Reuters: 9件",
     "CNBC: 0件",
     "WSJ: 2件",
     "日刊工業: 2件",
-    "東洋経済: 11件"
+    "東洋経済: 12件"
   ],
   "items": [
     {
-      "id": "hl-bbf6d5c2aacd2167",
+      "id": "hl-17f04bdc76e606d1",
+      "date": "2026-07-16",
+      "title": "French Power Exports Jump 36% to Record on Nuclear Output Boost",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUzBDRWNyY2FMQXVZTkJFYWE2Wkt2T2xZQWZfdzctMnE3S2RaQTl1SHpoaHFRZlVYbUU4cFhSNko1c0ZFMkpNck16bFYwVkh3YUJsYXE4VV9BZ3J4ckI0cVBmTmJPbkRiSGpLSEFrUDZ0c0hrVHl2dEdxZnBSWnNqVGZRSEJQTDR3Wm5Ic2N5NzNDc0VBYm9HblNxaC1ZSTJHX0c2WXpvR09BZVdFMmw3S2ZDSQ?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-07-16T10:00:00+00:00"
+    },
+    {
+      "id": "hl-1de3166de0ee86ce",
+      "date": "2026-07-16",
+      "title": "India Seeks Bids for $2.9 Billion Homemade Nuclear Core Contract",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNY1lOSlpfOVZBNzhnSXYwR0N4TkFTdEtzN3VEWWptdUZGYnI4OWZaQlFqSTI3ZlozUHB6MXlLdVdDRkRFY3ZZVnk4dGtDeWs2aVYyOW8zN3lTcVQ1Mms0NzF5SUFYbHR3RkNXY1Jyc2R2eHdXLW9OUHJ2RUxCV3VWVHBfcjdVbTJZTnNsdWZFcG9GamxwUW1KQ2dsM3RWRWZPMWhBSW9zWm9pWHFmYlJFTkRhQVo2MXRvOFAzNksxalBuS0FJUGhXVlE2R2tfbWUxcklj?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-07-16T08:32:32+00:00"
+    },
+    {
+      "id": "hl-bb22e23400713f9f",
+      "date": "2026-07-16",
+      "title": "柏崎刈羽原発6号機、2036年までの稼働を大筋了承 原子力規制委",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jaTJFVlRkNUpFNHpGVldsSWZlS1pkOFZUaG40NVozcXNHeFVkczg2TXBrNVpsdVJkTElBc3VqZmgxbVJCYTZINFVrMEpXcEY1M0c2MkZpMUw3UFNYVTBuMm1JdnFFQWNrTEtWTA?oc=5",
+      "source": "日経",
+      "published_at": "2026-07-16T07:30:00+00:00"
+    },
+    {
+      "id": "hl-b72b70b7ef7c8812",
+      "date": "2026-07-15",
+      "title": "Russia says Ukrainian drone kills chief engineer at Zaporizhzhia nuclear plant",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNXY2MTVja3gxVm9Ld1JEVlc1dWF3QW1OQlZWMkM2Mkg2WllyLUJRWnIwVzZwOTJJb3VnaXQ5Z1BobjRDc24tdl9CMUs3bTJfOHRFckN4cGxDSGstcjR2eE9JZXFWTmNQT1dXcnhqRGlMYmFsWjBxOWxyNjI1VDFzemZjYThHNUVLQXVEX05FWG92NHdjU0M5T0lYZzdyNndsYUVQb1A2dElSWHV6Q3VSUWxZYzlzRW1WRVdFSUdLZ0F0Zw?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-07-15T20:39:43+00:00"
+    },
+    {
+      "id": "hl-95e17a9b7ec5cf05",
+      "date": "2026-07-15",
+      "title": "What is Pickaxe Mountain, the Iranian nuclear-linked site threatened by Trump?",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNczloTzlFM1kxaUtEY05pWE9NbkJqV3Nya0ZRMHFFc2oySkZWSmN5UXQ2Nk1oX1dORmlGUW9kOGNmdkNLRVpuc3liZ3lpelgxUzh6QjY2MHVDMWtYeG41R3FjM3I2N0tmRHVDZEVJRjhEamJmVm5FdkNydDV3dUZDMFAtRnM5M1RyTld4OEt1N0F0SkZrVlhQZzM1bVRPR2xDVk40NzNKYjRndUQtTVlKeXROdW0?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-07-15T15:53:01+00:00"
+    },
+    {
+      "id": "hl-6e18b556b0602f00",
+      "date": "2026-07-15",
+      "title": "Nuclear fuel firm Standard Nuclear slashes US IPO size by more than half",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdjMyb3JSemJXdjhTT1VpSWZoMDhoTnlNd2NvQnRyckNOUWlOdjQzVVJ6QS03OXdKQmZBQ3Y5V1FpTGhlbFd0ZVVqRWxpZERVWWhwQ0hjYmpiTGd1MFJkeEdYMGtzZzNna1BBUzNTUVM5dUlCU3hKQ1pyd3NIdW9QeFJ0N2lSODVMTGRkb1VkRl84Tm9qTEY2TlNSeThBX2xRWDQ3YjA2WWp1XzFHakhDZWpGUUdEMW1P?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-07-15T15:03:38+00:00"
+    },
+    {
+      "id": "hl-d9f1c86b3c140de5",
       "date": "2026-07-15",
       "title": "EDF Turns to Oil-Fired Power in France as Heat Curtails Nuclear",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSTZfWU9lb2dZcnRYclpKZHRRRFBxU0dBS3FWM0g5XzlJc3BobmNETDB1dVhIcHo4aW00TXQ0cVlJcExwbzQtdzFmM1RDcUN5VW9ROTB4eW9GUlFyZWZuYTF5OVY3SFRldjRIa2FjRURKZUZGTEY5ZEh5aE5VZmVkY3JGY18zSTBqQXh4dlRrdnR3d09WV3hEdkZyWHhRMjMtMllwU2tWUkt1cjROOXNiOXJLR0RqY2ZKMHNUSml5QUEyMzVFdmFvQ2k2Tng3a2hIeENr?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdUdIeVZNQUViNHlfd3NtRHBGSnlCM2Q0NVExTnRxS05PQzFLOS1aR1Exa3dmbndLWFVOcGlUY0xmc1l5SmE4NVRMWUttM0NFb1lrcWoyLVlDSlJXOFBqNkRZUnM5NGc2WmF2NEhwUndHRk9MXzhQZElwR2ZwZmRsZ29xX04xWmNCcGFmU3Z0WVZyQTlBZkVYZXpyZXVxbTZhZDc2R3p2WWVwVG95MEs2N3RuWFY?oc=5",
       "source": "Bloomberg",
       "published_at": "2026-07-15T10:49:29+00:00"
     },
@@ -35,7 +83,7 @@
       "title": "EXCLUSIVE: Files relating to India’s largest nuclear power plant Kudankulam exposed in data breach",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORkMzazNjc1U0Uk5pTUJ2bTBxaVl5UTR6VzZXSGpTY29VVXNSTzZvSG5KVEhJSGctWGZGelh0R0ZiV1YyUVRXSHZ1al9jNG5mNkhZa1dQVjY4Nm1MTW9HZjRkRDg1anU3YS05VG4wbmhvVnB1b29wU1BoVEtrWHhSaU1lTHBZVWJER3RnOUFLdGwxbUo5dXdGcGRBMVVnU1daaU1nNDhsQ200c1JHcjJfeWVSNDU5a1JVaG9KOHE3NXFlVko1N1NR?oc=5",
       "source": "Reuters",
-      "published_at": "2026-07-15T09:27:15+00:00"
+      "published_at": "2026-07-15T09:01:00+00:00"
     },
     {
       "id": "hl-8285a5b2b5c45e29",
@@ -126,10 +174,10 @@
       "published_at": "2026-07-13T17:00:00+00:00"
     },
     {
-      "id": "hl-93fa8e5a1c15673b",
+      "id": "hl-9117e12e111bf926",
       "date": "2026-07-13",
       "title": "Brazil Draft Rule Opens Uranium Mining to Private Partners",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNnZscTVQWXJpMmJkODVJOERDZHJyZVllUmhZcUZWVGNaal9yeDRhZnVPNG9RX1JBaHdoTXpKSmxQa25hYkZBQVVpeDJ3S3BoVHRUaEE5d2VlWHF1aFc0TWE3Z2xTdDlrZWFPdnpPOU9sVFg1b0xlSlZEdHRVNVhMVEFpdkxGSFJRNFB6UUdIb0hpbTcwYnJCS1UwVHVwMVp1UF8zY2lNd2hKajRxd1E?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeTNQSncyY3ZVbVFCSmxFZmVtYVRoZXdTMHZ6cl9ZSW9aMGxueXc4VjBmX3NIOTczV0xVdWtTbkFUaDczRXpGVkFoalpjRl9HYjg3cjBnaUMxS2hQOUp2cTA4SGRwOU9mOHh2NHIzWm5IREwySXhSN1J4dG4tanJlT0Utd1NUNlo1X0NwQnBIdlEwOUFBNjQwVWFTakhzWmdXcUt6X3FFa25IUVRwZ1pFaVlCME5rZEVOX2c?oc=5",
       "source": "Bloomberg",
       "published_at": "2026-07-13T13:07:54+00:00"
     },
@@ -140,14 +188,6 @@
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTEZCYXE4SnpGdFB0c0Z4NDVBb0ZsaFNaS04tS0JNbnFGVWhEQ0dUOEtUMUdBYW5qbDN2cjJDVEx1aHl2enJNTHFQay1OUHBxcFZtQ1U1WEdDVDI1bGl4eUVxdjJYRkR2VjJYWUdDejNxZkxVeXZNY0xSVlJrMk5ENlJKRzA5TkEzT0RscnBhNVluUEdjUFUtaDhEeGdwNkNfSktBOGRCNC1NUlQwalFnSVJYYjZOQ1U?oc=5",
       "source": "Bloomberg",
       "published_at": "2026-07-13T11:51:47+00:00"
-    },
-    {
-      "id": "hl-94013cfb055c2033",
-      "date": "2026-07-13",
-      "title": "Newcleo presses ahead with Nasdaq debut to fund next-generation nuclear technology",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdjNYdUs3eE9rRVlIa1pjclljLWd6MF93U3hjeWZFaXRSeGZpOGNYcTdDYThfR2Jsbkg0QnI5XzZKYndzR1ktYy01UmV4ckdkamd6M2k4cU5NdEpFVEhMcnpSMy0xRXdzRnZnTUhiUDgyWU8wdXpDTUQzdUY4UnVEVGdkSnpKRGVlUkQ0Z3BHYUdFWGVaN0JRa3R3T3lad0d1dmNhaXV2T1ZIbExqVzdNT2ZUZnRiQ0E5Mk9BRGUwWEc2OTdzd0dNM0ZtS3RxOW5X?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-07-13T10:53:30+00:00"
     },
     {
       "id": "hl-6093ab6702ae0166",
@@ -166,12 +206,12 @@
       "published_at": "2026-07-13T08:25:43+00:00"
     },
     {
-      "id": "hl-0a092b5f62eb093b",
+      "id": "hl-916f6523cf33ec20",
       "date": "2026-07-13",
       "title": "九州電力、玄海原発1号機の未使用燃料を海外に搬出 加工後に再利用",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15RkRqTlBUUjU4dE5tQ3BCakwtTE9admNtY3pkZ05yRFhBTy16cVZiSkFqakRUeFdHOUY4LTFVWG94Z3pNOENCcVNyOUFhZUpiUjdFLUdZbzVGcHVCbmptZXNWbXhNd1VvU3NwQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUTRpYkxhak9sQllId041QllZS3dZWW5hcmZ5ekhOMW9LNHg0NWc3RWhNTHFoVWw5dTZGQk1SRzRtQVNNXy1CeWZCNnFWdVhSVFpqbUdQZ1JxaFVYMUp5ZTQxRE1mdnltVFYtbmdpTGxZMVNLRDhOSUIxZV9CT3IxMGFQOEY2dlJ4Q3UzbG1GQmxBMnA1N2hUTFhFWTJHUVR5ZzNyeFNR?oc=5",
       "source": "日経",
-      "published_at": "2026-07-13T07:39:53+00:00"
+      "published_at": "2026-07-13T07:39:00+00:00"
     },
     {
       "id": "hl-2e2cc12e80463c0e",
@@ -308,118 +348,6 @@
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNT0xjdXhTREpBRTZmWFBkcjlpdWVRNkVhcUJOWWozMDJTRXpnXzNqcXJrNXRGa0NNUXJfX29scGZpbXd4ZVNTRzRSYmpncEsxNjdzdDRMSEZ0djVkRzR1NDAyZ1ZTMzJHaFVqcmpzX3c1cWMwVFZURkFTOGtHS1gtYzhDeXg5LUljdmQ1TllNYVdIeWFKdG40bERqQkhjbDVIT1FhdGx6aTUtbEZhY2NMVDNCbERQaHM?oc=5",
       "source": "WSJ",
       "published_at": "2026-07-09T13:27:00+00:00"
-    },
-    {
-      "id": "hl-f417f7f9c1ba5f7f",
-      "date": "2026-07-09",
-      "title": "九州電力、玄海原発3号機の燃料取り出し 定期検査作業を公開",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQS2ZVX201M0NaMFFjaDd1YzUwT0YtRzZyUGFDbXhnb1lORlR4SGxQb1BSNGJPbGFoYkZndU4tc0g4QURpRWZ0Qk1wdmdrMkdIVmg4UW4xUW1NU0YwaEl6bE9sdXJ2aHpJUS1NdWVUUFN0ZW94Uy1maG9WNjJ5VXhMN19NSE5iOWYwRmVGaUZBdnk4cFlheDNiWm5DbC1fa1JHT2dySHpB?oc=5",
-      "source": "日経",
-      "published_at": "2026-07-09T11:20:00+00:00"
-    },
-    {
-      "id": "hl-f4d28a202c4d18d8",
-      "date": "2026-07-09",
-      "title": "How Trump and AI Data Centers Are Boosting Nuclear Power",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTkItSG1mMnpDdkJqNHNWM0FHeW1MdFltZkdIaFFIbFh0cWdObTh6Y3lNdjNJaTFHdmVIb253LW54M3VHVjNwS1o4Y01VMkxBY0FoUWV5cEZUd1h2WmJUcjBybnR5QUcxdFo3QzJrY2VHS2ZhV2xQZkZ0aUZKWHU5Q0ZTdTJfdWllSW1XUzZ4UVYtcUhRY0U4OS1vQk9NeHpMRkRDcTJvWmNQZzBjOTFSQm5pTEtDQkZOVTJ3c3NQdjlWeXJDNnc?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-07-09T11:00:00+00:00"
-    },
-    {
-      "id": "hl-7c61056f2abb2d80",
-      "date": "2026-07-09",
-      "title": "東京電力、福島の2原発でもテロ対策文書を不適切保管",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HRjg4LXFvSmlqalNfNFRFSHBtY3dHbFZJY2dhUmlxT3B0UmRzTVJUakQzVUxtQUFya3Jaa1FaUlc4dl9JX0htTXhJNVNrdlliRmwzZi13UXEwV3dwOXdIZVo4WEFvbXdRWERoXw?oc=5",
-      "source": "日経",
-      "published_at": "2026-07-09T09:52:31+00:00"
-    },
-    {
-      "id": "hl-8805a01a276fee0c",
-      "date": "2026-07-09",
-      "title": "関西電力、企業向け再エネで原子力・水力活用 相談窓口を開設",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0yZ2pxYk5hWFJJeWlsTnRjMXhSMDdwVHJFUlV6R1ZqdWVJNzhwbGJWQnczWTFOZF9oSDhXSEpBRVB2d0NXZXR1aHRPZE8xNGxPTnRjeGRERi1KNlRTLVJYQk1Pc0NzaXVBZ1N0Yw?oc=5",
-      "source": "日経",
-      "published_at": "2026-07-09T08:49:54+00:00"
-    },
-    {
-      "id": "hl-e4c9ec31bacd1ff0",
-      "date": "2026-07-09",
-      "title": "インド、豪州からウラン調達合意 「世界のAIデータセンター」へ原発増",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMzJYbTR1LUxVSU9HNm4tQ2xydWZ0d1BzSWJ0MlZ6WlJLaENJa2pzdjNCYWRZNGp0QTc5SmJqSjZWN1dqMW43S0dDN3g5ME1iSmowUzlYd3pHU3NGTXRsLXVxODhnUVhvYmxEaXFqRWV1NWFkZWJEZXBhdmE0TGFjaUFhVmpWLXpmM005RFcwVW9HWkFYS18tTmNtdzRmUkh4eWFTYjVB?oc=5",
-      "source": "日経",
-      "published_at": "2026-07-09T08:14:00+00:00"
-    },
-    {
-      "id": "hl-c8c4308f0ba66e3f",
-      "date": "2026-07-09",
-      "title": "Australia Agrees to Sell Uranium to India During Modi Visit",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPS2lQb2JvQkhUcXA5eHI1YWhTTkRqMlhvZVZZWWk4MFFFa28wanpxRXBVc0JYUGNCYkZNYWpvSVVuM0ZrLTNqeTM1eUE2WjhkaVpSS3EyUzdONk91TERlUVUyWnNKNTg1bkZTLXpXM3JnTGMwdEtoTmQyUzdHbjE3NEh0WkVMWHlQUmthWk1jUDB6MXE0ZDdpcXJMSjdrWkx3TXUwX3hNZ0N6eS1UandJ?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-07-09T07:51:42+00:00"
-    },
-    {
-      "id": "hl-3b251ca0cb1da8f1",
-      "date": "2026-07-09",
-      "title": "Why Do So Many Recent Books Want to Dismantle the Nuclear Family?",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa0VHd1B5eEYxbDVWNkxVUWVPZmtPV2NsYllxcThMNFVzRml4T0NDbG5rdlZDMF8xcXBmY2ZSdW5DbjRqaWNobW5GZjdNVGYxRU9namM5NXdDWDJYUDF4R0M2XzVPS3I0cWZTSEdFOXBnUWlDVG5oUGp0d3o1b1JxZ3dkY2NlMnJjdnBBUmVTUDQ3U3R4YW5RWEowTjhTOTd0QXQtWG1mRTd0aGhZTTZ3S09uWUs1bnNS?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-07-09T06:17:00+00:00"
-    },
-    {
-      "id": "hl-c2333ecf53047a39",
-      "date": "2026-07-09",
-      "title": "US-Iran Attacks Intensify, Europe's Nuclear Push, Online Rage Fuels Riots",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSkdnVkJtR3ZyN3NNTU9pQlV0OEVGMDVvOTRCTkpoV1hBLXdQS1BkTk1LZHRpRi1JQnljazZhNWloRmV0NGdZSF9ZblhoXzZHd1dGNGNjUnZWWTlvdlJqOHBUbFhrQ0hvODdQSGhnb3QxNXRGVkJlTl9MY3Y5bEpsc2ZrSGdFcVRLaWJsbUtralVBUkcwZXdkT0NzMllERnFrQVpkdFM4WnNBdWM?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-07-09T05:44:47+00:00"
-    },
-    {
-      "id": "hl-241cae8590b3c75e",
-      "date": "2026-07-08",
-      "title": "US nuclear power regulator proposes narrowing scope of environmental reviews",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdUZveUtYd2ZGR29VT2tqSUlObUJ5YXV6dE9Dcm9FZ3JzT2dhMnpBLVg2NThseXd0NGJoY2tUbGZFd0daQzVQeDdyTmcxakxYTGItdXVpS215dnNLTmpUcm4wTDdqa29aUlJLaXpzR1N1VHJiZXNDSTlrR3JOdG14TzI2b1B2LVd5bUxRN3BBM0tybDlubjJPc3lTTUF2QmZpcmZmN3pPeUZIUlhwdnQydE1YeW50NGVYRGJJOFhkNS13ZFlB?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-07-08T22:09:06+00:00"
-    },
-    {
-      "id": "hl-577c11b42c45138c",
-      "date": "2026-07-08",
-      "title": "EDF, UK government agree to extend life of Sizewell B nuclear plant by 20 years",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQjZfcVdIX2ExWU0tcmFwX2pMZWlHUmkwNmp5dmV3UWRyNGMtQ09pUHRiZHJEd3ZxbnRibGNwdlhLaFZ1Z04zazBlQUcybnZTenFFQ0NJVUZMNDhydy10YVZLRDIxSzRLdHZHR3FQUGFMdXh6aHlmeXdGWWV5WHphVndzUHAtNVdZbnUtSTVzUFJiM1hUcVZORlluRUhIVWVqcXlYS1FDc1FlUktyNXFVZUF6blhfcUVXSl9ER1NSLWNiUQ?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-07-08T21:33:43+00:00"
-    },
-    {
-      "id": "hl-1a8af5f58229e3ef",
-      "date": "2026-07-08",
-      "title": "UK, EDF Reach Deal to Extend Life of Sizewell B Nuclear Plant",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSGlsbVNuSkhOUFF6MENKNmdadUNtVWlCaHRVNElrajZua1RETzdYbU8zeWpqcS13Qnh5a21CUjNXc08ydEM4MnFadnNGZEIxcG0yX3QwbGk1YUw3OENDbDNMOHBrSGo3OFJ1LTcwTjNiYldSNnJvVlItSDdhLWZTVlQtc1dObGVpOTRqOFFJX0VwdUJsdG5ZYlRfcDliZ2tjSzQ4TTNEVU9uRlU2WlRRYw?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-07-08T21:30:00+00:00"
-    },
-    {
-      "id": "hl-586930b93c6958c4",
-      "date": "2026-07-08",
-      "title": "EU To Allow Leniency on Fiscal Rules for Nuclear Spending",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQWk0Qm8yWEJyNk9uQkt0SDNKQi14VjE1ajFxdWNDdVhfSlFrMXBjSFpFeTVUY0hEQXlpV0FTWGNJWXppbDd3cnU4Z09LUk9ORkozeEw4SkN4bjV0TTJ5cXpWTER0NDlQMDdKQjk0Z3FDWnl5MmRPRG5MbU1ra01SSE5qaFAtOE5xeXdpZGdLelRKcklDbnk0QXZ4WG5KZkEtZkRRcTFrMi1hTGVo?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-07-08T20:19:56+00:00"
-    },
-    {
-      "id": "hl-630d7c0147061bc4",
-      "date": "2026-07-08",
-      "title": "原発再稼働の盲点（下）新設ノウハウ消失の危機 フランスは官民で技術者育成",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6R0M3Nkh5bDdzZUM0MzUtZmV0VkpXRDNzVUVxYVR6SUlvX19nT3BMeWxJY3ljcU5hM29tQnd3RFZCUFF5amZsa2JhaXUxYjRJaWhzVHRaZUh3RXFkSkZXQ1RkUERoMEJBNkQ3NA?oc=5",
-      "source": "日経",
-      "published_at": "2026-07-08T17:00:00+00:00"
-    },
-    {
-      "id": "hl-5d6695422b52dbca",
-      "date": "2026-07-08",
-      "title": "How Iran's 'golden weapon' of Hormuz became a bigger priority than its long-disputed nuclear programme",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYzV1dno2TWdtTU5IX1BDbkNjU3lFVmpSRG1PM2FyX2hMNXZZQ2dsWkJHWGNtT3NLQUF0ZDVmaEZnLXlrdkZHRkh3Tjh3cVRTM0tZNDNJSDQzR092YlUxQnBLYm5vamxWanlDWG5RamNMYkRoV1d4R1R6bFAwcXRaNkN3d2NwS2thOXJTN0dnNWF0M2ZJUkxZMzJTRjJnVEhCQ0tFeFNMUGVBNlZSM0dieE05SzRDXzdfdEE?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-07-08T16:21:44+00:00"
     }
   ]
 }
