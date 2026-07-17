@@ -1,6 +1,6 @@
 {
   "_schema": "id: 安定ID / date: YYYY-MM-DD / title: 見出し / url: 原文リンク / source: 媒体名 / published_at: ISO8601(任意)",
-  "fetched_at": "2026-07-16T11:37:46.539791+00:00",
+  "fetched_at": "2026-07-17T11:25:34.230276+00:00",
   "theme": "nuclear",
   "sources": [
     "日経",
@@ -12,15 +12,87 @@
     "東洋経済"
   ],
   "fetch_notes": [
-    "日経: 19件",
-    "Bloomberg: 10件",
+    "日経: 18件",
+    "Bloomberg: 11件",
     "Reuters: 9件",
-    "CNBC: 0件",
-    "WSJ: 2件",
-    "日刊工業: 2件",
-    "東洋経済: 12件"
+    "CNBC: 2件",
+    "WSJ: 1件",
+    "日刊工業: 0件",
+    "東洋経済: 8件"
   ],
   "items": [
+    {
+      "id": "hl-7559392a67d314b8",
+      "date": "2026-07-17",
+      "title": "九州電力、川内原発の火災対策見直し申請 乾式貯蔵施設設置めぐり",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5jSzdrU0NWN3ZNZDAzMGRYcVZHOTBUZ1JSaDNyanN5LTY5azRFU3YzUDgzSTRIanhJWlBSUjhzVDBJNldUekNQSzN3eUI5cDJCSGlub3NfZXgyTjVXV3h2WHNwQ2lNZkJIZXlzVw?oc=5",
+      "source": "日経",
+      "published_at": "2026-07-17T09:33:59+00:00"
+    },
+    {
+      "id": "hl-3b303f7225cdd16a",
+      "date": "2026-07-17",
+      "title": "島根原発3号機、審査「ほぼ終了」 現地調査で規制委員会",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EdnJRX0dDTk52c3dCWHUyeGZremVPWFJMdThlNG51YlhuRmEwOS0zaWh5SkZ5R3JRLUUtRFpuUGhKRm90ZTJfTzZIcEh6ZXA0ZWJ2Wk5vM0VjVG9RRkZOX0ZZQnF2algwN0NXNw?oc=5",
+      "source": "日経",
+      "published_at": "2026-07-17T07:50:00+00:00"
+    },
+    {
+      "id": "hl-cfead6353b1acb86",
+      "date": "2026-07-17",
+      "title": "ビーエイブル、29日上場 福島第1原発で廃炉作業",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pVV9RUUdfQ3VrN2hVeHVnaHBQbkFIRERCV2xITlJXc3VQbDcwcVNJMzhJa1VWcWtmbGFZeGpRN2dRaGxDN0Z2YkNhV0pUZ1RyODMwenVyYWhENzNXVFZSSGdlaHhmWjhYNjJ6OA?oc=5",
+      "source": "日経",
+      "published_at": "2026-07-17T07:30:00+00:00"
+    },
+    {
+      "id": "hl-b63c2f09420d6b77",
+      "date": "2026-07-17",
+      "title": "原発建て替えに公的融資、送電網投資も 改正電気事業法が成立",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wd0kxSHM0T0hURUdUS0tBbEJNWG9TdDAxZGZSRHB5S1JHYWhWUk5oR3c1S1AxcXFDOVN4V0ZlUEZkY0UxSUFvWVBrYW5MOEVpdDB3TUVkQnZ6SFhiQXpScWxYdXRQTWIxOEFobA?oc=5",
+      "source": "日経",
+      "published_at": "2026-07-17T01:54:37+00:00"
+    },
+    {
+      "id": "hl-64b095b208c900fa",
+      "date": "2026-07-16",
+      "title": "月面では太陽光・原子力・半永久電源が主力、日本勢はマイクロ波無線給電に活路 - 日経クロステック",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9kM2hDdk1NWmJ4Y091aEtzUVZTNUF5N3FjQ1ZhTHowaDlvYWhqelM1aGlnaHZRek10aVdGNG1kSkZwdHVpVk1zMDBPNXRXVUtJUUhta28ySExzdkhEN1Z3djBvNk5UaGc?oc=5",
+      "source": "日経",
+      "published_at": "2026-07-16T20:04:00+00:00"
+    },
+    {
+      "id": "hl-20b6736a247a2780",
+      "date": "2026-07-16",
+      "title": "Nuclear fuel firm Standard Nuclear falls in NYSE debut after slashing IPO size",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSzhQS2JjM3ktc2ItcW9LUzZwVXZIbndVSDNMM3JGTzlKOHF4NVVOZHNDbkI5ZG54QmdzRWdYdXRrWnVSODd2UjZfU3pOc3BOdXNSLVhCUFpoNWZtUW5YNEltWGFZblFhYTRsVTl5Tk9qZnhyTG5vVC1sbVJiQ0FXM2pYQmhKVE5MZmw0Z25kWUxzNnlhT1lXeWJ3RE5xeTNtdXkweS1BeHMyY1VKSjFsQkUxVEMyV3NldEQwckdnTE1BdDc3NGQ0?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-07-16T20:01:31+00:00"
+    },
+    {
+      "id": "hl-653d905e357d6bd1",
+      "date": "2026-07-16",
+      "title": "Watch CNBC's full interview with Standard Nuclear CEO Kurt Terrani",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVExzNlRNdFV0SkRGZ09TZ2hieF9XcjNnRUxVTnlLUXA4TG5NdlpHTnd4Nm9uc21ZMXdSdXYtUlpYXzEtc1B1Sy15aEZuZVhJRGVtWjFpZWtjMzR6cGtqbDgtbEFXVkFvR0VGQmh3U3dhTlBkVi15Sm5Fci15T3RkZ1Y3U1JTRW9UQi1kUVhKaHF5NWdXd1g2RktoUWU3OEp5cjEwNHBfYmFzNVp1?oc=5",
+      "source": "CNBC",
+      "published_at": "2026-07-16T16:22:00+00:00"
+    },
+    {
+      "id": "hl-1d2edf2379f4bb8d",
+      "date": "2026-07-16",
+      "title": "Standard Nuclear CEO Kurt Terrani on NYSE debut and cutting IPO size",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ1QzUjgtMGpHN3JRRE1sTWRUUFhodmtNcjBKTEduZk1YWm5rVXdWY19qcC1vRk1MOTAwUWJBdUtjZUtqWGlham1SdnJOdG1vcWdyWS1NajBtOGFjejN1SHdiUmNkM01RX2tIdW9YZGRLOW5PV2VzNUp6LWRkOHVXTDdpV2xieGRxZmdRZVNncXc3TGtxTVppY2MzWThtOXlpbEsyVmtMNDBtRXhkTkNibA?oc=5",
+      "source": "CNBC",
+      "published_at": "2026-07-16T16:22:00+00:00"
+    },
+    {
+      "id": "hl-f1d39dcb1ba51787",
+      "date": "2026-07-16",
+      "title": "インド最大原発で機密データ流出 1万9000件、サイバー攻撃で",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Idzlnc2RHRjV4cVM4X2QtRDBRaWJ1UGdvX3lZNk1WNnZKc0lqUlVPZVctd1N4TzhLVmpIR3puTzN6SVNheFJqUEZTN2FmRk02OGFnUW1raEJxX2JremxqVVRHS1lod3c1THoyNw?oc=5",
+      "source": "日経",
+      "published_at": "2026-07-16T11:43:44+00:00"
+    },
     {
       "id": "hl-17f04bdc76e606d1",
       "date": "2026-07-16",
@@ -44,6 +116,22 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jaTJFVlRkNUpFNHpGVldsSWZlS1pkOFZUaG40NVozcXNHeFVkczg2TXBrNVpsdVJkTElBc3VqZmgxbVJCYTZINFVrMEpXcEY1M0c2MkZpMUw3UFNYVTBuMm1JdnFFQWNrTEtWTA?oc=5",
       "source": "日経",
       "published_at": "2026-07-16T07:30:00+00:00"
+    },
+    {
+      "id": "hl-1c9cdc9738964d99",
+      "date": "2026-07-16",
+      "title": "Nuclear fuel firm Standard Nuclear raises $150 million in US IPO",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMFlONnJMVjg5UWYtNmQyaVdIUzI0bjJTU0Rycmk2LUs4OHNueXhjTC1kWkVqRGpBR1hzZm9BeU5mdjE4d1R2LWFIeUpJUUk0LW5FUUxDb1VqMFBGTkNKbU56dlotSFloQlh1bTFjamtTNTdDRmxHMi05REtGRF9PV05zX2tKR3V4aFpIanctVk1CMjkwVWoyUWpZeGM1RXpvMXpmZGJKN2JCX0ozMUUxelRYYUJtMXc?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-07-16T02:31:00+00:00"
+    },
+    {
+      "id": "hl-8f0e67e28855e9c4",
+      "date": "2026-07-16",
+      "title": "Watch Sen. Chris Murphy: 'No Confidence' in Bigger Deal on Iran Nuclear Program",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZHFucUlMNzNsVnA4b2VRZXBrTFp5cmNiUnFSV3FFYWpNWXlycDFfLURzOG1Jb25LRHZWbS1wc0FfWGNTRUJNUmU5NDJqek9QX19YOXFLM2JXVm10VmFWVG5VbjNXNVZ5dldNbkR2ZFZQeF9GVHRscWRPYmozbE1TVDVrMUI4YTJEOWJBajgwRXdHVjVqNDVsM0hLRXBxX1d5eTVEWTlibw?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-07-16T00:00:00+00:00"
     },
     {
       "id": "hl-b72b70b7ef7c8812",
@@ -94,14 +182,6 @@
       "published_at": "2026-07-15T01:45:04+00:00"
     },
     {
-      "id": "hl-51faba572f306c1b",
-      "date": "2026-07-14",
-      "title": "US company seeks to produce uranium for nuclear energy from seawater",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTjl3Q1FCeU5GaUppMjU3VVM0VmRSdnJSbnUyNjZXOUZjRGZNMl9jTFBlTVpLNXVwTnRfcEhyNGJPQXd5Wm9mSmJYRnExaUZXWkZ1WkFhaHIwenNoN3lxeW5aS1MyLVNyS0hzU1hfOHluSFBqU0JETU5ZWDMzNEZpUGZQNEoxa2JrTVo2S0Z6azYwOXRDcEtLbmhick9PSHd4YmFlaDVseS1mb1Rxa3c?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-07-14T21:37:58+00:00"
-    },
-    {
       "id": "hl-8728b82b4027dd30",
       "date": "2026-07-14",
       "title": "原子力人材育成で近大が大学連携、実習に他大生参加 北大は講義公開",
@@ -142,14 +222,6 @@
       "published_at": "2026-07-14T00:00:00+00:00"
     },
     {
-      "id": "hl-13725c4a7b71ec61",
-      "date": "2026-07-13",
-      "title": "原子力機構の価値 原子力の社会実装に向けて（176）「ふげん」廃止措置の熱管理",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00c01NZEF3MDE2SEdGTnUxRHYzOHpOYWNmcEpiVmhfNzVOWGRwdlUwOHF5b1RoSzVpdWRtMk1KVndjdkozaUxGcEdqcXJmOE9MOTZONk5nWHJibnc?oc=5",
-      "source": "日刊工業",
-      "published_at": "2026-07-13T20:04:57+00:00"
-    },
-    {
       "id": "hl-85df152cc1067402",
       "date": "2026-07-13",
       "title": "New Jersey Takes Step Toward New Nuclear Power Construction",
@@ -172,6 +244,14 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwcFpJeGhZQ0dOLXdoRjFscjVqLW05WXVnS29sMm50d0FKbWxJdFFvZUQwcDZlcnJPNlVuTTNid0dHZFpRZUpZWElKY1pIY1VEWnRBeGN2TE5ESlRJVng4VUlOS0dxWTR2aHJLVw?oc=5",
       "source": "日経",
       "published_at": "2026-07-13T17:00:00+00:00"
+    },
+    {
+      "id": "hl-93fa8e5a1c15673b",
+      "date": "2026-07-13",
+      "title": "Brazil Draft Rule Opens Uranium Mining to Private Partners",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNnZscTVQWXJpMmJkODVJOERDZHJyZVllUmhZcUZWVGNaal9yeDRhZnVPNG9RX1JBaHdoTXpKSmxQa25hYkZBQVVpeDJ3S3BoVHRUaEE5d2VlWHF1aFc0TWE3Z2xTdDlrZWFPdnpPOU9sVFg1b0xlSlZEdHRVNVhMVEFpdkxGSFJRNFB6UUdIb0hpbTcwYnJCS1UwVHVwMVp1UF8zY2lNd2hKajRxd1E?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-07-13T13:07:54+00:00"
     },
     {
       "id": "hl-9117e12e111bf926",
@@ -260,94 +340,6 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdVBvNG1lM2E3aW5lblcyN0VGYk1oYkkwdFlwMmYzWDZ3Vk5XcG9JLUhIWUlYcHhUZ204cUhBUnR1WWZnSEFyVFpqOU5VREJ1SFVJSm45eldEelpPSXNpaDR1LVlOQk0tV2tkMWdvZlo4aXhfMUtvbVJ5SFZmTW83RGlMVWxFTzhWUlJRTXVONkxuWTdqbURGWXZNNkZYdTJ6TVowSFMyWlJmLV84bHdz?oc=5",
       "source": "Bloomberg",
       "published_at": "2026-07-10T21:40:08+00:00"
-    },
-    {
-      "id": "hl-295b0058f2e58cd4",
-      "date": "2026-07-10",
-      "title": "東電、柏崎刈羽原発の立ち入り制限区域変更は27年度上期に",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeUx4SExGTGQteDl5ZFJRUUlOUXRpaXBxWGRVcHdyZjQ3YngwcUV2NDdNVGx6TDlwSkNNT3RhQ3FlcWI5SjV1Y2VtR195RXFtaV9fOFpCaG0zVE5WWmllekhmeGJieVNBYU9PVjNWLXM1cFZUVzRwNDVHSGVEUG81SVVqSzZ2ZXFwY3hMWEcwVDEwV1ZrM09LeGlaaFdONHpFUThKSDNB?oc=5",
-      "source": "日経",
-      "published_at": "2026-07-10T10:30:00+00:00"
-    },
-    {
-      "id": "hl-bea335f53e3ec1fd",
-      "date": "2026-07-10",
-      "title": "India Power Giant Seeks Uranium Assets Overseas in Nuclear Push",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZExyblRRX1ZlZG95LUhyVWRwbjBWRU5aRnlZZVhOWFNPU2JFMUZia0R0OENoa2sxUTRLOFc4OVRUVnhRUV9WNmxzd1BwUU4yem1veWpPM1RtQWRWYU40cWxoR2ZKRE9ORldwd2pFTDhNVFdMZWpJa2F0ME14Z25vOGdfaklTRXRVTl9wbHRRb1UxYXd1ajR2ZkdzMTZ5X0xPcDdHdGlJamNoRDBKUjJ2OE41REc?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-07-10T07:02:14+00:00"
-    },
-    {
-      "id": "hl-69d4c5bc2cf572af",
-      "date": "2026-07-09",
-      "title": "中部電、原発データ不正で御前崎市に謝罪",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5BMVBmcUlkRVVHWkl4NXBBdTcwekJoQlJfNUhGQ1hHSW1IWHlVTTdOcWhCalBlRGlhVTBGVGs1b0FIbHBJYjdZTXdGOXhmMUZNS2xhVElIUWpXbHM?oc=5",
-      "source": "日刊工業",
-      "published_at": "2026-07-09T20:00:00+00:00"
-    },
-    {
-      "id": "hl-9395e432db074bf7",
-      "date": "2026-07-09",
-      "title": "玄海原発3号機で定期検査 九電、核燃料取り出し公開 状態確認し一部取り換え",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVG82NHJZYXZyRm42LXpSSG82U1ZrTXRxTUxhenRCNkUyMU9reE5RU3FRQ2xpRTMteHlkSmFWYjhpRHluUzBOR09XYnpmYUd3b2VxbVRuaEZRWGMwTklnU2xQUjNCSE1CQlc1ZkVsSnZJWFNxWE9kdkJWaGRiMmFPUUFvQjdad3NiSGhwbW05TFBCOUc4Q0FfM2FtS0ZEcWZOaE1xelBOeGM?oc=5",
-      "source": "日経",
-      "published_at": "2026-07-09T18:41:10+00:00"
-    },
-    {
-      "id": "hl-d6a6c859ef875869",
-      "date": "2026-07-09",
-      "title": "インド、豪からウラン調達で合意 AI需要へ原発増（写真=AP）",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNd1F5VFktQ3ZGN04zRXdXYzBOeWRWdWtseDF3RTVnUnRTdUJHLWtBRDEtSGt2ZGtNRURJS0QzSU9XQWtaMjVFLVFETVJKWGRDTmo0aDFYbkpoT1BnWEVVNkMxX1d6eXVzZ0NTQ29OUlFUWVpqNWdhaFlmUVlxMjFJS2N2OFg4aGcweGxBQU5zazdQS0x2ZXhjNnE3ZWNTd1FwUldOS1N3?oc=5",
-      "source": "日経",
-      "published_at": "2026-07-09T17:03:38+00:00"
-    },
-    {
-      "id": "hl-7e1698a0ae74a888",
-      "date": "2026-07-09",
-      "title": "福島2原発でも文書不適切保管",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5QdzU4REcxcFJkdzNvMnQ0dlVOUGRKTUN3SW8wZVdQMzNCek5UMnVpRnNGM2JHcTVnNGt1a2NzOGR5UVE2VGN1QTdPRVVpMjNZWHoxbUdnN1ozX2ZHLU9ZWjRGdDB2VElDd2d3Qw?oc=5",
-      "source": "日経",
-      "published_at": "2026-07-09T17:00:00+00:00"
-    },
-    {
-      "id": "hl-594544382f5ea2f1",
-      "date": "2026-07-09",
-      "title": "インド、豪からウラン調達で合意 AI需要へ原発増",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAzNzM0SGJrSUhBT3QtUXZLR3dOSGxpZUdyM0V1dU1xanZsZDBweWJPdGZ3MFhyVl9CNlpUYXZjS0ZuWnBPeXdPenhfSWZvSnMwNjhwSmEyU1FaUDFnTV9SNFZNVGJQNGJBNGVQSg?oc=5",
-      "source": "日経",
-      "published_at": "2026-07-09T17:00:00+00:00"
-    },
-    {
-      "id": "hl-6127d42ac83ad4b6",
-      "date": "2026-07-09",
-      "title": "玄海原発3号機で定期検査 九電、核燃料取り出し公開 状態確認し一部取り換え",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8yZkc3T2Y2R3Itbk1Ubzh6UE5PUE14U203Z3ROUFBPWFVUdUVNNzhTQ1QzcFpjT3NncTNzV21QOVpTdWphbzFuY2wwTkNXZV9ZSzByUDlobEJLdXFvYm9lZDcxXzF6b1dtSkhBRQ?oc=5",
-      "source": "日経",
-      "published_at": "2026-07-09T16:49:00+00:00"
-    },
-    {
-      "id": "hl-24d16b3982cfd393",
-      "date": "2026-07-09",
-      "title": "企業向け再エネに原子力・水力",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE85VHd6TTgxRlh3bzVSX2VOS3BZRFJnaFFwYUU5MmpERjlQTmpJY0QtNkFOaXB6Wm50djJDa29GOUpFSHRwQmwzb3hWMEhFVXdSWlhQd2IwMGFuQUFDUGJEMGtHYmRLQXdvUWxyWQ?oc=5",
-      "source": "日経",
-      "published_at": "2026-07-09T16:49:00+00:00"
-    },
-    {
-      "id": "hl-4a54bea7d27a0ddb",
-      "date": "2026-07-09",
-      "title": "Australia, India strike deal on uranium exports during Modi visit",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcC1LTFhWNGpLbHFtRlZuSWp4bWFhS1dzVFdOSkRSSG5xMEVneW04eHNvd0REREZVVTVTQ2xTdERTUUJpVFROSWYyelljVXNkV0pGdUdEU0tuYkl4cjU4ZExFY3V0QTcxRmtMVWp5VWVSVFZmaXFSbW9KLTJZTm1NandTZEp0Vlh4ZjlyYTUtUHVUdFd4QVl3aGswNjlZVFJySW9XMGxvNUcyVHI2NWdVdkRWRUlLWF84U2I4?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-07-09T15:16:49+00:00"
-    },
-    {
-      "id": "hl-a6e64892c59d72ec",
-      "date": "2026-07-09",
-      "title": "The Plan to Build Energy’s Sci-Fi Future in Shut-Down Nuclear Plants",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNT0xjdXhTREpBRTZmWFBkcjlpdWVRNkVhcUJOWWozMDJTRXpnXzNqcXJrNXRGa0NNUXJfX29scGZpbXd4ZVNTRzRSYmpncEsxNjdzdDRMSEZ0djVkRzR1NDAyZ1ZTMzJHaFVqcmpzX3c1cWMwVFZURkFTOGtHS1gtYzhDeXg5LUljdmQ1TllNYVdIeWFKdG40bERqQkhjbDVIT1FhdGx6aTUtbEZhY2NMVDNCbERQaHM?oc=5",
-      "source": "WSJ",
-      "published_at": "2026-07-09T13:27:00+00:00"
     }
   ]
 }
