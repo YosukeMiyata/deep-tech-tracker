@@ -1,6 +1,6 @@
 {
   "_schema": "id: 安定ID / date: YYYY-MM-DD / title: 見出し / url: 原文リンク / source: 媒体名 / published_at: ISO8601(任意)",
-  "fetched_at": "2026-07-21T11:52:29.527043+00:00",
+  "fetched_at": "2026-07-22T11:54:48.757408+00:00",
   "theme": "nuclear",
   "sources": [
     "日経",
@@ -14,20 +14,76 @@
   "fetch_notes": [
     "日経: 18件",
     "Bloomberg: 5件",
-    "Reuters: 6件",
-    "CNBC: 2件",
+    "Reuters: 7件",
+    "CNBC: 3件",
     "WSJ: 3件",
     "日刊工業: 3件",
     "東洋経済: 8件"
   ],
   "items": [
     {
-      "id": "hl-d87057de96ffc5aa",
-      "date": "2026-07-21",
-      "title": "The New Jersey Financier Behind Trump Media’s Pivot Into Nuclear Energy",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNd3dOV1N3S3l6UUtDaGdWZi1NVV9vMW5xZ2NPdy10SS14UVFBU3phSU4tY2NyYzlPeGdOSThDaU1BbXMyb1VGZEZaQ09wYkxoZXprNlZ4LWNIT053T1ZSbmNWeU5nQWlLaEJpTW5velp2SHJYQWhRek5PYy1MNy05cUFQOG5SczZxNWh4Q0dWeGd3UHNqRTNRTTdMZkl5bXVsazlReFRaRy1JSDQ?oc=5",
+      "id": "hl-c5d8cb7ba92a16ee",
+      "date": "2026-07-22",
+      "title": "福島第1原発廃炉事業の組織再編 東電社長「26年秋に規制委へ相談」",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XX2FiQVNXVlNYaHlEbUNWMUNWUmVsbWtWYXdxc3F1VTg4VVBzYW1hQjJxU2JUMDUzMmtieFZFOU9pT3M3VXAwMTdLd1ZsajBnZkR6RnBhdlNTLTVHc24tcFg5bklRT0ZGRlZVQw?oc=5",
+      "source": "日経",
+      "published_at": "2026-07-22T09:21:20+00:00"
+    },
+    {
+      "id": "hl-d825fc650dbb5822",
+      "date": "2026-07-22",
+      "title": "What is Pickaxe Mountain, the Iranian nuclear facility Trump is threatening to strike?",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPN0tYWUg0RFQ5bUs0S3NMYTVDSWNuMGZwLXM4Nl9QV0ozNnFRMV9VRGJ6cnFqWkx5RVlMTGtIOXlLMUl3WHhjT0lQYWNuWnpZUWFUdHBGbVFjYUlQckp0R0NocmNNYVl2VHhqUnA3OFBkbDlaX1Z6QTFZSjRKS0I5M0FCeXlocVpCUTFyZ2ZR0gGOAUFVX3lxTE83S1hZSDREVDltSzRLc0xhNUNJY24wZnAtczg2X1BXSjM2cVExX1VEYnpycWpaTHlFWUxMa0g5eUsxSXdYeGNPSVBhY25aellRYVR0cEZtUWNhSVBySnRHQ2hyY01hWXZUeGpScDc4UGRsOVpfVnpBMVlKNEpLQjkzQUJ5eWhxWkJRMXJnZlE?oc=5",
+      "source": "CNBC",
+      "published_at": "2026-07-22T07:08:25+00:00"
+    },
+    {
+      "id": "hl-c8756818f9e18a71",
+      "date": "2026-07-22",
+      "title": "関西電力・美浜原発3号機の蒸気漏れ、施設の安全に影響なし 規制委",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9pMUQ3ZUQ4NlJhelF4bHVoeU5nd0ZNQmhucWxENjJQeU92akI2YkZzNEFBV0JFODQ4bkNNZmF6TWtVOEtZU2d6TnA3YUtndlVmbzJjaV9JRmNZUW1ZdDZQb2FLWlVfb2QwdXhjdw?oc=5",
+      "source": "日経",
+      "published_at": "2026-07-22T06:10:05+00:00"
+    },
+    {
+      "id": "hl-896e4f1bbf4a52c7",
+      "date": "2026-07-22",
+      "title": "トランプ氏、サウジとの原子力協定承認と米報道 中東での核拡散懸念",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5NdGNPOElWUG9JRGd6Wl9STlBSTVl0di1LWWxYNkJTaU5OaGZiYzlNNjJHSzN2NGpRZDExeFlObmZSUVc0SFlIUy1VdzJhODVnN3J1VEE3dVlmdVRFOS1walVwVFJiU1JiZTF3Xw?oc=5",
+      "source": "日経",
+      "published_at": "2026-07-22T03:10:02+00:00"
+    },
+    {
+      "id": "hl-21150f170c6fd700",
+      "date": "2026-07-22",
+      "title": "Trump to seek Congress approval for Saudi Arabia nuclear energy pact that lacks safeguards, sources say",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV1M3SUpTNmtZZVVCWFNXLVNnM1FXZW5JMnNMYUlmcDJMb2pBWnZuRmpVWmdkeF82T0ZFUWVtcHNUR1QwckpWaDdEbFB6cnJBR1RSNGs3a0VuNlRYbi1Ga1liMFdTbjlXeTF5bmF4Z2NTelluSExlanRTTTNDYWl5aFNwa2d4ajBWNVR1WWR4VnhJbXkxRUtwR3VBZy1iZmQ5Qzg1Z09rUk0tZmFGV21RYmJ4MW1YV0FtZzJBMkVDbjExdw?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-07-22T02:59:07+00:00"
+    },
+    {
+      "id": "hl-b6b29932347511ac",
+      "date": "2026-07-22",
+      "title": "Exclusive | Trump Approves Landmark Nuclear Deal With Saudi Arabia in Big Win for Kingdom",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRDAtVDgxRzhwVHlfb3dqRkJ3UnRzeG9SbmhsSlN6YnZvclR6TFc5RFotc05LOEJ6a3hvVy1McEtNa2dGUVJnMm02REh6QWxaanhmWTZad2l0dnR2WHhXeU54aS1ZSFJGQld2ajZ4RTZuTUZsdVJ6djR2d3BOTGVQRmtXS1EzT0xybnRhSzlfc1JDU0RZQlNwZk1raTkyS3kwUGdpUkM2U1dnTVl2OWMtdDlGNHEzVGpNNno0R2VWTzFQQQ?oc=5",
       "source": "WSJ",
-      "published_at": "2026-07-21T10:31:14+00:00"
+      "published_at": "2026-07-22T01:36:00+00:00"
+    },
+    {
+      "id": "hl-e30b3d4f6308ca22",
+      "date": "2026-07-21",
+      "title": "Oklo, X-Energy Join Trump Effort to Speed New Nuclear Reactors for AI",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMjlyNVNJeV9nLVVQbnRCNmxOTHZOZ1JNUWhadWJQU3FITlo2cktwLTlPYTJQdlVrdnltUVVOY1F2ZExlbzRMb3pnelRuRGltTlh6RGFkOFJsNlJ1eC1MSTFpQVA3b3hBMVFETWo0dUtCMks3QUdadHhmd3NjZDhTczE2Ul9WeUlzWVpoWld3N2M2MUVFVGNJNGxpVzd4RFpZdTJSbVhXTndma0Y3eG5JdEQwT054Q19GdkpJ?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-07-21T21:30:13+00:00"
+    },
+    {
+      "id": "hl-8391baa21112e03e",
+      "date": "2026-07-21",
+      "title": "Exclusive | Israel Believes Iran Moved Nuclear Centrifuges Into Pickaxe Mountain",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT29QX1ZlcFBKdXZtdDlaNUlwVVhxZlBsSDNXajBwLUtqNFZTVGpBbmN0eWlpV2xBOHo4Q2JQVG5fTkl0SFd2Q2VoMENLT2NfeEZsU1RmaV91M1QzWDVYOGF5M1FLb3hCWnFaX0pBeFNTeVBXajRqb1kzdkt6UGtWSW0tS2o3OEJ6YmxDUUtmeFVxbExOZnhtM2NkVGRLMjdGWmlWYUUzSUhrdmYtcFRvR2VSRHk5QQ?oc=5",
+      "source": "WSJ",
+      "published_at": "2026-07-21T16:19:00+00:00"
     },
     {
       "id": "hl-8f9d0ae539235488",
@@ -38,10 +94,10 @@
       "published_at": "2026-07-21T09:15:25+00:00"
     },
     {
-      "id": "hl-8391baa21112e03e",
+      "id": "hl-d87057de96ffc5aa",
       "date": "2026-07-21",
-      "title": "Exclusive | Israel Believes Iran Moved Nuclear Centrifuges Into Pickaxe Mountain",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT29QX1ZlcFBKdXZtdDlaNUlwVVhxZlBsSDNXajBwLUtqNFZTVGpBbmN0eWlpV2xBOHo4Q2JQVG5fTkl0SFd2Q2VoMENLT2NfeEZsU1RmaV91M1QzWDVYOGF5M1FLb3hCWnFaX0pBeFNTeVBXajRqb1kzdkt6UGtWSW0tS2o3OEJ6YmxDUUtmeFVxbExOZnhtM2NkVGRLMjdGWmlWYUUzSUhrdmYtcFRvR2VSRHk5QQ?oc=5",
+      "title": "The New Jersey Financier Behind Trump Media’s Pivot Into Nuclear Energy",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNd3dOV1N3S3l6UUtDaGdWZi1NVV9vMW5xZ2NPdy10SS14UVFBU3phSU4tY2NyYzlPeGdOSThDaU1BbXMyb1VGZEZaQ09wYkxoZXprNlZ4LWNIT053T1ZSbmNWeU5nQWlLaEJpTW5velp2SHJYQWhRek5PYy1MNy05cUFQOG5SczZxNWh4Q0dWeGd3UHNqRTNRTTdMZkl5bXVsazlReFRaRy1JSDQ?oc=5",
       "source": "WSJ",
       "published_at": "2026-07-21T01:00:00+00:00"
     },
@@ -54,10 +110,10 @@
       "published_at": "2026-07-20T23:42:31+00:00"
     },
     {
-      "id": "hl-1438f0290ad8d8f6",
+      "id": "hl-9b1f5a344cf2bb7f",
       "date": "2026-07-20",
       "title": "原子力機構の価値 原子力の社会実装に向けて（177）非火山地域での地下マグマ検出",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16YzN5d0JacTM5bDljQTR6Q1hJZ2hETTFFSTlldTU5MlhRQUU0TDlOYTI3bmV4R1ZpcDdzUkNHU1lMRzZwdko0RFgtZUlZQ3BnZWhlQzlWQmdKVDA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE41dTctSGNMdTRTcXlZU05nN3owYVg2bDhfblU2em0tMTRicmtfcUNYc1ludTg2aDF5LVFkeGs3LTNrMmE0eFpQZHRwVGhvYUpMdjVXNEhoSFRpbXlUWDctNjhVVEF6aExIMWwzek5Odw?oc=5",
       "source": "日刊工業",
       "published_at": "2026-07-20T20:00:00+00:00"
     },
@@ -70,12 +126,12 @@
       "published_at": "2026-07-20T19:00:00+00:00"
     },
     {
-      "id": "hl-d8e594d13de9111c",
+      "id": "hl-13861cb5ebfba3ce",
       "date": "2026-07-19",
       "title": "電事連会長「原発への公的融資歓迎」 電事法改正、長期リスク対応を",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBnS0MybUQ2dkE5TFVrQWhpbjY1bzNhY0g2aHZSTl9aVmhac3h5VkM5aWZYRHpHSWp1SmY1M0hSSmNwOGZRNWxqZU1wdW9vTFBuYnZ3VDB2bTVuWkU5d2ZnNFkwZVhBbzBBUktNYVozYzJEZ0NE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94cUtEcmI1dnN5UjBYSGowYzkxT1U1TlNVaS1nUTlKODdNOUszdlViMjNRWVlnMjlDUmJtbFlHVXp4aXNSTElqVXdlTm84V2F5aGVDR3AyWHI1RVU?oc=5",
       "source": "日刊工業",
-      "published_at": "2026-07-19T20:14:51+00:00"
+      "published_at": "2026-07-19T20:00:00+00:00"
     },
     {
       "id": "hl-d816f7134f37a5ad",
@@ -150,20 +206,20 @@
       "published_at": "2026-07-17T09:33:59+00:00"
     },
     {
+      "id": "hl-3b303f7225cdd16a",
+      "date": "2026-07-17",
+      "title": "島根原発3号機、審査「ほぼ終了」 現地調査で規制委員会",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EdnJRX0dDTk52c3dCWHUyeGZremVPWFJMdThlNG51YlhuRmEwOS0zaWh5SkZ5R3JRLUUtRFpuUGhKRm90ZTJfTzZIcEh6ZXA0ZWJ2Wk5vM0VjVG9RRkZOX0ZZQnF2algwN0NXNw?oc=5",
+      "source": "日経",
+      "published_at": "2026-07-17T07:50:00+00:00"
+    },
+    {
       "id": "hl-b63c2f09420d6b77",
       "date": "2026-07-17",
       "title": "原発建て替えに公的融資、送電網投資も 改正電気事業法が成立",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wd0kxSHM0T0hURUdUS0tBbEJNWG9TdDAxZGZSRHB5S1JHYWhWUk5oR3c1S1AxcXFDOVN4V0ZlUEZkY0UxSUFvWVBrYW5MOEVpdDB3TUVkQnZ6SFhiQXpScWxYdXRQTWIxOEFobA?oc=5",
       "source": "日経",
       "published_at": "2026-07-17T01:54:37+00:00"
-    },
-    {
-      "id": "hl-64b095b208c900fa",
-      "date": "2026-07-16",
-      "title": "月面では太陽光・原子力・半永久電源が主力、日本勢はマイクロ波無線給電に活路 - 日経クロステック",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9kM2hDdk1NWmJ4Y091aEtzUVZTNUF5N3FjQ1ZhTHowaDlvYWhqelM1aGlnaHZRek10aVdGNG1kSkZwdHVpVk1zMDBPNXRXVUtJUUhta28ySExzdkhEN1Z3djBvNk5UaGc?oc=5",
-      "source": "日経",
-      "published_at": "2026-07-16T20:04:00+00:00"
     },
     {
       "id": "hl-20b6736a247a2780",
@@ -254,60 +310,28 @@
       "published_at": "2026-07-15T20:39:43+00:00"
     },
     {
+      "id": "hl-e1cd8bae48368928",
+      "date": "2026-07-15",
+      "title": "泊原発再稼働、来年12月目標 工事遅れ",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE16SzZhaW52aGo0U0NLdzVMeUFkM3p6RndxS2dvT1l1Rl9IRmVBUGpNVUppT0ZLLWZYcVBpZFpuT0VkamJFY0NjNDNnXzB0a2lQcmJWX0xPYTZOb0Z4OWpXUzVSQlpud1FOOF9SOQ?oc=5",
+      "source": "日経",
+      "published_at": "2026-07-15T17:00:00+00:00"
+    },
+    {
+      "id": "hl-95e17a9b7ec5cf05",
+      "date": "2026-07-15",
+      "title": "What is Pickaxe Mountain, the Iranian nuclear-linked site threatened by Trump?",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNczloTzlFM1kxaUtEY05pWE9NbkJqV3Nya0ZRMHFFc2oySkZWSmN5UXQ2Nk1oX1dORmlGUW9kOGNmdkNLRVpuc3liZ3lpelgxUzh6QjY2MHVDMWtYeG41R3FjM3I2N0tmRHVDZEVJRjhEamJmVm5FdkNydDV3dUZDMFAtRnM5M1RyTld4OEt1N0F0SkZrVlhQZzM1bVRPR2xDVk40NzNKYjRndUQtTVlKeXROdW0?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-07-15T15:53:01+00:00"
+    },
+    {
       "id": "hl-6e18b556b0602f00",
       "date": "2026-07-15",
       "title": "Nuclear fuel firm Standard Nuclear slashes US IPO size by more than half",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdjMyb3JSemJXdjhTT1VpSWZoMDhoTnlNd2NvQnRyckNOUWlOdjQzVVJ6QS03OXdKQmZBQ3Y5V1FpTGhlbFd0ZVVqRWxpZERVWWhwQ0hjYmpiTGd1MFJkeEdYMGtzZzNna1BBUzNTUVM5dUlCU3hKQ1pyd3NIdW9QeFJ0N2lSODVMTGRkb1VkRl84Tm9qTEY2TlNSeThBX2xRWDQ3YjA2WWp1XzFHakhDZWpGUUdEMW1P?oc=5",
       "source": "Reuters",
       "published_at": "2026-07-15T15:03:38+00:00"
-    },
-    {
-      "id": "hl-d9f1c86b3c140de5",
-      "date": "2026-07-15",
-      "title": "EDF Turns to Oil-Fired Power in France as Heat Curtails Nuclear",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdUdIeVZNQUViNHlfd3NtRHBGSnlCM2Q0NVExTnRxS05PQzFLOS1aR1Exa3dmbndLWFVOcGlUY0xmc1l5SmE4NVRMWUttM0NFb1lrcWoyLVlDSlJXOFBqNkRZUnM5NGc2WmF2NEhwUndHRk9MXzhQZElwR2ZwZmRsZ29xX04xWmNCcGFmU3Z0WVZyQTlBZkVYZXpyZXVxbTZhZDc2R3p2WWVwVG95MEs2N3RuWFY?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-07-15T10:49:29+00:00"
-    },
-    {
-      "id": "hl-8285a5b2b5c45e29",
-      "date": "2026-07-15",
-      "title": "泊原発再稼働、27年12月目標 北海道電力「できるだけ早期」から後退",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPSUIxb3BmSXZwMTZYWW13ZWVBYjlUMEEzaVFLQ2tqYzBJZ0tidUxLQ0draDE3Mi1PcXduVnl6ekUtSzlOY0dFZlU5RXkzNXBYYmJpR1d0SGRqaFNYSlFQMjREVWo1Mk5NeDhyMQ?oc=5",
-      "source": "日経",
-      "published_at": "2026-07-15T01:45:04+00:00"
-    },
-    {
-      "id": "hl-51faba572f306c1b",
-      "date": "2026-07-14",
-      "title": "US company seeks to produce uranium for nuclear energy from seawater",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTjl3Q1FCeU5GaUppMjU3VVM0VmRSdnJSbnUyNjZXOUZjRGZNMl9jTFBlTVpLNXVwTnRfcEhyNGJPQXd5Wm9mSmJYRnExaUZXWkZ1WkFhaHIwenNoN3lxeW5aS1MyLVNyS0hzU1hfOHluSFBqU0JETU5ZWDMzNEZpUGZQNEoxa2JrTVo2S0Z6azYwOXRDcEtLbmhick9PSHd4YmFlaDVseS1mb1Rxa3c?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-07-14T21:37:58+00:00"
-    },
-    {
-      "id": "hl-8728b82b4027dd30",
-      "date": "2026-07-14",
-      "title": "原子力人材育成で近大が大学連携、実習に他大生参加 北大は講義公開",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkajF3azJ4cXdmT2VCR1lSVjMyRWZSRVVQbUxfSl94N1RxR0E3WFk1ai1sX2xaWVlFaThtMnlmX1ZpZjFYSU5qemNYTWRpWC00clpyQ056Y3pIeFVJYk9TbGdUQlMzaUlNVHhkOA?oc=5",
-      "source": "日経",
-      "published_at": "2026-07-14T17:00:00+00:00"
-    },
-    {
-      "id": "hl-36274f8059e59b4d",
-      "date": "2026-07-14",
-      "title": "大飯原発2基の差し止め認めず 京都地裁判決",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1wbEZaOXpvVW1EQ2NYTnkzRGJScWZ2Vng2OVJvQm9paTI3LXMxVGFTd1Z4RVB2UnpGMnQ2c0pWXzEtam9jTGs4ZnpPOWpkb1pYSjlKdDlBSWRzdGVFVHRReWo0SWpETDNsSWwxYQ?oc=5",
-      "source": "日経",
-      "published_at": "2026-07-14T17:00:00+00:00"
-    },
-    {
-      "id": "hl-08b9a6580da6216b",
-      "date": "2026-07-14",
-      "title": "近畿大、原子炉実習に他大生 原子力人材、大学連携で育成 北海道大、講義を無料公開 静岡大、教え手養成",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNYlZSVUxFaHVxWTNFd2M2d0ItUXB1YjVuTkxmUHZhTjFhY3hzQktIbE9tcG83dHRrV1dHUm5wUFhGejRkT0E4UV9VMnI0MHZCS3JnRlFWbF9mcGhtc1BQTHo0Z2VSaFBaNE5jZg?oc=5",
-      "source": "日経",
-      "published_at": "2026-07-14T17:00:00+00:00"
     }
   ]
 }
