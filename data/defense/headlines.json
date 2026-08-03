@@ -1,6 +1,6 @@
 {
   "_schema": "id: 安定ID / date: YYYY-MM-DD / title: 見出し / url: 原文リンク / source: 媒体名 / published_at: ISO8601(任意)",
-  "fetched_at": "2026-07-31T12:02:29.218978+00:00",
+  "fetched_at": "2026-08-03T12:59:54.400151+00:00",
   "theme": "defense",
   "sources": [
     "日経",
@@ -13,16 +13,304 @@
     "SpaceNews"
   ],
   "fetch_notes": [
-    "日経: 38件",
-    "Bloomberg: 20件",
-    "Reuters: 29件",
-    "CNBC: 3件",
+    "日経: 30件",
+    "Bloomberg: 22件",
+    "Reuters: 28件",
+    "CNBC: 6件",
     "WSJ: 12件",
     "日刊工業: 2件",
-    "東洋経済: 5件",
+    "東洋経済: 16件",
     "SpaceNews: 24件"
   ],
   "items": [
+    {
+      "id": "hl-c7e9a60c95f53d2a",
+      "date": "2026-08-03",
+      "title": "Airbus and Thales win order for SpainSat replacement",
+      "url": "https://spacenews.com/airbus-and-thales-win-order-for-spainsat-replacement/",
+      "source": "SpaceNews",
+      "published_at": "2026-08-03T12:15:34+00:00"
+    },
+    {
+      "id": "hl-0d314d2ad901e6d7",
+      "date": "2026-08-03",
+      "title": "Greece wildfire in pictures: Firefighters battle blaze worsened by 100km per hour winds",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMWp0RFdPaFVvWmRYbjQ1WWN3N3VZWnNyQXJ5OFMxcTFvWkh3dnIxWWdJNHMxclJvTUg1YUpRYV8zcUZBYkxYVWtzSHZrMmlmMXhXdk1GMUI3STVJMmVoZlJIbEdxZG5kN01EaW5sR1FINy1NbmhhS2xkcG14am85eEFn?oc=5",
+      "source": "CNBC",
+      "published_at": "2026-08-03T12:11:05+00:00"
+    },
+    {
+      "id": "hl-3636aa40a432c620",
+      "date": "2026-08-03",
+      "title": "Northrop Signs $3 Billion Framework Deals for Missile Parts",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaGZPT1F1RmN4NkRQRXg1VU9RNlNLWWpPbDVNemJHbk8xeXFxLTY1MkIta3RPX3VCbFF5N3plV01hQzZ5c0FFbm90ZTBZRGdWSmo2WXlPZ21JcWs4SXplaExONjQ1TUl1Q0RGeEZtMFdUV3dKRk5UVlYwV1pfa1kwS2JNRmhaSXBMb3d1UlJjRzcySmloWmhVRXYwYV9EYldwbGI5dXpoRkpNOHozUmV0N3ppUWpPNWh6ZGdkczhpNUxmbk00VmdfNUJn?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-08-03T12:05:12+00:00"
+    },
+    {
+      "id": "hl-c1bed0d9d9d557fa",
+      "date": "2026-08-03",
+      "title": "人事、防衛省",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1YNTVWN2tTU2piTFpMcFU1dnl5Tm5qNlAwTnRzOVRpU1FLN3lOSkRFaVNtUkV2ekdwTmRBcjRHOHhhNzA5VHZEUXAyV2h0QmFSN1o5ZWxsM0Q3OHlUQjIwYmxiQ0kwYWlqLVdhMg?oc=5",
+      "source": "日経",
+      "published_at": "2026-08-03T10:45:03+00:00"
+    },
+    {
+      "id": "hl-d65c6062f96c5dcd",
+      "date": "2026-08-03",
+      "title": "Denmark Widens Arctic Defense With Military Buildup in Faroe Islands",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMjlsRkFIZGVpNEk2d24yLXU2TzVkTjBOckRkUWdWSEM2aUo5bnQ3ZzFCRC1TRFJyMDVoSkxHLVktWWRMUm93YkpEWXFqOGhXanFfY3ZZbU4yU3BORVh2UG9KS1docGd6MVVlOG9wdUNvRDFyWmMtQzNQZi10LTJGdDdPUDVMSmpVdGdrZXpuNG54aGc0bGk4b19LRVNQbktwRnNpVEFJc3lBcGExS0hjWFNHbmdQdkJBa1pR?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-08-03T10:02:51+00:00"
+    },
+    {
+      "id": "hl-def58160151b2557",
+      "date": "2026-08-03",
+      "title": "New Zealand Looks to Drones for Offshore Defense Surveillance",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNGhROS1HZXJ1WjJPWFRMZGVaYWpTUGpKZGczWFVfY3JfclFjaTBOY3YxbEFUV3JxSW1jWEZsUkZlc0ZWeHM0bU1xZXpaeEhlaVlUekM3cGFTN3JlYmR4QVUxSEQzek9rWUhna1Fnb05odERKd3ZWX3RCVjJWZl9kbnJKRW12WjNJUEpGV2ZpS2VTc0Q0bl81RHBMUUN5elN2T1o0d20tNnVrNk5UekkyeWhR?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-08-03T05:16:00+00:00"
+    },
+    {
+      "id": "hl-ff00b85fc1349ea0",
+      "date": "2026-08-03",
+      "title": "Arkenstone Defense Inc",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9uZ2tkS2NVMjRLaWxXNmh1N3FpUmVhM2tHU2hEUnBzUkxpVVh2di1FZ1hhQUlJMGw1ZnM1eXBzR1ZOci1pM2g4SHR1Nk5LYldJdTVYN2JtMy0xajVNcFNiLVBJQQ?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-08-03T04:51:34+00:00"
+    },
+    {
+      "id": "hl-d415478f93b5a27f",
+      "date": "2026-08-03",
+      "title": "Taiwan minister says close ties with U.S. Pacific Command boost defence readiness",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVklDQ3A2S254OVB4N0hfV0ZUc2trSnBwU3dUbjFQYkJKdGFoemRkU3lITTJNLUxpemJaellmQkl4T2ZCMEJpb19fcjJQVHNsS0ctMjdBNDY0bld4VW01SFVNcHM4UFNOSGE2Y1Y3bW0xeEJGSXZ4eC11SGs5RkVCb1NQenY5SDQtNzRRMnBKaDBTOE5zVnRUVkE2bEtqSDlIcm5vdDYzcV9wdkpCTkNTaXZ2b2NnNm5BclB1ZmFyRWdhWmx0Tmc?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-08-03T02:02:00+00:00"
+    },
+    {
+      "id": "hl-a435263f30b316cc",
+      "date": "2026-08-02",
+      "title": "Ukrainian drones kill eight in Russia and strike Wildberries warehouse, governors say",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNalRXTDFKTmlXU19IODRKYXA1bkZiSXU2MEMxUmxBRlpjakdLenAtS3EyZ1NaR1ByOXBsc182MzRkLTRUX1R2NFNJTXMyNWt4Nm5mZlBtbEw5ZWhNM2dndjJTZElZbGhWVXhjQm93bkJ1NURwSV9GWlItZjRKTDJYdV9vRjhDYWt2SVZFWGpfNXV4UXpWNnFVeGhQZkpnMEdnMFdZYThzQmxzS0YyNEVqSEFWdkJIX19a?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-08-02T22:43:43+00:00"
+    },
+    {
+      "id": "hl-2bb1e3a47b8967b9",
+      "date": "2026-08-02",
+      "title": "防衛デュアルユース、戦略17分野と密接 5つの注目技術",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOU2N3YUJwVWpqdmJWM3JXUmNXWS1teUczZVdBWDFiZm9SVk5hNnF1bkhpelg5MmsxLVRkWVZENHdCVjJERy02TWNGSHpoMVFaNmZaUHhTdVJ4dUotXzJ6Z1JoT0pCTlA4RGtsZ2FMNnlhbHlQOTBNaUJzdUpXc1lIdG9GZXl4RVk?oc=5",
+      "source": "日経",
+      "published_at": "2026-08-02T20:00:00+00:00"
+    },
+    {
+      "id": "hl-5127874a4b65552c",
+      "date": "2026-08-02",
+      "title": "Ukrainian drones kill two in Russia, strike Wildberries warehouse, governors say",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSG9ueHJYbWpHMks0MHJ4TEphc0FUZFJlU2lBeEFjaHkyVHVwZTFQVlYwbFV3U1VBenQ3a2JzY0lrS1BpejhOLUcxU3BLWm1MUnVBZUVqZkhCdkRpWVU4M0tjMEUtUmlPODFaektQSmJoUDZ2eXYzMWZ2SXBXMFR5Znk2S3llczB0NV9R0gGQAUFVX3lxTFBEdVZIa09BVHRkOGprMnlBelc0aC1ndTdETUJ0ckNtV0Y0UTZtTjdxcHZ4OG8wSDVfUDlpXzdka1dtX0NLbFRJOTZaN0ZrbE9aNUVhTGtfMEozYl9iTU9ib3BLbUpUM3QwMngtWDBfT3luY3dpUjVreGJOVExWS1liS3M1bUNTZjVzajB0U2J2aw?oc=5",
+      "source": "CNBC",
+      "published_at": "2026-08-02T12:06:04+00:00"
+    },
+    {
+      "id": "hl-d161821b91395f55",
+      "date": "2026-08-02",
+      "title": "U.S. Air Force expands Blue Origin rocket cargo contract",
+      "url": "https://spacenews.com/u-s-air-force-expands-blue-origin-rocket-cargo-contract/",
+      "source": "SpaceNews",
+      "published_at": "2026-08-02T12:03:27+00:00"
+    },
+    {
+      "id": "hl-1d0c34b42f8aadef",
+      "date": "2026-08-01",
+      "title": "Space Force awards K2 Space $22.9 million for laser communications demonstration",
+      "url": "https://spacenews.com/space-force-awards-k2-space-22-9-million-for-orbital-laser-communications-demonstration/",
+      "source": "SpaceNews",
+      "published_at": "2026-08-01T20:28:39+00:00"
+    },
+    {
+      "id": "hl-80bfd4a3827f18b3",
+      "date": "2026-08-01",
+      "title": "China launches secretive TJS-27 pair, orbits next-gen Tianlian relay sat",
+      "url": "https://spacenews.com/china-launches-secretive-tjs-27-pair-orbits-next-gen-tianlian-relay-sat/",
+      "source": "SpaceNews",
+      "published_at": "2026-08-01T13:38:42+00:00"
+    },
+    {
+      "id": "hl-a1944d7a27c0aacf",
+      "date": "2026-08-01",
+      "title": "Ukraine Hits Russian Refineries as Kyiv Faces Missile Barrage",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUnNDQmlXNG1NeWotYWliUGtHd3hwR3pza1hQRVRid0JxZ2JVOVljV1BCT0ZpdnJrY0tqcy1wRzVLRTE1YkRIQWRCRDV5SS1yUWNrcmlwUUNSRExmMDNrdFRiMEJLNEVySnhVODBHd01KUmhKT0dCZ2RlQVZYakhObWdZM1VfSFBCMDQ1dG9ISjVQUGs3YnM1Y1ZBb2FJQXBfaktrQUVwcmIzdkV6WU1z?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-08-01T12:23:35+00:00"
+    },
+    {
+      "id": "hl-27b194817d637c1c",
+      "date": "2026-08-01",
+      "title": "Rosatom says its civilian vessel sank in Black Sea after Ukrainian drone attack, all crew survived",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdHRSSERGYnJKSWphUV9LNVBnVEE2RHpZS2d3eTVTMDNGR2dDTlRhSlBfNHYwb2ZoSHl3d3QtX0xVV1NiSHMwZVExN1hOTTA0eTBnYUZoeE5LV2R2T0tuRFV6VXJtNkxIV0tfRXRwTXluMkZ0UW81R1hCQ0JrcHFSVVhUbThXWURObTJHaFhMRmdETHhTN29Ca3ZHTjdkaWVBRldJVy1oNFNlekk5SmRQSGtVTFR6TmJuVklEWHlBdw?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-08-01T11:40:54+00:00"
+    },
+    {
+      "id": "hl-5a218dac2c09cdc1",
+      "date": "2026-08-01",
+      "title": "Embassies warn Americans of travel risk amid signs of possible U.S.-Iran military action in the coming days",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9oRTNwSzhjdThNS3RGMVZ4OWR3Mzlmc21IUHlnNk85QVNMdUdFbEt5WGpoNVhnUTQ3NmNrU0d4c2xaN1VvVVlsaXZRMjRaUFBfMG82S2I5YWJTQlhKc2VoeXZvOFJWVmtMa0pqQWsyUjc1VDlFNmxjN3hn0gF_QVVfeXFMUHBoU3RoelBqNTY4b2xWZmk2QXU3NkJmMXhydUliUURoYm8xalJaa3l3VmJfdU5HejhKQTFMSXNCNDRnNFA0bDNxZ285M250eGpneUVPdjZHOTdsWWFYY3BWdWcybDlocWlFNFB2bVJYWnMyWmlXV08wbFRnNmtYRQ?oc=5",
+      "source": "CNBC",
+      "published_at": "2026-08-01T10:10:40+00:00"
+    },
+    {
+      "id": "hl-847b5d34ac73d830",
+      "date": "2026-08-01",
+      "title": "Ukraine's envoy to US says 'We need the missiles'",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQc0FoYW84ZXVPNFhUSGFHMWR1SlU5QmdBa0dydFY2MFBuaXNDSklqVGNLNk1uN3dINTNNM0Vmb3pleWdLSEM4SDBRb201TXd1cTEyM0t1SF9sMnNTQXlBX0o0dU1RWHdoSWRxaTgyNEVMSjNEVnBfWXIzaEJKUklHQVFCZ1RFVWUwN1pFSGk2OHlpcjdQWm9TMXk3aHRkb3dEc3FlQQ?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-08-01T03:11:21+00:00"
+    },
+    {
+      "id": "hl-2a546b2f4746dc81",
+      "date": "2026-08-01",
+      "title": "Iran’s Workhorse Missile Is Becoming More Dangerous for U.S. Troops",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMmxlQkl2QVZURzNBXzJEWDQxQ25hbDV1M3N1SmNwUkkzZG5zZjJuQXd3eWpBeVhXbW1JSXlNTU5UX1RGM3UwZUFYNVlNN1NyYnRiWm5BQTFjTnROVFRRejl5YVZhbUhVUFMtTGpqeXpwbkpFMXRMdjh6UnV4ckpMR1NRR3BUX3lxb2Y3NTVLT1g0X2kyTDY1X0JJbjlhWDJ3LXpQRlJNTmNHZzVINmd3dEVB?oc=5",
+      "source": "WSJ",
+      "published_at": "2026-08-01T01:28:00+00:00"
+    },
+    {
+      "id": "hl-5acfe0ba8bcfed4c",
+      "date": "2026-07-31",
+      "title": "Trump says US has not agreed to Ukraine building Patriot missiles",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQXNqSU9WRVUwMm1rWkFyY0ZVdXpoQ3RudWlwQmI5aGh1VmJITWJuWkpjc3NJQ2VfQU1PZlFwZkhfYTZvYWNxZ1NvM1FseWMxU1J2SDZkN2N3SW5HYmJUTWozTlpwWTBNYmEzQ1Y0N1lPYUotUllyTW5PZ0xQUmo0b3NSNzdsV1QzNzJGNk1ZWVhIam9FNXpUMUVSOGxVaGVCWGJmR0VnV2x3bUZ1Nzh2OHY2TkRyd0dCdGlpYWRhVWhNcVU?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-07-31T22:35:51+00:00"
+    },
+    {
+      "id": "hl-37c4a027402d75e8",
+      "date": "2026-07-31",
+      "title": "Eric Trump Expands Family’s Defense Portfolio With Space-Eyes",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbktZVzRjMk5LSkdPRkthVnNONmx3amduTFpGZjg1YnI3TzQzVTNra09BdVBzeEhxQUVDbE54Vnd4SnhzWmR1QVpXTGZ4d1AxYUtDdjhob3BuclJIVXppZHVvUFpIYWRQaEFaMngyc0Y2VVpMNmxtZlhtOWZ5cVZzY3VEakZ4dDhjampIakJiQkl6LVkzRFBBNUZsZDZTcVp1NXdfVlJLOUFDck13anR4X3hB?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-07-31T21:33:12+00:00"
+    },
+    {
+      "id": "hl-9e6c87ff2af2b449",
+      "date": "2026-07-31",
+      "title": "Thousands take to Kyiv's main street, firm on calls for defence minister's return",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPY0hRLTFHYVRnZ0J2eHo1WnNUMmFoUFRjNkhYdXRVQklqWkhReW44VV9xaWlJUDZuNXZBdkRONmp6WnZLLS1SME12RDZVSFE3bGM1U3Y0ajRZVXZnelVfV1hVdklDY25lcWdMUXVGWmFWdTZjWmJ0V0V1RUN3YnNBSmQ0NFUxaGVzTzU4UFZMTEhmRmxWUERaN3U2OVdCdE00SGhNQ09Hc2J6OS1IMzYyc0dxUXQza3luQ3k5eFlfZ1lWVVU2UFMxTlN2VXQ?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-07-31T20:54:00+00:00"
+    },
+    {
+      "id": "hl-bd84deedb9c6026e",
+      "date": "2026-07-31",
+      "title": "Sending repurposed Mars rover to the moon could cost more than $1 billion",
+      "url": "https://spacenews.com/sending-repurposed-mars-rover-to-the-moon-could-cost-more-than-1-billion/",
+      "source": "SpaceNews",
+      "published_at": "2026-07-31T20:53:43+00:00"
+    },
+    {
+      "id": "hl-e659025c3478f496",
+      "date": "2026-07-31",
+      "title": "White House official says no weaponized drones seized during FIFA World Cup",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOHFHWUFqNmFOUnJqTVlLa0wyeUdnV19xN1hwbG5xekxtRGVZREhEc21Lb1dWVnZveTNOMm1GeEx4QWFNM3VwQklqSzRtbTdLeW9jdlBJb1JyWHY5TVRNM0NuY1huWmdBNFR4YkZwSUFINGllVHNGNUU0eVNFblN5NG1JcjNsVDAxTDNNS3dnbEZOa21iMm5DWk1JNFdFVEV3dXB4TElGTTFYemR0dVRJcHNHN1VzQkg1Qmc1Q3FMNnQ1OG1id0NpSFVLNXVyMkoydGxzQQ?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-07-31T19:59:41+00:00"
+    },
+    {
+      "id": "hl-0c36e8f2ef975c6f",
+      "date": "2026-07-31",
+      "title": "Russia’s Cheap, Upgraded Cruise Missiles Pound Black Sea Ports",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOblNGejNCeTEwVE1ZRGU0ZHdyWnR2QUpFcGNiU25qRVFydVdKRTh2SThlOWFYdmtIQW13Rzh3bW5PbUZ3SS1kWU1xVlZtSUNrbmJMZHFYRHJTdlpKMWRBRGxRSndIN2Z1Q0ZNS2Q1UzI1MkE5dVM2Rnp6TmZsMWhxM29SSGtkWC1UTFkxUUgyOENQQVdEcWRVQ0RyZFcyenBjLURkcnoza1k1OUFIcnl2cG9n?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-07-31T18:21:44+00:00"
+    },
+    {
+      "id": "hl-4015602b523e1bed",
+      "date": "2026-07-31",
+      "title": "（官公庁幹部人事）防衛審議官に安藤氏",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5NX2R6Rk53MDNSTmNTWnV3OGwzR2xrandxRGVyeTh5MXpRTWM1STdXS2xUV1RaYUltaC12TWhnU1RoSVlkV1hJN0c5cjVCY0NzQ3FVVlNJclkwcDRKVGU5REtvMXo4WHg3eFRYbw?oc=5",
+      "source": "日経",
+      "published_at": "2026-07-31T17:00:00+00:00"
+    },
+    {
+      "id": "hl-0976f8f846c05513",
+      "date": "2026-07-31",
+      "title": "Trump says U.S. has 'not agreed to' grant Ukraine Patriot missile licenses",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNU0R5ZzAwSHZoTGFiZlVxSV9LZXdOR1NrQWFUdG9USFpydmlFQ2wtSXhfNVRySTd5YmNJSGZSZFdnSzVqOVZ2VnJvS1U2OWlaVzBCSWN5aDNiYXFDNFFvLWpWWGhmOVRVV2hpQWZRVE9kOWs3eDlHeG83MTlXY1pKWm15OGZ4TVFj0gGOAUFVX3lxTE1KSlBrVEFFOVBsUG1yOEdIM2NDVEE4V1ZvWU9Cb3BLUUZTQUNwajlQbDY2TGU5MkRMaElOckVVb0RHalpWZlJWNEVQenpyS2dQY3dDS2hkbzNVcTdsbTFCcGVRMGpIUEdfaFc5RFJySkhzb2x4QXdOZmQzNlFTdjI3blpWLWFndTRrRnM0ekE?oc=5",
+      "source": "CNBC",
+      "published_at": "2026-07-31T16:27:40+00:00"
+    },
+    {
+      "id": "hl-7c852a36f6b1d719",
+      "date": "2026-07-31",
+      "title": "Russia Clamps Down on Posting Videos of Ukrainian Drone Strikes",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUVBfYWlDYThtS1ZYbEptUGtSWVpXWGt2WVpvSGpadkV1bnM4Y1lQQ3BwNGExSncxWUZXUnRzcjVWQmctOVJ5dXBIN3VEdnA5aUJhYzhpR2dseVBsdjJSc0ROSlRtUjNHSE5TajNlenY1UzNvMmlYeEotTDJUR0ozc0VYSVhOeHhOeHZPeGpHNG5TOTA3VzNJZzRheHpZYW8?oc=5",
+      "source": "WSJ",
+      "published_at": "2026-07-31T16:08:00+00:00"
+    },
+    {
+      "id": "hl-7da3d73e3ea0cce5",
+      "date": "2026-07-31",
+      "title": "Spain commits up to $2.3 billion for national military communications for IRIS²",
+      "url": "https://spacenews.com/spain-commits-up-to-2-3-billion-for-national-military-communications-for-iris%c2%b2/",
+      "source": "SpaceNews",
+      "published_at": "2026-07-31T15:57:52+00:00"
+    },
+    {
+      "id": "hl-e9d8e14b44e87c98",
+      "date": "2026-07-31",
+      "title": "Thales signs tender offer deal to buy drone maker Exail",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOa2Y2YmJYUTJfd2lDbEdxc2E0SHlCbmJFSFJSclB3STB6bWIyT0NNZUV0cGZnUEE3d3lxQ3NVdENnUFItLXlWb2txZmNLS0MxN2J5TUNMTnVZSjlaV0UxX0lSMWxfUDNqWUs5Mjc5eVV3RU1GSkFXWE5KUkVvcHE2WGVzX3M3LVNMMkE0M2xPbmFuM1ZHTlFWR0RVaWtFM3hzWmxSR0NDNVpVTm1f?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-07-31T15:38:06+00:00"
+    },
+    {
+      "id": "hl-727c7f70f834e50c",
+      "date": "2026-07-31",
+      "title": "Eric Trump-backed defense technology company Space-Eyes to go public in $638 million SPAC deal, sources say",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbkc0bldHSFZlemNBVTg0Y2wwbzR6UHFEU2czWHZOSEV5X2lLOHNEc0pWUkgyd1NNellCY21yVnp3U01Nc21aTmhwSWVURGFnV2hyWTN4MF9meWQ0bGg1cG8zQ2p6aXRLczUyTzlOdlRiU0tLY3dsWmgyM0pkajE4enBULUNSVlFDUFlmeVhpSzBfYTBHOEJ4Q21MU19tWHgwMEphVk5ZM0FQQko2WlBvcFBWNjFuX1ZGc0VR?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-07-31T14:55:51+00:00"
+    },
+    {
+      "id": "hl-3149691604bd272e",
+      "date": "2026-07-31",
+      "title": "Proto Labs Lifts Guidance on New Data Center, Defense Clients",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTnRhNXRmNXNqOU1hYTlRUzhzazNKRUlEWHdLdzh4MWNRNk1Ra3dQbjFmNmdkUUNnd29HSU0tVnAwWGFKNWNScVpPM3hGZ3N3akNYcHRnOEswUnlwRnFOYnBhdUYzRGhVQmM0UXQ3VE9Kekw5U2lUZXpPSTZybjFjSU9oYkE3OVpvR2J3R0pfWlRlUUhpNjloMmM2bEMxU252eXRPaUNjWERpZ0VkdGJlSA?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-07-31T14:51:55+00:00"
+    },
+    {
+      "id": "hl-7e0e11be332cca37",
+      "date": "2026-07-31",
+      "title": "Leonardo expects more deals as Europe ramps up defense spending",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5nRW5qQ3Rwd2liaTBSODBGNEhMNWVqV2RqTDFZbmxrc0dsZXg1ZXhjLXdINjUxUmVRUi1jNzNPdGFfdVVBT1RjV1hVLXpzcGYxMkJESlUyQXJBdWMtbGMzVUpTVElRSkVZMjlyemJNcHZkT3Nn0gF6QVVfeXFMTTFEdk52cHZKSURKcWxYMUZrNGhmYzVuQzJjUVpiTV9OZWhwN3ZLdWNQbTdFdVFxb2hhbVFPeTU1Tm5sT0syTXVWc0R0enJPdGNfN0ZubUV4MHJoVW9zenM0alR3dGZqOE1MS2dLWUJJQk1lU2tRRF9RS0E?oc=5",
+      "source": "CNBC",
+      "published_at": "2026-07-31T13:37:46+00:00"
+    },
+    {
+      "id": "hl-d32974716ba5ba12",
+      "date": "2026-07-31",
+      "title": "Inside the effort to show Congress what war in space looks like",
+      "url": "https://spacenews.com/inside-the-effort-to-show-congress-what-war-in-space-looks-like/",
+      "source": "SpaceNews",
+      "published_at": "2026-07-31T13:30:00+00:00"
+    },
+    {
+      "id": "hl-dfad521320effff1",
+      "date": "2026-07-31",
+      "title": "Space Force picks 15 companies for $981 million training range contract",
+      "url": "https://spacenews.com/space-force-picks-15-companies-for-981-million-training-range-contract/",
+      "source": "SpaceNews",
+      "published_at": "2026-07-31T13:18:20+00:00"
+    },
+    {
+      "id": "hl-372d50c9c2cecbee",
+      "date": "2026-07-31",
+      "title": "NASA still assessing Starliner-1 flight opportunities",
+      "url": "https://spacenews.com/nasa-still-assessing-starliner-1-flight-opportunities/",
+      "source": "SpaceNews",
+      "published_at": "2026-07-31T12:13:25+00:00"
+    },
     {
       "id": "hl-56827c1a5ce0a6ce",
       "date": "2026-07-31",
@@ -40,12 +328,12 @@
       "published_at": "2026-07-31T11:39:10+00:00"
     },
     {
-      "id": "hl-e9d8e14b44e87c98",
+      "id": "hl-31dcdd0fe08a1132",
       "date": "2026-07-31",
-      "title": "Thales signs tender offer deal to buy drone maker Exail",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOa2Y2YmJYUTJfd2lDbEdxc2E0SHlCbmJFSFJSclB3STB6bWIyT0NNZUV0cGZnUEE3d3lxQ3NVdENnUFItLXlWb2txZmNLS0MxN2J5TUNMTnVZSjlaV0UxX0lSMWxfUDNqWUs5Mjc5eVV3RU1GSkFXWE5KUkVvcHE2WGVzX3M3LVNMMkE0M2xPbmFuM1ZHTlFWR0RVaWtFM3hzWmxSR0NDNVpVTm1f?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-07-31T07:33:40+00:00"
+      "title": "令和8年熊本地震／防衛省、自衛隊員の投入5100人体制",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mejF3Z3ZuaTdFbmdBaDN0UXpEb2lSVFM2cTRMbjM5aTVuVW15QXFPS0FBczlZRlp1bTROdngtYnlmbHpWcjU2b2dqSDIxMVFWTU9OZ2dWY1g0QQ?oc=5",
+      "source": "日刊工業",
+      "published_at": "2026-07-31T10:56:32+00:00"
     },
     {
       "id": "hl-61393e9ed06e3383",
@@ -54,6 +342,46 @@
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeE05NnU2NzZ0RlBmUzlTZnJiYTVPUUY5SUZYSHV4V1VZd0RUS1lEQzJPcmtsOGV6dlRVdHZNTnF4X0lyemlKYVAyN25PYWdoSzAtYTVmMVhKcGJIMmh1R3k0cmM4NkQxX1ltZW15YjRRUG5CZW1wSmV4T0pjdWNGaEhETmdpbzllaEpDTmcwczNfVWk3ZzFjZi1PV3JZNVphemszMkxIZjlaLUxYb2RzbnpRS0JoQWU3RmpPVmN0bVNaTU1RNUQ0WHJUbnd4RWNmWjlza2J3?oc=5",
       "source": "Reuters",
       "published_at": "2026-07-31T07:03:43+00:00"
+    },
+    {
+      "id": "hl-a6c608a1c08101e2",
+      "date": "2026-07-31",
+      "title": "イノベーション・インデックス・宇宙＆防衛[79312267]（運用会社 : 三井住友ＤＳ）",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5MQmMtclVYS1huZmpCNWg2S1ZEYVNVREhpYWp6ZXoyOHFOMF8yOWRUdTBfVmE4XzhCcnRKU25sdVBxbURhZjFWTlZoOEZwdHhUOHo4QWFnQ1owa3BxS3g3XzNaSy1wSTlKZmZF?oc=5",
+      "source": "日経",
+      "published_at": "2026-07-31T07:00:00+00:00"
+    },
+    {
+      "id": "hl-761fe8046efdad77",
+      "date": "2026-07-31",
+      "title": "明治安田グローバル次世代防衛株式ファンド（毎月決算・予想分配金提示型）[12314267]（運用会社 : 明治安田ＡＭ）",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9QVlJkNVZ1UUhzeGJ0LXBVVXJBNGlqTDJ5VGFmWEhyUXBwUWg2Vjd0LWFWcFNJLWhQZEpLY0lkT0ppQi1rTXlGRy1PU1JBaEIxU0J3OVVTVEdMVHk3X1d1M0Nsaw?oc=5",
+      "source": "日経",
+      "published_at": "2026-07-31T07:00:00+00:00"
+    },
+    {
+      "id": "hl-71f26ee2e793c8c1",
+      "date": "2026-07-31",
+      "title": "イノベーション・インデックス・宇宙＆防衛[79312267]（運用会社 : 三井住友ＤＳ）",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5MUFJmU2M1TlVyQ1ItbWVOaXdtc1BzR2lnZ3hQOFlIQ19aSDdUMkFwNGNZQ0pCc05CUDFrTlkwTEFpM0w4c3NBbEZzbFFTcEFlYzFWRDg4V2dma3lJanRiVWdXVQ?oc=5",
+      "source": "日経",
+      "published_at": "2026-07-31T07:00:00+00:00"
+    },
+    {
+      "id": "hl-2ca7c678a2e356c9",
+      "date": "2026-07-31",
+      "title": "Iran targets strategic U.S. assets in Kuwait, Bahrain after Egypt drone attack",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA1X0hXbllmbC1VM0U3V05GQ2VfTW5qVHlVYnlGbFFnOVZHWnpaX2toX2k4WmkwRnpFUzRzSHBpMDloWVUtWEFnX05pY1cwMm9IREtHa1FqSGRlTy1vOHM3ZENnanV3dE80R01aNjRB0gFzQVVfeXFMTzVaTkpwZndUQ3pUc0EzVy1uemk4WklPbGdSS3FrZ2N3Y3ZGUlpLTmNXVVl0WjlyLWNTbXRyV25xZTM1LVZzT0ZQM3RRMUNxWU0ydEI2SGdyVmQ5N0M2eG5VaU40eDVqQTVXNldyWTV1Zjljdw?oc=5",
+      "source": "CNBC",
+      "published_at": "2026-07-31T06:44:06+00:00"
+    },
+    {
+      "id": "hl-9b4a33ab09dc30fe",
+      "date": "2026-07-31",
+      "title": "Drones Are Reshaping the Soundscape of War",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1fLXJTYzJkTjdmdnljTUQ1OGl5NkFELTlxLVJwdmx3WktiOVZTcmRGd3lmNHMxYmM0cHd0SV9tN2dNYjc4SEhKZHdxMTFMS1dmVXJhOGtjSzBnbGJMRm5LaER3dUtJN3ZvR2NKQWNpd01oRUtwNWNNU05WbmxRQQ?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-07-31T06:30:00+00:00"
     },
     {
       "id": "hl-a3de4de809facb42",
@@ -80,52 +408,28 @@
       "published_at": "2026-07-31T05:30:00+00:00"
     },
     {
-      "id": "hl-4aeae7b6cafcec71",
+      "id": "hl-c4114d9c313862dd",
       "date": "2026-07-31",
-      "title": "画像 | AI攻撃が誰の手にも渡る日は近い､ソフトバンクが実演した2時間で崩れる企業防衛の現実 5ページ目 | ビジネス - toyokeizai.net",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE12ZlJ3RDI4TmNxUHhQNks3TnZlWGxGaUwzYWZfX1dRcEN5bVp4VjhudEhlWlRWWEpNVkNqSXRwaW9lMGQwbFhmUHNBcndJX2E4QXJER0JvR0xJZlY1ZVE?oc=5",
-      "source": "東洋経済",
-      "published_at": "2026-07-31T04:30:00+00:00"
-    },
-    {
-      "id": "hl-fa629579718d7258",
-      "date": "2026-07-31",
-      "title": "イノベーション・インデックス・宇宙＆防衛[79312267]（運用会社 : 三井住友ＤＳ）",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85QnoyOXpfZjVBSmNtRXhJWnFvM2JSOGllM3p2N0l4R1dDTDkzS1BiX0FjUDk0bzJQTkpzSks4TzhfQkVPRExpcThfOUdPTGV3aEpoQ1I0aVlYc0Q3b0NnQXNMSmpWWnM?oc=5",
-      "source": "日経",
-      "published_at": "2026-07-31T04:19:51+00:00"
-    },
-    {
-      "id": "hl-740d2b3d693a2bd0",
-      "date": "2026-07-31",
-      "title": "｢日経平均10万円｣時代の生存戦略！ 昭和型モデルの崩壊とインフレ×AI期に必須な\"複数収入＆資産防衛\" - toyokeizai.net",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBrV1hRcW83eENMLU05alc0b1pWZXBic1FSUVByclVRVE8wVjAzU0JLY1ZZMElsZTU4OHVUdk9FQWJhZWpSTHFEdkV1R3FtLXZlREE?oc=5",
-      "source": "東洋経済",
-      "published_at": "2026-07-31T02:30:00+00:00"
-    },
-    {
-      "id": "hl-6117228684ace84a",
-      "date": "2026-07-31",
-      "title": "｢日経平均10万円｣時代の生存戦略！ 昭和型モデルの崩壊とインフレ×AI期に必須な\"複数収入＆資産防衛\" - toyokeizai.net",
+      "title": "｢日経平均10万円｣時代の生存戦略！ 昭和型モデルの崩壊とインフレ×AI期に必須な\"複数収入＆資産防衛\"",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TbDRRLWpqdWZQdnRhWXFNd0E0WkJveFM4Ni1JUGttalZ6Vk9QcFNnM0Vmckg1T3k5WVM2cXJfU01jZmYyVm1RcGZmZ1hTUEtTd2ExR1RjRS0tb1E?oc=5",
       "source": "東洋経済",
       "published_at": "2026-07-31T02:30:00+00:00"
     },
     {
-      "id": "hl-eed4d79dfb599bdc",
+      "id": "hl-121180b52de19ea0",
       "date": "2026-07-31",
-      "title": "防衛審議官に安藤敦史氏 防衛装備庁長官は今給黎学氏",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HMk16NDNzNlVQVEo0OXdFOVlIdDd1ZFBpMk5Ld3hDdTNycHRyM04tdjhxUHVFdkktdDR2U1Z1ZkVJdFlZdlFIMmI4YWctbDhiUEJ6S3R5cjkzTUMxUVZXa3AtLTRqaEl1TG9IXw?oc=5",
-      "source": "日経",
-      "published_at": "2026-07-31T02:04:02+00:00"
+      "title": "｢日経平均10万円｣時代の生存戦略！ 昭和型モデルの崩壊とインフレ×AI期に必須な\"複数収入＆資産防衛\"",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBrV1hRcW83eENMLU05alc0b1pWZXBic1FSUVByclVRVE8wVjAzU0JLY1ZZMElsZTU4OHVUdk9FQWJhZWpSTHFEdkV1R3FtLXZlREE?oc=5",
+      "source": "東洋経済",
+      "published_at": "2026-07-31T02:30:00+00:00"
     },
     {
-      "id": "hl-847b5d34ac73d830",
+      "id": "hl-f67c019bbb6d8036",
       "date": "2026-07-31",
-      "title": "Ukraine's envoy to US says 'We need the missiles'",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQc0FoYW84ZXVPNFhUSGFHMWR1SlU5QmdBa0dydFY2MFBuaXNDSklqVGNLNk1uN3dINTNNM0Vmb3pleWdLSEM4SDBRb201TXd1cTEyM0t1SF9sMnNTQXlBX0o0dU1RWHdoSWRxaTgyNEVMSjNEVnBfWXIzaEJKUklHQVFCZ1RFVWUwN1pFSGk2OHlpcjdQWm9TMXk3aHRkb3dEc3FlQQ?oc=5",
+      "title": "US cyber defense agency warns hackers are increasingly targeting water systems",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdWNJNFA5THZLRlg3TTVYX2tkQmJzOUdQamtWQXZDOU81R1RTdjBtX3E2S3k3RlVfR2p6WE9uZGpfbzNCUHpGN0hhZ3ROY3pmN1FiS1JZa0FjQ2FDMDZuOUFRSjJad0wyX3lZWUFfQ1FjdGs4RGZvRVpnYzBwT1o0UlkyaGVRTkpvdVo0SmpCUkdhWFN3TEVaVHpfTnB1YWUwbzNuMUpoa2VsdHdtM2hNZ2JaRUE?oc=5",
       "source": "Reuters",
-      "published_at": "2026-07-31T00:04:00+00:00"
+      "published_at": "2026-07-31T00:40:14+00:00"
     },
     {
       "id": "hl-6c921a79904d865b",
@@ -134,14 +438,6 @@
       "url": "https://spacenews.com/rules-of-the-road-needed-for-orbital-data-center-constellations/",
       "source": "SpaceNews",
       "published_at": "2026-07-31T00:00:37+00:00"
-    },
-    {
-      "id": "hl-c0e77ef247947247",
-      "date": "2026-07-30",
-      "title": "令和8年熊本地震／防衛省、自衛隊員の投入5100人体制 - nikkan.co.jp",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1IZzdUYWFjY1VtQlk5aktlODhpX2ZNTm1LNUZPcDBRQXliOHJ5cDRhR2hjdzJRVXRhcVZPRC02Z3paT3VaLWNDVnpXOTh4Zm02VnZIaVN6U0dNSWhaSUt5aVRDRGowR1J3dnFFWmZZWFY1ZXBs?oc=5",
-      "source": "日刊工業",
-      "published_at": "2026-07-30T22:45:51+00:00"
     },
     {
       "id": "hl-2df7ab4c8b9ea67f",
@@ -160,14 +456,6 @@
       "published_at": "2026-07-30T22:18:00+00:00"
     },
     {
-      "id": "hl-f67c019bbb6d8036",
-      "date": "2026-07-30",
-      "title": "US cyber defense agency warns hackers are increasingly targeting water systems",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdWNJNFA5THZLRlg3TTVYX2tkQmJzOUdQamtWQXZDOU81R1RTdjBtX3E2S3k3RlVfR2p6WE9uZGpfbzNCUHpGN0hhZ3ROY3pmN1FiS1JZa0FjQ2FDMDZuOUFRSjJad0wyX3lZWUFfQ1FjdGs4RGZvRVpnYzBwT1o0UlkyaGVRTkpvdVo0SmpCUkdhWFN3TEVaVHpfTnB1YWUwbzNuMUpoa2VsdHdtM2hNZ2JaRUE?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-07-30T21:43:00+00:00"
-    },
-    {
       "id": "hl-58e0197a19f95ee5",
       "date": "2026-07-30",
       "title": "Bank of America to buy UK's MDSec Consulting to bolster cyber defenses",
@@ -176,12 +464,20 @@
       "published_at": "2026-07-30T20:43:28+00:00"
     },
     {
-      "id": "hl-4a96fc6b82239229",
+      "id": "hl-ab19a834a7b9fb5c",
       "date": "2026-07-30",
-      "title": "会頭に聞く（11）呉商工会議所・若本祐昭氏 防衛拠点整備を好機に - nikkan.co.jp",
+      "title": "会頭に聞く（11）呉商工会議所・若本祐昭氏 防衛拠点整備を好機に",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NbkxmMHpWczVxTzZSajBOdDZWQW00UjJwSnV4dnI4YUFZVmpTMUY4YkNSWUdiWXNtQUwwVUVmdTE0UGdyVFFNWFhpQ1h2N0lYc0w2SWo4a05QeEE?oc=5",
       "source": "日刊工業",
-      "published_at": "2026-07-30T20:01:25+00:00"
+      "published_at": "2026-07-30T20:00:00+00:00"
+    },
+    {
+      "id": "hl-411fecdb81bd2c2c",
+      "date": "2026-07-30",
+      "title": "Oil settles down on proposed Saudi-led maritime defence coalition",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTWJteE84X0d0aDA5bVgwcWZrTlJTTXNZVFNlRmduNGc3aWgyMDRjN3BiN1ZaY0NaSGtXa1VlQjdFSE1pRkxOTS1sQXc2WjkwbkY3Qng1N3g3azFoVUltcjVPVGo5aGM0YkZYVG5DLXM0RS1PSFhkeERKaXZVSFk1cGZXX3ZGS3otSU1FRUtPaTFyMUd0TENNeUtaTXNZeEkxTGJrcWdTcDY4UnRUMzg3ZzZ3OGpYdw?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-07-30T19:41:42+00:00"
     },
     {
       "id": "hl-6030533b1abb8a46",
@@ -264,6 +560,22 @@
       "published_at": "2026-07-30T16:49:00+00:00"
     },
     {
+      "id": "hl-3417a514355f83b8",
+      "date": "2026-07-30",
+      "title": "Infernos in France Threaten Cluster of Defense and Aerospace Factories",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYjZqNWlmTHJhNkZhZldVeFRNenJ0RENNcTdiZEl5ckJrY3paTmdTejNqcW92Y1Q5MElQRXVzY0RQbTk4TTNlTXF4ZG1mQnRJMjhLYkRFTTBfOTNNbGdickhBYm40WUpUdnk1ZWwzaWxOTWZOWTMxSW1IUFJxX0FqY18zd0I4eG9rMkxQa0lBSm4xOVRiR3lldV9zV0dXdWFocDdvR1BKV0x0Qk9BazdoNlZn?oc=5",
+      "source": "WSJ",
+      "published_at": "2026-07-30T15:49:00+00:00"
+    },
+    {
+      "id": "hl-f51c9643faaa1f73",
+      "date": "2026-07-30",
+      "title": "Russian Missile Behind Crash in Poland, NATO’s Rutte Says",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPM0RnVHRwcHk1NkdKZGxUYTJxVFNEM3phS3FmZ3ZUeHE3Q2M3MFhMRGdPN0lVbERwajJONWFkbDRtVlY2M3oxaGtLZWVjcmJKb25DVEgxYTVoM3ZjcFljT29xbmRLRWNUUXplTG9zeGctVGljRzJnSXFDVHc1TnRFemNwVDVtWnFpbGlDeG5VN0oxVDVhREsySzV5Rk5JNTRsdkE?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-07-30T14:22:30+00:00"
+    },
+    {
       "id": "hl-7bad06b7c56e99b5",
       "date": "2026-07-30",
       "title": "ING’s Defense Loan Book Could Double in Next Couple of Years, CEO Says",
@@ -280,324 +592,12 @@
       "published_at": "2026-07-30T11:59:29+00:00"
     },
     {
-      "id": "hl-093946d2a0976146",
-      "date": "2026-07-30",
-      "title": "Egypt says drone hit two ships at Mediterranean port as attacks on energy infrastructure widen",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZ0wtekFEem9MQU53U0Vrcmdsb180aExoTFpJelRrdWZ2VFVZbGoyMkhYYXEyLW9aWWdkSk5LSXB0NmdmNkVPeVZFSl92YjZLcWI1VENJX1Nva2E2NkpMN1FDVUF2a2s0bXl5SVJ2SjU0MmxDQU9ZeXduWmUyVjdfbmxsUnJSM2vSAYwBQVVfeXFMT0FaaThLVGlKUXJRQzJUX3dCdHpFSk5DeWZaOF9zdnpmeTVsQ09NeWI0emUwdW01MElEUUUybHRWQjdJVTJOYllJMUk1OXZEQXJsaXZ6dGlqMDYyd2tGVXZLRUx6MWR2N1JEdmFrQ1pHNlZKc05nVDR6SFJlUW9zOVBqaXpMdkhZQmtnYlk?oc=5",
-      "source": "CNBC",
-      "published_at": "2026-07-30T11:53:56+00:00"
-    },
-    {
-      "id": "hl-08029f5593b246a9",
-      "date": "2026-07-30",
-      "title": "EU disburses €3.47 billion to Ukraine for more drones, air defence and jets",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObk5oZ3FwUHJyaThQNkFRaFlYZFZhT1ZOcHl6Z2dTWUpHZXdadGRTV3g3SjY2Vks1UnhfSGU0MExmaDdGZWxtV29ZWFp3WlNlcEplNXpsSzRoeDYzYi02RTltQm9zQ3JETm1ZY0Z6QTZ3ejhaT09PcFdHekMwVms0a0dYeUNuZEV1aXJzYkpfcUhHcVhRaGI4ZWlxZElPUDdSVklNSGNqWWNKRlBZSklCamcxcGQ0M2xpOUtuR0szcV80Zw?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-07-30T10:47:43+00:00"
-    },
-    {
-      "id": "hl-2d05737c5b61ee4a",
-      "date": "2026-07-30",
-      "title": "Ukraine’s Former Defense Minister Links His Dismissal to Defense Procurement Reforms",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZW1mMFBqTUpOUDRUdXJKaEhpVDJMWXNKRmh2MFRsZUFOZkVDOUxSdXBKdGRuLW1FdlNZVzdiR1h1Z2FCbmc5R2ItelZ5a2Q1bUVxRjBWNjNQNEVmT1d0OWU0elctclhJdWdvUmRMNDZWT09zdzNPX3hPV0hVYU5oVlA2NF92c2RxRTRUTGRKTTE1Q0tWQVNvSG8tNUZBdktPaEFpWW1GaG5kWkp3Y3lpWlJWX1BXV0JUVjF5QmRZMVZmQXVhbWc?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-07-30T09:54:12+00:00"
-    },
-    {
-      "id": "hl-35769c8ad516cd2d",
-      "date": "2026-07-30",
-      "title": "MTU warns diverging fighter requirements could threaten Safran partnership",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRWJrVkxObjhvS25NaWJMVnNxSDRfRVhwNm9ubDJ2UGt1Zjc5RmsyTV9QOXJiREU4M3QxWDRiTVRUTkVBX3VxaUIwOW4zQ0hRSl9fTWtDbnRfZVpWdEFiQVJtcHIyMGpBMGVYc0lwTHl5SFEwS0h2S05QY1h0TF95MGZDNDVuTkFFenltZEdYc0VsaE5Gd1pVV09ZcDJ4b0wxWVotSjRJZUx0Nm1ZOWszOGhuVGdYSUhRNGpUNWxfcTFZOGJTSVl4LU5LTUpqVkRweWRj?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-07-30T09:09:43+00:00"
-    },
-    {
-      "id": "hl-2f219289fe12249f",
-      "date": "2026-07-30",
-      "title": "Ex-French Fighter Pilot Charged in Foreign Spying Case",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQS2doaFdqdUtLWVRYS24zbHJNem0xRFIzZTZlZnVYcEhsX0daT1ZXNm4tX1d6bzlLNU1wVmw2YUp1Vlh2bjhiUVJRbk5mTTVxY1Ayc0RsQWdSZ3JXWV9mOF9aZThXTVd6clJaaWlNNklzN3FRSm9INi10SWUxUjRKNkFGVFdOa0tqeFBQNXZTTUJtQ1FLNXV4VlgtMk9HcjZUU29IUkNlc1ByYUdpblpSbkdR?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-07-30T08:55:03+00:00"
-    },
-    {
-      "id": "hl-fef5855d32723972",
-      "date": "2026-07-30",
-      "title": "Japan Holds First Test Launch of Tomahawk Missile From Warship",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxON1lzYkI0eE9xSkhCdnpaSVlXQXpGcWIwUjFnaVE3RjVVUXpvTXZjdGRuSzRocTZLbHloY1hKbFJtMk9JRUhReEZuaUFkWGtOdURsalFuT094cV9jYjZOOU9lYXN3Q0ZicmNxRVRIcDlzOHZGRGVlemV4bG5WSmRvcXdPeURXTTdUeEw2RVlOckNOTk5taWh2U0VybEktZi1vSVk2RlUtN0pxTER4SHZmVl9jdw?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-07-30T08:51:34+00:00"
-    },
-    {
-      "id": "hl-f51c9643faaa1f73",
-      "date": "2026-07-30",
-      "title": "Russian Missile Behind Crash in Poland, NATO’s Rutte Says",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPM0RnVHRwcHk1NkdKZGxUYTJxVFNEM3phS3FmZ3ZUeHE3Q2M3MFhMRGdPN0lVbERwajJONWFkbDRtVlY2M3oxaGtLZWVjcmJKb25DVEgxYTVoM3ZjcFljT29xbmRLRWNUUXplTG9zeGctVGljRzJnSXFDVHc1TnRFemNwVDVtWnFpbGlDeG5VN0oxVDVhREsySzV5Rk5JNTRsdkE?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-07-30T08:43:30+00:00"
-    },
-    {
-      "id": "hl-6f1d23d16b2e488c",
-      "date": "2026-07-30",
-      "title": "Russia says its big overnight strikes on Ukraine hit military factories and three ships",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQLUFJSkhkLVRpOXhROUdMZEhPQmxnSmFpUnN6WnlOZ3lib1cxMWxMNU5zNWt5ZWs1OG91dm1QLVdOQW9vNk54OTZtNE5rR0VWWi1fT2JleDVCWkNzMC0tdWZlMFhHa1lIRkRRSTFXXzVKYjc5YjllbDBwNW5JQm1Wbnh1ZnhjSFhOSzAtYVVvSTg1YkpVam9CRzJRaEduQUhpbVNiV1dVLXEzZFFNVWRGdS1Ob3d2N2xCXzNPWmJjSVBnMnllMXdjdEYtaklUT1JQUlFmQWRtc1ZaTUU?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-07-30T08:23:44+00:00"
-    },
-    {
-      "id": "hl-e6fb68a35eb8d1ad",
-      "date": "2026-07-30",
-      "title": "BAE Systems Lifts Guidance As Defense Spending Booms",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZWx3RmZxT1lpNTVwRFotVHFXTE1ReExUYXFNRU8wRzFKY2JYS0haa1VkUGFrSUswLXNwbXlLNWx4TWtvWDg1bzRTMUI3djlKTVpKRUVOZS1SOHdfSkh2ajRFdjJlQVNpRElSZFlmYlFrMTV5Vm1xYU1NOGNIQzdKSzVFOFBQSklBRU5admlmWnRIUDA0NzJMR1hDNW9HVzl6?oc=5",
-      "source": "WSJ",
-      "published_at": "2026-07-30T06:59:00+00:00"
-    },
-    {
       "id": "hl-1998478f9855b5c6",
       "date": "2026-07-30",
       "title": "Britain's BAE Systems lifts 2026 outlook as defence orders soar",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZDlGSFdQdVJaNkpjNjc3Tmp0V2dnaXRSWmxvQVZiN2xlaTI2VUZobjhTTENBRjJxNUppSE9iek5qNFN3MUtpZEVHZndBZlRSSWFlLWwtbVF4Z19LUm83UHVfSXg1Z3EyMFVNMkFCZDU3T040X1ljR29SeUcwbm83Y3h3REo2Q2JOQnpQNFRmVTJqS2xHYWcxTHNTOHNaQVRtM0lJZnZTa1RZcHpvVXFnMG4yZEU5WUE?oc=5",
       "source": "Reuters",
-      "published_at": "2026-07-30T06:14:00+00:00"
-    },
-    {
-      "id": "hl-2c753e68164c831b",
-      "date": "2026-07-30",
-      "title": "Sophia Space and Caltech claim patent for space data centers",
-      "url": "https://spacenews.com/sophia-space-and-caltech-claim-patent-for-space-data-centers/",
-      "source": "SpaceNews",
-      "published_at": "2026-07-30T04:00:00+00:00"
-    },
-    {
-      "id": "hl-bc058444a66bcfc2",
-      "date": "2026-07-30",
-      "title": "NECの4～6月期決算は増収増益、国内ITと航空・防衛が寄与 - 日経クロステック",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE16Q01xYnFjaEhBdEY2ZExBWWk1UjNuS0gyTzdHZGNQYlFJVkZmX0NJNFRzNTNOYXRmR0lPWmNQbWVKalJINE85SWhZb3p3QWJPRTlDMmxVNnBCLXg3?oc=5",
-      "source": "日経",
-      "published_at": "2026-07-30T01:00:00+00:00"
-    },
-    {
-      "id": "hl-411fecdb81bd2c2c",
-      "date": "2026-07-30",
-      "title": "Oil settles down on proposed Saudi-led maritime defence coalition",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTWJteE84X0d0aDA5bVgwcWZrTlJTTXNZVFNlRmduNGc3aWgyMDRjN3BiN1ZaY0NaSGtXa1VlQjdFSE1pRkxOTS1sQXc2WjkwbkY3Qng1N3g3azFoVUltcjVPVGo5aGM0YkZYVG5DLXM0RS1PSFhkeERKaXZVSFk1cGZXX3ZGS3otSU1FRUtPaTFyMUd0TENNeUtaTXNZeEkxTGJrcWdTcDY4UnRUMzg3ZzZ3OGpYdw?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-07-30T00:35:00+00:00"
-    },
-    {
-      "id": "hl-9661fef77150446b",
-      "date": "2026-07-30",
-      "title": "US military says latest strikes on Iran last two hours, hitting dozens of targets",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYl9qUHF2eEJlVmxqM2ROX0NFVDE3SHVIeExWXzltdnl5dG1HSmprdzFha3lhWUt4dGRLeWFBSlE0ZlYySkhHdmpLcE51S3c3TV90azg5LTVhWWNNd3IydlAwT1djUmV4Ui1BR3pOUl9PcHBPWllxM1NDSmlnZUQ3RnZSeVd2X3BqSFVBR0U3cE1xaGwxVXpYWmtXanlZVHBNUGc?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-07-30T00:34:00+00:00"
-    },
-    {
-      "id": "hl-5ebdd5b60276866a",
-      "date": "2026-07-29",
-      "title": "Ukraine's ex-defence minister says changes to military procurements behind his dismissal",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUGJjM3RheEZJejFZSjhLRDFFSk5fQ1FIZS1rRVBTWmZHN1dqVktFdFRzVXVpSDRSQ3phVGJLRXVmZlhYbFg0cEpVQ0N4MC05bjcyRl9wTzF1UWpDZVRvUUZVTnQxYUhGeE9HRk9wWkFwdWNMTThYRE5mQTF0NThHX1E0SlFHLVdEUFJCZXFhQjF6ZFZuVzNlZFVEbTBfekJ2UkhLZVJXNjl4N1NQcFlOZ3pfR256MUZyXzhad3BJNEJhY3QwdGh5VG4wY09RNkgzZHcw?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-07-29T23:31:00+00:00"
-    },
-    {
-      "id": "hl-67709444614a26cd",
-      "date": "2026-07-29",
-      "title": "US strikes $58.6 billion Patriot missile deal amid rising stockpile concerns",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNb2Yxa3h6SzNCUGZjOFBOTXBHY2tLc0x4WVhQTks1UF9BWkt3ZlcwSHRYVG9IV0NneDJrdVhtcm54ODVkc3cxcFdVMUZCek5EdHpER0J3d3RMWUNyeXc5LUp0Vl9HRlYzSGlhemNXOHZkc3dLNzRaQlM4QVBrUHktSDhHd1RoOE5pVWxwLXFNVzZEbjRJV2xQRnJKS0lpcTBRYkZqYm1MNGszZlU0eDF2NVI0RVRIOHZ5RGs5a0t0QWRsa0stelBVNzBvblpmSXhWbmgzdEl3cjZVZw?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-07-29T23:23:08+00:00"
-    },
-    {
-      "id": "hl-21ec88666a901ed6",
-      "date": "2026-07-29",
-      "title": "Proposed rule would exempt commercial launch licensing from environmental regulations",
-      "url": "https://spacenews.com/proposed-rule-would-exempt-commercial-launch-licensing-from-environmental-regulations/",
-      "source": "SpaceNews",
-      "published_at": "2026-07-29T23:12:56+00:00"
-    },
-    {
-      "id": "hl-05d943795ae0bf2e",
-      "date": "2026-07-29",
-      "title": "L3Harris delays missile business IPO to 2027 despite surging defense demand",
-      "url": "https://spacenews.com/l3harris-delays-missile-business-ipo-to-2027-despite-surging-defense-demand/",
-      "source": "SpaceNews",
-      "published_at": "2026-07-29T22:57:06+00:00"
-    },
-    {
-      "id": "hl-c7a378f30766de92",
-      "date": "2026-07-29",
-      "title": "Lockheed Wins $59 Billion Deal to Build Patriot Missiles",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbzNzb2ZSQ2RTdTVOSzZjN1dJRWFoWTd2WDJ5OHVIZlRTR3FlY1ktTjN1SXpLT3g2cGRqWGFEQ3Q2WV9HSnRQS3IwTk9kdi1kdWlKVE1IRjZDRFgzUkp1ekVnemRGTEF1eEd1V2FZblYwWFJoSDlTeWJlQWRiQ0FlYzBOeTdtVFk0bEhjS1VPX2RXMDNzZ2JTV3RLZ193N0RHQUdzTjZoa0QtUVlJQnAxZg?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-07-29T21:54:08+00:00"
-    },
-    {
-      "id": "hl-b77408c77a92cb0a",
-      "date": "2026-07-29",
-      "title": "画像 | 自動車の次は建機､そして防衛産業も…セレンディップが｢1000億円ものづくり企業｣に向けて構築した斬新な仕掛け - toyokeizai.net",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9tSWRkOGcwS3FfYldxMXdHRF9mN1hVRDRPcUtGcHdnbnJsbFdGRkF3aFpCbmhwaVJ4MEY2ZXdUeXNKSzZhbVpYYXBkSHd0amItb1ZETkVTRUlsQ1NDenc?oc=5",
-      "source": "東洋経済",
-      "published_at": "2026-07-29T21:00:00+00:00"
-    },
-    {
-      "id": "hl-5cb6408d65067289",
-      "date": "2026-07-29",
-      "title": "自動車の次は建機､そして防衛産業も…セレンディップが｢1000億円ものづくり企業｣に向けて構築した斬新な仕掛け - toyokeizai.net",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1GXzNCLVNuTzlpZmZMRGJJSVJLbWVZOVBJaGhhcEg1bW9aOFJaNlRRcXdScmlkdTZtdEYyeWQ1UnBqNlU0QlNpYzlOUWlQMy1nY3lVT0NQY1NsY0ZIODM4?oc=5",
-      "source": "東洋経済",
-      "published_at": "2026-07-29T21:00:00+00:00"
-    },
-    {
-      "id": "hl-1e53e68fd753d4e9",
-      "date": "2026-07-29",
-      "title": "SpaceX wins $1.6 billion in launch orders for military satellite networks",
-      "url": "https://spacenews.com/spacex-wins-1-6-billion-in-launch-orders-for-military-satellite-networks/",
-      "source": "SpaceNews",
-      "published_at": "2026-07-29T20:43:51+00:00"
-    },
-    {
-      "id": "hl-688eadc4a0283a53",
-      "date": "2026-07-29",
-      "title": "Israel Aims to Make Pilotless Warplane With F-35 Capabilities",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUi1FU1UzSjlFR3NXMk1Yc1BzVDNkYkFwMmNQeFFCZDZMbURkdFNTZjVSZ3RxSVRGOWN2czMyTUtwdXMybHo5RVhESnVWajlMYy14ZGNLN2FEWTVxeDk1RlhBTjFmWXgtYmg4NGdFd2ZtVWhTQ09jMWtRYjJUMjdwVmxxYTJka1FFZjd0VDZXWlYwdXJIbThXQVVPRUsxZWRFYlJQekZ2NnZUdjg2UXhQNGNR?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-07-29T19:58:44+00:00"
-    },
-    {
-      "id": "hl-c7105b167329f480",
-      "date": "2026-07-29",
-      "title": "Space Force awards All Points $250 million to expand satellite processing at Vandenberg",
-      "url": "https://spacenews.com/space-force-awards-all-points-250-million-to-expand-satellite-processing-at-vandenberg/",
-      "source": "SpaceNews",
-      "published_at": "2026-07-29T19:45:17+00:00"
-    },
-    {
-      "id": "hl-1e5d4ec59466c82b",
-      "date": "2026-07-29",
-      "title": "中ロ、太平洋防衛の隙突く 政府、3文書改定で抑止議論",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9WRFlfbk9wQk5ZSmFyVWJTQndRNUxpVS1xd1p1Y1oyWVctLW96cDdMdWwwVXRTRHdQSjlfYzNvMnFfY25SaXhfNWFQZ19oeHhiVWhuZGpkeXJPN1I5dFFzajVSUUlZRmVhMTA5Zw?oc=5",
-      "source": "日経",
-      "published_at": "2026-07-29T17:00:00+00:00"
-    },
-    {
-      "id": "hl-dec469c88237ffff",
-      "date": "2026-07-29",
-      "title": "DoorDash launches in-house drone delivery program after FAA certification",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORG95TnMxcFQ5X1RiQjFhRlFaWTlPZGMtcF9rOWlfVFF2bkJQTTFwc3dPT1hudUFVR2pOVTZnVUFkTlpnQUhHR3RkNURyQXhFa0tidHk4SmpST0xiT3E0UDBVenZLRFFLUUM1cm9zYzdHY244N1hYQlR2b2xrV0xHVlcyVFJMLVpSa2otZkIxZELSAZYBQVVfeXFMTVYxQ2xTNkJ4aG81cFAxYzNISHRIVDFIV241emo1dFJ5LVk2WUNfNl94eVVCM0dVbm81OHZsSVZ3dUdNYXlSb3lhRXg2MUQyWS02MWZjaG5BTUZldDNmb0JOYWVtLVRNeHo5QTZ4SGVqOVgtWlpKU01Sb0NzWTQ5Ym9zNV9wRzJCdkpWTWo4VzhKNHhvbV9R?oc=5",
-      "source": "CNBC",
-      "published_at": "2026-07-29T16:31:12+00:00"
-    },
-    {
-      "id": "hl-8f01e2319f39a2ec",
-      "date": "2026-07-29",
-      "title": "Two firefighters killed battling a wildfire on Greek island of Crete",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQS3lUMDNuV1lzYTV3SUpjanJJMFdDUE5pVG5hMFkxWVl3RHo4N0g2OE9TXy1XSlV4VmQ3OVoyTHpyOGJOUUxxa0tFWDNfZGpDU0x6WV9JQ3ZoTldEZTRfZV9lclhvblF4cm1RQkpLQUUzcF96SFJCUkVQQnJiR2RpcFpveHRnLUt6dk1WZlJtdFlTRWU3U21HaWZwVUxDM1oxbk5wUDNXcDdZaGdXd281VnlGZ2hMaGll?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-07-29T15:09:15+00:00"
-    },
-    {
-      "id": "hl-567af5389c7d1ab1",
-      "date": "2026-07-29",
-      "title": "LatConnect 60 Accelerates SWIRSAT Constellation Growth Anchored in Western Australia with Expansion into Malaysia and UAE",
-      "url": "https://spacenews.com/latconnect-60-accelerates-swirsat-constellation-growth-anchored-in-western-australia-with-expansion-into-malaysia-and-uae/",
-      "source": "SpaceNews",
-      "published_at": "2026-07-29T14:38:53+00:00"
-    },
-    {
-      "id": "hl-3a3f3586887ede1c",
-      "date": "2026-07-29",
-      "title": "Rheinmetall Shares Climb After Strong Quarter as Defense Spending Stays Healthy",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdDBoN0J0ZHJwSlJvOHNHeDMxbFlfbkI3dmJCQUlpTWhwYUdvUWxfcjVMWm1YU1U4TXVTcHRSWHNRWnA2Vm5ZdExQNnZPRXFaYXVOZ0lmS3JDTndFUF9SNUxENjd4Q1FfU1dySTJRaG5OSE85TnlHZzF0Rnl3RWp6RWpmQmJNWXczT2RkSVFGMWdHMUtfejdVX1FZdU1KNkhicGZURVpjRVdvd2d3T0o5ampkRVY3dktPMVJhRzNZeDJCZDRLOHBOR2tB?oc=5",
-      "source": "WSJ",
-      "published_at": "2026-07-29T13:14:00+00:00"
-    },
-    {
-      "id": "hl-abe5688a1cf203d5",
-      "date": "2026-07-29",
-      "title": "Fortastra and Hadrian join forces to streamline satellite production",
-      "url": "https://spacenews.com/fortastra-and-hadrian-join-forces-to-streamline-satellite-production/",
-      "source": "SpaceNews",
-      "published_at": "2026-07-29T13:00:00+00:00"
-    },
-    {
-      "id": "hl-9be28c07ebd309a9",
-      "date": "2026-07-29",
-      "title": "H3 to launch next ispace lunar lander mission",
-      "url": "https://spacenews.com/h3-to-launch-next-ispace-lunar-lander-mission/",
-      "source": "SpaceNews",
-      "published_at": "2026-07-29T12:10:11+00:00"
-    },
-    {
-      "id": "hl-80a184665274c75b",
-      "date": "2026-07-29",
-      "title": "AI開発のプリファード、作戦支援システムを実証 防衛装備庁から受託",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xQU4xX0o0Wi1YRWhMSmJwS29ILW16Q0dacWJEb0N0bVJoZmpETzh0RDltN3NRMmctTWdvVlZpUFZnelY2bEFheW94TW1xZHVYaVRZdWFNWXZXd1BxVVJ6RzBLM3F4SzBPVmwxcw?oc=5",
-      "source": "日経",
-      "published_at": "2026-07-29T11:20:56+00:00"
-    },
-    {
-      "id": "hl-4986d9f47e7413a9",
-      "date": "2026-07-29",
-      "title": "SHIFT、グループ会社のJADCが陸上自衛隊の防衛装備品等におけるRMF（リスク管理枠組み）対応の技術支援役務を受託",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ObWF4RUszZjVmWVI4aDF5N1JySExZR1Nsc3ROczUwbjllcl9KX0swMVJGWGZQNHJRSzYxRnpjV0xKczhJQ2FjWFVsaHJUNTk3Q2lTMWFSREhEM2cwd2RjTFh2a1Y1SUoxVFVGRA?oc=5",
-      "source": "日経",
-      "published_at": "2026-07-29T08:15:27+00:00"
-    },
-    {
-      "id": "hl-7b4ce6416b6dcec2",
-      "date": "2026-07-29",
-      "title": "中ロ演習、太平洋防衛の「空白」突く 政府は3文書改定で抑止議論",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwMm01bUVzQmFOT3R1WHozalJlVlpycGlOR0tObFJEYTJXX1BqYjFTYW9BWHhJOGxaVkJHNlk2LWRiNU1yTWFzdnpaZjZWY1ppdHRpUTFuSGhUWEhuSC1RWlp4eWEzWFNnb2VaRw?oc=5",
-      "source": "日経",
-      "published_at": "2026-07-29T08:12:38+00:00"
-    },
-    {
-      "id": "hl-1aea96434dce6ce2",
-      "date": "2026-07-29",
-      "title": "尿酸値高い女性、遺伝要因も影響 防衛医大",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9EeThTWGdwNml4S1JpRXozc2VnTlBlS0JJS2NzSk9HdXJzUVdxZlJfcFNqbDZsSVoxVnFaZnR0UjJOZTBzWVdQSmlCM205NFAxRExaM3F6TFdXVV9MVWlWVHpWWGtuT3RUYnRuZQ?oc=5",
-      "source": "日経",
-      "published_at": "2026-07-29T05:30:00+00:00"
-    },
-    {
-      "id": "hl-95a087b9b61a31db",
-      "date": "2026-07-29",
-      "title": "EXCLUSIVE: Iran to get Chinese shoulder-launched missile systems in weeks, sources say",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPR19sNWVrRDdhcXlNdTlxcUdNR0dNWDRBcjZPd21xOEM2bEYtdDJiWTEtYzlweWs5ZmtILVlhQkVUNzdaaENHbnhqTl9SSFNCZjk3eXNMS1o4SXFzT2VBS3VZZ0p6MVlrQldWNjRMUGlTN2tDR2xUOVBUdkdkTndueExrQm9vRGtTLTdBWjNGMDhZRC1qNDZXYVk3TXB0bWZ4ZFhpYUtfZ2JaalVZdjU3emN6LUptbjA?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-07-29T03:04:00+00:00"
-    },
-    {
-      "id": "hl-d23534f94b6ae3d1",
-      "date": "2026-07-29",
-      "title": "Ukraine must act asymmetrically against Russia, new acting defense minister says",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZ2ZsaE1OUGxZWG85Mk8yd3ZWOWltUWJrbXBnbU1NSFI3TUVXc2xiN1lEMVkxQnJoZ2tndlJOWXY1UUUxVFphOWxMbnN3c3hZWEFHMHdTY3NEVWxOWGlaVGprQ29CYmMydkdlQ2pYUmYwdkllSjhJdDNLVWxjY1pHNTd1d0xqQ19iRWI4bVpHbWR3c3ZJZlFMLVN1LTA0TnVCYl92MlUtRm90MURicTNYVjRxQkZsM2F0S3JzSnFR?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-07-29T02:22:32+00:00"
-    },
-    {
-      "id": "hl-632b0e717c91a985",
-      "date": "2026-07-29",
-      "title": "Iran Launches Surprise Missile Attack on U.S. Forces in the Middle East",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYm1mNVNLLVJxQ012SmI5ejdTQlRnZzVXRVpzWFdkMnVLMEVPN2Etby1FUmNDZzViOGo0SFhWU21lYkFaZzVRVlFRZ3pqUGN2S1dUZWVDb2V2T2pSTjhNOTF4dHpOZl9MdUlib0tPQmNEeFpoV2hxRjRBSXlZMW1sTk5FbkxaSk5ybUNKdHdtYjdFenh1OFdCT054R3lxNEE?oc=5",
-      "source": "WSJ",
-      "published_at": "2026-07-29T01:31:00+00:00"
-    },
-    {
-      "id": "hl-4f5c13d6b8a3438c",
-      "date": "2026-07-29",
-      "title": "Boeing still working with NASA to schedule next Starliner flight",
-      "url": "https://spacenews.com/boeing-still-working-with-nasa-to-schedule-next-starliner-flight/",
-      "source": "SpaceNews",
-      "published_at": "2026-07-29T01:24:07+00:00"
-    },
-    {
-      "id": "hl-6bd8cb1a6379fb4c",
-      "date": "2026-07-29",
-      "title": "Chinese startup raises funds for space situational awareness constellation, joining commercial SSA rush",
-      "url": "https://spacenews.com/chinese-startup-raises-funds-for-space-situational-awareness-constellation-joining-commercial-ssa-rush/",
-      "source": "SpaceNews",
-      "published_at": "2026-07-29T01:18:28+00:00"
+      "published_at": "2026-07-30T11:07:06+00:00"
     }
   ]
 }
