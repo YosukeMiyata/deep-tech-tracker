@@ -1,6 +1,6 @@
 {
   "_schema": "id: 安定ID / date: YYYY-MM-DD / title: 見出し / url: 原文リンク / source: 媒体名 / published_at: ISO8601(任意)",
-  "fetched_at": "2026-08-07T10:51:13.895563+00:00",
+  "fetched_at": "2026-08-10T11:05:13.436636+00:00",
   "theme": "nuclear",
   "sources": [
     "日経",
@@ -12,15 +12,31 @@
     "東洋経済"
   ],
   "fetch_notes": [
-    "日経: 13件",
-    "Bloomberg: 12件",
-    "Reuters: 14件",
+    "日経: 9件",
+    "Bloomberg: 5件",
+    "Reuters: 4件",
     "CNBC: 0件",
     "WSJ: 0件",
-    "日刊工業: 1件",
-    "東洋経済: 8件"
+    "日刊工業: 16件",
+    "東洋経済: 9件"
   ],
   "items": [
+    {
+      "id": "hl-b672eb0796fff552",
+      "date": "2026-08-08",
+      "title": "関西電力、大飯原発3号機に異常 原子炉を自動停止",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5ckFOWWtJMTYteF9LVzZkWEZPdTBtZ04zUWpTSVRiRmJrU1U3blFFMzZtVUYxblczdWxuakdRbzlBc2ctX09MeVlQUE1idUVtUERZdWdETVlDSHNyVjNETVpWMFR5MUpTOE8yeg?oc=5",
+      "source": "日経",
+      "published_at": "2026-08-08T18:56:31+00:00"
+    },
+    {
+      "id": "hl-cd2c325c51fc2636",
+      "date": "2026-08-07",
+      "title": "Hungary expects Danube to rise but nuclear plant still facing output curbs",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZUozOGZmUFZpRkFuMTdBeThmTmgycUk0aW5IeEVEazRJQ3U5OWpvV2hwTkNTa1Q4N0lLckdyZ3hfNF9Ld3owT1lxMlFZOEpFMkdFeUdTellQMHluNmVNTDdrYkFlNXhZTlYzeUxOU18wSjZ0NHdIZ2FHbDh5SGZkRWc4QVlyT2JCMmNIVTJnTml2ZWJvZkZDcWxTYlZSR1dweGZNcHVPaEEyWHpnOGVxMHFYUUxUd1NBWWw1dWRkY1hxZw?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-08-07T15:12:52+00:00"
+    },
     {
       "id": "hl-4397caa45f41f2b9",
       "date": "2026-08-07",
@@ -28,6 +44,14 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRU2ppbm14T1BJMkFja1ktQm5EOUp1VWtyaThVcEdYWHFjS3NNd1VMNWRtR3k0TDFja3Y3amZwX0t1ZmFNZ2dGU1dSMjY1eEI4bFNLeFhEc3ZieU4zTUcxME1Jbm1ndE1oVk1PTQ?oc=5",
       "source": "日経",
       "published_at": "2026-08-07T09:27:48+00:00"
+    },
+    {
+      "id": "hl-9068579437b18574",
+      "date": "2026-08-06",
+      "title": "（官公庁人事）原子力規制庁",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1YMTVTWVA0MWc4VzFjQkM1U0wyQ2lBVE45SWVGRWNJeG9jdExwNExzekxvU3NINEJVNEVMaHYzaGU5SjZXZ0E1SExhTkR2b2VuNXlUVExqdFBIVzdkLXR3TTNfeFBpdmJYaFNOdQ?oc=5",
+      "source": "日経",
+      "published_at": "2026-08-06T17:00:00+00:00"
     },
     {
       "id": "hl-be6182038b3d6e2a",
@@ -60,14 +84,6 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPS2UyazltaGdBYmdmX2JCRWc1QkhrYjNGdUJwR2xnS3hWQ0FYdlRtekUwVmFSb1ptUmg2bHlQQ3BQMzgtQlFPd0c1QzZIcUUzb0ZXTDM4c2Z0WDBuVXQ1OUhBNG9XaUptcjdSLWJEX3k2dXE3emd1VFB4bUNsVVk0Z2JZUFlSM0ROdUlZanREMkNGbUVPQzIyZjcwWjE4SmwyN2h3bVg3Vzl6QVU?oc=5",
       "source": "Bloomberg",
       "published_at": "2026-08-06T12:39:53+00:00"
-    },
-    {
-      "id": "hl-9b7c90d0af307ccb",
-      "date": "2026-08-05",
-      "title": "US nuclear power plants defeat employees' wage suppression lawsuit",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUjF2TlJwcVI1S0NPNjY2SjRTTGw5TEZ6bWN5d0V1b1pTOG02T3FOMXpMelZMaXh2aWlGZUtOYzR4YzF1VnlfWHR3Z2dGbjdBUXVnSW5DSTFGMXpCd3JGX2x6WjJlSTZVVzh0SEc5N0h4M3dmWXZ0MU9yeU5jN1FwV1RNWlZxOVBHWkFESHBxWnBfa1BrNDlnTVRmcFpVNldhbGowSEk4TXNZdE12NEhYdTdaRE1FNkhzaWc?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-08-05T21:25:00+00:00"
     },
     {
       "id": "hl-1f2c278db0cce363",
@@ -110,14 +126,6 @@
       "published_at": "2026-08-05T06:58:12+00:00"
     },
     {
-      "id": "hl-fe6d400be56ac167",
-      "date": "2026-08-05",
-      "title": "Peter Mason, GE-Hitachi Nuclear Energy Canada Inc: Profile and Biography",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4xaTlHNWlUMGV0OF9VLWFzbmxYQ3c3dHZBbUdOUk1ZUko3T0p6bUpQbEd2SEVJMEQ5cjN5bUZzcE15LXh6d1pORGIwOG03UllFZXZUYUR1NXlsRVcxNGc?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-08-05T03:13:07+00:00"
-    },
-    {
       "id": "hl-c32e75a9ebe882a2",
       "date": "2026-08-05",
       "title": "Park Ro-Byug, Korea Hydro & Nuclear Power: Profile and Biography",
@@ -126,28 +134,12 @@
       "published_at": "2026-08-05T00:13:29+00:00"
     },
     {
-      "id": "hl-b9c9890c8f05142a",
-      "date": "2026-08-04",
-      "title": "Matt Slessor, GE-Hitachi Nuclear Energy Canada Inc: Profile and Biography",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1zUHZrUmh2TGFFblRETlMzdGMwNUlKSWVvc0dyZjFJZ2dyWnZIR3JlUHBKM1hoWU9BSFJIY29Qa3dYMFpHaFZHVXpJOFdoemxqTmxsZ3kxXzR4dmQtVUE?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-08-04T18:12:46+00:00"
-    },
-    {
       "id": "hl-aa456036f2677dd4",
       "date": "2026-08-04",
       "title": "Romania blasts rocks to reroute cooling Danube water to nuclear reactor",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNc0NCWUZNek9CZlFRVXdwMjJmd2R4cVhscGFpeS1ubmFhSWF0ZnkwU1VXc3Z6N1hCcDVWclZjSzVBUXNEWlJwNWpuUFhVSXh2YzJCc3RIeHlET2FKMjBadXp3NldkQXoyR0ZzWXUxTlE2QUJvMTBTQjNpVW15SzJWMEZNR09iQXhEZnFoa3VidVd6ckJfTDViSlZPbUg3bWZQUHplR0d6cGRpZWlmdlpCWVRmek5tbjZvUUpXM3Faak9MVDlOcUFJYQ?oc=5",
       "source": "Reuters",
       "published_at": "2026-08-04T13:10:17+00:00"
-    },
-    {
-      "id": "hl-894dcde4bcf58f20",
-      "date": "2026-08-04",
-      "title": "Romania conducts explosions to try divert river water to nuclear plant",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94RURwTmk2MDdqNGxQUE10V0pRa0ZnN0V2VzNhdmFkRERZcUx2aVJxNEdNZjJoU3B1dXMzN3ZqcTNreXMyRjVEcnk2bVduUWUtbTJ6UDZhYUlveVFURU41UENCRkZnUWc?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-08-04T11:42:05+00:00"
     },
     {
       "id": "hl-838cb5dcef297091",
@@ -182,156 +174,12 @@
       "published_at": "2026-08-03T15:28:16+00:00"
     },
     {
-      "id": "hl-4ac6e190806a7d00",
-      "date": "2026-08-03",
-      "title": "ハンガリーの原発、水不足で停止 猛暑で川の水位低下",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1rZ2lCSTl6MzFiZ3dsa09fZVoySmJkeGVYUWg3clFpZHNTcEF6WVA2YzRabVY1SU9pUXFPMFpROVdzazhWU2MxN3BJbmhpVW5FREhKMmVvbnpseFE0N0tUVFR4c0txZk1NYmxrZA?oc=5",
-      "source": "日経",
-      "published_at": "2026-08-03T05:30:00+00:00"
-    },
-    {
-      "id": "hl-a32b3501fd41567f",
-      "date": "2026-08-02",
-      "title": "Greece battles wildfires, drought shuts Hungary's nuclear power plant",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBJTGVvTEdCdFROZklvdldHWkFHWmNJNG1LVnBzY2hXcmtoWVhfLVVEM0FXRkVpQ0NVWGNuVWdrbFhLTXBrdlJlUGZ5SUZBcGZlZlI5b25jZ2JfMGNuVkhCWEExT1FnRjQ?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-08-02T17:38:26+00:00"
-    },
-    {
-      "id": "hl-94d7daf2174b940e",
-      "date": "2026-08-02",
-      "title": "〈映像でわかる〉 60%濃縮ウランの意味 米イラン協議の鍵、揺れる国際協調",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5PRy1NOXM4TlRKdXBPTGhXSlRWMmlRaXFVbFlfc0VUbkRQbUxpZlluVWZZVG4xR3M0MkhGM1VhN3NhTldBamR2THRFS2Fna3lWZVVSeVJDWWVuX09sWmNNV19ZTDZKc2dzVUx4Sw?oc=5",
-      "source": "日経",
-      "published_at": "2026-08-02T17:00:00+00:00"
-    },
-    {
-      "id": "hl-57397fcbd45c0af8",
-      "date": "2026-08-02",
-      "title": "ベトナム臨時国会 土地法改正や原発協議 きょう開会",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TNkU0aHl0TVN5X3Z3UVpyX1dQNVF0Rnl3eXEyNUt5NUJKZkJtUThnSVdHNkxfdG9FYy1hSTJsSXhQcWdQMHJhQzE3bWRDX0hkQlpSc2pwd0Y5bWNzUHExbGxpbnE1NWJZQ2Q5eg?oc=5",
-      "source": "日経",
-      "published_at": "2026-08-02T17:00:00+00:00"
-    },
-    {
-      "id": "hl-d398a9f9e0d1277f",
-      "date": "2026-08-02",
-      "title": "Hungary PM flags 'critical' days ahead with looming nuclear shutdown",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ3k3dmJWR3pfSnFZRFVOcE1KMXF6UkpsQUoyTk9JVVFLOW1XNGlLQXkxRlhnNXVuaTRnOElUT2paNnlneG1pYnNNMjhxZFVsR3R4czN3dFdab2w4S1hfZms5TC1tRDdpR3F3cGYzQnFvOVViWGtsdFdaQUpZZ1FvOFJiMl9QUk1raEF1M1BDZzdUM1NyZDB1Znp4OGlUZWdIMDRBeEptWlhpaU9BeTl2YkF6dDluS1VIRmc?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-08-02T10:43:00+00:00"
-    },
-    {
-      "id": "hl-cee67d14dc0fc208",
-      "date": "2026-08-02",
-      "title": "猛暑でハンガリーの原発停止 ドナウ川水位低下、44年で初",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBhMENjWVN5Z2VMSEU2RGpvM3ZYclhMaVpBT2ZYdzYwYTVhcUxxcTZqVVNKQXZGU0hVbWRWOGw2TjQ5YzBLNDdBRUQ0QkRWTWxZSmU5SFBrSzhIVHhvVmZ6dGt1azB2T2JVZS1OXw?oc=5",
-      "source": "日経",
-      "published_at": "2026-08-02T09:14:03+00:00"
-    },
-    {
-      "id": "hl-938342173013e4c9",
-      "date": "2026-08-02",
-      "title": "Hungary Stops Nuclear Plant for First Time as Danube Dries Up",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ2NJVGlyWGRyZFBGLWdPUjRtcUYwdlR5U09qREFkRGItNzh6YlFaSzZxdk1zRWRCVTV6MjhpS2M4ZHNsRzEyTkRyS2IxbENIV3J5S3hYLWFzSTNpeWdQajNOZEV2d3lkaGdJbkFEQnBnSTVZSUJpZ0s4OVIxWmNFWm1jTlpUUXhhYjBEQ193WmRFSm0wcjUxRk9HUS16X0JwSUUxdldFLVJFbVN2Z3N3WDNWUmdWUQ?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-08-02T06:36:00+00:00"
-    },
-    {
-      "id": "hl-95a66c5a7a219278",
+      "id": "hl-be31d9e0d31f4584",
       "date": "2026-08-01",
-      "title": "Hungary to shut down sole nuclear plant as Danube falls to record low, PM says",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeWpyZFpUY19WRVp3aFN1ZURWa3hNTU55WnltbHBodng0WlhUekcyX1BEcWJZc0sxOGdTaXdrUDBVaG9uV192bXFveWVWUjdLeUhVeEFZWi1RekN4eEZkV1gzb3ZPdV80MGV4a1dWVXRyRFFiS1N4VHBZZWgzQ2NmVkNRVHhEM0E1SGhGcXBib0hCZU1nT3ppWnhFbk1xMXRMMFBGUjl3SmVjNEFXU1kxX3pkX0g5cWFFUjBablUwWQ?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-08-01T22:58:28+00:00"
-    },
-    {
-      "id": "hl-aeabdfdf687ceaae",
-      "date": "2026-08-01",
-      "title": "Hungary to power down Paks nuclear plant on Sunday, PM Magyar says",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNanEtQ2pYRHNXSmFyV0VzbmZnYlJaemNwZWJZYjdLNXBtbk1uMlBka3FWdGk5MGR2V1V1WUN1NkZsLUl2c1NQT2I2azNfVlpMZ3dKWFg3YVgzRkpBV3plU1BYbFlaaEtHUHhjZVFyM3BCMlNoUklaXzF4QW51YXpqOUdyaHpYUzJrVVJYYVdCUkdRV2NoeUQwdWUxalZ6TzN2YmFVal9YdjFFUGtDa3ptNQ?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-08-01T21:55:43+00:00"
-    },
-    {
-      "id": "hl-ee0aca69396443da",
-      "date": "2026-08-01",
-      "title": "Hungary to Shut Its Only Nuclear Plant for First Time on Drought",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPb1h2VC0tajdpRkg1SU12UmYwdXNwRmJaWkJkMHhQTDZKUExJSHpzeVFFbXJHd0NrNTVfV3NXdDhhSDJna2NMSzBJanJFMEpfRXlZNzVTUXpQX2pvb0E2UTNLMkJiT0lTZnhaSTBJLTQ5TXpPZnNHUUszRkFrd0JmR2NUNmE3ZWotN3JhUm1EXzV6QzF3UUJjNVdvcUFlLXV3UFpEZ1U4RndmZUJNV2VleDY1UUNPQQ?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-08-01T21:54:47+00:00"
-    },
-    {
-      "id": "hl-4e677dd43db2b5c8",
-      "date": "2026-08-01",
-      "title": "Hungary Moves Closer to Shutting Down Its Sole Nuclear Plant",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMldHcnFFZmloVmtjLXBRS29qUi04dUZPUThRR18wZldtMkJzeGhJYmI5a09CVU1HcGVSell2TzJOdlYwVzYxNkE0MEN1VFRxNnJ4TTVyblE4UXdINks3MDVlSjVIN3QtQUxhVFNjeG9nclJNMWx6OWhQd3I0VFgtdzRZYjgxUjJKWnNrSF9XRWlZR2tIUks5cW9JZnIxWXhpSHJxVERyRUhFSE03MXRQUA?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-08-01T09:03:42+00:00"
-    },
-    {
-      "id": "hl-0cbb4b1dbc9951ad",
-      "date": "2026-07-31",
-      "title": "China Approves $25 Billion Nuclear Expansion as Energy Demand Soars",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMGh6QlkxSldEdnZodEVvWUZfLTh4YnY1alBsczZNRGJJenlsOEpUbWp0QndYdDJja0NKT0pwa0ZWSkVsRjNYVDhuZjZQZW1RQkFKNnNjUGxxM2xKQkVVUTA3b0kyX1JiM2tpRzIxV2FEc0pXSzk2UnJWNzBKbzlNaWdsUVFaQktqYmRtUnRRN00wc2FpWFdWNFRSbWh4ZW5FZTZFam93N2sySHpFczFDSmdKYVdBOW96?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-07-31T17:47:26+00:00"
-    },
-    {
-      "id": "hl-04b66982bbb55234",
-      "date": "2026-07-31",
-      "title": "Hungary's PM warns low Danube levels could keep nuclear plant shut",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55TjJQTXBNYXg0cjEwLUhjZk5LY2FFSGpBVDNMRUd1dWdCaUI3ME13eThJTTkySEFFaXUxa01UOW0xQTBUbG8tVmkxOXQ5d2ZKYzU0eXNKb1lkUmZEcmxfZVhMSXZnLWM?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-07-31T17:40:53+00:00"
-    },
-    {
-      "id": "hl-d0cb8f0ea05ad27b",
-      "date": "2026-07-31",
-      "title": "原発産業、人材確保ネックに 企業の7割が採用難 40年代5基建て替えを決定",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9yUm9OUUQ4YWkzcWI3RUhKR3dodmtvRVNqbWZvc0wxcElMcEkyVUZ5WlRQbWNaUkFWdTJyUkM1RnEwUXJ3X05CRnlOTFJmOTN6QS11ZXZRQ2Z5d3k4S3NfNUtFenhpNkJqcFk5Tw?oc=5",
-      "source": "日経",
-      "published_at": "2026-07-31T17:00:00+00:00"
-    },
-    {
-      "id": "hl-000fe8e47f286442",
-      "date": "2026-07-31",
-      "title": "（官公庁人事）原子力規制庁",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5lMG1iMzZ1VkpIYTBsZHBkcHRMcm5GOFA4LWtHNHJIc256STRkUm0tLWZWYlRveEt2bGViQ2s0d05VOHZwYWdadnZjd1RuMWFCT3owLWE2alRDTjJZMTJoVGpfa3VENFNnSHNBLQ?oc=5",
-      "source": "日経",
-      "published_at": "2026-07-31T17:00:00+00:00"
-    },
-    {
-      "id": "hl-c009362d9ca32e68",
-      "date": "2026-07-31",
-      "title": "Nuclear firm Westinghouse confidentially files for US IPO",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUi05dGwzYTU3U0N1YWJHZ3JlSVozMUF5d0FSV2VYWjQ5eUt3YXVwQjVnSlVtSm1KbC0ycHlGYk1TNlFMa2FwZWl4bzZkbnMwNEZvZkVrbTNVWlNQb3JQR0Y3OHFNZF9XWWN5a2h5OXZXU3dic25QYmVtS0x2U1doeFR1M09TeUtWdjZSWXozd21DaEd5MV82Sl9lc2ZaMXFaaWJj?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-07-31T16:35:10+00:00"
-    },
-    {
-      "id": "hl-fdc8a9574428e0e8",
-      "date": "2026-07-31",
-      "title": "Nuclear Tech Firm Westinghouse Files Confidentially for IPO",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQ3lIcG55UVA0TzBMLUNacVdHdzRaYS1Qb0lBNnd4TGZ1bGt2eEZydHJBSEZrUjdMc1laVXZKQVgzX2diQmdqUTNUdzBMYVk3QTR0cWV4bVR1UUY0dnJXQXEwTW9TbDBWdmVNek9wMFA3QzBzaHRwcllkcEloSmdlUS1peExIZnVHNC1fV2dqZmROSW1xUWF3azRtaUF5Vm5JOE9vZ3pDR1l1WnJoYUFN?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-07-31T14:07:50+00:00"
-    },
-    {
-      "id": "hl-ebc4ff7a9d229bad",
-      "date": "2026-07-31",
-      "title": "France's EDF looking to bring in investors for its SMR project",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdHg4YldWMDhUbXkxeUtKQ1BqVjdUWmU4N0FrcDNMeFlvc1RzdWtyVm5OdEdiWGZzcWhIWHpUNHJKb2dhQ29wNU5wcm80cFhkYjU5TmRrdFJ0VndUb25mNWE3VzRzTjd4VnVmdFhxYVFYaWUwUmt5ZjVfM1hDeEJZeXVzTkZkRkRXSm9jSzdvNDJQcDV6dkV6aG00TVpOZFhtWFUwR2Jn?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-07-31T13:59:59+00:00"
-    },
-    {
-      "id": "hl-62749224761dddf9",
-      "date": "2026-07-31",
-      "title": "China approves eight new nuclear power units",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcm9GODlEZlRsMXdRNFpkbjhJWmh5dUlQYXBlNlRTLWp3N0h1MHNtMGxxeTNtOGxHclFHOWI3c3Y1RlFxdmliLUlValYxR242TUJ0NGNiNEI4dWpQTTZpOWNEWG0zd3hSU0tPak02RVRlVnZXWDc5dXd5R0VPcjRQQTlvOTA1cFlpMVFhWGVmbDFBZ0Jzd1B6YTRJRzY?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-07-31T11:42:53+00:00"
+      "title": "原産協、仙台で10月就職セミ 学生向け 原子力特化、地方企業支援",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PUEFJRk5mTURXdkZyLURyd1FWbVJIRzBWRDNWbjhNTWRaV0JOaDBjNk5mSmk3MkRjSTh5N0RPSjhRbENQcl9aejBQTDZPelhPMFJJVFZQTG9nQ2M?oc=5",
+      "source": "日刊工業",
+      "published_at": "2026-08-01T18:16:31+00:00"
     }
   ]
 }
