@@ -1,6 +1,6 @@
 {
   "_schema": "id: 安定ID / date: YYYY-MM-DD / title: 見出し / url: 原文リンク / source: 媒体名 / published_at: ISO8601(任意)",
-  "fetched_at": "2026-08-11T10:51:02.878132+00:00",
+  "fetched_at": "2026-08-12T10:59:10.831250+00:00",
   "theme": "nuclear",
   "sources": [
     "日経",
@@ -12,38 +12,118 @@
     "東洋経済"
   ],
   "fetch_notes": [
-    "日経: 8件",
-    "Bloomberg: 4件",
-    "Reuters: 6件",
-    "CNBC: 0件",
-    "WSJ: 2件",
+    "日経: 10件",
+    "Bloomberg: 6件",
+    "Reuters: 9件",
+    "CNBC: 1件",
+    "WSJ: 1件",
     "日刊工業: 2件",
-    "東洋経済: 4件"
+    "東洋経済: 11件"
   ],
   "items": [
     {
-      "id": "hl-461d001fde082cf2",
-      "date": "2026-08-11",
-      "title": "French power prices jump as fifth heatwave cuts nuclear supply - reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcFh5Uk8xSW0wTVRPMWptTnR1Q3ZVWWRvbkJhYlFKMTdJWjRqM0l0anUzREpaNEhjWm5pNEtBWmFlMjJJVzBNUXRkV2RpRE9nMTZGTk5Udk0wMkdySW9NVGtLcW9HZnF4NmhyS0xCUTYyOTlHVlhIM3dCbXZKOU16cnhGWHpqdGduejY0MHhlRVdRQTFCekRUQ2lTbWVUU05fV2RmMEhwOGQwY04tVXc?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-08-11T08:50:18+00:00"
+      "id": "hl-ff63a2d1d5cb2655",
+      "date": "2026-08-12",
+      "title": "欧州熱波、電力供給に影 川の水位低下で原発相次ぎ停止 - nikkei.com",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE01R2t5TGVIOUhyajJpN2JoY2FWV3hlTGUtZkpGQkhIM0NBQUM3Z1BHUEFvdG9CWEZDbThmT2xpaEREYWtKZ1hLQ0w2UlZvM2JmUEpiSXdVX0RvY2dFQlkwOWVyUjNtMmlqdHJN?oc=5",
+      "source": "日経",
+      "published_at": "2026-08-12T05:30:00+00:00"
     },
     {
-      "id": "hl-2f970c920acb434d",
+      "id": "hl-4449c97aa5d1fd51",
+      "date": "2026-08-12",
+      "title": "原子力発電",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSHI1a1l1ZUVpaDhKSkUzTzJmV01hTC1oZnVOS282X2lnYjBCTFJ5blp5S2JEbnRySUxQdEpQd0prWGMwbkFrZWNWTHJmd2pybktBTEFPeEd6Y2Y0amNubU5uRFhFZVNRWWVRNGxmMTlLcUFNUEtrSDZuNlk1Y2hLUGIyRUFPVnhMdUZBdXVtMnoxcFJ2dC1LVDBn?oc=5",
+      "source": "東洋経済",
+      "published_at": "2026-08-12T03:17:47+00:00"
+    },
+    {
+      "id": "hl-dffaa9f43faa56cb",
+      "date": "2026-08-12",
+      "title": "原子力発電",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQlZjRFA4Vi1QdUI1Z2REZ1JuTVhyd1RzaE5JczROcEM1dFd6VlA3NGVkblkycU5MOHgzZFFVUG1Ic3k0ampWa1o3WUxlU1QtZWc4Mkx0dzFOeGVhN2dwZjlFTmtYNEZjbGFqTEdhVGhnX19wMHM0aWF2V3RBVWlpOV9WTlM2dkE0alpZYTNfRk05d1NERlNoOVlB?oc=5",
+      "source": "東洋経済",
+      "published_at": "2026-08-12T00:50:29+00:00"
+    },
+    {
+      "id": "hl-fc7d2c6f34cd99e7",
       "date": "2026-08-11",
-      "title": "Romania could shut down nuclear reactor on Thursday as Danube levels fall - reuters.com",
+      "title": "原子力発電",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTzJXa0lYUHVrbHhQLWgzUWtlTUY1TTdySHEybHdsV0hfVkpEeGMwNjBrWlp4N3Nia1dYdzN1UzUwM0xoMnFJUWg2ZlNEWTdyT3h6M0Q2eUtkVXJTb1ktZUZtZjRSMGx6QlRfamVLN3gtR2lISnpsX24wLVdCVUU5YVpQM0hzX3hMVGpCb0w3ZXljelRLdDRSLUNn?oc=5",
+      "source": "東洋経済",
+      "published_at": "2026-08-11T23:45:52+00:00"
+    },
+    {
+      "id": "hl-d9e7a8948c3c1cb6",
+      "date": "2026-08-11",
+      "title": "Romania could shut down nuclear reactor on Thursday as Danube levels fall",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcER4RXBhdDI4TUFTVGVuMWhWcm5Yd21hMkJ5RzZXT2c0VG0wWTU1Z0phY3ctVzRfMXFMWVI3TFZvT3pnM0NvLVdxamxxQmh5WE04bG9IX0dvbXlFLW9zYUdNMk5uekM2LXYwZ2lvTHh2UGNaakRpZ0Nnbmp6U05mWHZpTEF0ZHkzc3FEZUcxUWdDeFRpMDNHazJoUkdQR1VjRUItVHRfWmJGMUtNNzhSSXpqZGVuLUtrNjhJ?oc=5",
       "source": "Reuters",
-      "published_at": "2026-08-11T08:45:45+00:00"
+      "published_at": "2026-08-11T21:48:06+00:00"
     },
     {
-      "id": "hl-2ee8588749f24e5c",
-      "date": "2026-08-10",
-      "title": "Energy, Oil, Gas, Nuclear & Renewables - Latest News and Analysis",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5FdWRuN1NtU2djWl91NmdEeExzNUs3Sk1GREZ2eVEtTnM3UW0xQVV0UVlNT0lqVW1ybGlwclRZQmpqamlRdFpJRzc0LXVIY0Zt?oc=5",
-      "source": "WSJ",
-      "published_at": "2026-08-10T22:23:53+00:00"
+      "id": "hl-a42cbecc32550054",
+      "date": "2026-08-11",
+      "title": "Constellation Energy's nuclear capacity enables to it grow from AI: Powers Advisory's Matt Powers",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNX2UwVnd6U2ZQZXVhLUl0QWNRVTFLRS1CYkQ5aUpSWkdwaDN5RlViLUtMN2tJZmo1VjhqNk9nbnVtMmROakYxazZHOGR2bXdTZC0zV2phWk9MYlgyN1FhU0phWHNnSVU4VTZlUW9PU3lPcjFSMlZxUW9OT0hvUVlPS2FQTDdDMldqcm5qSzl5Y2ZXSXpheUhwSnVWV3BFRTdGbW9oNHJMbWtrVGRaMDFXTEJ5LVNtTU9pMFYtd3J1QjMwZHhaaGN0cHNxVXhoYnFvenZV?oc=5",
+      "source": "CNBC",
+      "published_at": "2026-08-11T18:58:27+00:00"
+    },
+    {
+      "id": "hl-3d5ec74f4677ce92",
+      "date": "2026-08-11",
+      "title": "熱波で欧州原発の停止相次ぐ ドナウ川の水位低下、冷却水確保できず - nikkei.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5iZXZNTTBtOGdiZGJ5NzZLTHVDR01qNGxCS3B4azV1WTllbmtzRHRuNVp6QUpfNlVZWkd6QXhEdkhGajNUc1M4WUIwcG92R3RsRGk0ZzB6cGIyYzVXQWtBUXlNYml2ZVJZUUppRQ?oc=5",
+      "source": "日経",
+      "published_at": "2026-08-11T18:54:54+00:00"
+    },
+    {
+      "id": "hl-efc846d84aab0a4a",
+      "date": "2026-08-11",
+      "title": "US Criticizes China Over Nuclear Missile Test in Pacific Ocean",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY18tTlFnTDlWbTFQNjI1S0VON1p4ejBsMUNTbTNoaUpXemlCaHBBWDVHeE1RZFVfMXpVaWtDX1ItbWI5ay1fVzRabk5NZDJSUk1RSEtmMERmcEd4WExmdzJtazRZaGNTSXp5ODk1OHVnSENyZElIY2N2eEFvQllyWEtYeG9tVGtyQVg5RDBRSWZqdjgtYzFwZktVcVBEWFBmdncybUw0cGhwYkN0RUNESk1IZw?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-08-11T18:42:52+00:00"
+    },
+    {
+      "id": "hl-69ee85299756cb9b",
+      "date": "2026-08-11",
+      "title": "Jellyfish Swarms Knock Out 3.2 Gigawatts of French Nuclear Power",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOb1V6TExtbFJlalY4a0ZiV2JVNm11WVB6TjFqTFlsZHdXd1REbjRnVV85ZEtndDBhMDNaREs3YVVRT2ZwMUg3TmJ5eENya01HXzVRNjV3d2I1a1VkZXBrZW1qTFdTemN6NVRjR0hxT2ZJRDlIdkJFLTlkTXhGVnZYSkExNjE0bjlYYUh3TVJvTVZWaFM1TExJWE11Q1lYRzBJLXJxb3ptQWJLcVgzLWR5ZDNPZTJhZw?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-08-11T16:03:28+00:00"
+    },
+    {
+      "id": "hl-47dc13497d042a11",
+      "date": "2026-08-11",
+      "title": "Syria says IAEA will announce 'significant progress' on nuclear file",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObTBhX0V1QUM2N3JqM0Z0Ui1iSTFUT0pTYnBKWndCdkZteGQwM1BQSVVWR0V1ZUlfUGNXcUhZeTRtYVdzLWQ3cDlMYUpCTjhpSWFQWk9fMWtHYk5hRTgzZXVSdWRrOFF4bTFNRHRhRWcwc1lJck5FWW9NUEw2bnRsRC1YUFotZGRBcXBGSFlJb0QtejZXWGk2VTBNaXRUTU45bGFkOVFzREtLSWZPelBkSEVudlU2aUNE?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-08-11T14:41:46+00:00"
+    },
+    {
+      "id": "hl-0d2be3d222f33a2c",
+      "date": "2026-08-11",
+      "title": "Jellyfish-hit French nuclear plant shuts down three reactors",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPc0JNQkc1NWxqWmlmZHVxVzlsczhwZEJxZHFENkVBMWU0M0pIWjVLRU5vQzVrbW02SXl2ancxN1RmVFNUNE5nYW9sUWZjTVR0dE5aM0xCS0xJZktkY1MwYlZaZjNXR01XVHNyN3RyeV95Z2hvYm1Vd1FockZxUWd2NW5WenE0MXJNRkNmWE4xMTZEam03S2NfMmZidjE1dnd1NldLanJDbnN6WEgwaGJSOHpB?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-08-11T11:25:42+00:00"
+    },
+    {
+      "id": "hl-dcf4614eb17a5216",
+      "date": "2026-08-11",
+      "title": "European power prices jump as heatwave curbs French nuclear output, German wind",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcFh5Uk8xSW0wTVRPMWptTnR1Q3ZVWWRvbkJhYlFKMTdJWjRqM0l0anUzREpaNEhjWm5pNEtBWmFlMjJJVzBNUXRkV2RpRE9nMTZGTk5Udk0wMkdySW9NVGtLcW9HZnF4NmhyS0xCUTYyOTlHVlhIM3dCbXZKOU16cnhGWHpqdGduejY0MHhlRVdRQTFCekRUQ2lTbWVUU05fV2RmMEhwOGQwY04tVXc?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-08-11T09:47:50+00:00"
+    },
+    {
+      "id": "hl-0fe801657c480294",
+      "date": "2026-08-11",
+      "title": "Romania Will Likely Shut Down Nuclear Plant Due to Drought",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbW9hYjhyejdLS2xiT0IyVmNKWm1aVlByQms1eVR3YzN0RktNbFBxVVZ3eUY5c2JLLWxFWHgzRjR4Z2U5cnRhTGdGT0NIWVVhMWZ5c2tEeG8xckRwRndnZ0JLaTlSeXBwWGJHVkVhUGI3OUVjTXVXTXlqSFFqN0F1aERTYWdUaEQwVlp5QmZ1VkZjYWxtZ0lyUHlMakI5dmFiQWdxZFRrVHZFUWJob0VpRw?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-08-11T09:00:14+00:00"
     },
     {
       "id": "hl-21be8d32ffcf06b8",
@@ -54,17 +134,17 @@
       "published_at": "2026-08-10T20:11:59+00:00"
     },
     {
-      "id": "hl-93aeea83b237f74c",
+      "id": "hl-82e215e47ce4247b",
       "date": "2026-08-10",
       "title": "文科省、原子力人材の育成強化 産学官の連携組織設立",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Ld00tajR0akNJNlEyVU1Sc3UwZUhxa3pHdDJZMnJxOW5pMUNma19BcWxYcDNKVWNPR1M0RzVBeU5qR1kwZXJMTmprbS00YWd6Vl8yV08zcl91bk0?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB5ZVhjOUFEY0RNNlJsVTRXUUdsVklqTkZTVjNsZ2p2YTA4cTVjcTlFUUExc2Vub0dYNzhEa2dwczVfTUNQeThnbHhCVURBN211OEgtTXhocWhFc0g3V3NyQTFTbU16cjRJSFNwWHptOUw4Xzhn?oc=5",
       "source": "日刊工業",
       "published_at": "2026-08-10T20:00:00+00:00"
     },
     {
-      "id": "hl-0b9c986cc53f4965",
+      "id": "hl-a9cbf879d2ba04d8",
       "date": "2026-08-10",
-      "title": "Romania nuclear reactor worries persist on Danube water level forecast - reuters.com",
+      "title": "Romania nuclear reactor worries persist on Danube water level forecast",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU3NkZ1NkbGlwandYemhLZjBqcmhmRVd2dWEyWTNqTE95YVNDVWR0MGZrYkx5SzFMNWJaWWctUGs2OXRGOC1ocFlOcGUzT2lSQUZEMzBkTW1jV3NHMjNpN0d4WTVKNGZkQ3FaM0pFU2ROTHpnWmMtQTNBX0F1cG85OXdIOFZkUWJsRFNNUk41X0lSdGE1SVNQUGRwMkU3aFZJdldjU2ZGeGZYblNRekRzdnRudGxBSnBvN251amM3OVFpeVZ4YkRSTg?oc=5",
       "source": "Reuters",
       "published_at": "2026-08-10T15:29:08+00:00"
@@ -86,33 +166,33 @@
       "published_at": "2026-08-10T00:00:00+00:00"
     },
     {
-      "id": "hl-b672eb0796fff552",
+      "id": "hl-e8695a0b7f69b384",
       "date": "2026-08-08",
-      "title": "関西電力、大飯原発3号機に異常 原子炉を自動停止",
+      "title": "関西電力、大飯原発3号機に異常 原子炉を自動停止 - nikkei.com",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5ckFOWWtJMTYteF9LVzZkWEZPdTBtZ04zUWpTSVRiRmJrU1U3blFFMzZtVUYxblczdWxuakdRbzlBc2ctX09MeVlQUE1idUVtUERZdWdETVlDSHNyVjNETVpWMFR5MUpTOE8yeg?oc=5",
       "source": "日経",
       "published_at": "2026-08-08T18:56:31+00:00"
     },
     {
-      "id": "hl-35162c9611704039",
+      "id": "hl-cd2c325c51fc2636",
       "date": "2026-08-07",
-      "title": "Hungary expects Danube to rise but nuclear plant still facing output curbs - reuters.com",
+      "title": "Hungary expects Danube to rise but nuclear plant still facing output curbs",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZUozOGZmUFZpRkFuMTdBeThmTmgycUk0aW5IeEVEazRJQ3U5OWpvV2hwTkNTa1Q4N0lLckdyZ3hfNF9Ld3owT1lxMlFZOEpFMkdFeUdTellQMHluNmVNTDdrYkFlNXhZTlYzeUxOU18wSjZ0NHdIZ2FHbDh5SGZkRWc4QVlyT2JCMmNIVTJnTml2ZWJvZkZDcWxTYlZSR1dweGZNcHVPaEEyWHpnOGVxMHFYUUxUd1NBWWw1dWRkY1hxZw?oc=5",
       "source": "Reuters",
       "published_at": "2026-08-07T15:12:52+00:00"
     },
     {
-      "id": "hl-4397caa45f41f2b9",
+      "id": "hl-4e8fb99648bf17ef",
       "date": "2026-08-07",
-      "title": "東電、柏崎刈羽原発に海水温上昇時の停止基準を設定",
+      "title": "東電、柏崎刈羽原発に海水温上昇時の停止基準を設定 - nikkei.com",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRU2ppbm14T1BJMkFja1ktQm5EOUp1VWtyaThVcEdYWHFjS3NNd1VMNWRtR3k0TDFja3Y3amZwX0t1ZmFNZ2dGU1dSMjY1eEI4bFNLeFhEc3ZieU4zTUcxME1Jbm1ndE1oVk1PTQ?oc=5",
       "source": "日経",
       "published_at": "2026-08-07T09:27:48+00:00"
     },
     {
-      "id": "hl-9068579437b18574",
+      "id": "hl-5539dd9069fbb8ed",
       "date": "2026-08-06",
-      "title": "（官公庁人事）原子力規制庁",
+      "title": "（官公庁人事）原子力規制庁 - nikkei.com",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1YMTVTWVA0MWc4VzFjQkM1U0wyQ2lBVE45SWVGRWNJeG9jdExwNExzekxvU3NINEJVNEVMaHYzaGU5SjZXZ0E1SExhTkR2b2VuNXlUVExqdFBIVzdkLXR3TTNfeFBpdmJYaFNOdQ?oc=5",
       "source": "日経",
       "published_at": "2026-08-06T17:00:00+00:00"
@@ -126,17 +206,17 @@
       "published_at": "2026-08-06T16:28:54+00:00"
     },
     {
-      "id": "hl-8c9fa0acc028c0d7",
+      "id": "hl-90a6838ba657a78e",
       "date": "2026-08-06",
-      "title": "Romania delays effort to divert Danube water to nuclear reactor as shutdown looms - reuters.com",
+      "title": "Romania delays effort to divert Danube water to nuclear reactor as shutdown looms",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObTJmaDlMTXRnOUw0bHZ6XzBuWTlPLXlqT0lfOVJIT1FIWFdWZHdYbG5BdHdzQ1JlZHA5a0hZemM1YTVmMGNzZk9qTXl0WFllc1M2enVnSWFFc3lEbFFpQUFTVENQZzBITzFlcDFqb1FYblA3TkZKcVg5UEd5eFhxYW1yZVQ3aEJDS3N6bHh5LTBrcjQxRFQ3VVlXdHJ4MGRhenlhRWZmVmtzVWNibGVsRUg3SHZaMHc?oc=5",
       "source": "Reuters",
       "published_at": "2026-08-06T16:03:16+00:00"
     },
     {
-      "id": "hl-a1adb54173c4ae38",
+      "id": "hl-f808430a4b6668fc",
       "date": "2026-08-06",
-      "title": "人事、原子力規制庁",
+      "title": "人事、原子力規制庁 - nikkei.com",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwRDhxYmctTlp2Z2pwaEl0eVRvQVRlcFktQXhNbmNwT2l6YmlIcDBhVHlrZU1aYndLbEJYQVVtUy1qNmtKdldEcTFLNnFzNTFWTTY4ZE5QZmxsOUQ0U0FuZTdDenVYa2gwYlo3Uw?oc=5",
       "source": "日経",
       "published_at": "2026-08-06T15:00:00+00:00"
@@ -150,52 +230,44 @@
       "published_at": "2026-08-06T12:39:53+00:00"
     },
     {
-      "id": "hl-1f2c278db0cce363",
+      "id": "hl-9b7c90d0af307ccb",
+      "date": "2026-08-06",
+      "title": "US nuclear power plants defeat employees' wage suppression lawsuit",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUjF2TlJwcVI1S0NPNjY2SjRTTGw5TEZ6bWN5d0V1b1pTOG02T3FOMXpMelZMaXh2aWlGZUtOYzR4YzF1VnlfWHR3Z2dGbjdBUXVnSW5DSTFGMXpCd3JGX2x6WjJlSTZVVzh0SEc5N0h4M3dmWXZ0MU9yeU5jN1FwV1RNWlZxOVBHWkFESHBxWnBfa1BrNDlnTVRmcFpVNldhbGowSEk4TXNZdE12NEhYdTdaRE1FNkhzaWc?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-08-06T06:32:24+00:00"
+    },
+    {
+      "id": "hl-e807e8931b9780ea",
       "date": "2026-08-05",
-      "title": "脱石油火力あと一歩、首都圏で4カ月発電ゼロ 原発再開に中東緊迫も",
+      "title": "脱石油火力あと一歩、首都圏で4カ月発電ゼロ 原発再開に中東緊迫も - nikkei.com",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXN29NOWRLZG9vdHF1NWRmTWJLWldjZ1FjMlZURGN5TkVyVWFFMXdvNDgwWkRqSnJTWnExQWlhYk1aczlFSWExVEs4bWRkR0RVS2pCa0dSc2dyaFlZMzdHcFN2MGJ1Q1lBNUF5Rw?oc=5",
       "source": "日経",
       "published_at": "2026-08-05T20:00:00+00:00"
     },
     {
-      "id": "hl-0359946f34f13204",
+      "id": "hl-c44c06793e1a816d",
       "date": "2026-08-05",
-      "title": "熱波、中東欧の産業直撃 ルーマニア、ドナウ川が記録的な低水位 原発や車メーカー停止",
+      "title": "Mitsubishi Heavy wins Japan's support for next-generation nuclear reactor development",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdHNnM2pMX0tnaUZOemhMNFhYYTE3empUVFZIaVU3b0xGLWNSU1FxM3FFS21GOXJLd2QyTmU0RE16QW5HTHZMakZWVjg3Ul90WjF0bklYZmEtVjlpcFFZTmlRQWlWS3NlNHBQV1h0bHNfbkZsY0ltTU1LdFlPVWlHd3RBOXc1Rm9tSVMxcUNWOGQwSWlpOENYbGNVbkM1NkxYSFd3dXdsdnIyRDUzOEFma1I1dG9VSkI2eFRUOEZFWVBRcUVaYmRfbzk3U2lDbEdSSEVZV2d4WVE?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-08-05T18:14:05+00:00"
+    },
+    {
+      "id": "hl-a6332e5a7ba0076a",
+      "date": "2026-08-05",
+      "title": "熱波、中東欧の産業直撃 ルーマニア、ドナウ川が記録的な低水位 原発や車メーカー停止 - nikkei.com",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Sd3k3TjF5R0ZSeHZud1NWaW9EMDJSRWJDbFROempsLVFfWFlIdW84TVFxdkJjWWhwVHlTbzBaaU5yNHFWWUVSYVVaQjZicEVWXzl6S2hjWnEyZGZxLS1EY0lCMXBjYkJtc3ZnNA?oc=5",
       "source": "日経",
       "published_at": "2026-08-05T17:00:00+00:00"
     },
     {
-      "id": "hl-25187db207ea8d75",
+      "id": "hl-b08c3ed59d422014",
       "date": "2026-08-05",
-      "title": "新潟知事「原発の避難対策いかせる」 自然災害時の暑さ対応",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BMjJYYk15alJPMmN4dVotWG1GbVJPU3h3OXgxVXRIV0VXTDB5RWxWX1dWS3JZZzFqQUV3Zk9CQXpMelBaWENJZGdBM28tMkd4Qk9DcnJxQ1FDMjZwVmplU1AyWWJzWGZjbDVxXw?oc=5",
+      "title": "新潟知事「原発の避難対策いかせる」 自然災害時の暑さ対応 - nikkei.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBwNlJVODdvcWktU3FUVWVsOU0zRnloT2tjRVZyaEhCQ0FEOHhMSE9EaFNkclczOWtaLXNWRTJwZWttc09pWEg0VXVLcnlabnJkMWpFLS0yWHZFQUp1MWhmczh2WGhBMEkyTlJSZg?oc=5",
       "source": "日経",
       "published_at": "2026-08-05T16:49:00+00:00"
-    },
-    {
-      "id": "hl-ef134b02b79c8b23",
-      "date": "2026-08-05",
-      "title": "三菱重工の新型原発「次世代革新炉」開発、経産省が事業支援",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52QndSZ3JxSlpFQW1IMm8taUZZd3RSOHZCSFh0Mm41WW9zZHNmMjEyR0d2d0tYVlVjSDBMTlZwdFpGa0ZFUVRYcTl5UGs5UXY2akh3UXNkNUtqZlJWRmhnS09QRWRjWFhPcXBmaQ?oc=5",
-      "source": "日経",
-      "published_at": "2026-08-05T06:58:12+00:00"
-    },
-    {
-      "id": "hl-c32e75a9ebe882a2",
-      "date": "2026-08-05",
-      "title": "Park Ro-Byug, Korea Hydro & Nuclear Power: Profile and Biography",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBDMDM2dGpLQmdoXzRHOFdoM2x1S1dlVnJyc0x1aGozdkY0UlFGMlAwbkw5bkVQV2xyYWZKdy14QWZNcHp2UDlMRTlueEhsWUIzMUtpSkVvQ1lnblhsS3c?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-08-05T00:13:29+00:00"
-    },
-    {
-      "id": "hl-9d25b62c50547858",
-      "date": "2026-08-04",
-      "title": "Romania blasts rocks to reroute cooling Danube water to nuclear reactor - reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNc0NCWUZNek9CZlFRVXdwMjJmd2R4cVhscGFpeS1ubmFhSWF0ZnkwU1VXc3Z6N1hCcDVWclZjSzVBUXNEWlJwNWpuUFhVSXh2YzJCc3RIeHlET2FKMjBadXp3NldkQXoyR0ZzWXUxTlE2QUJvMTBTQjNpVW15SzJWMEZNR09iQXhEZnFoa3VidVd6ckJfTDViSlZPbUg3bWZQUHplR0d6cGRpZWlmdlpCWVRmek5tbjZvUUpXM3Faak9MVDlOcUFJYQ?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-08-04T13:10:17+00:00"
     }
   ]
 }
