@@ -1,6 +1,6 @@
 {
   "_schema": "id: 安定ID / date: YYYY-MM-DD / title: 見出し / url: 原文リンク / source: 媒体名 / published_at: ISO8601(任意)",
-  "fetched_at": "2026-08-17T10:30:20.647352+00:00",
+  "fetched_at": "2026-08-18T10:27:03.604181+00:00",
   "theme": "nuclear",
   "sources": [
     "日経",
@@ -12,15 +12,79 @@
     "東洋経済"
   ],
   "fetch_notes": [
-    "日経: 8件",
-    "Bloomberg: 11件",
-    "Reuters: 15件",
+    "日経: 15件",
+    "Bloomberg: 12件",
+    "Reuters: 16件",
     "CNBC: 2件",
-    "WSJ: 2件",
-    "日刊工業: 2件",
-    "東洋経済: 12件"
+    "WSJ: 1件",
+    "日刊工業: 1件",
+    "東洋経済: 11件"
   ],
   "items": [
+    {
+      "id": "hl-e0e4cf933cd0a981",
+      "date": "2026-08-18",
+      "title": "韓国SKなど、米テラパワーとSMR供給網で協業 AI向け需要増",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ndWpCWm10dGdlbmowV0piTmNsdXp2V1BDTkZuUE5WbnFrTU84b2VRUkJzX3NsWnNLSXBtbEtySzJNc09RdWpBVEdtT0dmOW9vUjlfaXVwd29DYVhfOFdCbE94aDI5MV9MQXRfcw?oc=5",
+      "source": "日経",
+      "published_at": "2026-08-18T09:14:24+00:00"
+    },
+    {
+      "id": "hl-eb2f998360f390f5",
+      "date": "2026-08-18",
+      "title": "South Korea’s Lee Pushes for Nuclear Sub Deal After Trump Rebuke",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYkhYaWZtZjNVVThmMExoOGhwcEcxM3R1RTB4SmxlSVozRnRsQ0hpczhxMHNwNHd6R2RmZXpLY21uT09BSHV3M29MYUF4WXV3NEpuSXIxVlI0ekRpQXZON3NoRUVxQ25Bd2xIaU93ZG5OZl96RDBJTVBnRVFfRHJxWHFNQVNFYU1XR1ZQTlUxN0gxOWowX2R4ajM4eTM0bXpLbkF5Wm84aXZ5Z1ZaUXRwLThtekZEUQ?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-08-18T02:30:00+00:00"
+    },
+    {
+      "id": "hl-90f25e465af2cd67",
+      "date": "2026-08-17",
+      "title": "原子力機構の価値 原子力の社会実装に向けて（180）古代炭素 排出リスク見える化",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OMGxvNXFrTm9sLUxxZHFVZlhGSkVCbjlDem1jYUdQeWVjMFdNdm5xNE9qOWxRTXhzc3FrQnlwQXRqZXVCYTI3dFFabmdoMjRCQ3Z4MnQwZzQ5S2c?oc=5",
+      "source": "日刊工業",
+      "published_at": "2026-08-17T20:05:48+00:00"
+    },
+    {
+      "id": "hl-849d3a76a66f2145",
+      "date": "2026-08-17",
+      "title": "原子力機構、デバイス開発 微粒子、サイズ別に分離",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE04YlNoOVZGa3RJZmppU203SWVZNXFxUXRiZUpUNWh0WjcxZ011d0M4OHZ3bTFDR0RydTlOdHFIUW1qVUpaUUJTMUJ1LTNnV0FvZGZ3ZmlnNm9zd2dVVjVpNHdQTFNONHVrVXFrSA?oc=5",
+      "source": "日経",
+      "published_at": "2026-08-17T17:00:00+00:00"
+    },
+    {
+      "id": "hl-f4ae93d6368c731c",
+      "date": "2026-08-17",
+      "title": "福島沿岸部にホテル続々 第1原発周辺、研究者ら利用見込む 仙台の福田商会 28年度浪江町で開業",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBlcnR4SUM0MzFnWjJxN1QtQjFfdDZaRFR3VDFJc3RFQ2cweWZqVzNpczV3bnBib0ZONHF1ZGxIS2VwMFZyWi1WREhuS2ZHRE5QSURIM2xuLTVjb0dRUWxkWkFITW5YcmlKWkVnZg?oc=5",
+      "source": "日経",
+      "published_at": "2026-08-17T16:49:00+00:00"
+    },
+    {
+      "id": "hl-4fe834a3bb56fa12",
+      "date": "2026-08-17",
+      "title": "東電の横尾会長、新潟知事と会談 「原子力安全確保努める」",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Cbnl0YktZZkh0NUNRUzBXdDZhd2RnTTR4ampDcUQxQlZaV2U3Yi01aXppc3pudl9hSDhGczdzbXdRMVNDMFJpcFdpM0Z2T2FtZXQzM0M0VEVfLUl1RjlQWTZ1RTZ4dW9xdWxV?oc=5",
+      "source": "日経",
+      "published_at": "2026-08-17T16:49:00+00:00"
+    },
+    {
+      "id": "hl-27415a965b8ff215",
+      "date": "2026-08-17",
+      "title": "EXCLUSIVE: Canadian miner NexGen Energy holds talks with BHP as it seeks $1 billion for uranium project",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOd3djNHpLcE13bUN0Ry01bnIyejBKQWdjQWtHcHZ5UjVzYlpNb3pib2RPcElvOVQ5RXNOd0RJcHRJcEZKN0xrZ3RzUHdkUTJla21TZDRnN3hwQUcwR2FuRy1hNUl6NkkzSjg2V2pIZmZMNFV5aUhJeUpaZUk1V3dZeGJwcjk1enJKcWJCbTFHZUk3bHN6SmctQ1hWN3Mtb3hiU1d3cXJVeW5PY2MwYWpEOXRYd1I3TU1yLWhiX1RKX3RUSnY1bEdR?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-08-17T14:32:00+00:00"
+    },
+    {
+      "id": "hl-4bd778453319b48e",
+      "date": "2026-08-17",
+      "title": "French Power Hits 19-Month High on Tighter Nuclear, Solar Supply",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNb21tQlZpLU9ZTnU5VzNQUXNXZUFka0lVSko4NmlkcHdKajNDVE1oajNvMnNNQUhfdHAtOWJBVDRRamh1Z0FBWjlCLWdDZnd1SUNEM214bWQtVFNaMHUwUTBtbTJLWTlJRjZGaWZvU2EtaE13eVZ5YmswQ3pXdHJXUVZUQzFRaEdxc25WOHZSaDY1bDljamFkZGlodzhzanZ6SnoyaVZ0THRjSGVUdkVWYkFveTY?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-08-17T10:41:15+00:00"
+    },
     {
       "id": "hl-0418a044f04b1115",
       "date": "2026-08-17",
@@ -28,6 +92,22 @@
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1oaDBuR0twZHo1MlgySEE0bklIMmtSaFU5MEtUdjFhUlJ3SkZvZFdVQ1ZvU0c0a3JjVlBTdGZ5cDJNTl9PbVNxWmxlQkNHUXp2WHowTDZoeEhYNXhrQ0h5dkRfNUNqLVpUeC1v?oc=5",
       "source": "日経",
       "published_at": "2026-08-17T05:30:00+00:00"
+    },
+    {
+      "id": "hl-9c75d3196a7f5424",
+      "date": "2026-08-15",
+      "title": "ウラン濃縮や原潜、変わる米の核不拡散政策 平和利用の日本にも影響",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE91OHFzSGZRdk1mTHJVMmVFdHd1MkpHZ25LNjdGVXgwbVU2WDFDcGFQUHRlNVNXSWxtd1Z0enpVRVh5MTBpOHJxV0FXdWxGRGxxMF9oVHNJbElRUG9fTWZORU4tc0lKbzlxSDZQbA?oc=5",
+      "source": "日経",
+      "published_at": "2026-08-15T17:00:00+00:00"
+    },
+    {
+      "id": "hl-ecec8ee2846fd624",
+      "date": "2026-08-15",
+      "title": "Hungary sinks barges in Danube River to keep nuclear plant operating",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE45Vlh2YXdKMzRPaE1GMnZjUlU4NzkwZG9EdVNnM0hfNU5jRVRQUnMyc29zMkdOQ1d6YTFSczVwN0U5blJWRU9TTDlhUzJwOHVtR19Kd2FlbS1oQUxEazdsdE8tOWhHU0k?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-08-15T15:31:50+00:00"
     },
     {
       "id": "hl-edeca9aadfc81212",
@@ -38,25 +118,25 @@
       "published_at": "2026-08-15T15:25:49+00:00"
     },
     {
-      "id": "hl-aa029205c76c8ccf",
+      "id": "hl-577314e9a557d76b",
       "date": "2026-08-15",
-      "title": "Watch Modi Puts Chips, Nuclear Power at Heart of India Push - bloomberg.com",
+      "title": "Watch Modi Puts Chips, Nuclear Power at Heart of India Push",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQM2tYTnBtN0Q1TzBjSkE2bGlpWWQ3V3JPTTVxYkFTa3V0M29KOFdVSDNzNnZzZkUwVGIxV3BuU2pwYkVubkNOUVYyM2l6ZkdvNkxpaUN2bWdGSndFMnZoLUZuQmNSWXJqVmpXMkw0OVMtd1dGX1NEVDJWbThPZk5FWXBsYXF5Z0FhMlRFaHNuYzdLaGRhcnZYejRORUhDRGVySlNF?oc=5",
       "source": "Bloomberg",
       "published_at": "2026-08-15T12:22:42+00:00"
     },
     {
-      "id": "hl-e05386cb709af037",
+      "id": "hl-70df88a26c1b51c8",
       "date": "2026-08-15",
-      "title": "India Sets Draft Rules to Open Nuclear Power to Private Firms - bloomberg.com",
+      "title": "India Sets Draft Rules to Open Nuclear Power to Private Firms",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaEI3SHk3STcwYlB5UXRWdUpSTEI1aFpkWGhlTkVlU1kwSmRZMkNBaEdrVHR0aG5VZ3FMcW55MW4tZEdvVEUtZzZfR1BqUWpWUnp2Z29aSGVjUDI5MTh3Zjc3M01CUHFEN2Z4RjNTWTJfNmUtQW5tQTRxb2EyVWVyalg5Wllld0ZhODZvOExuU1lqVjNRYWVkUHZJdUVLVmVaUEV0anRrUFVnSVE4N0NueDRR?oc=5",
       "source": "Bloomberg",
       "published_at": "2026-08-15T10:49:29+00:00"
     },
     {
-      "id": "hl-6ebc43a8ab00a23c",
+      "id": "hl-88f6281687a18ade",
       "date": "2026-08-15",
-      "title": "Hungary Sinks Barges to Lift Danube Near Its Nuclear Plant - bloomberg.com",
+      "title": "Hungary Sinks Barges to Lift Danube Near Its Nuclear Plant",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSEhlZS1kb2VfYV8zQkxXSVJfSlE1bHE1a1ZKbVc1T0E0M1R5SFMwcUdXVHBYTzBJQl93TDA3blo1OXhraUF6LTJDcnlNQzVrWHJTWnMwSTlkNENSMVlfWlhjaHdmRHE2X0RKeHlwdTk3RnRnYmRUckpqZGlFcUZfam9DSkltS1ZCYmF6UzFiYUpGTlFWX3Fnb2lrOXhJOE9RajFjUkdOMm5LTVM1clE?oc=5",
       "source": "Bloomberg",
       "published_at": "2026-08-15T09:51:37+00:00"
@@ -118,20 +198,20 @@
       "published_at": "2026-08-13T17:53:08+00:00"
     },
     {
+      "id": "hl-f4dbd73d35a6d3b7",
+      "date": "2026-08-13",
+      "title": "Texas Nuclear Imaging L P",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1vUnViUlF5V0kya0xCSS04QVhSVFpqak5aU29SZVUwNkZsRE5EYS0wTmdQSnhnZzU1RHpRS3ZMVU9kN1VKNjR0WVNFeU11VnlYMkdNTXFvTjVyVW5DbkVzZnpTZjBqSWtuR0E?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-08-13T17:50:46+00:00"
+    },
+    {
       "id": "hl-7c1c50bc4c8bfb74",
       "date": "2026-08-13",
       "title": "X-Energy gets additional up to $1 billion public US funding for Texas nuclear project",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVGRDNmFpSC1nMEc4MTYzQjFWVm5CQzV0UzBSbFBCcFJ4aU9GYWZxeXBFdkZsd3BJX0FUNzZ2d05tVVR1R3ZWbkI1Q2tucFd2a0dEYnhPMHNWS3p3VGF5bndlWDNmX1hZQVN1RmV2MlB6NUoxQ2ZsbWhkcXk0Ym5NRTVHS3NDQzBQZVpfaTIxVEdHdHdpbjlVZXE1dnFqcVVROWtNZ1R1eDhuWWhNMV9nQUhJY0hLRGNSTnI4TkNOSnB2ZXJPUGtPSUdMQ2NKUQ?oc=5",
       "source": "Reuters",
       "published_at": "2026-08-13T17:50:46+00:00"
-    },
-    {
-      "id": "hl-da6961244a8ca762",
-      "date": "2026-08-13",
-      "title": "島根原発2号機、来月16日営業運転",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9aQ09HMkJQQk5Wb29BVEpHUUU3ZVhjUDVzQVo0SEdwWWRTc2g3V0MtTFFMUnQ1Skw3c2x2RUJYdmNrMFhwQzdoNUdyUnI5VG0zVFYwY05pLXFQT09xQTJOd0lBZ05kUHNEQjI0ZQ?oc=5",
-      "source": "日経",
-      "published_at": "2026-08-13T16:49:00+00:00"
     },
     {
       "id": "hl-8f75535fb7bde146",
@@ -142,12 +222,28 @@
       "published_at": "2026-08-13T16:49:00+00:00"
     },
     {
-      "id": "hl-a595c8315600c952",
+      "id": "hl-40dca761ba5debf0",
       "date": "2026-08-13",
-      "title": "Hungary Casts Doubt on Nuclear Plant Expansion After Danube Low Levels - bloomberg.com",
+      "title": "島根原発2号機、来月16日営業運転",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9UdUZ3V2pVU3RvVk9iVS01ZkQ0UHpMWVU2VWxaaW9IZ0FCd0ltdWJKRHhKRm1lRlJLN2RTVDBXb2RuZDdBU0dFT1JPa05oSFkzMlVBbHdJMVdQdm1XOEpuZGI2dDI3NkRCWnA4?oc=5",
+      "source": "日経",
+      "published_at": "2026-08-13T16:49:00+00:00"
+    },
+    {
+      "id": "hl-52f5b84c26bb40fa",
+      "date": "2026-08-13",
+      "title": "Hungary Casts Doubt on Nuclear Plant Expansion After Danube Low Levels",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcmJUc3gtdkJLZkljWERDVDh3SG9wcXBWV2JSbFQ2Z0dFUFJ0NVBTZjgzUUNsWjNLb0s2RXBwaDR6eTgwcGlYSGRVM2t2Z21FZWZBRWhua1BGWnplMl9rR0pNeURMOVo2aW9VbTlyczg0UDJyUUdBTTI2SjQ2VnVheTRubDlBNk1wLTBiZFZpV2d0dkw5RkpjT2N5R3hTcWxFbWhoMW5xTFRJa3BJSDhUYXplYXhmUQ?oc=5",
       "source": "Bloomberg",
       "published_at": "2026-08-13T15:06:05+00:00"
+    },
+    {
+      "id": "hl-36a35a9510a1bd09",
+      "date": "2026-08-13",
+      "title": "富山・氷見と石川5市町、原発特措法対象 志賀発電所の近隣エリア",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE40UUFtNmk5TWpIcV9CR2FMNTdXS0VIcFFoZWcwaUZXTS1CYllmQm9TMm1fbVVEWmNTdkFOelJOMlY3SFJLUkVJMEhRdVBDMmx0cVlBT08zUlJ3SVlOTjFoZUYxa0tmX2p0cDJqbA?oc=5",
+      "source": "日経",
+      "published_at": "2026-08-13T12:14:00+00:00"
     },
     {
       "id": "hl-984268f64a9d59de",
@@ -158,9 +254,9 @@
       "published_at": "2026-08-13T11:27:17+00:00"
     },
     {
-      "id": "hl-065e8a9ff1ab1867",
+      "id": "hl-c3bf13d516cdf467",
       "date": "2026-08-13",
-      "title": "Low Danube Forces Full Shutdown of Romania’s Sole Nuclear Plant - bloomberg.com",
+      "title": "Low Danube Forces Full Shutdown of Romania’s Sole Nuclear Plant",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVjZaVjdyOHZ0dG5DYTl0QWI5amdUemJQOC1uSjQ2TkpOOHI3R3VDc0w2RDUtZGg2bnpHLW1PZWRoSWxKWkRmR3kycG1IWWFaeTY1SmhxUUhWTHVQVGFWOHBwQUdDQjgxX1R6V0ptR1JTSU9QdFc2N0d0MTBBejRuM3JaM1BqTVFmX2JCdEFraHhMcmhSdDhWay1ESEFLd2JDMHJ5LVdGNGc0WHdYc28yUFRPT0k?oc=5",
       "source": "Bloomberg",
       "published_at": "2026-08-13T11:01:09+00:00"
@@ -190,17 +286,17 @@
       "published_at": "2026-08-12T21:00:00+00:00"
     },
     {
-      "id": "hl-755447b6f311c612",
+      "id": "hl-85054fbf3ed51765",
       "date": "2026-08-12",
-      "title": "Nuclear Turbine Ltd - bloomberg.com",
+      "title": "Nuclear Turbine Ltd",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAyZXVJYVdTLUZwaG9uVEZwY2xrdGYwUG1ZOFVuUlNqd3RVUXNvcEZqZVhoakZMZFd1TVBLa0FsYm1VdWJ4TmRDS1VxQUhXaXJJNmI4Y1FhaUN4WWxmWjlDdDZrUQ?oc=5",
       "source": "Bloomberg",
       "published_at": "2026-08-12T19:19:07+00:00"
     },
     {
-      "id": "hl-76ea658e95f93971",
+      "id": "hl-b3ee7ea2b7c6bc67",
       "date": "2026-08-12",
-      "title": "Hungary to Raise Danube Riverbed to Help Cool Its Nuclear Plant - bloomberg.com",
+      "title": "Hungary to Raise Danube Riverbed to Help Cool Its Nuclear Plant",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc19iTFlEMEpHc05nVUUzOGltSC02VXJKVk85RmdpWWVoNkhKRkdaSU9Xc0VPcUdOak4yRzF0V2F6d3ZqSUNTc2Q4dVpmODdtNTdNazhMcGR6bThnN0k1VEhZSmV0bXEtZ0pqc3o4TDFZa1kyMmJiSkUwbkZORTJ4ZVktMnFIRDNFbnlzX3V0dmNVTXhWX3pENEZNaDUtRmh1UGpFdHFJTFRSMEpKbWhpS0R0bFY?oc=5",
       "source": "Bloomberg",
       "published_at": "2026-08-12T13:00:06+00:00"
@@ -246,12 +342,12 @@
       "published_at": "2026-08-12T00:50:29+00:00"
     },
     {
-      "id": "hl-fc7d2c6f34cd99e7",
-      "date": "2026-08-11",
-      "title": "原子力発電",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTzJXa0lYUHVrbHhQLWgzUWtlTUY1TTdySHEybHdsV0hfVkpEeGMwNjBrWlp4N3Nia1dYdzN1UzUwM0xoMnFJUWg2ZlNEWTdyT3h6M0Q2eUtkVXJTb1ktZUZtZjRSMGx6QlRfamVLN3gtR2lISnpsX24wLVdCVUU5YVpQM0hzX3hMVGpCb0w3ZXljelRLdDRSLUNn?oc=5",
-      "source": "東洋経済",
-      "published_at": "2026-08-11T23:45:52+00:00"
+      "id": "hl-3ab5f463d0beb175",
+      "date": "2026-08-12",
+      "title": "Watch Lightbridge CEO Says Nuclear Fuel Is Accelerating",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSlIybFhwS281V2gtWFktb2xvV2xHRHFacTJyT01QTTgzUzdiZnQ3UUowTzVzbXRzSTVTd2NwdjlGQWxVQng5dm5ZYmtIMU1tZnozQm9QSGhEcnlfbmpTWUFZMFJYcnZuVkZiOVhpNmNiNFpCeGpPVXdqc0o3aENWVGRvRmxmR0hGWUhNSXRUQkJQd2RRa1lHUkZ3aldROUdoakhwUVQ3QQ?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-08-12T00:00:00+00:00"
     },
     {
       "id": "hl-d9e7a8948c3c1cb6",
@@ -278,17 +374,17 @@
       "published_at": "2026-08-11T18:54:54+00:00"
     },
     {
-      "id": "hl-9e8a6c716af3a952",
+      "id": "hl-efc846d84aab0a4a",
       "date": "2026-08-11",
-      "title": "US Criticizes China Over Nuclear Missile Test in Pacific Ocean - bloomberg.com",
+      "title": "US Criticizes China Over Nuclear Missile Test in Pacific Ocean",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY18tTlFnTDlWbTFQNjI1S0VON1p4ejBsMUNTbTNoaUpXemlCaHBBWDVHeE1RZFVfMXpVaWtDX1ItbWI5ay1fVzRabk5NZDJSUk1RSEtmMERmcEd4WExmdzJtazRZaGNTSXp5ODk1OHVnSENyZElIY2N2eEFvQllyWEtYeG9tVGtyQVg5RDBRSWZqdjgtYzFwZktVcVBEWFBmdncybUw0cGhwYkN0RUNESk1IZw?oc=5",
       "source": "Bloomberg",
       "published_at": "2026-08-11T18:42:52+00:00"
     },
     {
-      "id": "hl-39e48c91faf0430a",
+      "id": "hl-69ee85299756cb9b",
       "date": "2026-08-11",
-      "title": "Jellyfish Swarms Knock Out 3.2 Gigawatts of French Nuclear Power - bloomberg.com",
+      "title": "Jellyfish Swarms Knock Out 3.2 Gigawatts of French Nuclear Power",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOb1V6TExtbFJlalY4a0ZiV2JVNm11WVB6TjFqTFlsZHdXd1REbjRnVV85ZEtndDBhMDNaREs3YVVRT2ZwMUg3TmJ5eENya01HXzVRNjV3d2I1a1VkZXBrZW1qTFdTemN6NVRjR0hxT2ZJRDlIdkJFLTlkTXhGVnZYSkExNjE0bjlYYUh3TVJvTVZWaFM1TExJWE11Q1lYRzBJLXJxb3ptQWJLcVgzLWR5ZDNPZTJhZw?oc=5",
       "source": "Bloomberg",
       "published_at": "2026-08-11T16:03:28+00:00"
@@ -308,46 +404,6 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPc0JNQkc1NWxqWmlmZHVxVzlsczhwZEJxZHFENkVBMWU0M0pIWjVLRU5vQzVrbW02SXl2ancxN1RmVFNUNE5nYW9sUWZjTVR0dE5aM0xCS0xJZktkY1MwYlZaZjNXR01XVHNyN3RyeV95Z2hvYm1Vd1FockZxUWd2NW5WenE0MXJNRkNmWE4xMTZEam03S2NfMmZidjE1dnd1NldLanJDbnN6WEgwaGJSOHpB?oc=5",
       "source": "Reuters",
       "published_at": "2026-08-11T11:25:42+00:00"
-    },
-    {
-      "id": "hl-dcf4614eb17a5216",
-      "date": "2026-08-11",
-      "title": "European power prices jump as heatwave curbs French nuclear output, German wind",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcFh5Uk8xSW0wTVRPMWptTnR1Q3ZVWWRvbkJhYlFKMTdJWjRqM0l0anUzREpaNEhjWm5pNEtBWmFlMjJJVzBNUXRkV2RpRE9nMTZGTk5Udk0wMkdySW9NVGtLcW9HZnF4NmhyS0xCUTYyOTlHVlhIM3dCbXZKOU16cnhGWHpqdGduejY0MHhlRVdRQTFCekRUQ2lTbWVUU05fV2RmMEhwOGQwY04tVXc?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-08-11T09:47:50+00:00"
-    },
-    {
-      "id": "hl-6bcb0eb61ff28dc3",
-      "date": "2026-08-11",
-      "title": "Romania Will Likely Shut Down Nuclear Plant Due to Drought - bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbW9hYjhyejdLS2xiT0IyVmNKWm1aVlByQms1eVR3YzN0RktNbFBxVVZ3eUY5c2JLLWxFWHgzRjR4Z2U5cnRhTGdGT0NIWVVhMWZ5c2tEeG8xckRwRndnZ0JLaTlSeXBwWGJHVkVhUGI3OUVjTXVXTXlqSFFqN0F1aERTYWdUaEQwVlp5QmZ1VkZjYWxtZ0lyUHlMakI5dmFiQWdxZFRrVHZFUWJob0VpRw?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-08-11T09:00:14+00:00"
-    },
-    {
-      "id": "hl-048dd82567d7c05c",
-      "date": "2026-08-10",
-      "title": "Watch Brouillette: Strait Control Is Iran's \"Nuclear Weapon\" - bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRlU3VWM3ZzE1YXEzNWFrdHRLM0lfQXJDdnJoUFF0dmJUS1dMaXRicUxVSnRZLW4yZXhQQ2RJY1BTXzI0OEJzcGlQd3VzSTNlT2dUb2Q4QjNJQmhPWktlNjNWVEplV0ZnWGFoZGtxMWJ2QnJuN1RNWU9hdDVxUGlrT3RiWXFVMFBFNU5SZHhQVk5GR215RFJ3RWtvLUFhMzU2Q2VGeHc1aEQwUQ?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-08-10T22:54:52+00:00"
-    },
-    {
-      "id": "hl-82e215e47ce4247b",
-      "date": "2026-08-10",
-      "title": "文科省、原子力人材の育成強化 産学官の連携組織設立",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB5ZVhjOUFEY0RNNlJsVTRXUUdsVklqTkZTVjNsZ2p2YTA4cTVjcTlFUUExc2Vub0dYNzhEa2dwczVfTUNQeThnbHhCVURBN211OEgtTXhocWhFc0g3V3NyQTFTbU16cjRJSFNwWHptOUw4Xzhn?oc=5",
-      "source": "日刊工業",
-      "published_at": "2026-08-10T20:00:00+00:00"
-    },
-    {
-      "id": "hl-a9cbf879d2ba04d8",
-      "date": "2026-08-10",
-      "title": "Romania nuclear reactor worries persist on Danube water level forecast",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU3NkZ1NkbGlwandYemhLZjBqcmhmRVd2dWEyWTNqTE95YVNDVWR0MGZrYkx5SzFMNWJaWWctUGs2OXRGOC1ocFlOcGUzT2lSQUZEMzBkTW1jV3NHMjNpN0d4WTVKNGZkQ3FaM0pFU2ROTHpnWmMtQTNBX0F1cG85OXdIOFZkUWJsRFNNUk41X0lSdGE1SVNQUGRwMkU3aFZJdldjU2ZGeGZYblNRekRzdnRudGxBSnBvN251amM3OVFpeVZ4YkRSTg?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-08-10T15:29:08+00:00"
     }
   ]
 }

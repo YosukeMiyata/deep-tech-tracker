@@ -1,6 +1,6 @@
 {
   "_schema": "id: 安定ID / date: YYYY-MM-DD / title: 見出し / url: 原文リンク / source: 媒体名 / published_at: ISO8601(任意)",
-  "fetched_at": "2026-08-17T10:30:15.383185+00:00",
+  "fetched_at": "2026-08-18T10:26:58.350901+00:00",
   "theme": "ai-dc",
   "sources": [
     "日経",
@@ -13,16 +13,504 @@
     "Tom's Hardware"
   ],
   "fetch_notes": [
-    "日経: 72件",
-    "Bloomberg: 35件",
-    "Reuters: 54件",
-    "CNBC: 23件",
+    "日経: 79件",
+    "Bloomberg: 32件",
+    "Reuters: 53件",
+    "CNBC: 28件",
     "WSJ: 33件",
-    "日刊工業: 17件",
-    "東洋経済: 17件",
+    "日刊工業: 35件",
+    "東洋経済: 16件",
     "Tom's Hardware: 50件"
   ],
   "items": [
+    {
+      "id": "hl-821f4d60b26ef67a",
+      "date": "2026-08-18",
+      "title": "生成AIの学習データ、事業者に開示要求 政府が知財保護で原則案",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5bkZkVkl4TThZZE0zLVc5dUNtSmNJYnhsTVNZZWcxd1RQem1YM1MwbVJWT2kxMDhQNEZRTm5yT2RmRWJ1Q3lqLWJDc08wREszZ0tuQVItR3JYQmVnRzBMeUFkWUVkeWt0Y1dleA?oc=5",
+      "source": "日経",
+      "published_at": "2026-08-18T09:12:57+00:00"
+    },
+    {
+      "id": "hl-d2945f7512139ca6",
+      "date": "2026-08-18",
+      "title": "未来にはばたくスタートアップ（34）アイリス AI医療機器を2000超に導入",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBCazRjUkYwS3hvM2EyNmJ4U1hVLWZmSG56YTZuX180VnlFZFUtWWVPMy1FV1NsVktFaGJBWUFwbWZhZ0ZVdWFwT09ab1pWa1g3UmJRTUV1SVJSTFU?oc=5",
+      "source": "日刊工業",
+      "published_at": "2026-08-18T08:03:45+00:00"
+    },
+    {
+      "id": "hl-e17d54f11c7927ba",
+      "date": "2026-08-18",
+      "title": "AI投資が迫る事業再編 アリババなど中国テック､ゲーム･小売り選別",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE92VmU2ekRJeFc4QlVPTDFCSDBDV21hSjBTZzBqVmRQZ3gyT2xtaUsweUlSQVJIRXZ2SDNtWXIzTm1LdHdsTG9GcmpSSDhMeWtVNk80WnBkdVRfZF9VR1J0SVJTMGpTcTBCaHRpRg?oc=5",
+      "source": "日経",
+      "published_at": "2026-08-18T07:51:19+00:00"
+    },
+    {
+      "id": "hl-7a271fd73efd493d",
+      "date": "2026-08-18",
+      "title": "AI半導体、推論シフトで業界地図に変化 新たな動きを一気読み - 日経クロステック",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zamxsRkdFTlBCLWlZZGNoZWRRbDNYbkU1ZmZkd0xLUmtGR2JvTGQtbzRLOU8tQ2hVWlEtdUlJWUZOUkVOak0tZmxBVlN6cmE2MHFIWnJJcjI0ZmpDa0xIZl85MTFlTS1KQkE?oc=5",
+      "source": "日経",
+      "published_at": "2026-08-18T06:00:00+00:00"
+    },
+    {
+      "id": "hl-723e705974a6b9f9",
+      "date": "2026-08-18",
+      "title": "オープンAIのデータ拠点賃料、エヌビディア17兆円保証",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoWHEzX1pWT3FBN0VfSzFSLWtXVjE2a05wRXAzOXdzX0xoT29idWJhZ2UyTHVYaGExaks5U2tHalp0eUcwam1BNnRicEYyaXEzbW9FalRkdWNKYzZ6MlNUcjFPZmxoRHhXQVFoNg?oc=5",
+      "source": "日経",
+      "published_at": "2026-08-18T05:30:00+00:00"
+    },
+    {
+      "id": "hl-5dada6bb33fc6cda",
+      "date": "2026-08-18",
+      "title": "アリババ、ゲーム事業売却 AIなどに経営資源集中",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ILUZoOEtIU1J1NGd3NDRVdHJlUEpWTDJpbmhTMzhlNVpWM09kM1c3WDd6bURXQkpTelZfdmJmb3YzMGFROEpUTVpTd3YyUXoxODdXVjlQc0djNFQwWU9GdVBHeURZSUh0UzN3dA?oc=5",
+      "source": "日経",
+      "published_at": "2026-08-18T05:30:00+00:00"
+    },
+    {
+      "id": "hl-59e5dea1bcc32f71",
+      "date": "2026-08-18",
+      "title": "米30年債、5.3%台に 19年ぶり高水準 日本の金利上昇波及、財政・AIにも懸念",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9US291X2ZVaE9QWnhiUDJiRm9oYUJTT084akxkb0JHOTRNbk1vdVlsUGV3MTIxZ2FweE5DYnJqUzVfMm41UU9ZZS1xcThnelM1Y1NQN3ZjX0d1ejI2TFJoZXprUHgxUkd6aGJoZQ?oc=5",
+      "source": "日経",
+      "published_at": "2026-08-18T05:30:00+00:00"
+    },
+    {
+      "id": "hl-2ec86d7d6d239497",
+      "date": "2026-08-18",
+      "title": "主要企業の27年3月期、2割弱が上方修正 AI半導体で強気見通し",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TNUIxSklERWljdFZYRlp3MVlEM1dpOEtrWWNyTzg5WjVVRjFYZ25wVmE1emNsa0haVFppTGhONFJCdnJKU0EyRFNTaHFhSlpJYjVmTFE1TVMyZW05RHRyRkx3ZjdkOVZMaFk5Yg?oc=5",
+      "source": "日経",
+      "published_at": "2026-08-18T04:43:11+00:00"
+    },
+    {
+      "id": "hl-847177e8c0ffe3cb",
+      "date": "2026-08-18",
+      "title": "Why China’s Affordable AI Is a Worry for Silicon Valley",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNHlXQnR2VElTbFIwRjFSbm5aVW4wdTJHWE9LdnAyLWZSbWh2WkF2R0J4d1Q1Y2xkenF3ZVU1WmlpX0w3dzQ0TEpRbHBRU2MzVUsta19LLTdQZk8zY2JsY3dVLVFMdWpPRmRuNHdGUGlwT0o0UElVSWNRQzd2bXMzSE8xVTd3Unl6dzREMEFCc0FPSFJRUllhU01aelRSdk14a292TTIteV9uQnpVYThGTDN6Y043SDI1M1E?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-08-18T04:01:00+00:00"
+    },
+    {
+      "id": "hl-9f9d59fc33576348",
+      "date": "2026-08-18",
+      "title": "AI's Original Sin Is Written Into Its Training",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVlVjdFZQRUIwaVJNQzNkMDhnbmdPTGpnWVRBWnl6dDEzUnVGcElCa2Y5LXFxUEpGYTd4dEctdDhvN3pBVk50emx1b2FJUkZMdzI3bjJtbDFLUm9IcVZuYWlfVEc1anZISXRNZnRaS01ySzdaNG43dW9IclFLdWlHWmRkRy14blhoQTEzWFpZRUx4VnpmUHNzREJaUk9LLXlETnJzSFFSbTh3Sks0b2gxV20tMA?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-08-18T04:00:00+00:00"
+    },
+    {
+      "id": "hl-c76baa1477aa4e23",
+      "date": "2026-08-18",
+      "title": "ネクストジェンとモビルスが業務提携 オンプレミスPBX環境とクラウド生成AIソリューションとの連携が実現",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA1SGxvdk5qS1ZGaW9CT2hoUGR1UUtrWE1rWXFLNllrUFVWcnBBN1ZiUHB3S0RYVDRhZGtxMy1IYk1XNkYzRlNmX3BLY1lBbGNLSFFKOXV5bmU?oc=5",
+      "source": "日刊工業",
+      "published_at": "2026-08-18T03:05:03+00:00"
+    },
+    {
+      "id": "hl-606546007cdc9ecf",
+      "date": "2026-08-18",
+      "title": "次世代トレーニングソリューション 「AIプラストーク」が、成果へ導く“実戦型ソリューション”へ進化",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE54V2s4MGtsTXpwNHRhSlpvX1FKaXRTZVlUTnVyWjAyWnRzbUFJMzA5b1k3cm9XSHpvZ2duUEwwbkVvejRreGgxY3B4VzExMTRNdjg3bE1Ecnc?oc=5",
+      "source": "日刊工業",
+      "published_at": "2026-08-18T03:03:16+00:00"
+    },
+    {
+      "id": "hl-9332c4bfc234f29e",
+      "date": "2026-08-18",
+      "title": "【AI銘柄 決算解説】「フジクラ」「古河電工」「住友電工」電線御三家の足元の業績は？／今期業績予想を上方修正した背景／非鉄金属の大手「JX金属」「三井金属」の業績／“AI銘柄”の好調は今後も続くのか？",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBtMldBWFZkeEdKTXJmbThnWFhrTkhMTTJ6OGVjcHBDNUhGMklXSENNZDJoM1I5SkM4QmxoUS1iMjBndmpVVEk0UldyUHZhX1VGdmV3d0xYRnkxNzdGbWxN?oc=5",
+      "source": "東洋経済",
+      "published_at": "2026-08-18T03:00:00+00:00"
+    },
+    {
+      "id": "hl-4280d08f9e458086",
+      "date": "2026-08-18",
+      "title": "インタビュー／三菱UFJフィナンシャル・グループ デジタルソリューション部部長・岩田廉平氏 従業員とAI親和促す",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5OVl9SMjkxcEQxOXBKWE9KUmF1ODhwR3RWbEF3d1VBelhtV0U2MVR6cUpPNUQwYjRFX3BaOVF6U2p2Q3d2N3JHNlcxTVdKZGpJeHpyRHJ0Zm9YY0E?oc=5",
+      "source": "日刊工業",
+      "published_at": "2026-08-18T02:59:16+00:00"
+    },
+    {
+      "id": "hl-dcb4e7c4f5c5c4b7",
+      "date": "2026-08-18",
+      "title": "ソフトバンクG、株価6000円回復 オープンAIの施設料、エヌビディアが巨額保証",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YYVFDdVJsSnU3amM1NFROVm01bFZ3TUlwbFNKSDVOQnRzQ3k2eldDRUJzTE9ocC1hRFpFMlNkdDNaamRibW53ZC1lUk41RG1Fc1gtX1QwaHppOC1PVEtaTEtPaUtZaUJNbmRudA?oc=5",
+      "source": "日経",
+      "published_at": "2026-08-18T02:40:10+00:00"
+    },
+    {
+      "id": "hl-5fc960890e30f8cc",
+      "date": "2026-08-18",
+      "title": "CNBC Daily Open: Markets caught between Mideast worries and AI optimism",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaXJZV1lBYWJ3TEtFcjlWMXM2VS1xNm1OTHBlaFJsb09tNGVQQkFrMUtYSmNfWVJnaUppRkJMMXdhQ0tuWjROdm5fZU9iUk9XYlZxTFkxWFp2cWNmeFVELVhWU292NWJRY0xNcU5KOU5heDJibVByeXZqLWhIT19FY0t5djQtQnYtdXhyWmFpUdIBlAFBVV95cUxPSWE4S3ZxN3VYbWc3S3A0NElVU0hGRGV1NUlQQjFaM3Rtbm9POEJSUkR2TTFlYVdMRlBqQktFVWlvSkNjdUpkVGlmbExoVFdfRGhWZFprcVNkQkFPYkxUZFQzWVIxTXRSaW5oaF9xd005R3BIR2kzMVZBNlY5NnYtdHo0MmFucVVfT2RJZTViZXA4V19r?oc=5",
+      "source": "CNBC",
+      "published_at": "2026-08-18T01:13:00+00:00"
+    },
+    {
+      "id": "hl-bec3b0f98439851b",
+      "date": "2026-08-17",
+      "title": "Nvidia Looks to Wall Street to Finance Pricey Chips for AI Build-Out",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWFRGSFI4a3pDeGs1WWQxMmNMaTBaanlUdG9LVlhLa2otYnJzZktsTld0RXVmOTlKYVpidFNMbGhKU25vRnl1VkF2ZExqTEpncEJfUVNqZC10SzdfclR3MG9LTF9vOF84WGFNVlZxZ0FMemR4UC1WWmdsQnhNdi05V2tGXzl6RHlfYk1FY3pnMlJVOC0xV1g3S05FSjNJM1BUZWtzVTN6ckI?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-08-17T23:03:29+00:00"
+    },
+    {
+      "id": "hl-4edefce3e51e052d",
+      "date": "2026-08-17",
+      "title": "CNBC's The China Connection newsletter: Money or power? The key to winning the AI race",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdUNTLWJSZFBUUlNEY25fMWtOR0dRTm9PenVCY3dNYTVwdUtwM0EtMWFpOFVyR0k3b3NWT083VEVBQnVnTktFQl90czN0NkdkUFV1dkxHMWNQZjBZeEdGSExVZXh4b1hDQkttTjlRMjlTbVlfbFVvdXBTSnp6anFMRlBENFhzMkJhSGg3MTFzbkc1TEg4MGfSAZsBQVVfeXFMTzA5TThXbXNXZ3NIaFI2OVl4VnNXYWNTQnM0UWZOM25CVGJCVlNSa1JaclN2akZnbnVWRTZGX1dmd0ZMeFBpaFpwSmpZTGV2cjM2bEVJcjgzWVM5YWEzY1JEeVJPT1FKMFRJNV9VUElMM044ZzRyTDNKQlIxX01hRWRtX0gwNGVvX2Y4YVBxdjVfYmE4U2Rla3hicXM?oc=5",
+      "source": "CNBC",
+      "published_at": "2026-08-17T23:00:01+00:00"
+    },
+    {
+      "id": "hl-777900a08bdb5c37",
+      "date": "2026-08-17",
+      "title": "AIサーバー向け急拡大､MLCC関連の動向は？ - 四季報オンライン",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mNml5QmZMdTVRSXBzQ0JzSWZrOGR2UnhlTWJRT2stdjE3SkJRUGtibFBlU2N4NkkyYjRpMGp3UUFmVEFBSGJ2aU5WQ0lRbXFjTDg1N192Yw?oc=5",
+      "source": "東洋経済",
+      "published_at": "2026-08-17T22:00:00+00:00"
+    },
+    {
+      "id": "hl-3f1062d813063f0d",
+      "date": "2026-08-17",
+      "title": "東大、AI導入・活用推進役育成講座",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ZYkxSN1ZrWU93ZHdrcWNiLS0tanUtMTZIb3RENjFtd0V1UFlvQTBHZUZMbDBjMHYwQVRXdHdtSUFyQVJmODVNYkItemtpdDVaQnpnODNSNjJCeTA?oc=5",
+      "source": "日刊工業",
+      "published_at": "2026-08-17T21:56:49+00:00"
+    },
+    {
+      "id": "hl-eaad13d648f1b96b",
+      "date": "2026-08-17",
+      "title": "Music publisher sues Anthropic, Suno over AI training",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUzBuU0RkY3lGY0pYZmM3c05LVVNLSUFqV1FfN0hqU053a21tRTYzanpfN0IwOThYTWNUV0ZuWXM1Q2pXRnlLYXhkVnVLMGxTbDlpZS00X1RzV2o0ekkzbHVpc0FLeFgzV0U4SGl1bm0xSk01cVJ4ZVdGOG93OFQyRTJvT3l4Zk16RXlzZk1KTHJHaDNKSVl4Z0VuRER5eC1BUHFWclZXNjF4bWhr?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-08-17T21:52:23+00:00"
+    },
+    {
+      "id": "hl-c75dbc07f148625e",
+      "date": "2026-08-17",
+      "title": "米、AI開発で陣営選択迫る 中国の枠組みから切り離し",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XUXZNdkFIV1BTeDBqcEZBNmpRTG04TllZaHdiZHB5WFVxYzU4cHZwTER4R1ZGVkp0dFJISEJXMTdmMDJMWG03YXBLemk1aDJkZkNGbVZoa0x3RlU?oc=5",
+      "source": "日刊工業",
+      "published_at": "2026-08-17T21:51:59+00:00"
+    },
+    {
+      "id": "hl-e9ec1df7727ba6c6",
+      "date": "2026-08-17",
+      "title": "米30年債19年ぶり5.3%台、日本の金利上昇が波及 財政・AIも懸念",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNT2NUUnNjY2hfMk05UVU3RE9jUlNXRUVKYWNsRXNReDBENFYtWm1lZDRpXzc1TFRVTkhvRFZFazI5eFduMUpSc3M0OFpqY1hkLTRqMU9YRTVUaVdvdGlaYXRBNTVQLXBTbUVmQw?oc=5",
+      "source": "日経",
+      "published_at": "2026-08-17T20:56:09+00:00"
+    },
+    {
+      "id": "hl-7083f6005527e41d",
+      "date": "2026-08-17",
+      "title": "〈実はAI銘柄〉京セラが｢アメーバ経営｣をアップデート､多角化戦略をテコ入れ\"AI関連事業\"をアピール",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSS3g5Y1FMZ2I3V0Z3cE1SLTJMeHFXY0VZMTJ6WWpxWC1BalFudlVLU1N1M1J2THN3LVRYeWNLWk5iZ2hGTDJ3T29ScFJSbnM5VFdTdElGdTRDcHc?oc=5",
+      "source": "東洋経済",
+      "published_at": "2026-08-17T20:30:00+00:00"
+    },
+    {
+      "id": "hl-53a552a36bc4e84c",
+      "date": "2026-08-17",
+      "title": "〈実はAI銘柄〉京セラが｢アメーバ経営｣をアップデート､多角化戦略をテコ入れ\"AI関連事業\"をアピール",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Sb2tFVVRlUjEtMENVazdELU1aUGNXaV9VelBzay1lMElPSHVvM2FzOHNtbVRDbC1vUHZfZDM5WmdjZFBuRWUwQTZ0THk5c0ZjdVZ6Y1hteXpuLUJvZ1ZR?oc=5",
+      "source": "東洋経済",
+      "published_at": "2026-08-17T20:30:00+00:00"
+    },
+    {
+      "id": "hl-712896ee5d51a142",
+      "date": "2026-08-17",
+      "title": "Opinion | AI Makes Me a Better Writer",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAyQy12bWsxaW82bk1oQnRKeE1FN3J6M09yZlJ2ejQyTXlVR1c0Q1VrMG5mc0oyV3pMNnQ4Z1BuOThpaHJUZVdUeFVSVGZCX0RRb0MxNUJBaEVwM01lblNCV2NacTVlbHNzeUo2bDBiZ2JJUQ?oc=5",
+      "source": "WSJ",
+      "published_at": "2026-08-17T20:20:00+00:00"
+    },
+    {
+      "id": "hl-3b7ae85266e99dc3",
+      "date": "2026-08-17",
+      "title": "工場2.0 価値を生み出す現場への進化論（6）人とAIが共に成長する事業所へ",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JdEFDUnZJVGxWanp0ZGlIcDFwOHVLbDB3ODdEc0YtMnNKVndDcUtzVkpvNEFSSU9rNE5nNXhfNG1qUURJaWpGa1dYRTNVenkzNWg2ZmpkakdDa0U?oc=5",
+      "source": "日刊工業",
+      "published_at": "2026-08-17T20:07:10+00:00"
+    },
+    {
+      "id": "hl-b23082926fbe3f9a",
+      "date": "2026-08-17",
+      "title": "富士通、専有環境でAI活用 地銀向け基盤開発",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPNlo2MERoYndCWTJzMld4SzBHQS1OaDFXNEhJV1ZEY3lVaUtDSjJseHRXeFlsd0JRV2wyMUp2UnNGejRBQTlzcDN6bThTSHdQN2R6dFJZcDhISmM?oc=5",
+      "source": "日刊工業",
+      "published_at": "2026-08-17T20:05:54+00:00"
+    },
+    {
+      "id": "hl-ecbfbdd7a3690ba5",
+      "date": "2026-08-17",
+      "title": "社説／人間とAIの関係性 あるべき形の整備へ議論さらに",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1EQVhNQVNmeU1JOUdHeWE4LWVyYWxaTlcyWlJkNjBDckJwQnF5QVFzU0ViTnBFeGd2SzhUcnM1U1kzY2M2NUU4NmdMRk9rdWdvazFETVNkM0Nlb2tHOEx5OVhRNUxzNzRQYW9HeV9ZOF9RMldK?oc=5",
+      "source": "日刊工業",
+      "published_at": "2026-08-17T20:03:50+00:00"
+    },
+    {
+      "id": "hl-f888b735b9f82bce",
+      "date": "2026-08-17",
+      "title": "ゴールドマン、「隠れAI銘柄」に テック企業の資金調達追い風",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1DUlhESGdGX2VxNUdzeU1sVG4zSjlaLS02aEd4ZzZJLWtIYXExZ3VwTTh4dDJybWJpNUFBSEhtMl8tSG9KeVQzWmJzVG1QTHkxcldyTkR1N2pKMGk1SHVCc1BqT3BxV2ZNejBodE9RZUtucmk4ZlFIUlRvX1VEdw?oc=5",
+      "source": "日経",
+      "published_at": "2026-08-17T20:00:00+00:00"
+    },
+    {
+      "id": "hl-a37f949ee7413833",
+      "date": "2026-08-17",
+      "title": "中国版NVIDIAに収まらぬカンブリコン、独自戦略で挑む「CUDA」の牙城（2ページ目） - 日経クロステック",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1uQjJSRzc5cllHVVJMUmluaG50akEyU2dPSkFnOHlWMnZaT2JCRTNFNm96Z1phSXZSQ014bktRT2NqN0Z4dWlzZlBSQzdzcWJJN3NVX2Zza2tkRXQ3MnU5aG5PbGpMOGhLN2hyTEZBZkJ0Zw?oc=5",
+      "source": "日経",
+      "published_at": "2026-08-17T20:00:00+00:00"
+    },
+    {
+      "id": "hl-9e0ecc4958de7875",
+      "date": "2026-08-17",
+      "title": "産業春秋／洗濯機とAI",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4yMDVURm9zS24ydW5Ja3dhTzVwcThYZmZBUjdJTTFxLXpUb3VhbUtHekVqN0xScV9MOVF6ZlBIWXYzMm93TnQ0RlJ6WDhzMHNlU3d2ekNpbkNHM1E?oc=5",
+      "source": "日刊工業",
+      "published_at": "2026-08-17T20:00:00+00:00"
+    },
+    {
+      "id": "hl-8e79531d82176f9b",
+      "date": "2026-08-17",
+      "title": "光電融合の業界地図 「基本」の22社、NVIDIA対抗や専業",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWERrQlptcFpjSjZVd2kyczBlMnN0T25nVkJiazdrb0l2WkZYSTVORXRpMVE1NkxRczB1OWxWbDhveTBiU3EwaVkxRDZETzc0T0xpbWJTcnN1TzFuUWhNMU96bXNtMmpTN0VXcVBoU0tBVEVid3BNYm5uem8zdjllLWJQdzBBUkE?oc=5",
+      "source": "日経",
+      "published_at": "2026-08-17T20:00:00+00:00"
+    },
+    {
+      "id": "hl-76fb9e0f193c5218",
+      "date": "2026-08-17",
+      "title": "決算:4〜6月の最高益530社、AI特需と構造改革が寄与 旭化成は5年ぶり",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE50b3ZsU3BpLWhjclNHSE1oNTJuaE5VSzA0RnFJVnkteGN1aGFnd2pMRVhNSjBPaWQyMlZjek8yUENhZHZpbkxGTTdHTTZHUEVTYWZUeXRiNmwwU3loQm0zdTJDMzdiR0VkbENmTQ?oc=5",
+      "source": "日経",
+      "published_at": "2026-08-17T20:00:00+00:00"
+    },
+    {
+      "id": "hl-2a377f6186c644ec",
+      "date": "2026-08-17",
+      "title": "AI時代支える「地下水のプロ」争奪戦 米国では年収1億円も日本は人材難 - 日経ビジネス電子版",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1OTFRPb25aZGdqV2pWWm80WjMxUU9UREZuLXhneTRQSU9TeGNjQ2JrSTJfWEI5Y19HNUtXdDJDVnZfMlZHV2FrLXlWSmM3a3hocWtYZEVVMG1zSzMwanlGVmx3cTdUQnUyMjFQRg?oc=5",
+      "source": "日経",
+      "published_at": "2026-08-17T20:00:00+00:00"
+    },
+    {
+      "id": "hl-1c224cacfe19b746",
+      "date": "2026-08-17",
+      "title": "Nvidia to provide up to $105 billion guarantee for OpenAI's Ohio data center",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZkxQZ0FIUUQ0X2p6bVF1NWw1eF9PQnBtRVJVbUk4eV83UkU5X0JjdmE0RnFDdkZOLVJNWWlCejVmOTdmdTFoT3FGWmhGOGVYdFdwcXNwWlAtaEVNRnFPYkZFVzhmY3ZBQ0xERGUtWFF6QWdxcVFqR2k4dkdDTkJHNURIdUJ0Rk05NE94ekVPMjYtaWNodnItODdIdGU4Qmw5bndYZ095UF9nRFc5RnRheGxtNXFCM2VWbXd5M2pCTGw?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-08-17T19:36:14+00:00"
+    },
+    {
+      "id": "hl-28c99766bb0aced5",
+      "date": "2026-08-17",
+      "title": "Pentagon pressure to move AI faster drives Smack's new funding round, CEO says",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNY1dTS0lqOUpOSzY0S1R0eGJWS21MajNPNXVySXpTMkdWRVVhcXN5cWk0dnFnZkxEdUdrS1ZEZ2g3LXpjZFdqZVhERGdUSURLVTE2MUNOTHRNSFhTcmNoY3dMSzFfMnAxamx2Q3NQYXdlNWlJM0hjUF92REN3WE1hZUtEUzQ3SnJ2VXplS25nbm5zMWZyNnBqbktmMXVPZl9xWUVBRnJTMWJGTE1YZUdJTncza1lFLWxjaFFfcA?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-08-17T19:24:31+00:00"
+    },
+    {
+      "id": "hl-7755aa366722bbb5",
+      "date": "2026-08-17",
+      "title": "NVIDIA、OpenAIのデータ施設料を17兆円保証 SBG系が開発",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9SdFIwUEwwTWtqX2F0NmFURWFGSUk2WFlGd3ZvZDdoNjR4azdrZXpSdXBaUGM1enhjS1BSdFJFMzFtZVFQTUFVOVo4TERjcmZJa0pYeFRkMVpKZDhwbnlXZVZzcEpWMUtXWEJJMQ?oc=5",
+      "source": "日経",
+      "published_at": "2026-08-17T19:20:26+00:00"
+    },
+    {
+      "id": "hl-c4d0fe0aa6fb4bc0",
+      "date": "2026-08-17",
+      "title": "Wispr Flow valued at $2 billion on investor demand for AI voice-to-text startups",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQM0dxM0lyTkVyZENsWWJSOXdyODFIeS1aRktWN0JBZW1NenFqOHVSMVY2S2dDUGYwcU5YY0xyeWVQb0lpTEdvYVFxQ2NKM3pZSDdQVWhjU1NYT1BKSHlVaURiWUw3bmJPVmkxQk0xemRaWmdIQXZsMzZSaUN4V1Z4WEcxOS1EeVQ4VnJoN1hibGt0bnhBaXFYLTF2cw?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-08-17T18:55:43+00:00"
+    },
+    {
+      "id": "hl-d1c6f00551f8842c",
+      "date": "2026-08-17",
+      "title": "Nvidia Will Back First Phase of OpenAI Project With as Much as $105 Billion",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbnV3M294MnVTMGVUMHp4bGpwd1FGeHhsV1pnbWJKUU95NUtXUzEwTHY4THhKNDNuOUhoY21uTktkVWxmSngzZS1INTZkMnd5OFRzbExwRzlqNU41djk2UHJ1bmZNaFBaSmsxSURma2huRzFhR2RDY1g5S0MxQW9Rd0ZCczZIeUNHQnpFQVF6b1k1bUltZ280VTRWdnVnSlpkeHJPbHV0M0ROM0RsSDFfUlVRWGpJMTQ?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-08-17T18:40:41+00:00"
+    },
+    {
+      "id": "hl-88eb3791baeb85ef",
+      "date": "2026-08-17",
+      "title": "Opinion | AI Helped Me Find My Voice",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9yeE1wM01NUmh5ZmtVUVhDazUzTkVOTEcyV1JuWWRxTFNIbzAwUnlIaUhuLXotbU9GXzZyTnNocG9jTE1YNXdCWVllYndPczZCTXlBOE9wQnMtMkF2V3hOQmMtRWtMazhmR18wSGxsOFk?oc=5",
+      "source": "WSJ",
+      "published_at": "2026-08-17T17:57:00+00:00"
+    },
+    {
+      "id": "hl-a84903a73609476d",
+      "date": "2026-08-17",
+      "title": "AI Enthusiasm Fails to Lift Stocks",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWUVTb1JsTmxxRTUxSENvaXg4bzNUVy1UT1ZPaTJuUko0UUV4TEZWX3NVZldOcWp4ODlHOVhoTzlUMlh5UW13bE5XR3FxVWRxZnp0ckg1ZUtYT1pWSlpLQlBpT0M2ak1nUXdLOXpnc3preWc4U3QtZjhjZy1XSW1jVDZWOTNIU2gwVk9nS1E3eFN6RGRacXhsTkZLZEViYlFKUi1j?oc=5",
+      "source": "WSJ",
+      "published_at": "2026-08-17T17:12:00+00:00"
+    },
+    {
+      "id": "hl-6ef2739fbdd85df9",
+      "date": "2026-08-17",
+      "title": "中国アリババ、ゲーム事業売却 AIなど中核事業に集中",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9uVksxY1VZV2hIYnZTUmV2RlN6N01PblZaZVAyR2ZDM1RZZlNUaHcwc2dYRlRmTDNsbkNIdEp4Zm4xUUhrdkI3bjc5UGkzSEpMWUIxWXFwYU1UMi0yMkI2QXQ1M2JxbnhjN0hkYw?oc=5",
+      "source": "日経",
+      "published_at": "2026-08-17T16:08:44+00:00"
+    },
+    {
+      "id": "hl-d66de0187d791078",
+      "date": "2026-08-17",
+      "title": "Minnesota defends AI ‘nudification’ ban after lawsuit from Musk’s xAI",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSlNuOWlXZzFnVk5uSXJBTF9IX1Z1a0JrTThWQS0yVDAxZ1hGS2hkZzdUaEhTaUQ1bEtsTU1HY1p3YWNvLXpoZlNzUHNOakNDVTR6cWFLbkNXQUNOalFWZGRlYjhwVjh5OEt0cElYQTBFVHBLeUd1Y3l3MHBvUWszYXcyZnhrOGoxMWtZMWpJVm45ZmVFaWZzajliU0QxWTl2Y0wyS1BDLXdwTENSVURtV21ZTzY?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-08-17T15:49:27+00:00"
+    },
+    {
+      "id": "hl-d21219bb5c3a6d4d",
+      "date": "2026-08-17",
+      "title": "Alibaba is selling its gaming studio for at least $1.5 billion to help fund AI buildout, mirroring Micron's exit from consumer business — dumps entire stake in Lingxi Games, which made 'Three Kingdoms: Strategy Edition'",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/alibaba-sells-its-gaming-studio-for-at-least-1-5-billion-to-help-fund-ai-buildout",
+      "source": "Tom's Hardware",
+      "published_at": "2026-08-17T15:39:28+00:00"
+    },
+    {
+      "id": "hl-74f3c873f093e455",
+      "date": "2026-08-17",
+      "title": "Nvidia financing initiative follows SEC guidance that takes sponsors off the hook for data center investments",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSmhZQ1VNYmQ4UnAtZmpGSEo2Nmk4NDhvOVlRZWNQLXEwWGl4QjZSU29haEF1eFJqRkZyTkIwMUU0N19RR0d3VnJFdUpBdTh3VkgzUGhKSU5TZHUyOVJxVU44RnRjZThKZzd3a3R6a1NWYnpMQzJBM1hJSlBWSXAxSU10NFNQTVh5LV9wS1RaTVRPR3FOaDk3Q25pQ2NxM3dYV1BIMVJ5SkMxRlY0RnpJaGN2M0HSAboBQVVfeXFMTllXYnplRXdNQVN1TXFJN1pYTVBaMTZQSTRZVFo5YlNSZm9RSXdLRmQzX1lmVmVyem1wT2wxMXFDUHhXcEZZTnNQZF9RSm1DUThDLUxMbWZ5dnQ4NGxDOXIzVkJHMnl1U0xlNnJYbUdsVDFOWWVrMllzUW15Nk82cS1SOXlXT0hNREg5S2JxX01aNlB0dmQtamdiZHNkeHZwX3R1NGFKazZrc0FiZmEwQlV0anRhczgwNUhR?oc=5",
+      "source": "CNBC",
+      "published_at": "2026-08-17T15:34:49+00:00"
+    },
+    {
+      "id": "hl-87c0bb4b9a0d7e2d",
+      "date": "2026-08-17",
+      "title": "AIブーム、米脱炭素に逆風 データセンター急増でガス火力回帰",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5OWWptbEQxWDRUUVo3SGVSdTI0YmQwZERiSUprSE82Mnh5b3djWWpFSk1QSkpNa0pUQl9JMTlLcm9wWHdEZjVRdWdZQWx6ZUhLVEZnazNoMFBNUUNBYlNPamp3Z2xyNGJ4cGRLaXdvY1JjVENXS2Rv?oc=5",
+      "source": "日経",
+      "published_at": "2026-08-17T15:00:00+00:00"
+    },
+    {
+      "id": "hl-7ee83a53221a683f",
+      "date": "2026-08-17",
+      "title": "「AIリーダーズ会議 2026 Autumn」 9月1日・2日リアル・オンライン同時開催 - 日経クロストレンド",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB1R3JMTDUxb2ZPRzN0SDdhdkRQZ0pvdVY5cDNoSWU2NnJnX0NTTmhPenFwQ1FKZjZ4X1Nrd0VRUl9LajlrejRLMW9lQzRFNFdiMjVUSEtxbkU5MURuWnFoWmNURXZnYlNzVnVLWEtPRlk3TE9yNmF0dQ?oc=5",
+      "source": "日経",
+      "published_at": "2026-08-17T15:00:00+00:00"
+    },
+    {
+      "id": "hl-544e77779b908b37",
+      "date": "2026-08-17",
+      "title": "ByteDance signs AI copyright pact with Hollywood trade group",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdU1ONEFWUlFsY1BRU3JteFBXbXd6YUx5NzBpMlRfZVdKT0xESnZ2cUxXckpiaDJ6S1BVek8zRWhlVmxkcEM3TEdpZVRSZmlSbUljWHRYUkhodnloNGd1bHpTeUU4dkhYLVVJTWZWQ2ZKSVIwN3ExXzhYNVdDcTJUeVdMNmRVeW1ER1N5dlNzbjllZFdPZ3VuUjdpUkJKR3RFNHZlY3J2ZlREY3RUVzM3T3Z6TQ?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-08-17T14:52:28+00:00"
+    },
+    {
+      "id": "hl-7c20a10dc01b1785",
+      "date": "2026-08-17",
+      "title": "Nvidia backing $105 billion in financing for OpenAI data center in Ohio",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONTY0SXEyaEQ3Q1pRaUhyaVdKNzBHWUJNNVdQX3V5SHRSWVdfYmYzTWJpQjhKVHd5OGRmdjFzT25reUNJX21IWFc0Z2FwY0hQcWFSRm16bURnUVVydUVuT2FDYy11TmV0T09nMDJEdVBsbTdvRWN0ckoxQ2p4b3NPRVVSd3TSAYoBQVVfeXFMUGE1ZTROeEprR2lWenlwXy12a09IbkgwRGdzQ1lTSlhzSzRUb2M2LUF1OXVwT1g5NkxMeEFxX2hleklhU0Z0Q0pZVE40eDVNT2xzRGtFQnp0U2luSVQ3bjlGMkpYNlV6UzVSRXBqUXJqV2Q2SHpkdFZIWDdSRUk1R21LbThheEN5c1VB?oc=5",
+      "source": "CNBC",
+      "published_at": "2026-08-17T14:10:16+00:00"
+    },
+    {
+      "id": "hl-d1d6f99a71f7bdae",
+      "date": "2026-08-17",
+      "title": "ORICO、10Gbps・7RAIDモード・最大120TB拡張対応の2.5インチオールフラッシュSSDケースを発表--ビデオ編集・撮影現場の即時バックアップに最適なプロ仕様ストレージソリューション",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9LVlpUeXdqRUZza1N5U2sxREhjTVYxR1lkNG9uUDhtd0ZTeF93a2RyTHd5R3JTSms5THNvR0tjQVJDRENscFVhUDJkRFdYTXVFeEp4OWVtdDU?oc=5",
+      "source": "日刊工業",
+      "published_at": "2026-08-17T13:36:00+00:00"
+    },
+    {
+      "id": "hl-8bf441b98c8cbfa2",
+      "date": "2026-08-17",
+      "title": "OpenAI Locks In Lease for Huge Data Center in Ohio With Backing From Nvidia",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORTBKNEtxM1Y2QUJrZFFUZTZuempoMEtpM21jVjVjS0JNMVpHeUhSN1RxeER2YzY2Szh4NXpRRElWVHpmMVF3TmpFNHo4dFVGR1p0Y2VQQmtwS0JmN3JSR0NhUnk4LTJ3WDBmRWwxNVRhUGw0ekl3dklxNWxFdi03Z0t3dk1lTnB6YTM4OEJXeHNLc0pTZ3FXeVgwOXBOT3lZWVBONFFtREtPNGNpYjJNeGN6cw?oc=5",
+      "source": "WSJ",
+      "published_at": "2026-08-17T12:48:00+00:00"
+    },
+    {
+      "id": "hl-b960db299b844617",
+      "date": "2026-08-17",
+      "title": "Albertsons Says Its Shoppers Are Buying More—Thanks to AI",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUFFONW5pd3VEWmRXYlRJaEZFVV81TG54U01iQXRJZllXRzRpRDVfWHI2M0RiYjMwcmNfTWktYTQxSGVFWnAySzN6aWJKUHFWanhabmM2Z2hqaUZNc3Ruc0NLMjJWZW1Cb1NSSDVjT0dZWXNodk9fT0JUb1paNjVzd3BENzBRLVVwcnB1SkZScmgyMktyNk1DMEc4QVpzZw?oc=5",
+      "source": "WSJ",
+      "published_at": "2026-08-17T12:20:00+00:00"
+    },
+    {
+      "id": "hl-1977d890bd7eda28",
+      "date": "2026-08-17",
+      "title": "Alibaba Launches AI Music Generation Model HappyShrimp in Beta",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZDZsOHkzSkN3ZlpadDhSS1ZlMm91SWVwQlNyMUZlQ2VrM19XbXpFNE5oOWdYV2lXdXdlUFRMM2x1MlZ6SzhWNG5ENnd4ZXg3SVNtM1VSSGtrZ0Vma0daQWl4eV9Pel8yOXZNckFXYlRNb3BvRFNxcFh1cGstTlFULUg5UFJkamFndEg2c1A3M2UtZ3lXWGo3SkltWXVGVmxfazJhV0ZhQnppaDY4NElTVTJ0SQ?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-08-17T11:55:51+00:00"
+    },
+    {
+      "id": "hl-875a1cf5755a9f2f",
+      "date": "2026-08-17",
+      "title": "Higgsfield's valuation soars fourfold to $5.4 billion in six months on AI content demand",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQU2JUdkZ2ZjZ4enNhT1VXa1pXU1NtbjhPbncyUDNZZTZWOC1zb3E4akhtN1pkenY3LVZpYzdCY2xna2NIMFRkRG8yQklDTW5KejV2TjZJT1dsaXk3NlFDcE1YWks3aVRPbklKVWJxWTAxUmNKOWx1b2t3WWxmMXA5VEIzdTNlMWdVVTZKMFNkWTZDQWVVNFNXdGFlc0l1QTFoQkRBNGlvT3l5dC0xSTh6QWYwSV96TWRLUm9hdGtUclpfejZfQWdpUzRFczBpbjVK?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-08-17T11:49:43+00:00"
+    },
+    {
+      "id": "hl-cabc3f62193eaf09",
+      "date": "2026-08-17",
+      "title": "Alibaba answers Meta’s AI challenge with new laptop-ready model",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNGFodld0bUNaak0zcjNiZU5MbmF6NWhrVjIxTFl5Tkl1MEFSOENuczNza1cwRGFnSXlTcU1sLUJmeWJMTjNOUG1RTFBzMTNMRGJsQzFHTlgzbkp3cmIwdy03N2tYd2RuN2Z0QnZzUGxWTmJJM2lWMVVIWkk3MUFkcjNtWkFqVHBlVjEw0gGQAUFVX3lxTE9LV0xtYUQ5UXpDNVIzYXk5VXVrUGREUFBQSlJyS0NDNzNkdDhSeVBXZkt0QVBKY09TOUtldVpUQjA4SEQ1UmsxaVpaMWdGeWFHdUg5MFVqTTRkRFItRTFWU2FiY3NSRjBMN0NDLTJMNXkwRTJrdi16OTlPd3VyU3RZeFZINEV2c29IeFFUSkhvWg?oc=5",
+      "source": "CNBC",
+      "published_at": "2026-08-17T11:24:23+00:00"
+    },
+    {
+      "id": "hl-7281bc130ce95a8a",
+      "date": "2026-08-17",
+      "title": "AI data center optical interconnect market to hit $144 billion by 2030, an over ten-fold increase from 2024 figures, according to new projections — silicon photonics expected to account for nearly two-thirds of revenue, driven by co-packaged optics",
+      "url": "https://www.tomshardware.com/tech-industry/photonics/ai-data-center-optical-interconnect-market-to-hit-usd144-billion-by-2030-an-over-ten-fold-increase-from-2024-figures-according-to-new-projections-silicon-photonics-expected-to-account-for-nearly-two-thirds-of-revenue-driven-by-co-packaged-optics",
+      "source": "Tom's Hardware",
+      "published_at": "2026-08-17T11:20:00+00:00"
+    },
+    {
+      "id": "hl-47780464aa7acea5",
+      "date": "2026-08-17",
+      "title": "Jパワー、データセンター事業に参入 北海道上ノ国町で27年夏に稼働",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5vdTNWSUlCRWZ3M29Xd1d4dWhFMktKWEZZNkZtRWw0MVBTVi14VUxocTZ2X1dNbEVfM2x1TzRxWmFoWkxMYjhSeVl5aWZaUGV1NC1zZWRKeVI0dHFsTFIwdVV4UWNYTFUzT1JSdg?oc=5",
+      "source": "日経",
+      "published_at": "2026-08-17T11:05:12+00:00"
+    },
+    {
+      "id": "hl-96102dafe049b0cd",
+      "date": "2026-08-17",
+      "title": "At Beijing AI-themed bar, DeepSeek tokens come with the pints",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQnRfS09TOFIza3VWYzJ2bHJwa25BOThFODJFdTlFWF9LWWtYNGp3S0VaTkltQ214ckZrMFBZTXFFLVhST1k2UFZqLTNiUGR2WEo0Y2ZLaU9Id1F0TXFLbWdBd0ZSRDU0QUhnVzR4RTVmWXU3Sy02dkxzaUpPLXhOOWN4V2E3VThNd1pwQ3J3cThNX3NYY1hQU1k0dXlZeGR0eTlYME9pRjV2ZlJj?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-08-17T10:09:43+00:00"
+    },
+    {
+      "id": "hl-90684e6fe1ba8938",
+      "date": "2026-08-17",
+      "title": "Trump crypto firm backs venture offering AI from restricted Chinese companies",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTHhDcEM5cGN4V2duaGh3RmNtbVZndFdfWHBjSkF5ekRiN1JBVnRULTBUeTVld0I3czliYWZsckdXbVJfLTdJcldxY0V1VnV6NU1sME1uM3BWLUttZzR4RDVPSkJsTXlRQkRSTkFJc2pLelNEYXNBWHpUX1BGdzFBTGtmaFFwdE1DclphZDZncHMyTk5oNmFZSWhQRmVrUHdkaFpCb3ZBWWY4eExmcGZEMkJZekFPTEI3VG4zUQ?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-08-17T10:04:00+00:00"
+    },
+    {
+      "id": "hl-718ee7b82e9b4031",
+      "date": "2026-08-17",
+      "title": "Rival AI PACs Spend Big in Florida to Sway Trump’s Governor Pick",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUzZyZnV2NGJTb3JYS3hmTXV3OXNCZVZoRTR0a2FIQ0pqYmVjakFUZXpjaW5hd3JCak95cXFUdngxWU8wdFZEUUVlYVhMVkh0dGJtMHNtOEJWZ28wdEYtLWhDSkd0WmU5TmJidXBJOTZtalNWR1VhMXFwYVRTSjFIZU9tbGdlY2t2ZlBtLVc5bGtUTEZqNDA3Ym1obEt6YWhNcGlZV1NhaUNRMUd4amtwR2ZKTnVfUQ?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-08-17T10:00:00+00:00"
+    },
     {
       "id": "hl-aafa07ef26f09a5e",
       "date": "2026-08-17",
@@ -30,6 +518,22 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBVeWlYZHdvZTJqVUVhb21jOHpzY0lxRUdyT3hnOEZmWTNmdzRvZFpaMVBPMVlMWmlUaThTVmMzeWpvcGJKajRhUGVKbnBmRnZXU1Y1R2Rqck1Uc3lxS3ZNdDQxek82WjhEUFpqNw?oc=5",
       "source": "日経",
       "published_at": "2026-08-17T09:40:29+00:00"
+    },
+    {
+      "id": "hl-5ec8b636a38bbf39",
+      "date": "2026-08-17",
+      "title": "AI Is Driving Up Treasury Yields: ‘It Just Touches Everything’",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPY21hSDF5WmpRdVZyS3lrd0pCeHJhUEdRRnRFQTl3dzV1Z0FEN0tTem83RW11RDA2SjVET1BWVTI1Mk53TUFscE5oNy1uUzRvT0NZeE1mdlZtRjZDcGF2RWZIZm5xdm5BYktGc0xJR0VmTnZXRFNURENoNm9LbUI5THltVDFrSDJKWHFjUDFNblVpTVY1a1g2ZkF5NzhxRkI0LXZhY3pNYmtaNDl2eEtv?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-08-17T09:30:00+00:00"
+    },
+    {
+      "id": "hl-1d0b9afd9e969cce",
+      "date": "2026-08-17",
+      "title": "AI Has Plunged the Book Publishing Industry Into Utter Chaos",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYWFiWDhvRzBmOTIyUW1BSmxsSFc0eDA3UzU2cVVrZ0xST2MzektGTDVaM0laOEVUd3I0OUNDMzlBb2JadFEwS3hQVGRncDVicDNtaG10R2g2b29hYW1VeTZtSGRFNDFoRVlIeXNWTkxSb3QxUlNrMGluem1kS25TeTQ5Zw?oc=5",
+      "source": "WSJ",
+      "published_at": "2026-08-17T09:30:00+00:00"
     },
     {
       "id": "hl-456d33af82933f90",
@@ -40,36 +544,44 @@
       "published_at": "2026-08-17T09:18:51+00:00"
     },
     {
+      "id": "hl-67958520fef45e92",
+      "date": "2026-08-17",
+      "title": "【本日対応開始】「30秒AIクラウド削減診断」がAWS・Google Cloud両対応--年最大720万円の削減見込み",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9nUTVCclJfTXlLNWFSYnlRZGtGZENPbUYzRDFqRkpVQXlKSDFLSVpMeXZIVkM4bXQ1OWZtUHdISjU4UzZWX24wOUIzWFZhOFBKQkhXTmJObk4?oc=5",
+      "source": "日刊工業",
+      "published_at": "2026-08-17T09:16:20+00:00"
+    },
+    {
       "id": "hl-f8d33cf94fe578a9",
       "date": "2026-08-17",
       "title": "Blackview、AIスマートグラス「BV300」を発売！AI音声アシスタント・最大80言語のリアルタイム翻訳に対応",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9FeW5WaTBqeEM2WEhzaEpkTWZZamRmemlUa1ROcmQtOHZ4Q0Z5dGFOLWZZckRtNl9Sa1hVN0pkQVlNdG9qSHNOejBjVmlpMjJNRGJ4NERUa2k?oc=5",
       "source": "日刊工業",
-      "published_at": "2026-08-17T09:02:03+00:00"
+      "published_at": "2026-08-17T09:03:02+00:00"
     },
     {
-      "id": "hl-8cfbcd1bcd90167e",
+      "id": "hl-032084566b0297b3",
       "date": "2026-08-17",
-      "title": "AI Giants Will Earn $1 Trillion This Year. It May Not Be Enough - bloomberg.com",
+      "title": "AI Giants Will Earn $1 Trillion This Year. It May Not Be Enough",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQXAzMHRuVG9laDBvMC1ibng4dkpzTTMwaWpGczlYQ2NRNVFfekRPa3Z1TWZVMmhqWWVCb2xuT1RUYXdXcnF2R3dSOXlsdFhCenl3RDczSXhiX2Q1OFVyRlNNRTJTZEc3cE1pa3JrUDN5Yy1QUzFKbFFLVm10RFFCclNrWkkxWjIwTUVJYXR3N29OajJEbnd4SDV3aU0tY3hxUkoycUpFcll2RWJERS1fTTJVdW9sUQ?oc=5",
       "source": "Bloomberg",
       "published_at": "2026-08-17T09:00:01+00:00"
     },
     {
-      "id": "hl-2061f472661fea07",
+      "id": "hl-4bc192a9c2910f8a",
       "date": "2026-08-17",
-      "title": "パナHDが示す還元・AIの次 投資家は「行動する割安株」に注目",
+      "title": "パナソニックHDが示す還元・AIの次 投資家は｢行動する割安株｣に注目",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SWlRyTW1raGZtc3BUYVVLQ1FManFCQ3hUQkd0cVJkOERFc0FyQURPWEkyOXhlVDJ0ay1JemhxOVBzVTRzMk5vbDM4TGVzZDhNbThNMF9mbXlpNUMwS2YtN05vektvWXpaZURlcQ?oc=5",
       "source": "日経",
       "published_at": "2026-08-17T08:56:14+00:00"
     },
     {
-      "id": "hl-7f31a19c14a24e04",
+      "id": "hl-ad13ca9285f930dd",
       "date": "2026-08-17",
-      "title": "画像 | 電気計測器の中堅メーカー｢HIOKI｣岡澤尊宏社長が語る業績好転の背景 データセンター､自動運転､蓄電池､水素…",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE05cUFXSUNITFVDUnp3aGdfVEJvNnliTUYxdzdGdnFRZXc1d1N1amtfc0lJZjdaaFg0MDlMNEVhOUMtWXg2T2swQU9qTFVUakpaVTFodTJnOA?oc=5",
-      "source": "東洋経済",
-      "published_at": "2026-08-17T08:00:00+00:00"
+      "title": "What the OpenAI-Hugging Face Hack Really Tells Us About AI Danger",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeXJLU0pjb0NRNEs4MjlvX2pwYndwTlJGM2NQN1AweDgzT0JFb25ya0wyb0FBVVFXLV9xdWY4SmJtT2N3OTRjWHgxdEMyWmJCS1lKMmNINE8yVjEteTNjdGRUWTRMLVBKTWtyc0cyWTh2SlREU2F1NXBiZlJkZldHYXFCMVdnSlZsLUFFcmxLNjhIanZkV2R2MXJlZ2FJOHJNdzlrM2ZHbw?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-08-17T08:00:01+00:00"
     },
     {
       "id": "hl-de94e2751ce02cfa",
@@ -80,524 +592,12 @@
       "published_at": "2026-08-17T07:20:47+00:00"
     },
     {
-      "id": "hl-a87eef73bab07659",
-      "date": "2026-08-17",
-      "title": "北海道上ノ国町におけるデータセンター事業の実施を決定しました",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE43empKZTNNZVBvY0hiMk8wNzlqZHJqOFR5VzVvalhXOGtKMzhKQUZNY2VyeEM1SVN4ck5mRnYwa1F6N1lzTjJZRmF1RUEyMk9KbDFKWVpER1U?oc=5",
-      "source": "日刊工業",
-      "published_at": "2026-08-17T07:20:47+00:00"
-    },
-    {
       "id": "hl-5a811cf24cc6d710",
       "date": "2026-08-17",
       "title": "AI動画プラットフォーム「1ROLL」が東芝テックに導入されて1年 動画が顧客の潜在ニーズを可視化",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBlX0JETnVEZVo3Yk9CUWZld19nVUZrVkFtdWJZUnBmSnp5QmpKN0FPcnVBSmxUaVN1Q0JWa1lhY29UZnBiVlRrRC1sLVQ4d3hFTWxVcDViQm0?oc=5",
       "source": "日刊工業",
-      "published_at": "2026-08-17T07:01:01+00:00"
-    },
-    {
-      "id": "hl-88c9099eea5d0936",
-      "date": "2026-08-17",
-      "title": "ドコモビジネス、AI向け専用環境を提供 データの安全性向上",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9iVUYtdlFEMDJFbGJIRUE4LWdmNHZnQjhmdjUyeEdtaVF6ZjFSc2NsbG0xWmdVcURpeHFKdXNGWElLRDh0VHdIVjJuRzVXU01pNXBQY2lrZG1NT2ZKdm5UcEptdnBDQlZ3ZG1uYw?oc=5",
-      "source": "日経",
-      "published_at": "2026-08-17T06:23:46+00:00"
-    },
-    {
-      "id": "hl-0cd920eb5fccddcc",
-      "date": "2026-08-17",
-      "title": "NTTドコモビジネスとエクサウィザーズ、専用環境で利用できる「クローズドAIエージェント」を共同開発し提供開始",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DSlV4VTJuZVVIcHQzRFR0VFpPNTNXSWJqODZpWmU0ZU82a3BwazkwVG5qbENUSFNrdDZiWjRMal83bl94Y1RTc21SZWkzUzR6c1hwOUtUemQxTnVVTnJMT1RoTTRyR05SaExBNg?oc=5",
-      "source": "日経",
-      "published_at": "2026-08-17T05:09:14+00:00"
-    },
-    {
-      "id": "hl-a6b64fbc69feec44",
-      "date": "2026-08-17",
-      "title": "Big investors hunt for tomorrow's AI winners as capex angst fades",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQN3JiYWhkcERDWi1MTllqMVduaUtTMjdkRU1GWkRKQldPbnlGR2lSenNfTmM1dmMxX1djUmQ1RFpLcHZnbFVvc3hjelp1SVROaWxReFFSREIxd0UxTGx3dDF3MUpZeGN3bWFydFZxXzNFdldtUWo5MnhEN0phclg5U0JUbk1uVlYyZDhQYzJHMEdmb0cyODBwY1BycHdGMm9WdmN0bg?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-08-17T05:01:00+00:00"
-    },
-    {
-      "id": "hl-3168f0c2ceb19b92",
-      "date": "2026-08-17",
-      "title": "マネフォ、AIコスト可視化の無料サービス 1000社利用目指す",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CSlF1QVp2Y2tIbWxzeF9RYzhTblQwZU5CcG9obG5BY2xvNXYzRVpNVDU5ZHN5UHd2b2JYNDFPaDVwdDlENm9JQ0ZKSWhJQnFaZjR5cWgzYmlRVlBaVUZuM3RCbnp5dk0yemxQRA?oc=5",
-      "source": "日経",
-      "published_at": "2026-08-17T03:53:40+00:00"
-    },
-    {
-      "id": "hl-e0a6ecea0dcdbf8f",
-      "date": "2026-08-17",
-      "title": "スパイスファクトリー、「AIエージェント開発」サービスを提供開始",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NcWM1ZERSa1ZKOXpfRFBvdm92OUFvbWFXYi1zOGhKekdRRWs3X3BjWmw3NFVfbEkzYkFzTzBlMmxQemp2Q191UTVPWmlYSk5zMEFOaXFKS0Y?oc=5",
-      "source": "日刊工業",
-      "published_at": "2026-08-17T03:06:29+00:00"
-    },
-    {
-      "id": "hl-02e9b4c8b18abddd",
-      "date": "2026-08-17",
-      "title": "深層断面／サイバー犯罪、すぐ近くに 生成AI利用、手口が巧妙化",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBzQ3NpZTNjaWFfOEtyTTAwR2I0dHdLTFRRR0dJR3J0WWRtOEVoRVNQT0N5TkF6dFliVmd4Z1U3RC1DRnRoU0FxS3g3OFpfM1JZVVBrMmUwUQ?oc=5",
-      "source": "日刊工業",
-      "published_at": "2026-08-17T02:01:53+00:00"
-    },
-    {
-      "id": "hl-5cc33d2988f6ec0d",
-      "date": "2026-08-17",
-      "title": "Alibaba to Sell Gaming Arm for $1.5 Billion in Boost to AI Pivot - bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQT1BmUWVZUElWU0FmektVUkUzWnFGbWZ4NzZZay1pcHdfOWhaV2JUWXI0RFZWOGFYWmhQVkprUGFXdDd0LWF6LUpoZzZ0UFEyQ3dLNWUtMWhuUUs0QlU5V3hWRTYyS1NpMEZWdjNMQzl4alVrWmF5V1hqSnlxdEVWUkpRcnhzTURCNF82TVdPdFEyNlNRSWlUUTZWWTRxOGgyeFpXdjdPZ3lwQVQ5d2dVbXl3ZEU?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-08-17T01:01:00+00:00"
-    },
-    {
-      "id": "hl-dfc56e038908300c",
-      "date": "2026-08-16",
-      "title": "AI企業の姿なき負債､債券市場が懸念 - shikiho.toyokeizai.net",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5rM3BJVTU3TlpoWnVTLVc2OVRvaDVmZ09LNk5IdW1kRFM1OWhPRTNlcG1JaGtFLV9GLVk4SnJZUG9YY29FNU9Qb295bUxXbkZObmVJc1VoQQ?oc=5",
-      "source": "東洋経済",
-      "published_at": "2026-08-16T22:40:00+00:00"
-    },
-    {
-      "id": "hl-28296f5089fc5a95",
-      "date": "2026-08-16",
-      "title": "KDDI堺データセンター、シャープ堺工場を転換（3ページ目） - 日経クロステック",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBIcjVHRUlyeFE1NlJkem0xOWszTEtMaDBSYXlHM2pEZFZoQ2N6NFRQcUZFUXA4LWRJNnd2aHFacjYwNHlHMXNMcWw4LXpMSERWWW50VEI2N2xBaW1GRVgxWEY4LW1tOGdGblFySVlBTlk0TUxUVTdV?oc=5",
-      "source": "日経",
-      "published_at": "2026-08-16T22:00:00+00:00"
-    },
-    {
-      "id": "hl-db854af4cc02eb2b",
-      "date": "2026-08-16",
-      "title": "底入れ感浮上！AIサーバー需要で勢いの｢水晶デバイス｣銘柄 - shikiho.toyokeizai.net",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA1THJfSFdoSDhva0h2bWdoWkxrZm1sOWI3eGF0QldrUHNKWGVKMGlrbHYxMDR4R1BhX1BFelFQci1mSUFyVXZ6eUppcm1YcVBlamJRQUI0VQ?oc=5",
-      "source": "東洋経済",
-      "published_at": "2026-08-16T21:00:00+00:00"
-    },
-    {
-      "id": "hl-e2a6565a8188906c",
-      "date": "2026-08-16",
-      "title": "Stripe Clinches Over $7 Billion Deal to Buy AI Firm OpenRouter - bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT2VMMXR1X3Jzd1hQZ0pobFMxT0gzQWFFNjFnekt4dlR1ak9lS2NUc3V2RjVodU5BemxCSmFqVDFBUUJRbHJuUEQxb1dyT3JXWk1YSi0zRDI1NU0yNTJuMnNIZkRMVHB2TTEtc0dPbjNMSnJpTm1CUlVpbmg5Q2x4X0VQZXNiZTRJcFpTdDljbHRwVVM1eE51dmt2XzNFemRqTnZMRUJFZ3ZPMDJuX0ZjZndiWQ?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-08-16T20:08:01+00:00"
-    },
-    {
-      "id": "hl-f1022a402a3dfce3",
-      "date": "2026-08-16",
-      "title": "大和ハウス、MCD3と協業 施工技能継承 AI基盤検証",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16TVFUT3hxRnJ0WUU2a21odE1KY0hlSERxbU1nVzEzOU9BbkY0OGRJbzFhNmFMUGppUDBqTHluX1hfd1ZneHlnNUZzX1hodnVJMl9pS1h0TGZUVGM?oc=5",
-      "source": "日刊工業",
-      "published_at": "2026-08-16T20:00:00+00:00"
-    },
-    {
-      "id": "hl-e5dc2fae49df514d",
-      "date": "2026-08-16",
-      "title": "クボタ近藤取締役、老朽化する水道管「AIで効率よく管理」",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5QWGFTT1RjYnZiR1BsSE1Jc1lPeVBBc2JydEV2TVNFX0dxVy1uYy1MSDdLRDQtY0tXSklvbC10dnFSWHBvTUJCanN3Y0tkeGxLcjV0QjNRaHg1aW5uZ2h2Q2pSekU4RUtmTVB2LQ?oc=5",
-      "source": "日経",
-      "published_at": "2026-08-16T20:00:00+00:00"
-    },
-    {
-      "id": "hl-c357435e39e5f4a7",
-      "date": "2026-08-16",
-      "title": "関西中小、DCに熱視線 AI普及でサーバー関連需要拡大",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NRkJSZ2VvOW8wYl9vT2NCbVFOaU9fVHZyUmMwSzZ5Mk9OOVJKcU53bE9ielMtMUlSek5Ca2JzUWliSnpqQTF0a2tjSFVUaWc5NmRHQng5RDVGNVk?oc=5",
-      "source": "日刊工業",
-      "published_at": "2026-08-16T20:00:00+00:00"
-    },
-    {
-      "id": "hl-9e9470161158c466",
-      "date": "2026-08-16",
-      "title": "先端AI攻撃「金融機関は真っ先に狙われる」 片山金融相インタビュー",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBIZk5NTkc2VVFxdmhRZ2ZjdS15NnZqellzc3NYTFE3cVpTT3NhallnSkJLRlZCZGF4ZnFfYVVFWGEyN0ZHc2J4V1VRLVljMEJXYlNjajRnNXNsYlJFLUpCZUdXTUg3OWNqV0xhQg?oc=5",
-      "source": "日経",
-      "published_at": "2026-08-16T20:00:00+00:00"
-    },
-    {
-      "id": "hl-95bb7adcb272ebc6",
-      "date": "2026-08-16",
-      "title": "AIで顔認証や玄関先の見守りができるテレビドアホン - 日経クロステック",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Ca3gxR0FUY0JSOWdvTzlxeVZvbnlKZVNBMV9jbDBhQU5YakhTRTlLOWtzMmgxRzQySkk5aEpTM1pVSlY0TEdZUXozS1dOR3V2NEpYR0FrYzNFQkNWY2Vla0dxMUZIN0U?oc=5",
-      "source": "日経",
-      "published_at": "2026-08-16T20:00:00+00:00"
-    },
-    {
-      "id": "hl-5a4c628d78f0b70c",
-      "date": "2026-08-16",
-      "title": "レゾナック、1000W級の発熱チップでAI半導体の実装再現 imecと連携（2ページ目） - 日経クロステック",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0tb093dUNOd1otbm9Xb3JNQzZzUGQwSUk1TG9lUDJZSmZyVDRMVnhTR002bUFycXh3bmcwZVEtTGtQdkpiZVE2dVJobVhNb3B3RENYS1hVdXBBMExjZGN1UG1OWm1zbGJ0WW1vUTFnSnFmZw?oc=5",
-      "source": "日経",
-      "published_at": "2026-08-16T20:00:00+00:00"
-    },
-    {
-      "id": "hl-516efd817a8a5e9d",
-      "date": "2026-08-16",
-      "title": "新幹線工場に見た「日立流フィジカルAI」 地に足ついた現場改革試行",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BWktjUU54QXZIU2h4YUdEeHNodTBPWkx1T3JtN0JDT3VnMTNZbGdkbVJsTGNNNXU0OTlxbHczVElidXFBc2dfeF9sSHZBMFFrX1lIeWFnSUFrbjZPRG9yTnBWUzVCYnp4WjExag?oc=5",
-      "source": "日経",
-      "published_at": "2026-08-16T20:00:00+00:00"
-    },
-    {
-      "id": "hl-39d775337ea3547f",
-      "date": "2026-08-16",
-      "title": "関西企業の設備投資5.7%増 26年度、AIデータセンター関連けん引",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9IemJXU29rTHVJb3ZpR0NsSnRLWDVhQVJHQXJUYVJmQjZQdnNhdEJhSlBuY2xEOXJvNDBhaVlTX1JEaG9uNDdBanphUnd1WHZEZ016TUZnNi1aYmV6ZTBTRDR5WVh0LTFiOFZtdQ?oc=5",
-      "source": "日経",
-      "published_at": "2026-08-16T20:00:00+00:00"
-    },
-    {
-      "id": "hl-1175278259b1c6b5",
-      "date": "2026-08-16",
-      "title": "レゾナック、1000W級の発熱チップでAI半導体の実装再現 imecと連携 - 日経クロステック",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUVY3WUN6Ti1BVkQ5dS1PQVpuU3dZQmlDaVktTk95SkhLVnpFOHRKd19veHBpLVNwM1VMSTAtTm9xYTNPNUxRbHV4dmtBRnJQb2dtRWxSVjhIQy1yWjRpbWw2VkNIenVUZXpYSmMxRWFmWTBLWmVBUUhnNmhSZmE3WUYzQ0NHSVg5Z3RQaA?oc=5",
-      "source": "日経",
-      "published_at": "2026-08-16T20:00:00+00:00"
-    },
-    {
-      "id": "hl-0ded58387edbd499",
-      "date": "2026-08-16",
-      "title": "深層断面／サイバー犯罪、すぐ近くに 生成AI利用、手口が巧妙化",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFeDVPMFNZUHlCeUtNYmM3OFM1MEUycFlsTmtsY2VUVmdReGtpY01SOFZ5TG5OSnZFYzRCaXc2ejk1ZzBLQzkzWDE2bm5pTERUamdPUWdJd0xiTFk?oc=5",
-      "source": "日刊工業",
-      "published_at": "2026-08-16T20:00:00+00:00"
-    },
-    {
-      "id": "hl-8eeb24dff63dc7f4",
-      "date": "2026-08-16",
-      "title": "鹿島新社長、AI時代も｢最後は人｣ TSMC熊本工場に技能者7500人超",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tZXVJSlpwT3RzeUxwaThxY004OTh3UVI2UlcycU1ZRXFJMVRYVzVRTFBlbmdrUC1vWnVyc3JTMGkzT0lZV2xqcWxObnpjZFVkanFsY3JVbGxpX2NlTklpRUJvMzd4R3JWSmFBSQ?oc=5",
-      "source": "日経",
-      "published_at": "2026-08-16T17:00:00+00:00"
-    },
-    {
-      "id": "hl-005864e773895578",
-      "date": "2026-08-16",
-      "title": "デジタルヘルス新興、4〜6月期の資金調達4割減 AI創薬が独占",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5dC03MG4zRjlEemx3QkhXZTVNNnlrOW5tRUJZRU1sR0pIMklLXzhZWFlsclJuUUM4MUlVLUtJQjdXbjdRMHZ6TmJoSHh1UEg4V2ZYSHdadnVPcHdqSFVlZklXREd0WWFLS3U1UQ?oc=5",
-      "source": "日経",
-      "published_at": "2026-08-16T17:00:00+00:00"
-    },
-    {
-      "id": "hl-78063fc8d3b38061",
-      "date": "2026-08-16",
-      "title": "How AI Models From OpenAI and Anthropic Went Rogue",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPazlkZTZjNzd1TU1YblhrODI1OUk5cklNMGp6Rm9HWVA5VDU1eWVNRFV2eVJacnVUNE5XY1NKN0tsVWpjeVFST00telpTdTE0cEpVZGh3Sm5YYk14NjhjN09NODRsenFvcjNHbEppTW00R0VKY3F5T1VVelk4RXJKcTNqSXhPY1FSWm9CLW02NFk?oc=5",
-      "source": "WSJ",
-      "published_at": "2026-08-16T16:03:00+00:00"
-    },
-    {
-      "id": "hl-0d214f70d225276c",
-      "date": "2026-08-16",
-      "title": "インドのテック労働者にAIの脅威（上） 作業代替で縮む雇用",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA4ejAyWUMtdUJHVlNPY0FwMjlhbnhkMFJ0NDZLS1BFOTZSM3A3enU1STFJb04xRU81NUhieHdfMnRLNTNjME5RVXVKZjJkdHpuYjlILW1BQ1NWYlQ1U1JIa3hlcWRXQXNEOWZ6dmhtOWo3dlJzcXk0?oc=5",
-      "source": "日経",
-      "published_at": "2026-08-16T15:00:00+00:00"
-    },
-    {
-      "id": "hl-733c52864889b69c",
-      "date": "2026-08-16",
-      "title": "Dell CEO unveils new 'Dude, you’re getting a Dell (AI server rack)' video — PC maker recycles famous PC ad campaign to tout its new AI data center products",
-      "url": "https://www.tomshardware.com/tech-industry/dude-youre-getting-a-dell-ai-server-rack-dell-recycles-famous-ad-campaign-to-appeal-to-its-new-ai-overlords",
-      "source": "Tom's Hardware",
-      "published_at": "2026-08-16T14:31:33+00:00"
-    },
-    {
-      "id": "hl-7e0ee736f5818b09",
-      "date": "2026-08-16",
-      "title": "Maker compresses a 2.9MB song by 1000x and prints it on paper as eight QR codes — 21KB song is two minutes long, requires a neural network for playback",
-      "url": "https://www.tomshardware.com/tech-industry/maker-compresses-a-2-9mb-song-1000-times-with-metas-ai-codec-and-prints-it-on-paper-as-eight-qr-codes",
-      "source": "Tom's Hardware",
-      "published_at": "2026-08-16T14:22:36+00:00"
-    },
-    {
-      "id": "hl-2240d773a871e7ce",
-      "date": "2026-08-16",
-      "title": "Google reportedly taps AMD to design next-generation TPU — hybrid AI ASIC could integrate on-package CPU cores for reinforcement learning",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-reportedly-taps-amd-to-design-next-generation-tpu-hybrid-ai-asic-could-integrate-on-package-cpu-cores-for-reinforcement-learning",
-      "source": "Tom's Hardware",
-      "published_at": "2026-08-16T12:40:00+00:00"
-    },
-    {
-      "id": "hl-4248f790d2feb5d6",
-      "date": "2026-08-16",
-      "title": "画像 | 自律型AIモデルが人間の直接的な監督なしで暴走した場合､いったい誰が法的責任を負うのか",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE16WFhVUG9JdmhhMmc3TWxTMjRtLWJ1WWd3TGJlVU1TdE9lZGtlYk03b1B3UEZsV21LWkRDNFU0ckgySUZWakV0eHlRZVVoRVNCZ1lwYXEtQQ?oc=5",
-      "source": "東洋経済",
-      "published_at": "2026-08-16T11:05:00+00:00"
-    },
-    {
-      "id": "hl-596526bb940bbdc5",
-      "date": "2026-08-16",
-      "title": "Open-Weight AI Won’t Crimp Demand for Picks and Shovels",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNY0lHME8wRVdUTU1wc3k2NmVneUpYejJYdnVYYlFxSklPQmFUeHBmVU05R0d0ay00Q0ZyZGNmemxMQm1XWk4zR1pxaWFES2VkR2lBaHBTX3VDYmg4YjctajR2WnhBRDFxNjBuWVNRdzdVLWdDSk1QN3E5VDh6b0cwTVIzTXFFQ2tSeTBkV28zcmNQR09MRmc?oc=5",
-      "source": "WSJ",
-      "published_at": "2026-08-16T09:30:00+00:00"
-    },
-    {
-      "id": "hl-37850009161c4a50",
-      "date": "2026-08-16",
-      "title": "ソフトバンクG傘下SBエナジー、NVIDIAが出資検討 米報道",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9EQ0tKREVaMUh3R0g0VV9fUFkzTkMzeWlLWlFPZGc5THgwUDFIaENoZnRWZFRQOWg3Y3Bhc1lYeGc1c0lRT2J6WnpzN0hrYWZOZlhsYS1KMTB6cGFMUW1pR1ZKdHFkZkRvTHdXSw?oc=5",
-      "source": "日経",
-      "published_at": "2026-08-16T08:43:19+00:00"
-    },
-    {
-      "id": "hl-acb5e6b77bb5dfd7",
-      "date": "2026-08-16",
-      "title": "エヌビディア､ソフトバンクG出資のSBエナジーに最大30億ドル出資する方向で協議…オハイオ州のデータセンタープロジェクト",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1TY3hFX09GM1JrQzlWS1Npem5LQ3NZblRma0N4TTlsVDZrbUhrbXRwWER6LUZiLVRQb2RUTm5fTzNSeVpjSEhPX3pfRDg3YzAxU3RIQ2FsZ3d1WUtkM2pv?oc=5",
-      "source": "東洋経済",
-      "published_at": "2026-08-16T07:30:00+00:00"
-    },
-    {
-      "id": "hl-63233a79641ff11f",
-      "date": "2026-08-16",
-      "title": "エヌビディア､ソフトバンクG出資のSBエナジーに最大30億ドル出資する方向で協議…オハイオ州のデータセンタープロジェクト",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1jS21pbk9feTQwOWRxeWJQb0QwRGpKN1lISTdjX01SOV9KZWlWSnlIZjZNV0NGenYwcGJfWmtzUjQwUV9sdi04dFV3bnRDY1FnbkE?oc=5",
-      "source": "東洋経済",
-      "published_at": "2026-08-16T07:30:00+00:00"
-    },
-    {
-      "id": "hl-5ac3f1588b9eca50",
-      "date": "2026-08-16",
-      "title": "The ‘Country Hicks’ Who Refused $26 Million from an AI Data Center",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JSndvbmxwWklEdFdnNHplWk5LRGIwbFM1TzZaLUdIWjFlMDh1WGJnRTVPdXFIMHowN0xPNEtJZHBSa0tLR2VrQ2w2NXk4dFF0MDVXZ2hWRFRiNDR3aU1JNGpsZUY1LUFxZ0V0ZzFPSDU1ZWhycER4SDhrN3duREk?oc=5",
-      "source": "WSJ",
-      "published_at": "2026-08-16T01:00:00+00:00"
-    },
-    {
-      "id": "hl-4fb88e9d3f2b9172",
-      "date": "2026-08-15",
-      "title": "AI Is Helping Patients Solve Medical Mysteries",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOY2VIVTZYdlF1N1E2b0tmNVVpUUpnMFJ1LU1kc2FIN19ld1F2ZElWdV80SE5GOFhpa20yWXZJNVFibVNxWFFkMmFvM211STVjdWZYalRHTDJRTWR0NDhiOXZKR0JabjU5Y3BnVUtZNlE5Rl9VZjB0Q1ktLTlad0ZkR1lOWi1qeVVoZFE?oc=5",
-      "source": "WSJ",
-      "published_at": "2026-08-15T23:55:00+00:00"
-    },
-    {
-      "id": "hl-380e020b17d90000",
-      "date": "2026-08-15",
-      "title": "\"路線バス廃止時代\"の救世主になるか？ 大阪市で全区展開｢AIオンデマンドバス｣が地域の交通インフラを変える日の写真一覧",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBXcFRYY2ZZZXIySTAyeGU5Slc5TmFCQzdxbzRQYktpTndNbzBISzdKU004NkxxMWtBcEdSU0ttVEVCcDYyMDNDTXJVb1h2RVlrcV90V28xV29CNkFOUUE?oc=5",
-      "source": "東洋経済",
-      "published_at": "2026-08-15T23:00:00+00:00"
-    },
-    {
-      "id": "hl-b25974f081e7f4d2",
-      "date": "2026-08-15",
-      "title": "U.S. to tell partners they must pick sides in AI race with China: Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTEpjRzNMbUo5T0wzaDRGZGh4UXZ1Y3ByQmtaMzdTdHVMOHo1STNFQk15Z1RUdzRPYzdfT0doOGlBRUZnYU82eWhvTEdtX3dlM1I0SFJFZzNhWFhvWlhXNWxIQ1lETmZxN0Y0TXNOQmNwVUtBZzUtUFptNDlEVWo1aUd3Q2lhYjduWnVxRXctQXBwMUZxN2kzdTItNUVxNm9tYkJ6U3dIblrSAa4BQVVfeXFMTVFSRVZGdERLQXZwamdMWmxTdTFnNUVGRmxKZlktV3RuRHlDdmpRT2xzWUxsbnVlb0JhUEw3dnlWelhTamgyUUh0TThEY2FrbVlTb0Q5OWtOTExuSzRCTGx4cEoyaU9XODNGWl9BdkxSX3owWHVfZWJyTjhUNGQwVU4xMVVnUVMwWFRiN2hwbS1CMEowZWwxOE1YQzFSdDBjSTdDX1JTUmU5bFpfM2lB?oc=5",
-      "source": "CNBC",
-      "published_at": "2026-08-15T22:49:03+00:00"
-    },
-    {
-      "id": "hl-f0ee25ddfbf206c0",
-      "date": "2026-08-15",
-      "title": "KDDI堺データセンター、シャープ堺工場を転換 - 日経クロステック",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVnBtTkNrRS1wQzBsTTJsd1ZBaFlSMTIyOWJkZ29BUzFQcGs2ZW9Mb1gwekc2NGZkWkd6TEhZekpJYS0zUzVOVGJjbW54MzUwZjNNQmhiUjBFVVk4Znk5VnU5akg3eDEtZzhKMjZkNndFRDhBRVh0VklLa0lWem9CdGRoTExBNi1tM2c?oc=5",
-      "source": "日経",
-      "published_at": "2026-08-15T22:03:27+00:00"
-    },
-    {
-      "id": "hl-ebb5bff4cc67cdba",
-      "date": "2026-08-15",
-      "title": "画像 | パランティアは過去最高の売上高93%増…｢AI主権｣掲げ､大手AIモデルへの依存に反旗",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5VTE1FZGhEZHp6SGphSTNta1JzZmhtNHJfSVFXT0hxYjJqOEl5SHUwNHhsc1F0SXVVLVcxMDVTY2NjTFlIV2E1RmRlYTd6Qm11QlN3QjJfM1l2eHdWeGc?oc=5",
-      "source": "東洋経済",
-      "published_at": "2026-08-15T22:00:00+00:00"
-    },
-    {
-      "id": "hl-88f05e9cf427738e",
-      "date": "2026-08-15",
-      "title": "オープンAI､アンソロピック…AIがルールを破ろうとしてしまう理由 人間をだます｢スキーミング｣が新たな脅威に",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Kdm1Qa3lhWmU4dl8zLWhOVmY4Nkt1VkZVMHAyOHBzb2VucDNoNnEzRkdYRTNWcXBOSHFHZjgzTEZVYkp5bDEwQjdCWTVQOHgwM0trU2tDSTM5WFE?oc=5",
-      "source": "東洋経済",
-      "published_at": "2026-08-15T20:50:00+00:00"
-    },
-    {
-      "id": "hl-0d254466714cc5f8",
-      "date": "2026-08-15",
-      "title": "Nvidia eyes investing $3 billion in SoftBank's SB Energy under OpenAI data center deal, Information says",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUEdJeUJCNGdicFh6dy1iQmRmTmtWWEhFMTRiWmZ5NENLZnp0SVRITTBuMDhSQ1luUGd5dlU4Y1RVWUhkRjZWWXBPb0h4MmZBb1hPRmszLS1wOTZtQkk3VENRMzNyYmc2U0otWnFlbHFjRlhFYmRGWmJVX00xSm9iZjE2TnZ1aFRaMTQ4aHpHb09TOGpLVElOdE41ejRQUTdOSzJwYjF5RlFnQU80T3Fn0gG0AUFVX3lxTE9VZnU3ai1EaWlYVmJhS3JkcWJBVFhENVlqUWNZUG5Ka1NuUlJSVzRidUdLRGR5R0hXOVNMX2EzaWRaMzVpazJrTXgxbEJVZ3BHUElmRW43UXB6Z3c4c2tYMFBROVpNdE9wQzRvSkxpMUxXMWhQM0RyYjRuMEZIUWk2cHBYQ2FqX2w5ME00bUEyTU5xV0t5NGJPaWJlZ25QQkY1cUhwX2RxMnAzRVctV2Q3bTNhbQ?oc=5",
-      "source": "CNBC",
-      "published_at": "2026-08-15T20:32:04+00:00"
-    },
-    {
-      "id": "hl-92a04805ef1107f0",
-      "date": "2026-08-15",
-      "title": "Nvidia eyes investing $3 billion in SB Energy under OpenAI data center deal, Information says",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ3pfaW5nWDJod3o1WmVuMnludzV4bUF3WllYcXJtV3phQndZbDc1NW5TQkFpODUtN25oLU9sVmhtU0VhNU9PMzhfUjNxWDVyenljaElYb3Y5R0VnN29HUTJGOGdUZnJqUUFOSUxDWlZwdThKcVNqSUhZT19HOWFsN284OFUzWHlLTmdCVXJhemFxUDd2dGhacjFidFlnXzZyTVY5Vk9ZRzcxSUpIelJtcXlRMDNoeFA3dHc4U2xQUDhDSUk?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-08-15T20:16:56+00:00"
-    },
-    {
-      "id": "hl-71dc46f62b0cfc30",
-      "date": "2026-08-15",
-      "title": "個人の資産運用、生成AI利用に立ちはだかる「データの壁」",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NMjlNVmQzNjIwZzlXZTFuVnc1VkU5WUV4OFgxLXNzXzlhTi13OWJ4UzN0NnpKdTFYY2Y2ZFIxM0o0SURNUDNQY196d3lTc0loZWRzQThrMGx0bUg5LW5WV0lGOE04Z0ZnU1JxcA?oc=5",
-      "source": "日経",
-      "published_at": "2026-08-15T20:00:00+00:00"
-    },
-    {
-      "id": "hl-76d002cd5c150f37",
-      "date": "2026-08-15",
-      "title": "Bond Traders Are Agonizing Over $70 Billion of Shadow Credit Backstops For AI Companies - bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOExrX3ZOZm42OC1DNDd1MlY3dE5VWDM0MEV2NDdSa3gzal9majFhTm1UQmkwc0tZSHY1RnJVMUZZN2VuQjJJN0hfNncyZTNMRVJsS2lkdmt1T1FaQ2c3bEEwbUdyaHAtdklzaTFkUjdNcUJZTWVwQ1BHY1lyRG9rOURJQngxSS1XbnJrVFBQM0VyU2tKbXZCQ1UwSVBranN5QXhHSTlPSG55TEROSHJfeUF4Nms4RzU2NUVVdHdrWDIxYUJPcXc?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-08-15T19:00:00+00:00"
-    },
-    {
-      "id": "hl-14d71c7dca4a0a33",
-      "date": "2026-08-15",
-      "title": "Big Manufacturers Find New Demand in Equipping AI Data Centers",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcGxSQkswS2I5VmQzNzdiYXRmWjk5WWtRSE1aUmpkYUNNWDd0a01VTlpYY0tRX0xDOGV4VGdyREMwUlNPTUZVTVFlcnM5VXgza0h3RzBGcFEyaUZGY3V5ekd3Y082aktYYW92OEpwVy1PQmJPMVUxUEUzSTFjNVRXZU5Od2l6ZGRLUEVnRHQtVjRscTVCLUhaOWkwRlZGVXNlbFE?oc=5",
-      "source": "WSJ",
-      "published_at": "2026-08-15T18:12:00+00:00"
-    },
-    {
-      "id": "hl-eccb8b8d07a110e7",
-      "date": "2026-08-15",
-      "title": "データセンター建設競う カザフとウズベク、電力や環境面では課題",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9GcXpNcWRtMUpqNDhGa29ubW1sUGd5OVd6Y3FxUW1DN1p3dlVqbHBNLURNejVMd0tqc1RwUFA0aFFrbGg0WW9nek1qa0dVUHRGUlFmU2xpbm9ycUhGcXFhdTNvX3JYcWVndk44dA?oc=5",
-      "source": "日経",
-      "published_at": "2026-08-15T17:00:00+00:00"
-    },
-    {
-      "id": "hl-9f2ff6672b1c32d3",
-      "date": "2026-08-15",
-      "title": "AI Just Had Another Math Breakthrough—With Help From a High-School Dropout",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNWhMOFh0b2VlT0UyN1VKelhjUUZUM0ZWREVlUWRLOVRKLXBhcEFoSDcxYVA4T2t0Tzk5eGpYeHlFUUU0enhacFRZTFJSWnltV0tBMVZtVGdLMGZFVmVEUTV1TU5idmk1ZndhVHVoa3F5dTFvb3dubUF6QXRqVkMtVDJXZ2wxbWM?oc=5",
-      "source": "WSJ",
-      "published_at": "2026-08-15T01:00:00+00:00"
-    },
-    {
-      "id": "hl-54085f1e8fb1dd2e",
-      "date": "2026-08-14",
-      "title": "Nvidia scales back funding guarantee for Ohio OpenAI data center, WSJ reports",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWjY4Y0RmbnNIZU5fWV83TGxRb0M1T0hva0dCRUtWQzcxclJ5TW02NExHQzREZmwwenZIQjh5eU01YjYycGMxNUg5MlJuZVh5RGQyM0M1MHB1Znhld2x2OXFFNF93OGg3SUJMYUNsMTZjZ2VQemtkM3M0SnVDam1vSHNKVUJCWHpKbzVzLXdLWmtlZElxYW5BS0c3MU9iRk41Ty1LUzY4TWl4YVQtRElKWHNFSzg0dTA?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-08-14T23:44:00+00:00"
-    },
-    {
-      "id": "hl-7f61f6f1fb7f817c",
-      "date": "2026-08-14",
-      "title": "Exclusive | Nvidia Downsizes Plans for $250 Billion Guarantee of OpenAI Data Center",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa2dNNzBhM1pEcGdMRXVRN1VObHJoWnFPYy16TFAtNDF6ZkxoMW12dy1kbVNjRXY5TkVlMFY3ZDJfTGhuaXM1cUpnV2ZwUVA4X0trTEVsLVQyWlNiSEhhem9CTVZ4bS1RYUZCNTB3ZHBFQk9sM1NWVVBDYnVEaDhwaEE4a2tUSTlKUklBTGg5cHRRWkZQaHhIS2RUVUFXM203cUVjWGZtSQ?oc=5",
-      "source": "WSJ",
-      "published_at": "2026-08-14T23:29:00+00:00"
-    },
-    {
-      "id": "hl-a9559fb13198647b",
-      "date": "2026-08-14",
-      "title": "Situational Awareness filing shows AI bets before forced portfolio sale to Citadel",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYVlYazY5SFRTdWppeEpfZ2dqWlRuc1JGakVMdnpsQkZzb0JxWmI3b2JqNDVEWm0zQzVHS2hMenN3dGQ1bHNOMzBjeU9PbklvdTd5anp5UU1Eb1JiV0oyek9ia0RSSkNHOVh4WklmYXFiZGVTSXdZN193WE9fM0FwQUpINXF6UzBNTjlMMGZoWURZUENRa0lxVERQbk5tOUhyMVItWERSLWtsVFpyX3NXb1hzZUZJQWJGNWkw?oc=5",
-      "source": "CNBC",
-      "published_at": "2026-08-14T22:27:32+00:00"
-    },
-    {
-      "id": "hl-dd5bf91c07d98c9d",
-      "date": "2026-08-14",
-      "title": "EXCLUSIVE: Apple trains its own AI model for China market with Alibaba's support, sources say",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVDU1cndzcnNhVERISGg5M3psalAyTEVrR2JKSEExUTVoV0JkSjJZZVRIOW40N1lweld1bXEzYWRrNEZxb2w2YzctanRaNnRnckRJLWRINnlpVnlnbXZvSUxBRFN6QUNvb01UMXhXVmp3MDNDTnN2TGZveTdlam9Gem93RFFaZVFSazRzWUpmZXI0VlV3VU56cjZPUUNXQk9GTzFTdkpzMTdvRnF6RUllb1NMbm02OFFiUEJhQXhab1JjZ0w3QWhPT0VqUVZpc0xEYXBV?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-08-14T21:45:59+00:00"
-    },
-    {
-      "id": "hl-23c5ad48f60660d4",
-      "date": "2026-08-14",
-      "title": "EXCLUSIVE: Jane Street took $15 billion hit in July tied to Situational Awareness, AI selloff, sources say",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOX2EtYUxGWFNvME5USWtGejIxeFI4bENXODFmX1hnWU5BMl9TbW81Ym1DUzZQZlk3VE1sUlpLQUtjV0x5S3JEcjNBTVBZOHdhVEZlN0pYOVhKTmwzSnc3eTV2VGI3UXNqODRhdlo1UHgyd1otM0RQMzVFQWZoclNWdm9ENkN1bS1zcmQtOGJMR21fTzdZSUtWazROcVRJclBTY050czlRMjVwNFN4ME9nOU9PNmxkdGoxa2pRTVRRN1VKTXpkYXpJ?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-08-14T21:35:00+00:00"
-    },
-    {
-      "id": "hl-541a6682c88c7a95",
-      "date": "2026-08-14",
-      "title": "EXCLUSIVE: US to tell partners they must pick sides in AI race with China",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQm05M3ZscW8yb1Jfdkw2QUl4Y2RzOWVXWlQ5ZzNIX0JhcnJlb1VIaHlmeFhJM082VUpua05SY3lQcVotUi1xVFVKSURVRVNBX3djVzE5M3Z6RmxDTHo5WWNsSEs2MU5RS0JaVnNfdWZwZDAtaURZUW1rNTJoYlZJWUdXZ2lSelRMV2RTdVpIQVRnMW0zTWlNU3NKbGtLU3R6cjNUTkZmUQ?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-08-14T21:09:00+00:00"
-    },
-    {
-      "id": "hl-02750fe5853935e2",
-      "date": "2026-08-14",
-      "title": "Opinion | If You’d Like to Build a Data Center, My Farm Is Available",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbDN5eDVncllPRjFkbks2TUgxQVduUUJaX3NXUnhCYW9DVWtqLWxFWHRWbEo5a09ZTXBkcXd5OWd6am8zMVNsLWxBWGM0R2VVOTVnSVQtd2ZDQXFTOFdBM2ZrY291TE1URGVscTlicDZJdldkbENVcGYtUHdmY1VUeDlVUUlMcEdCc19UMktsTFhmUEttVXJMYQ?oc=5",
-      "source": "WSJ",
-      "published_at": "2026-08-14T20:12:00+00:00"
-    },
-    {
-      "id": "hl-ec9dd4f8cd6b3f2f",
-      "date": "2026-08-14",
-      "title": "Goldman’s latest cash cow is all about funding the AI infrastructure boom",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWVpsNFZxZkZtbHdtdDdBZmhZczJmRkxnVmVOT19NSDJ2M0VteE1ZaEZWM3pfZlVSVFUxV1dQTkE0TERDUjNBNExjSk16bUk3SEFwNEZBS0pOcGwtNWtVQ2VlM1B6SDJkNF9KQTFlYmk4LTZNa21NcUFpaTlNZ0hWa3A1c3M1MnZHRXNGS05jU05HNl84ZWtoNFhDWVZXMTlsYl9QYVNhaG5ab0R5WEE?oc=5",
-      "source": "CNBC",
-      "published_at": "2026-08-14T20:02:24+00:00"
-    },
-    {
-      "id": "hl-021ca3661127ba57",
-      "date": "2026-08-14",
-      "title": "New Mexico Gas Pipeline for Oracle Data Center Delayed to 2027 - bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaU96WU9wU1lxQjM5cmptQUIzQTduSWJDQUNnOWhGd1RIYnNYLThLY2dMbzM0OFNwWENnT1JNSVJpM3JqVWIySENoaHBFLTdqNlVScWxicjFnNXVvOWtWejVxMktlall4UXFSNkhWNEZpVm9zY1dOSDRJaEh3cU45QlllZWY5MWg2QWw0cHJ2eUNoUnM2VnQ5R0R0QnlwT1FsQXk5aTlsTnlTejV3THQxcDU3SQ?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-08-14T19:47:27+00:00"
-    },
-    {
-      "id": "hl-74e61b5343eb9f91",
-      "date": "2026-08-14",
-      "title": "OpenAI CFO Friar tells investors that enterprise business now bigger than consumer by revenue",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRHBnZWdHT2ZNTFBza3ZncERqUnFNTFJPcGUyY3ljd3hYUUFTMEF5ZHpWVGxrY0l2a0Ftd3ZWcTc3bjA2aHBVSUcyZ0xwVTFRUEJRdEhSSV95cVd3S01NcDBiQ19RbVFkbUlUSWNqVE4zUkM4bVJCMVNRb2xRdWVyT2p3RTFkWnluVnllUk4yYm84YXQ2T09NSzVEUnY2c2Vub0VxZ3VxSXl4d9IBrwFBVV95cUxPOGVvSTlpbkI0eWNxcVZEbk4zbFdJdUF1ZEJ0QmxKelEzbG1NQW82TFNIeUEyXzlVdm1hb1pUZkh4MnU1bFZaMTdzdFBpZmk3TmM3VFh6SXFBV0pCUHRURFBkLVhtZEN0X2tSVVVkR0E3WEFyRzNablVSTjRucC1DZE1fRUNMLXVRZUVUS3F5cmptNkF6WkRxS1JQVl9TaUtQX1owTnVnY09SVkJIZHpN?oc=5",
-      "source": "CNBC",
-      "published_at": "2026-08-14T19:00:31+00:00"
-    },
-    {
-      "id": "hl-f8b49ca119a74701",
-      "date": "2026-08-14",
-      "title": "アップル入社蹴って起業 中国AI「Kimi」楊CEO 米テックの磁力低下映す",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9vekJxV1d1Y1dLY2tWQm82cTlsMTdtSmlrc2FsWi1aaTl0cjNNTllwQ2xUNFl0RWxMWTNwakRkYUEzTm5QRDBoel9LYUpVUDZROEhBdm1ZYmVYSjFjT3lIMU5TTkhkNmowMDdBSQ?oc=5",
-      "source": "日経",
-      "published_at": "2026-08-14T17:00:00+00:00"
-    },
-    {
-      "id": "hl-d0b79c6dbd65dab0",
-      "date": "2026-08-14",
-      "title": "AI進化、陰にリストラ不安",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5DazZBajRhb1FqMUkxV0dXYk1reDZ2LWM1Y1gteVh2c2ZJWVZ2QXV2VVplbmR2dEdVYy1aNW5iMUFsc19Ncy1GdGQ0S0NsYk1iRXE1SEhkMWxaZnM4MWMwZGhNek5tVXZ0Q3NDUQ?oc=5",
-      "source": "日経",
-      "published_at": "2026-08-14T17:00:00+00:00"
-    },
-    {
-      "id": "hl-cfd1f81e2a9904a1",
-      "date": "2026-08-14",
-      "title": "〈高市戦略17分野 キーパーソンの勝ち筋〉「フィジカルAI」に商機 国内の産業データ活用 世界市場3割、20兆円狙う",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jZ1JJeWp0dTN5bHR4VUxxc0tPWWw3dVl0MDNSYVYxUHVjRnJ4Y01Tc05CajR6V2pZUjdlTUFISFBFWWJqVDFRTGd4RVhYNHhsRndfbVZMOFVyS04zYklPZFI1ck0ycmdPNmFOZg?oc=5",
-      "source": "日経",
-      "published_at": "2026-08-14T17:00:00+00:00"
-    },
-    {
-      "id": "hl-a7516521011dea62",
-      "date": "2026-08-14",
-      "title": "百貨店やゴルフ場休業 データセンターは正常稼働",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBtVjdjeHhoRDlqSUFtVkZhLXN5TG1sZTBHamUwZ3BVZ3dnMDFtanZWcEx5dXNFZGFrZUR4amlfcGRmX3cxQmg1OHFCYjJ4a0Rmcm1BVDBoV1dOejFVRXdfS012QnBsdUdqWm5XZQ?oc=5",
-      "source": "日経",
-      "published_at": "2026-08-14T17:00:00+00:00"
-    },
-    {
-      "id": "hl-1718431dc84ee62a",
-      "date": "2026-08-14",
-      "title": "アドテスト連日の最高値、AIラリー再来の足音 キオクシア・パナHDにも買い",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZQmRQMFl2WWhZRmRzZi1JX2p5dF9EU3luT0d3ZjNsZk1rSVVhbWh3MHZud1hzYjdjRzZnY1hFTThhaUtDMTRHT1pqVW5Lb3BWajllaXdLVklqQ2ZHamJndVRQa2oxbHNEZDVfMA?oc=5",
-      "source": "日経",
-      "published_at": "2026-08-14T17:00:00+00:00"
-    },
-    {
-      "id": "hl-036e7db85082eeac",
-      "date": "2026-08-14",
-      "title": "住友電、多角化のジレンマ AIブーム、実力下回るROE",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5jTlk0UHI4RlJLVDF2VjlyRHNaTWkxWkQtYUF0b1dPZDBtMzVHb1UwbFNhM184am9SN2duTUViUF9MZElZdW1FdXlGeHBOWHpib2c4ZHNYZ3QyejhmNjZQWmNKUjA4d2s4YzFxQQ?oc=5",
-      "source": "日経",
-      "published_at": "2026-08-14T17:00:00+00:00"
+      "published_at": "2026-08-17T07:01:58+00:00"
     }
   ]
 }
