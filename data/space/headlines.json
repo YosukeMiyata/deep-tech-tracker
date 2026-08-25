@@ -1,6 +1,6 @@
 {
   "_schema": "id: 安定ID / date: YYYY-MM-DD / title: 見出し / url: 原文リンク / source: 媒体名 / published_at: ISO8601(任意)",
-  "fetched_at": "2026-08-24T10:36:29.212132+00:00",
+  "fetched_at": "2026-08-25T10:31:17.718585+00:00",
   "theme": "space",
   "sources": [
     "日経",
@@ -14,15 +14,239 @@
   ],
   "fetch_notes": [
     "日経: 30件",
-    "Bloomberg: 8件",
+    "Bloomberg: 9件",
     "Reuters: 13件",
-    "CNBC: 3件",
+    "CNBC: 2件",
     "WSJ: 4件",
-    "日刊工業: 28件",
-    "東洋経済: 13件",
-    "SpaceNews: 19件"
+    "日刊工業: 40件",
+    "東洋経済: 14件",
+    "SpaceNews: 22件"
   ],
   "items": [
+    {
+      "id": "hl-7e00d346d8259b32",
+      "date": "2026-08-25",
+      "title": "SpaceXAI が大規模なエージェント型 AI の加速に NVIDIA Vera CPU を採用 企業リリース",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAxanYwcmdYOGxhSmc5NW1jLWJSMjJlbVYxSUZZSlAzQ3hQMW1zUlh6QlN5eFQtTmlXeWo2T3hJdUlHWjNabXNIR3lLdHlTWFBFMG5Oa0RyN2k?oc=5",
+      "source": "日刊工業",
+      "published_at": "2026-08-25T07:51:27+00:00"
+    },
+    {
+      "id": "hl-5e4b420beb4f1be4",
+      "date": "2026-08-25",
+      "title": "エヌビディアのAI半導体、スペースXの衛星に採用 宇宙データセンター向け",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5tVDRCN1JfSVhtLXluRks2NjNRMnFsd3FkSVFhNEhqU09vVTVVZEdrLTJUUUxkNFVoejc4cEJuanRQa056MVJtdElpQlJtVWQ2S3BSdUhDUHBwNm1LdHlZWW5YMlA2NmllOWszZQ?oc=5",
+      "source": "日経",
+      "published_at": "2026-08-25T05:30:00+00:00"
+    },
+    {
+      "id": "hl-952bad0755ad5e07",
+      "date": "2026-08-25",
+      "title": "A SpaceX Rocket Is This Island’s Most Talked About Visitor",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQR0U0d2pNTTJyQUFlZGtrQ0dKZ3VLX211VFVSTXRSSkdYYnllSTFLeVNXZF9xY2NZLS10RWVZV0gtM2oweV94LXZqSHZxc0FnWUJscEtuZ0U5eTBubGFQMmJNNWJobFhWZGJTUm5lbVc4RUhWSGFIX1NJUU5lYzR6SHYzcnJQQnZmZHJEUDhIUjBCQjJoMW1vQktFdnZ0ZG85a1lTd0hLSEFRRnVsV3pZeg?oc=5",
+      "source": "WSJ",
+      "published_at": "2026-08-25T01:02:08+00:00"
+    },
+    {
+      "id": "hl-a4ce445463877d04",
+      "date": "2026-08-25",
+      "title": "サイエンス、宇宙空間で使えるシャワー",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA2SDF1RkpIZ2ZpQmVRZEswYVNDc1dScnh5bV9uRlNjUHBEQUtDMTlJNVBSNk1ZbjVaQTNMRlB4djlZOFpNbVhVQ2psRmFrTXZpTUo0SmljRFE?oc=5",
+      "source": "日刊工業",
+      "published_at": "2026-08-25T00:55:42+00:00"
+    },
+    {
+      "id": "hl-6b8ecac62e485e06",
+      "date": "2026-08-24",
+      "title": "Robotics and the future of on-orbit labor",
+      "url": "https://spacenews.com/robotics-and-the-future-of-on-orbit-labor/",
+      "source": "SpaceNews",
+      "published_at": "2026-08-24T22:26:02+00:00"
+    },
+    {
+      "id": "hl-7f1c32af1bb9988e",
+      "date": "2026-08-24",
+      "title": "SpaceBD、小型衛星打ち上げ支援 H3で民間相乗り輸送",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5feDdEZHowOV8wOFZ6a1g3bDRyaUYtYWM3OWhrZHdCelF6T2hNTXdEb3dheXhYWnE5OTNBbGQ2UFZUR3Y5OFBRUVQ0X05ReThxTFd4WUZuVEg?oc=5",
+      "source": "日刊工業",
+      "published_at": "2026-08-24T21:50:16+00:00"
+    },
+    {
+      "id": "hl-82781f749b9defce",
+      "date": "2026-08-24",
+      "title": "トランプ氏がスペースXの株式保有 宇宙事業で政府が発注",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9tVldMN0lWbDNtbGJENk9BQjRWVkVKZmJoU2hBTDU2dkQ3RTJocldib0NYLUMydjhkVnJfNGlYOE4wS1NJcV95MFk0V3I3QnMwMXBpSnd0WFJ5QWMzN2dzN1dhY1dqUm1RR2c3Uw?oc=5",
+      "source": "日経",
+      "published_at": "2026-08-24T21:30:21+00:00"
+    },
+    {
+      "id": "hl-759364ec4c0c20cd",
+      "date": "2026-08-24",
+      "title": "地域経済の今（24）愛知・小牧市の製造業 航空宇宙軸に産業集積",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE00aGJnMENyNGtnUVMxWVQwNDhhMzBfMjBnVEpXeFgzNTM1czVxdlFOVTdfRi1iM1ItOG9xOW9uelFxQ2VRV3RjNXp1V20zM1dRREg4NFFkSTA?oc=5",
+      "source": "日刊工業",
+      "published_at": "2026-08-24T20:00:00+00:00"
+    },
+    {
+      "id": "hl-411095771b241814",
+      "date": "2026-08-24",
+      "title": "中国宇宙開発当局、無人探査機の年内打ち上げ断念",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA0Z0l0YU9OQk1QMmNwdm9vZFM0ckNpTkluaUU5UTBOZFRDZlZLbFlCaE9IczMwNjEta3RuTTRKY1BDY1FNcmhvR2U0djFab1NLZHhmVGdKVXpIZnFPQzViOTVCWF9QQ2tWTzBZSWhiTQ?oc=5",
+      "source": "日刊工業",
+      "published_at": "2026-08-24T20:00:00+00:00"
+    },
+    {
+      "id": "hl-19efcf3c6f7bd133",
+      "date": "2026-08-24",
+      "title": "JAXAなど、キャベツ販促に衛星活用 出荷量・価格、広告と連動",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBRdUZKUFVtYk1LRkFqTk5hUWd5eWxQaEFPTXJDVUNUczRWaTlUV08yOXBUZXlWNkI4a2JkLVBoOUpLUEgyRUZoYnpCakd5aGdpWVNleDJGNWc?oc=5",
+      "source": "日刊工業",
+      "published_at": "2026-08-24T20:00:00+00:00"
+    },
+    {
+      "id": "hl-4ec1d7b99bcd4104",
+      "date": "2026-08-24",
+      "title": "人工衛星100万基で宇宙にAIデータセンター構築へ､イーロン･マスク構想に懸念が広がる背景と問題点",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5VkI0R2U3MXQ2MGd0Y0htQnM4MUtVZGhlV05jZmVEbGhyNUhGc2g4N21fZlFBVjlRZ2RXNTAxMUk2S2toNUFaMk0wTG51bDBQTDctc3dkRzF5NDA?oc=5",
+      "source": "東洋経済",
+      "published_at": "2026-08-24T19:30:00+00:00"
+    },
+    {
+      "id": "hl-ad1f5521b4254bb0",
+      "date": "2026-08-24",
+      "title": "Bessent Launches ‘Operation Economic Outcast’ to Isolate and Squeeze Iran",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTGZNZEVVcUhYY2xmSVRzUlZPSVpwcVphcFZjcm5sS2dfdmE0MmlNZHFIS0J1NXJwcHhLdlFVLVdVTTBOblRDOTlLY25jajFoMmh6SjhmZy0xazlJdTRlTl82Z05sVEQyNHZBRE1HNnRZR2hRREFodHlFUlcxazF0TU43TTRJU0dxWURfLTZNeGZBUC0xS2xySV9xMVJmc3Zka010Q3EwcW13QQ?oc=5",
+      "source": "WSJ",
+      "published_at": "2026-08-24T19:08:40+00:00"
+    },
+    {
+      "id": "hl-01e2f4a8393b55ba",
+      "date": "2026-08-24",
+      "title": "Tesla stops selling solar roofs a decade after launch",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYVNhbHJQR2JXakpqdWZLc1F3YlQ1Rmd2TVhRYlU0X3ZfcEJ1S2NER1VZOHJuYy15ZDNHTlJMWWJteG1hcXZJcHlnbURFcDZvcHdsLUtrUGQtR1ZGcy1qaHFlWVlKOS1Pb29uMGRBb181b2VtN1BrTXF3b3RSRGc2RVlLQXQ0d3NsVFcxUXVwR0kteDllWGY0bU9DQTU?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-08-24T19:01:13+00:00"
+    },
+    {
+      "id": "hl-60f62c6f467f8f92",
+      "date": "2026-08-24",
+      "title": "Trump bought shares in Elon Musk's SpaceX in June, financial disclosure shows",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZHBZd3V0b2sySFhUajY0b2NBeVcwZzFLdGpNMENHWGRyMHEtX0NqYi1fUXU2a1E4UGVqS25vS3hpTkd2MW5xLVRtTi1pSnZ3R1VpZDBxY1lLLW9WbEdKdzFZbTlzbjZMRlJGQmt1OS1kTlBpZkhkbVJXYWd4elhfRTV5SENBRG80WHlhbURPeGZRYWt5TmxoN0FlSHVZb2QweFJlQWtkemoyQnRhak5ncnl6S29SWHdadjRUamdRdw?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-08-24T18:57:27+00:00"
+    },
+    {
+      "id": "hl-6f49c43a59ebf03e",
+      "date": "2026-08-24",
+      "title": "Musk Sees SpaceX’s Orbital Data Center Launch Near End of 2027",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNenFaRnNzODc0bFNvdzRhU0xrNko5Z0JQc01JYW11T2JId2pFclg0OUVwMmJQdXBqSHRIcUV2aTQxekI4TC1FV0VpVnB4a09oMzdRTUcxREJvdXNxZVNSSnliX29ndnhvbDFiMEIwUkt1M09vNnUzLXNlazhNb041RGR2ejFrLXIxWkZwY1BQdXNkRlpMbllWcXVMd09YSDZIWEc0WGFnaDFVZkV6UFNfZXJPSQ?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-08-24T18:45:22+00:00"
+    },
+    {
+      "id": "hl-a4e3f5baadbe8881",
+      "date": "2026-08-24",
+      "title": "NVIDIA、スペースXの宇宙データ衛星にAI半導体 27年打ち上げ",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4ySkVzSHM4WTdlZUt5NnV0ZTZ6TVd1UlRXTnpPRVJfRGNZckRIblY2c3dWWTlsYUpITEIzQVZkZmNJV01OelBYYlFxR08tTEdlM2tzbVA5MkFwWVIzNE1mM1VFVTUwZTVPOVRoag?oc=5",
+      "source": "日経",
+      "published_at": "2026-08-24T18:06:18+00:00"
+    },
+    {
+      "id": "hl-02db3ab1778eb49f",
+      "date": "2026-08-24",
+      "title": "航空宇宙ビジネス フロンティアへの挑戦（123）名古屋大学など 超小型衛星「マグナローⅡ」",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5SR1lEMm1wZWpSVURoZk1LcXNjbFhZNFExc3Bwajc5eW43UlRBNlRrd1RhanlqemdwbUZsSG0xdjJHMTVnR1dGVlRIaUpuUFFjeFp0Z0FkRzg?oc=5",
+      "source": "日刊工業",
+      "published_at": "2026-08-24T17:47:28+00:00"
+    },
+    {
+      "id": "hl-7789b58fdf453954",
+      "date": "2026-08-24",
+      "title": "Aerospace demonstrates DiskSats in low-Earth orbit",
+      "url": "https://spacenews.com/aerospace-demonstrates-disksats-in-low-earth-orbit/",
+      "source": "SpaceNews",
+      "published_at": "2026-08-24T17:30:00+00:00"
+    },
+    {
+      "id": "hl-c42b512a60e6fa0f",
+      "date": "2026-08-24",
+      "title": "航空宇宙ビジネス・フロンティアへの挑戦（121）オガワ機工 衛星製造に参画",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBCcjAwMXdmNjZjN2x1a3FWMWhJbGNxT01Fa2lEUmdQektRNGhWblc4bE1WWnVUNGtjQ2dISmFuTjNPdmFxOVRQTGhtVFRUb0ExSHM4RkpBUzU?oc=5",
+      "source": "日刊工業",
+      "published_at": "2026-08-24T17:07:26+00:00"
+    },
+    {
+      "id": "hl-9650faa935956d09",
+      "date": "2026-08-24",
+      "title": "航空宇宙ビジネス フロンティアへの挑戦（130）山形大学 超小型人工衛星開発",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1uUV9KRkU3ZmZQMFN3Tk41WXBUMWZlMkhZS2haeXdfM01IdXZfZy1rQ2Q1NHd1TjlIMTVGU0s4Y25BZ2VSNlduSmx3LXJJVjhnM2tQZTU4MHY?oc=5",
+      "source": "日刊工業",
+      "published_at": "2026-08-24T17:04:50+00:00"
+    },
+    {
+      "id": "hl-9be50a54d039ffa1",
+      "date": "2026-08-24",
+      "title": "火星圏から初のサンプルリターン 衛星「フォボス」に着陸へ JAXA、10月にも打ち上げ",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fam40b2NkTC1XcmhIQXAtUlRfMG03WWlZbGh5dzAzVm1BX2lCSzdYTjJCUGpla01RQUpWaWhKbURvUlNxeFZQT05VQnRIVGFkdUJPWHB0S29hRmVxWVcxc29XYXFlS3A3ZWxpZQ?oc=5",
+      "source": "日経",
+      "published_at": "2026-08-24T17:00:00+00:00"
+    },
+    {
+      "id": "hl-90fb09664c69c4c4",
+      "date": "2026-08-24",
+      "title": "Spirit Electronics Adds Texas Instruments and Microchip Technology Space Grade Components to Online Store Ahead of SmallSat 2026",
+      "url": "https://spacenews.com/spirit-electronics-adds-texas-instruments-and-microchip-technology-space-grade-components-to-online-store-ahead-of-smallsat-2026/",
+      "source": "SpaceNews",
+      "published_at": "2026-08-24T15:00:00+00:00"
+    },
+    {
+      "id": "hl-a14387e596fb2db8",
+      "date": "2026-08-24",
+      "title": "新日本空調、宇宙分野企業に出資 付加価値創出",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5HTS12MzVFdjFvVkpNZWZEUVVmVkZMbENfUDVzTVVGNnpMdnh1X3c5V1o1ZVpUY05pTjVRajliZGEta3h4eDVQVk0xQi02Vi0wTFFIZHZSeU0?oc=5",
+      "source": "日刊工業",
+      "published_at": "2026-08-24T14:52:49+00:00"
+    },
+    {
+      "id": "hl-37ebd2bb0f405a5e",
+      "date": "2026-08-24",
+      "title": "The Fuel for the Next Generation of Cislunar Exploration? Technology and Talent.",
+      "url": "https://spacenews.com/the-fuel-for-the-next-generation-of-cislunar-exploration-technology-and-talent/",
+      "source": "SpaceNews",
+      "published_at": "2026-08-24T14:00:00+00:00"
+    },
+    {
+      "id": "hl-f9b9be171e00c5ce",
+      "date": "2026-08-24",
+      "title": "学習院大とアクセルスペース、持続可能な宇宙事業へ共同研究",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5oUDY1RTRCS2EyOEh1OU1NVF9GaWJ0TnZick8zR0pSYmNEbHdIVVhGNGkzenhHUDR4V2lSZS1pSUZocjk0M3BFdGNGdk5vX01wYWpwdEpReUI?oc=5",
+      "source": "日刊工業",
+      "published_at": "2026-08-24T12:44:17+00:00"
+    },
+    {
+      "id": "hl-a5837568a2e0d659",
+      "date": "2026-08-24",
+      "title": "Tory Bruno Named Honorary Chair Of World Space Week 2027",
+      "url": "https://spacenews.com/tory-bruno-named-honorary-chair-of-world-space-week-2027/",
+      "source": "SpaceNews",
+      "published_at": "2026-08-24T12:00:00+00:00"
+    },
+    {
+      "id": "hl-0c0347e908d09483",
+      "date": "2026-08-24",
+      "title": "Eli Lilly Launches Foundayo Weight-Loss Pill in U.K.",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdE80QXFUUW52SzRRRUxzWndkbGs5ZkVZSm9ubFpNTDlfNGNRLUd6TXBmRW92OUg1REl5Qmx4bmhuaFNzNWdhSzlMNk1NMHllU1hNUGtFSUVPMmhmdVQ1ZTByOVhOVGo5UmFMRHdhN2NyaVB6T2FXYlFCVDlXQmJxX09CUXNpRDJkcHlQRzRBT204Q2l6dkY5dnFR?oc=5",
+      "source": "WSJ",
+      "published_at": "2026-08-24T11:57:36+00:00"
+    },
+    {
+      "id": "hl-bb76e37a48d84702",
+      "date": "2026-08-24",
+      "title": "スターシグナル、宇宙ゴミを世界10拠点観測 衝突回避にデータ応用",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9FeVFCM2s5M0dJenNwdVlOUkdtdUxZRHFqU0NtRkd2dllkZVZ3aE1sUkV2WVUyeXJNMUdMdGxIYXYyQUx1MDhxVExxQ1dvRzBScnJpbjRDcVk?oc=5",
+      "source": "日刊工業",
+      "published_at": "2026-08-24T11:17:55+00:00"
+    },
     {
       "id": "hl-339c1162645bd061",
       "date": "2026-08-24",
@@ -32,20 +256,36 @@
       "published_at": "2026-08-24T08:23:44+00:00"
     },
     {
-      "id": "hl-0c2836006fd375b6",
+      "id": "hl-01cf0cd05a425ba5",
       "date": "2026-08-24",
-      "title": "NTTなど8社、小型衛星で8テーマ宇宙実証 産業競争力を重視",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9MSHM2MFAxb01MakNLLW0xd2dabGsyTlEzYU4zLWVKMVFQOUFIUmN0aUduX25vNVFDUzF2akJ5dHlKNGpFX0JTNXlMblVZRnpVMk5FRXpkcXE?oc=5",
+      "title": "キャベツ販促に衛星活用 JAXAなど、嬬恋村産の出荷量・価格に応じ広告・販促連動",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Xanpsemx1V3J6SzU2ZGh2UGRhejVkdGJSeUZIaHgwSEFJaURqU1MwWG1qeDdEWU1aVl9uMEpsLTdwQUZzSGx1alRsUFdPcEpsV25vT1dGenU?oc=5",
       "source": "日刊工業",
-      "published_at": "2026-08-24T08:08:28+00:00"
+      "published_at": "2026-08-24T08:00:00+00:00"
     },
     {
-      "id": "hl-1d7ef3c43a98d188",
+      "id": "hl-9049adbee8cb44a2",
       "date": "2026-08-24",
-      "title": "Xiaomi launches new Xring chip, partners with TSMC for production, sources say",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQR2pHQzFrSGY3SWhhYWxFS2FDTEtMWEhQV3FsX0dnRzVKeVlxRWdsdjJaQzFkRURmVURacGJCYU9NUUtGb0MyQS1EUVNtOWNCU2VaUDFIMnRHelZUVmpENE1vZVhhQmFZaWZNallubFI5MWp1bkpyb1FkMDNYWFlWTk1RU05nekFNdV9saXZ2VDRHdndXWFIwYnZYNGhlcGlRNFFKZ1BCeldwTkVqbW55elNzMFIxSURMOTIxcg?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-08-24T06:22:00+00:00"
+      "title": "JAXA×電通でキャベツ広告 衛星データ活用した生産予測と連動",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE13MFJ0VmlEN1dzM0pBZm1McTJhS2xZSk50akIxdUh1ejE1RTh5eXBCclROb1NJTHBxcEZNMkNJOHhuNGlTbDlLX2hJekk5a054bzBuZHZtN0Y4NjRiVHJvaGdtM0JXb193T2xrRA?oc=5",
+      "source": "日経",
+      "published_at": "2026-08-24T06:45:07+00:00"
+    },
+    {
+      "id": "hl-7eafcb95fa0087ba",
+      "date": "2026-08-24",
+      "title": "JAXA、再使用型ロケット技術獲得 飛行試験に成功",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE03dmRGYmZRdXYxSnRYclZObFZ0ZWVYUHBGU1liOXdBSmRRbndyR0tFQVZhT1hVektjS1BiRW0wOWZtQlpRREUtLUxfNm02TVBEel9oNW9YUHI?oc=5",
+      "source": "日刊工業",
+      "published_at": "2026-08-24T04:02:15+00:00"
+    },
+    {
+      "id": "hl-d920d53a1bac0b77",
+      "date": "2026-08-24",
+      "title": "「H3」6号機に衛星6機 JAXA、来月10日打ち上げへ",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE80cGJuLVZRT0dHSkY2VEZkaGNldVNhZnZQb3ViVE5rMldYU05ZUUZoSTBnbmRHZU9IajNqSURIeE5Oc28xemMtSW8zMDktU0FTaFYwX0Jldk0?oc=5",
+      "source": "日刊工業",
+      "published_at": "2026-08-24T03:59:41+00:00"
     },
     {
       "id": "hl-238c469c26c4b094",
@@ -56,34 +296,18 @@
       "published_at": "2026-08-24T03:13:00+00:00"
     },
     {
-      "id": "hl-145550b31980db85",
-      "date": "2026-08-24",
-      "title": "Check out Space Exploration Technologies Corp's stock price (SPCX) in real time",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE81R0EySXlTTWxEQ3FNYUNoLVNfLWlvdWs0X1NNd2UwRXRNNTY0Z1dOcHlDNDBPVXVpdmx0UFJMZGlUWXlGOFo4?oc=5",
-      "source": "CNBC",
-      "published_at": "2026-08-24T01:36:11+00:00"
-    },
-    {
-      "id": "hl-4ec1d7b99bcd4104",
-      "date": "2026-08-24",
-      "title": "人工衛星100万基で宇宙にAIデータセンター構築へ､イーロン･マスク構想に懸念が広がる背景と問題点",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5VkI0R2U3MXQ2MGd0Y0htQnM4MUtVZGhlV05jZmVEbGhyNUhGc2g4N21fZlFBVjlRZ2RXNTAxMUk2S2toNUFaMk0wTG51bDBQTDctc3dkRzF5NDA?oc=5",
-      "source": "東洋経済",
-      "published_at": "2026-08-24T00:00:00+00:00"
-    },
-    {
-      "id": "hl-d8628be5d536c785",
-      "date": "2026-08-23",
-      "title": "愛知・安城に宇宙産業クラスター 「H3」サプライヤーが市長を表敬",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5pcGpGRVMzLWw3UXRnLU5QTk1aYWtKTFFINU40TzJCaVRFUTlFclI3b05BZjk3WFc3RVRWaTlrQ3dvU2V3SXo0MGdkajdqZS1yRkc1WHRnU04?oc=5",
-      "source": "日刊工業",
-      "published_at": "2026-08-23T20:04:47+00:00"
-    },
-    {
-      "id": "hl-b55b85a8c3588bd0",
+      "id": "hl-20f1dc168c04b132",
       "date": "2026-08-23",
       "title": "航空宇宙ビジネス・フロンティアへの挑戦（138）大日本印刷 宇宙実験品を分析・評価",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9XSWU2STMwQkl5S0lBS2lrYU5aZTFWSU5way1BYlNvcktXa0Y5RWFzQ0ZoX3pfckhpVmZFa1pzWnVFQ3pmS0ZWWE94TGp2WlJ6NjdVR3lBU2c?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50eUhFVjFGNVhkS2l1a2FudnNFb0xtNEs4MVl3QTFHNGp1MlJXWHprRXJFcHRra0E4bGpMb01UZ1I1cTRWYUJsSlhGaVVBdnpGNlBRdGlXUWRJdExHSFJOd19EN3pVZEU1QXZTOS1KNA?oc=5",
+      "source": "日刊工業",
+      "published_at": "2026-08-23T20:00:00+00:00"
+    },
+    {
+      "id": "hl-03dea31d95bc8edb",
+      "date": "2026-08-23",
+      "title": "愛知・安城に宇宙産業クラスター 「H3」サプライヤーが市長を表敬",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9HdHBXNTY0LTdCd0Mzc0pGeDZpTUE3eWNnMTZjcEVGeFFEUTBUN0gySUIzMV83ZF8wb0dtSTZUZ3RmZVB4c3BLLVBSVDhITGs3b0pIRnU5cFVDV080NmFBbDFuQnVxa3A3Mld2ZnhhSQ?oc=5",
       "source": "日刊工業",
       "published_at": "2026-08-23T20:00:00+00:00"
     },
@@ -94,14 +318,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9CZF9aWlNuVkVEQXVJcmJ1a21reFpEVzVuajNzLU1XQWo3MEdiaklkc0ItanRDYmFoYkRDQ2FYUi1qUUcwN3pDWFJJSVkzTURLQk1HWjFmQ0w?oc=5",
       "source": "日刊工業",
       "published_at": "2026-08-23T05:46:29+00:00"
-    },
-    {
-      "id": "hl-4198f92481dc3937",
-      "date": "2026-08-23",
-      "title": "Alibaba launches $10 billion Hong Kong share placement to fund AI spending",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSHJGOUFEMWhrdjlTbk5JelZ2Zl9jNWZ3UjRUTFVZX3hyTmx2bnZ2Qi1Ob3FPZGdBNkoyOHpfRXk3YzFpYXMwNkZHb09uX01jWDRVZ3lJSi1rM2ZGbldMV1J1d0lLUWFTS1FLcHowTXNobENIUkxody01eDItOHZucHRUV0xjME80UkxscjVNX1dnRUlHY1BCN3o5TV9CMFNzcnlobjJBVWdyMHNiQjNtT090bEV6WXQyUU5SdQ?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-08-23T04:47:00+00:00"
     },
     {
       "id": "hl-08feaa2e8c8ce689",
@@ -144,14 +360,6 @@
       "published_at": "2026-08-22T18:29:32+00:00"
     },
     {
-      "id": "hl-952bad0755ad5e07",
-      "date": "2026-08-22",
-      "title": "A SpaceX Rocket Is This Island’s Most Talked About Visitor",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQR0U0d2pNTTJyQUFlZGtrQ0dKZ3VLX211VFVSTXRSSkdYYnllSTFLeVNXZF9xY2NZLS10RWVZV0gtM2oweV94LXZqSHZxc0FnWUJscEtuZ0U5eTBubGFQMmJNNWJobFhWZGJTUm5lbVc4RUhWSGFIX1NJUU5lYzR6SHYzcnJQQnZmZHJEUDhIUjBCQjJoMW1vQktFdnZ0ZG85a1lTd0hLSEFRRnVsV3pZeg?oc=5",
-      "source": "WSJ",
-      "published_at": "2026-08-22T13:00:00+00:00"
-    },
-    {
       "id": "hl-cd60163a79f9712e",
       "date": "2026-08-22",
       "title": "航空宇宙ビジネス フロンティアへの挑戦（129）東芝 大陸間で量子暗号通信",
@@ -174,6 +382,14 @@
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5pUFZmeHRGWkh5U3FvX25pZTNXSHFySWVwbnAzU1BSXzNFSkNJMl80cUVFbDhTekJscFRUbW16ZmdGV0N5Q3ZLZzV0SEI3SUJhQndFVHJKVm0wMDFFTm5sZURDWlhTTVNhNFppSG9jYw?oc=5",
       "source": "日刊工業",
       "published_at": "2026-08-22T08:13:32+00:00"
+    },
+    {
+      "id": "hl-76e0246334a012ea",
+      "date": "2026-08-22",
+      "title": "PODCAST: Iran sanctions, Israeli settler warning and China's space tourism",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYTBQYmt2SWl6RGlRVEJYb2VlTjN3NFVEM2k1ZlNlQUd3MkxRaXloamEzVm5QNWFJSzVieFFBVzc1TU5TeFVfbzR2MUR0Q2Z2blo1U1dCdTZaQk1OWEE3VEEwZjY0V2VjUUR3dWNfUVp0dzBYLU5YSXhCdEZ4SGRkdUQtblJwUG1FTzFOekVPZnM3TWdoWVFFT01Idno2WTJ6TGlENGhGVQ?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-08-22T07:00:00+00:00"
     },
     {
       "id": "hl-dc8d9fffd2cddca1",
@@ -232,14 +448,6 @@
       "published_at": "2026-08-21T16:42:28+00:00"
     },
     {
-      "id": "hl-dec54b5b0f3c727d",
-      "date": "2026-08-21",
-      "title": "文科省、大型試験設備を更新 産学官で宇宙開発促進",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YSmhPdkI1Q0pLTnlOWGVpTy1XaUU2aldiTm8yRGJPUUEweW9fRG5fQlZuWTlFZElVb2JnUldPOThPMWtLdFBYTTJnQ3d0ZjU5aFpLNENDdF8?oc=5",
-      "source": "日刊工業",
-      "published_at": "2026-08-21T15:22:30+00:00"
-    },
-    {
       "id": "hl-e383ee35871d4d34",
       "date": "2026-08-21",
       "title": "航空宇宙ビジネス・フロンティアへの挑戦（118）KDDI 衛星とスマホの直接通信拡充",
@@ -248,20 +456,28 @@
       "published_at": "2026-08-21T14:44:08+00:00"
     },
     {
-      "id": "hl-9650faa935956d09",
-      "date": "2026-08-21",
-      "title": "航空宇宙ビジネス フロンティアへの挑戦（130）山形大学 超小型人工衛星開発",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1uUV9KRkU3ZmZQMFN3Tk41WXBUMWZlMkhZS2haeXdfM01IdXZfZy1rQ2Q1NHd1TjlIMTVGU0s4Y25BZ2VSNlduSmx3LXJJVjhnM2tQZTU4MHY?oc=5",
-      "source": "日刊工業",
-      "published_at": "2026-08-21T14:06:39+00:00"
-    },
-    {
       "id": "hl-7d19b3d09d19059d",
       "date": "2026-08-21",
       "title": "スターシグナル、宇宙ゴミを世界10拠点観測 衝突回避にデータ応用",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMlVJcmJRWUduT0JZUlZuR01LOUVsOU4zcjMtaFFEWHl0UC1uQ3lhQlpaODEtVlVIVjJPQ1lha3dTdXpsUzFfcHRKazlzSmRRVHh1QXp3ZG96Yi1OVzk3TUVLeGJYVXpOS3duazY5b2dXS01Kbjgwdzd1ekU2cHhXV0JCeXNQbDRDYy15U3c2U3BWeC1tYlJwTmhqcWJtWHJQcVNQX21vd1kzb1lfOUllNVlNSGhHRy1UWEE?oc=5",
       "source": "日刊工業",
       "published_at": "2026-08-21T11:58:19+00:00"
+    },
+    {
+      "id": "hl-0b520799f441e5d3",
+      "date": "2026-08-21",
+      "title": "航空宇宙ビジネス・フロンティアへの挑戦（132）福栄組合 レトルトおかゆ",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0yNnoyZm9DbWZGUHY3dm11WnVPQzBvT1hSODZrZUVtOFJXT204MW9MNFQzVlJLVXNSVHZMUWtBRFdSTjBQQ0VCYXdXYm02NFIwVEl2RTRydE0?oc=5",
+      "source": "日刊工業",
+      "published_at": "2026-08-21T11:14:03+00:00"
+    },
+    {
+      "id": "hl-7c0f9fdb2ba472ea",
+      "date": "2026-08-21",
+      "title": "ニュース拡大鏡／日本郵船、宇宙に挑む 再使用型ロケットを洋上回収",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAyVlBwSmZNWUdrV2RMZEJnZUJYSkc1VXI3RFN5RXhRNWZhVHBFc2w5U05pV0t2UHVab3lWUnh1YnhqZDMyWjJWQXRBRnFBVjk5NndMZl85V1U?oc=5",
+      "source": "日刊工業",
+      "published_at": "2026-08-21T11:09:48+00:00"
     },
     {
       "id": "hl-ec975823fa706e2b",
@@ -280,14 +496,6 @@
       "published_at": "2026-08-21T10:54:40+00:00"
     },
     {
-      "id": "hl-6e2117d0291a4b3d",
-      "date": "2026-08-21",
-      "title": "和歌山県、宇宙産業を集積へ オープニングイベント開催",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5BMFZ5Q01mTC12X2pyZEtKY3hncjRfMmREZ1VFN0pjUVpOZGtoQzgxVlQ3UE5oblhMUjcyd2YzdUpSVU94ejNWYXgzN1ZDM2RtZmVYcEpsbTI?oc=5",
-      "source": "日刊工業",
-      "published_at": "2026-08-21T10:48:47+00:00"
-    },
-    {
       "id": "hl-f61232ed3760dde6",
       "date": "2026-08-21",
       "title": "Trump signs memo to help drastically boost US commercial space launches",
@@ -296,28 +504,20 @@
       "published_at": "2026-08-21T10:26:43+00:00"
     },
     {
-      "id": "hl-8ba4e74e14080764",
+      "id": "hl-665531491c357c88",
       "date": "2026-08-21",
-      "title": "Blackwater’s Erik Prince Launches Air-Defense Startup",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdEJnREE4ZUFtcTR6UEdzWFFHeFQyaVBhbFY3Y0VocHlEeEE2WXdmZDI0Ty1MZGstVmVJaGdxR1RvTTlEMEtEbG4tTGdBajAyVEJ0RFIwbmstU2x1akVMNms4Nm02dVdXYlpfYXd1SlVNdWRVTjZNLVFsVDBHN1otSmFDYlNWTnhzMXZyU090d2szMGd6?oc=5",
-      "source": "WSJ",
-      "published_at": "2026-08-21T10:00:00+00:00"
-    },
-    {
-      "id": "hl-7f1c32af1bb9988e",
-      "date": "2026-08-21",
-      "title": "SpaceBD、小型衛星打ち上げ支援 H3で民間相乗り輸送",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5feDdEZHowOV8wOFZ6a1g3bDRyaUYtYWM3OWhrZHdCelF6T2hNTXdEb3dheXhYWnE5OTNBbGQ2UFZUR3Y5OFBRUVQ0X05ReThxTFd4WUZuVEg?oc=5",
+      "title": "再使用型ロケット 官房長官「競争力強化への貢献期待」",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Fb3pQOWpQV24tNnRQM3ByRHJxZzVtLTJ6TmdJdEFxYVBmWG9jWGI4WnJNNGlscWNXd3d0OUExaHAzMlVhTGFmc3BGbjE4MGtJU19MN1psajc?oc=5",
       "source": "日刊工業",
-      "published_at": "2026-08-21T09:50:53+00:00"
+      "published_at": "2026-08-21T09:58:59+00:00"
     },
     {
-      "id": "hl-76e0246334a012ea",
+      "id": "hl-916b2fdf95d5ad0e",
       "date": "2026-08-21",
-      "title": "PODCAST: Iran sanctions, Israeli settler warning and China's space tourism",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYTBQYmt2SWl6RGlRVEJYb2VlTjN3NFVEM2k1ZlNlQUd3MkxRaXloamEzVm5QNWFJSzVieFFBVzc1TU5TeFVfbzR2MUR0Q2Z2blo1U1dCdTZaQk1OWEE3VEEwZjY0V2VjUUR3dWNfUVp0dzBYLU5YSXhCdEZ4SGRkdUQtblJwUG1FTzFOekVPZnM3TWdoWVFFT01Idno2WTJ6TGlENGhGVQ?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-08-21T09:42:00+00:00"
+      "title": "卓見異見／宇宙で暮らす 早稲田大学理工学術院教授・野中朋美",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE53UUNscElGcm1KUWNLVWkzVUk0a2hwYldqX1h5NHRQN2pLVjhzZFBiRXQyMVNGd2h4MXRJMDJ1MlBobDZ3VDF6dWhaT1dwVkU3d2Y1dm1kd2U?oc=5",
+      "source": "日刊工業",
+      "published_at": "2026-08-21T09:17:20+00:00"
     },
     {
       "id": "hl-428fbb8c45debf86",
@@ -336,36 +536,12 @@
       "published_at": "2026-08-21T08:16:24+00:00"
     },
     {
-      "id": "hl-dd10974f8680d19d",
-      "date": "2026-08-21",
-      "title": "＜8/24新刊＞『ロケット開発者と投資のプロが読み解くスペースＸ』 - 日経BOOKプラス",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBxVll1VjlxREotUnExaDFJSWpHaDBEbkx6bUgzb0RfT1c1TnI2eHF2cm9uU3N5Q0RkM2dQd0hMWWM3eFRYcWluZUhQMmdFb2FpQlhOMWVrZlE3OTY5M2l4WmVUeFZDeE0?oc=5",
-      "source": "日経",
-      "published_at": "2026-08-21T07:00:00+00:00"
-    },
-    {
-      "id": "hl-3d0f989a25c9fa46",
-      "date": "2026-08-21",
-      "title": "産業春秋／現実化する「2001年宇宙の旅」",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBNlpLY3Qwb2tYVUNoWHJBYUJuZTRWSkN5Qjd5QWdqakotQUl0VTFsVTh1Q1E2MUw2NGhIUGwwZDUzUlZTQmEwS2hmbHlmOWMyTnc4VlhrUUE?oc=5",
-      "source": "日刊工業",
-      "published_at": "2026-08-21T05:08:20+00:00"
-    },
-    {
       "id": "hl-e72b401b6bde05ee",
       "date": "2026-08-21",
       "title": "航空宇宙ビジネス・フロンティアへの挑戦（136）三菱電機 軌道間輸送機",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9XMGllcml1U3pqcC0xVDE1WmQ5UTBsMW1YY20xTVc0elJYclBleHlhbzlmc2VVcU13RVo2UTdZbjRTaWlBOFJfRFJCbjZvXzdTaWxfZE5FUEY?oc=5",
       "source": "日刊工業",
       "published_at": "2026-08-21T04:33:32+00:00"
-    },
-    {
-      "id": "hl-33d8c381d4d44cd5",
-      "date": "2026-08-21",
-      "title": "スペースX、「宇宙基地」の候補物色 打ち上げ拡大へ",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB4OEZWbmZ6UDFWZUJLN1ZoNTdkZ1ZyS3dHZ0tzazQ1Nk0wcWhhT1VjWFBnekV5Sl9haVN3UXBMakN2ejF2NGh5VkRYWXpra0tHbzBhbGxaVUM?oc=5",
-      "source": "日刊工業",
-      "published_at": "2026-08-21T04:27:02+00:00"
     },
     {
       "id": "hl-f541b8f7bbb4906a",
@@ -416,188 +592,12 @@
       "published_at": "2026-08-20T22:51:53+00:00"
     },
     {
-      "id": "hl-dfdd49f7663136bf",
-      "date": "2026-08-20",
-      "title": "宇宙での生活は甘くない 信長も見た赤いオーロラの恐怖 『怖い宇宙』（早川書房） - 日経BizGate",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBXODJaU1l4Q1JiLVVwYWM5NVNJRm1lMlVyY3l0ZnlsemI3TjlES1JHVjJMcmRydndoVkZCRU1uN3BUWEVhTjBBQ2QyMFFKNTU3NkxveHNWci1lWHQwR0d6M3NmbVVWRVhrRjdBcHlZbUM?oc=5",
-      "source": "日経",
-      "published_at": "2026-08-20T21:30:00+00:00"
-    },
-    {
       "id": "hl-469e8b99505f4632",
       "date": "2026-08-20",
       "title": "はじめに：『ロケット開発者と投資のプロが読み解くスペースX』 - 日経BOOKプラス",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE50Q3hrQVZQdm1OZWhBZEo3TzNkMVNnTlFRV2swUXNmdjZLQ2thMEVvRG54NXdFOGZ3VEI1WlluYUp0VFVfaTNPaVR6TTNkZDZwdlAwRE5mbHpsUlgyX2pEYjFOTU5OZGl2WFFqNQ?oc=5",
       "source": "日経",
       "published_at": "2026-08-20T20:01:00+00:00"
-    },
-    {
-      "id": "hl-35628bea4dbee414",
-      "date": "2026-08-20",
-      "title": "NTT・スカパーJSATが挑む「衛星間光通信」、宇宙データセンターに向け開発（2ページ目） - 日経クロステック",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBTY0syZmR1d3R1SjVHdnNCREkxOVlySF9MOFhSWE00RGd5T3QwV21tRENYQWJBOXh4SGxWQ2xEY3hHTktrTTU0SWJ1dll5cGFXb2FPTWxfZnFwdmRMSEFlV0drNEhBRzNPeS1nUmRxMVlBdw?oc=5",
-      "source": "日経",
-      "published_at": "2026-08-20T20:00:00+00:00"
-    },
-    {
-      "id": "hl-d39b016b82885c5a",
-      "date": "2026-08-20",
-      "title": "Anthropic Expects to Match or Top SpaceX’s Record IPO Size",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZjdKM3p6TTVON2FNcXFDRVhHd056NU03dGQxNzFYYkNYc09xWDhwS1hETzdFUkoyVkpWM0o1VENSaENzWnIwODBmUThla2dsUWF5UkRuWThvVmRsRVdCZHhCaDVQZ2NYSVdLU2J4aHdaZ19OeDY5LUREbVg1cmR6ZmZxVk5OcG5YX0lHMmFUelNSYjNoVVBJVWNYdENoeFFZdmxEQVBPSDNsQWdIMFdtQnJn?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-08-20T19:22:23+00:00"
-    },
-    {
-      "id": "hl-f9e1b06b098246fb",
-      "date": "2026-08-20",
-      "title": "What’s next for ISR in space",
-      "url": "https://spacenews.com/whats-next-for-isr-in-space/",
-      "source": "SpaceNews",
-      "published_at": "2026-08-20T17:21:33+00:00"
-    },
-    {
-      "id": "hl-5e6c2f1c2b2ca01f",
-      "date": "2026-08-20",
-      "title": "SpaceX Is Racking Up Wins in Washington",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTFRUSi0zRHdlMlA4MkczMDVsSmxDNnEydjcxTVVHdWEwWElMcHYzTXNFemU1RDZybWEySjhqVnppM1ZidDR4UUJSSXQ3S0k1MDkyNEt6cXpwd180Z1VMWWhQdGs5UmFPbU1YdE1ldmQ2Y1BBNUx0QnA2cWRIZGtIWDBzcnAyRnY3YVFBMk1R?oc=5",
-      "source": "WSJ",
-      "published_at": "2026-08-20T17:09:00+00:00"
-    },
-    {
-      "id": "hl-5fcafbbd39d13fcd",
-      "date": "2026-08-20",
-      "title": "Moog Highlights Huntsville Expansion and New Hardware-in-the-Loop Lab During Space and Missile Defense Symposium",
-      "url": "https://spacenews.com/moog-highlights-huntsville-expansion-and-new-hardware-in-the-loop-lab-during-space-and-missile-defense-symposium/",
-      "source": "SpaceNews",
-      "published_at": "2026-08-20T16:00:00+00:00"
-    },
-    {
-      "id": "hl-f19e9377d397b499",
-      "date": "2026-08-20",
-      "title": "Satellite maker Muon Space valued at $1.5 billion, source says",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPREF4dUllWDJ6WGtKV0l2RHZBRWNJNGc5eTNkSVRCZHhCTHVnNkNmM0Y1UDhuYmthQXlBMWk5eG9NeWdSSHNEX3FLeUZSTmNTS2FEWC12YUpsbHYxdlE0b2VIVjlXNlNDRzFMbE04d3EwaG9LZDh3dHIzeEFJNDBrSEpoTk5WOVFOV3EwN1BZdEgtYjR0aDFteW5DcTVONEFfUVdkLVVyUzBHQkFKQUxGUUVWR2lnZw?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-08-20T14:33:55+00:00"
-    },
-    {
-      "id": "hl-fdbb37386973f04c",
-      "date": "2026-08-20",
-      "title": "Rock West Composites® Is Premiering Its New STRATOPultrusion™ Product Line at the 2026 Small Satellite Conference",
-      "url": "https://spacenews.com/rock-west-composites-is-premiering-its-new-stratopultrusion-product-line-at-the-2026-small-satellite-conference/",
-      "source": "SpaceNews",
-      "published_at": "2026-08-20T13:00:00+00:00"
-    },
-    {
-      "id": "hl-25886c83f5f43639",
-      "date": "2026-08-20",
-      "title": "Satellite proliferation imperils astronomical observations, study finds",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONUJsclVOblFNWnROMmN4TUFSaHNMMlgtWHdhSmFRZ0YzaUNwWThKZ1RMUWFyTU9QdF9XX0JvaDE2dHo1dGV2OWp5RW4wZTRBM0xVbnVvNURsOHIyRThNVzNmT1MzbDBPcjc0MUJsN0hFZDdCWkpvQ0RPRFRQQUdBTHRQdzY0bldSWWZncXVvYVM5Zm9tVTlTa0M0cnFyaVRndTFQa2dlOUtjTU1LN0VnSHhldVNxQ3ZrOUluRHV4US16RjU3WXlnaQ?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-08-20T10:19:21+00:00"
-    },
-    {
-      "id": "hl-f3cc845c3c8b6dcf",
-      "date": "2026-08-20",
-      "title": "LatConnect 60 selects Transcelestial’s Space Optical Network for SWIRSAT imaging constellation",
-      "url": "https://spacenews.com/latconnect-60-selects-transcelestials-space-optical-network-for-swirsat-imaging-constellation/",
-      "source": "SpaceNews",
-      "published_at": "2026-08-20T10:00:00+00:00"
-    },
-    {
-      "id": "hl-6ee3be1f96274253",
-      "date": "2026-08-20",
-      "title": "Draper Selects Proteus Space for Advanced On-Orbit Mission",
-      "url": "https://spacenews.com/draper-selects-proteus-space-for-advanced-on-orbit-mission/",
-      "source": "SpaceNews",
-      "published_at": "2026-08-20T10:00:00+00:00"
-    },
-    {
-      "id": "hl-242a74576513e3ba",
-      "date": "2026-08-20",
-      "title": "A Rocket Launch Shows Indian Deep Tech’s Coming of Age",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaU5KdDNwTUhTNVJFeUFRM2tIR2txNUxQc1N2YmdWTWlhcTBicEEwU2lOY1dfM0lPLTlKSC01VXRXaUFHNkV6Um5aZnpaWF94WldSQzdpNmFlMWpTSVhvNkZsYVlOb3IxN1dIUk96VURleEcyaXFOdnJPdkdBN0lWQ1BWQlhoSHhDLXNLNk1VTlZCM3lJdFhmSHJQeDdIZnZkTzYxX3lSLVA0MTVkbmYyUWpDNm5LMDRQQUNaNm1kU3pkTXpwUllJMQ?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-08-20T07:41:50+00:00"
-    },
-    {
-      "id": "hl-610ae00a6b88ccb7",
-      "date": "2026-08-20",
-      "title": "H3ロケット10号機、打ち上げは10月20日 JAXA",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fbWRJYWRRQlgxa2J0Z3FHNlMtSVlWTl95eTB4dUs1Tk8zRk9ncGpDcmw4YWMtTVZoU2loRWRxc1U2QTB6d3NaOVQzTm0tMDBiOWFPMjl1dDVfZU5aa3VRMTlZUlM2Sk4xcVQwVA?oc=5",
-      "source": "日経",
-      "published_at": "2026-08-20T06:56:58+00:00"
-    },
-    {
-      "id": "hl-e59e771533d93bce",
-      "date": "2026-08-20",
-      "title": "JAXA、H3ロケット10号機による火星衛星探査機（MMX）の打上げについて発表",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1JdngtMTNZZnRJa2VxRE1GTVJYWlRFZEJPSkRkYnEwUEdpSHhGQ01UanpVN24zSjQzNXhMa0kxTWdLQ1RzU0pIbXlWZTVCZ3BaUzBrWlVoVE5ad0g4UGdtZkp4cDdUeDNfSDdleA?oc=5",
-      "source": "日経",
-      "published_at": "2026-08-20T05:55:15+00:00"
-    },
-    {
-      "id": "hl-2194d582f1fe6201",
-      "date": "2026-08-20",
-      "title": "スペースXのロケット残骸衝突、月にクレーターくっきり",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XY1BJTmRKSVo3d3dDS01YNU5ZN1pPZHVBS016WXlfc1lfV1FIM3U5aXVCM0sxdkpZNTc0S0dZbndWQVZ2bEtLZXJMdGJFSzBva0N0eWhjQkZzR0NyTUtPZVZLRGlvM1ZyeTBaeA?oc=5",
-      "source": "日経",
-      "published_at": "2026-08-20T05:30:00+00:00"
-    },
-    {
-      "id": "hl-bc13709d85990b8e",
-      "date": "2026-08-20",
-      "title": "動き出した「宇宙データセンター」 - 日経クロステック",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1YXVzUnNyVE81UGNKQ3lRUVJIWEJDYVBsMWM2MlF1MmhXZGVWWktLY3VtUnA1U1ozeVRVVGFlTFphTWtFbU16LUU0YnpqX2xGSk1ZSDJQb2NFMHVqQS1z?oc=5",
-      "source": "日経",
-      "published_at": "2026-08-20T05:03:45+00:00"
-    },
-    {
-      "id": "hl-704d2f8709e08031",
-      "date": "2026-08-20",
-      "title": "Musk's Starlink reapplies for India approval of satellite network, ET reports",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNGlzNWhsVGxkUlYyV1NXU3c5cWNNUjVfMHJZS3hJdXpza3pGR3puMmFzajBGV0otcXhMeTVpeUNqbzhlU3V0Qm9sLTA0cnlEQVRsRDhJQlRMOG4ta1VYZ2lkT0dxV0p2YnhrV21xZ2pLcmtLVnNCSEVfMk0xT29STGkzall4ZVROZDdDNUE5ZHpYVVh1cW9qU1c4TTRMb3pMU0NKTjFicU0zaFdDekx2M0lEdTM3YlU?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-08-20T00:42:00+00:00"
-    },
-    {
-      "id": "hl-6b4db841a4531b7e",
-      "date": "2026-08-19",
-      "title": "画像：最新機器は「熱」との戦い イーロン・マスク氏による宇宙データセンターの背景 - 日経BOOKプラス",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSWp5aTJWNFhMLU9ab0ZVUzNGNE84cWl4dnBlQU9ZWEFCUldEa0lFaDREVWNLd2JGaDRpQnE4R1B3cGoxM1o5WTU5aVVnYW1VZ3BidTd0enFTWWE5U2lwdGR4S1BVSG5yWVJ5OEFKNjdvd0lIZHFjWk9DTU5CMldRWWstLWN0QmswbnY1Yml3?oc=5",
-      "source": "日経",
-      "published_at": "2026-08-19T21:47:05+00:00"
-    },
-    {
-      "id": "hl-e77a03832018b057",
-      "date": "2026-08-19",
-      "title": "SpaceX Attempted to Acquire AI Coding Startup Cognition",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeV83RFdvT2pVVk1lS2JMYnhqcXhtX1lkREpJMnZZT3RUVmZnNzNFbnR2akhQYWxBc2JRZ2RwZEsxT0VoY0ZXNjlhNTFJQzZNRWktbXlTZ280TVN0WHJtWnE4eU90X0lSemF4NmVQbUVzN1dpSjB0SWtfMm1UaFpxdWs1Q2lQUGhXa1liNHdTNS1meEdITmxWaGRfS2RLUktBWjdRa2pzMFo5dw?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-08-19T20:23:21+00:00"
-    },
-    {
-      "id": "hl-f0e7e80bb6a45299",
-      "date": "2026-08-19",
-      "title": "Rescue mission for aging NASA space telescope fails",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRFppWFl0ZDdncTFaRGw0QkYwaU5ORDdmdDZva21KZVBqd2huT2h0LVdUd1RCd0hXUWdreE1xWXFHYTJ4U2FQZFYxdU5fWXRmS0ZqLVpNWlZ4bDBKOXdoaXVtTHA3OWh2VmctVW1LblN5TU5JY0dCYi1MRTVDNmtnTU9uM0tvaXFwYXF4T3p2T0FlTmZFOWJDeHN4RHVOWlMxclFubW5tY1FSM2w3TjBKT1g3emFQb0Z6QWRKV19veGk?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-08-19T20:14:30+00:00"
-    },
-    {
-      "id": "hl-c1967dfa9f63aa6d",
-      "date": "2026-08-19",
-      "title": "エレベーションスペースが宇宙実験代行 「帰還」に需要",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQd1B4ZURtOEQ5ZXBwUVFWdXNSV0FqdUYtSVhqZkdycTRBV3psWlJhN2lJVW8zaWE1bXUxWWFodVZsNXp0d0ZyZVU1VzlPM0FOUkowMGN2aFlhT1hWZW1GOTVPaFpFbjJIMkp4VUVxMGk3LUFJSUtqQmxMZnd3QWtObzhzTGZlS0U?oc=5",
-      "source": "日経",
-      "published_at": "2026-08-19T20:00:00+00:00"
-    },
-    {
-      "id": "hl-373a3750006bbc70",
-      "date": "2026-08-19",
-      "title": "宇宙データセンターの鍵「ビット反転対策」、JAXA基金の採択企業が本格始動（2ページ目） - 日経クロステック",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBjYVpveFZIdk5hMG16R0QzNWprZ051bE1raDZvWEEzdFpyb3FHb1NpN19Wb2VOLXRNeFNlTTg3N29zV1lFYzhOZkpVSDJjamZjb2stQm84VUpscDFudjZRcEQ1ZWdTLVVZTndhQWMwYU8tQQ?oc=5",
-      "source": "日経",
-      "published_at": "2026-08-19T20:00:00+00:00"
     }
   ]
 }
