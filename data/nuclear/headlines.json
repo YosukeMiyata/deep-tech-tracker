@@ -1,6 +1,6 @@
 {
   "_schema": "id: 安定ID / date: YYYY-MM-DD / title: 見出し / url: 原文リンク / source: 媒体名 / published_at: ISO8601(任意)",
-  "fetched_at": "2026-08-27T20:13:44.627545+00:00",
+  "fetched_at": "2026-08-28T21:13:01.520388+00:00",
   "theme": "nuclear",
   "sources": [
     "日経",
@@ -12,15 +12,47 @@
     "東洋経済"
   ],
   "fetch_notes": [
-    "日経: 22件",
-    "Bloomberg: 15件",
+    "日経: 24件",
+    "Bloomberg: 14件",
     "Reuters: 6件",
     "CNBC: 2件",
-    "WSJ: 2件",
-    "日刊工業: 46件",
-    "東洋経済: 6件"
+    "WSJ: 3件",
+    "日刊工業: 38件",
+    "東洋経済: 9件"
   ],
   "items": [
+    {
+      "id": "hl-2cd77580801367a0",
+      "date": "2026-08-28",
+      "title": "東海第2原発の防潮堤完成2年遅れ 日本原電が見通し発表",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52R3VQVjl4RWtLWklkSmlPNkZ2QXBjWGNmcmc4aG1GX1JDaENKNHlVd3pqZGZYYV9kM2RfdEl5RjBxTnItbWw0NzNWRFRvVUNZTnBjeGpsaVl2QVlJakxyUzZvUTFZTnhqNHhNbQ?oc=5",
+      "source": "日経",
+      "published_at": "2026-08-28T17:00:00+00:00"
+    },
+    {
+      "id": "hl-89f45a74b03cf6d6",
+      "date": "2026-08-28",
+      "title": "原産協会が都内で年次大会 原発人材戦略、道筋探る",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9xUjZyRW45SGNZQnhYcERZMkt1ZGxwVm5Pdzg1aGdnOVFVa3luOFo4TDhiQXdVcGIwcl9SMm9UNy0yd2J1VTVneWxjdGRtUkdqZ2xaSWRVaGY?oc=5",
+      "source": "日刊工業",
+      "published_at": "2026-08-28T07:39:23+00:00"
+    },
+    {
+      "id": "hl-2dbdf43d82daf406",
+      "date": "2026-08-28",
+      "title": "Majority of South Koreans Want Nuclear Arms as Trump Cuts Drills",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNUlpTm1mNUlpbWRXSmh5R3lVdTYyVjZOaWlyUlVpNllOTU9VdU9USEVHdDJWd1RSYjlBQVFxWERzWnpTc2lQemt2NTRfSTR1T244Qm1oZk5SdS1pRUJ6U2tLamVtTkd0UGV4UW40dlBQZV9MeGI2WWpucEpwZWp2TW9LbU9HRUpEbW1RbUhEYU81QTBuUnUyWmpBWldsMnRfdk96Nk5EbHFMQ3NWRGswaEwtb29XQQ?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-08-28T07:13:03+00:00"
+    },
+    {
+      "id": "hl-35e45328cbfcf556",
+      "date": "2026-08-28",
+      "title": "東海第2原発の防潮堤工事、完成2年遅れ 再稼働28年度後半以降に",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1EUG5DRGpaVFFiU2otbFFTZHFVTlljcHZjZEJwM2NzT3d1NXdWcWdYVTVNclZJOEkwNjlrbU5yRW5SWlFKNGYwTTJGYy1YSWo1cHplckh1eEZfSGQ5UjJRSTFrMklPNHBpaS14UA?oc=5",
+      "source": "日経",
+      "published_at": "2026-08-28T03:05:00+00:00"
+    },
     {
       "id": "hl-d8544e85ca13f2e8",
       "date": "2026-08-27",
@@ -30,12 +62,44 @@
       "published_at": "2026-08-27T20:00:00+00:00"
     },
     {
+      "id": "hl-cbcaa7c9b2db46fc",
+      "date": "2026-08-27",
+      "title": "経営ひと言／日本原子力産業協会・増井秀企理事長「融資制度を歓迎」",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBsaFJHbUF5bUd2eXBkUXRfRG5YQXUyMmp1V2xUejVzVVNScE5SeXRDckdNYjRYRk5tcFFBakRSaU5nd2Z4QzhKQktQRUtwdHR2eVVLVVRYanQ?oc=5",
+      "source": "日刊工業",
+      "published_at": "2026-08-27T20:00:00+00:00"
+    },
+    {
+      "id": "hl-9189a8126eae3ae5",
+      "date": "2026-08-27",
+      "title": "中部電、浜岡原発廃炉工事 報告書改ざん",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8xRkRaSXhBUTM5bHUzVVV0RHhoNDZMN3VNaDdLX1BiR0VJU3B4RDZ1U1FyZjlibTBoSUFvNHlXSjJzOS1ENXI3MXFGOEdURFpQSXQ0Mk1yX0xrS2NnZnJxbFphMkFZejUzVk9TakRRTQ?oc=5",
+      "source": "日刊工業",
+      "published_at": "2026-08-27T20:00:00+00:00"
+    },
+    {
+      "id": "hl-8a920ae7bcd5204a",
+      "date": "2026-08-27",
+      "title": "中部電、浜岡原発廃炉工事 報告書改ざん",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1heUl0aGhRQl9kUW1NNUd5VVBSVkpDb3ZEWHdidTNDTWctbHlqZU8wS3RfcC1rMzVFaUtOR0EwVUZMNDVwV0hrWnRaUkMyS0RXT0tFcFA2Tl8?oc=5",
+      "source": "日刊工業",
+      "published_at": "2026-08-27T20:00:00+00:00"
+    },
+    {
       "id": "hl-35f637c624efa231",
       "date": "2026-08-27",
       "title": "福島第1原発のデブリ、2回目採取分を詳細解析 生成過程が類似か",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1b0VsSndMTnZ1dTV0bW9pc0tsUGt2M0xKd1dCdXFjWHBHR0VXWnlTX2p0alppQjliMzJSM3FPZkNTV2lzYktsX3hUeU85WThnR09KQ05lR3A2R1otM0NLSDR6bU53YmhLZVYwaA?oc=5",
       "source": "日経",
       "published_at": "2026-08-27T20:00:00+00:00"
+    },
+    {
+      "id": "hl-9cd6e8aaaff7bf5d",
+      "date": "2026-08-27",
+      "title": "関電高浜原発１、２号機、規制委が工事計画認可",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA4X09DOFE2RDVnTllENUNjYjFWRC0yYUl4S0hJNlI2d3NqZGZRdkxBZTQwejNjeG0tLXpPV254b29fbEpDX2lxXzhaUEctNE56VXc1aGhrYkNQOXBYSUc4YjJSaU1BLUlJeVNuNVln?oc=5",
+      "source": "日刊工業",
+      "published_at": "2026-08-27T19:02:56+00:00"
     },
     {
       "id": "hl-33e71dcf9d7d4a1e",
@@ -62,6 +126,14 @@
       "published_at": "2026-08-27T17:00:00+00:00"
     },
     {
+      "id": "hl-0abeea4e40ed87ef",
+      "date": "2026-08-27",
+      "title": "Ontario spearheads Canada’s nuclear renaissance",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQnZPOUlCRVAxM0U0VmQzXzk1RDFoN25vd2xtTWJiR2cxdHZBYTM1dzBOZTZJRnZRdDRhQTZoSjg0S1VwNTJubTlvMXZzbmhhRWtfZkcyb0tyMmI5Z0g5akEyUklpT3BfTjgycmFYa0Q5RlBOa3RfcXlEYzY2elF3SS1sM056ZjF0LVI3ckR2UjZyLXlybmR0d3BrWURzT05IZHBpeWlvTEI?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-08-27T15:49:31+00:00"
+    },
+    {
       "id": "hl-a8d611c1e8884543",
       "date": "2026-08-27",
       "title": "福島第1原発3号機、原子炉底部の穴は3メートル大 東電が発表",
@@ -78,20 +150,12 @@
       "published_at": "2026-08-27T12:13:39+00:00"
     },
     {
-      "id": "hl-00c449ac23dea577",
-      "date": "2026-08-27",
-      "title": "文科省、次世代原子力で中核拠点 革新炉研究・人材育成",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1VdG1aa0JjLU9XcHBtU1plYkhUb20ybjg2SE9EcDFTclRSWjVCdndSMzJSVkZZS1d3WHRWSExYeklkbWhtdHpOWUdtNzhLeWhzdWlmckF0QnZOc3pyZm5lUjlybE9lM1F6a2hBQ0t5TQ?oc=5",
-      "source": "日刊工業",
-      "published_at": "2026-08-27T11:06:40+00:00"
-    },
-    {
       "id": "hl-7c52e7fb5f3e0ecd",
       "date": "2026-08-27",
       "title": "Tori Shivanandan: America knows we need nuclear",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRmVkU0FBdXdFU1J1ZWpOa0tYN0FqeHN3WHE4WVNvaUtKbUJQQWYwT2NmQ1MwdzVBa180RFprcWpVUVhOQU1ZbjQtR3hFZHZVNWxsT0hDLUJRTG8zTGNQTTZuSVhuVS1FM3BYa0lVdDdVSklsRG9KWHZCUDJDWENzNnRyUE1qZ1lDcm5uWjVUazhYTVk?oc=5",
       "source": "CNBC",
-      "published_at": "2026-08-27T10:40:02+00:00"
+      "published_at": "2026-08-27T10:40:00+00:00"
     },
     {
       "id": "hl-537ae70ea867beca",
@@ -116,6 +180,22 @@
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5QZmY5S3BkcS1tNHJRaXo2aEhpOEhpdmYzbHZJb2tVZmVKS0VUUkZkU1RGVm5kMlNvRW9tY052ZFlYUjJtQ0RnRmlSU1ZVRjRSZm9nRlpzYmdmNGJ0VGJZdmJ2Q2hyNTcydmtxcGRn?oc=5",
       "source": "日刊工業",
       "published_at": "2026-08-27T09:30:04+00:00"
+    },
+    {
+      "id": "hl-b28af67e0176dc91",
+      "date": "2026-08-27",
+      "title": "原子力機構の価値 原子力の社会実装に向けて（158）放射性核種アクチノイドを自動分析",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9KenRfbi15Sk5Ubl9tTnZEWTN1bEd3ckFBbUZ4QmVUelRtNUlnY3I1dFFmVTllb3VhTG5NMGZxNm9DWTktX3RQRkx4d1UwWGUwV2g2MmRaR0N1QjVTMm1lR1l0NjdFa3UxNU1IY29udw?oc=5",
+      "source": "日刊工業",
+      "published_at": "2026-08-27T09:07:29+00:00"
+    },
+    {
+      "id": "hl-20060ee8821899e6",
+      "date": "2026-08-27",
+      "title": "原子力機構の価値 原子力の社会実装に向けて（168）気液二相流の圧力計算を高速化",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5PUUJhWnBYRHNlamMtWjFDMHBaZlJpbnRzNjdLNjAtLVl6eTB3SmdyZHYwSzVZVldvUWVvSUlTSTdlNFBNbVBMYUc4elBTanZfX0tRYnpaTVdJNnlBc2d1bHFQOVpoZWR0UmtmcVk1UQ?oc=5",
+      "source": "日刊工業",
+      "published_at": "2026-08-27T09:01:34+00:00"
     },
     {
       "id": "hl-b838cdb7f96f9744",
@@ -182,14 +262,6 @@
       "published_at": "2026-08-27T03:52:32+00:00"
     },
     {
-      "id": "hl-2eea90929efd13e0",
-      "date": "2026-08-27",
-      "title": "原子力機構の価値 原子力の社会実装に向けて（169）遠隔操作ロボ向けDMU構築",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Td19uUW0wRzhqOG9mOURYTnNCR1BCVE40MDN1UTdGdzZhMlFrR2FTXy1XVDNxV1dPMnd5a2ZqUnpIa21ERDZsbGdyTndEQWtSeUtkSG1VZHA?oc=5",
-      "source": "日刊工業",
-      "published_at": "2026-08-27T02:14:15+00:00"
-    },
-    {
       "id": "hl-0d9af41feee925a5",
       "date": "2026-08-27",
       "title": "中部電力の株価反落 浜岡原発の廃炉で不適正手続き、午前に記者会見",
@@ -246,28 +318,12 @@
       "published_at": "2026-08-26T20:00:00+00:00"
     },
     {
-      "id": "hl-1475860de9044e6b",
-      "date": "2026-08-26",
-      "title": "米とサウジ、原子力協定",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ON0hkaTdFcEktd0x2aERJbGdqclpxSnFENHdHQm13eGhpOWQ0WUMxc0FSNnVRS2NUZVFLNndMT2FLQmgzOXJvNm1NbDBIMnh5NXFscXoyX2I2M1JnT3hHcFdsdmhtbXRadHZVZFZocw?oc=5",
-      "source": "日刊工業",
-      "published_at": "2026-08-26T18:35:40+00:00"
-    },
-    {
       "id": "hl-17eee5eb9572e0bb",
       "date": "2026-08-26",
       "title": "日立子会社、ベステラと業務提携 原発解体ノウハウ共有",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBFblBIMmNRVUVYdTZWSXVRVS01U19uTW5FV3NGS2xqaFM1SVdVRGVkeE5WUURzWTUyT3puUVRmdG9iTUlxQ2MtZmpCcDZkejZ2YkVsZVBjN1FFc3RmaVF1MG5ya2Zja3RMUjFUOE5xMA?oc=5",
       "source": "日刊工業",
       "published_at": "2026-08-26T17:23:35+00:00"
-    },
-    {
-      "id": "hl-c239fdf97ca06460",
-      "date": "2026-08-26",
-      "title": "広角／新潟商工会議所会頭（新潟綜合警備保障社長）・廣田幹人（上）柏崎刈羽原発再稼働",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5QdWFPUjVyMGJBN2l6S1MxZW5CYzVBblpzZ2c3eFU5MmtMcDk3bW0tdU96al9WSDFjaUFBMjdoMm9ZeDQxNHlVemRFZENSMXVzeDRORFJaM2M?oc=5",
-      "source": "日刊工業",
-      "published_at": "2026-08-26T17:20:52+00:00"
     },
     {
       "id": "hl-46cf7b7b169762df",
@@ -310,28 +366,12 @@
       "published_at": "2026-08-26T14:00:01+00:00"
     },
     {
-      "id": "hl-621deda6857c5a8e",
-      "date": "2026-08-26",
-      "title": "原子力機構、高速増殖炉「常陽」１５年度再開へ",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YUkhVdTYyc1RrWkZEd0FDR3NxQkdOblBSZkNxemJmTW1HNjZPY2NfRFY3NFgyX2JYb21UTWpRUGtYeWNXemJaOHRRUWFPRDg2RXVpbDNfcmthSG1taE42UWFxX3hJVFJ5QmZ2SVlMTQ?oc=5",
-      "source": "日刊工業",
-      "published_at": "2026-08-26T13:27:53+00:00"
-    },
-    {
       "id": "hl-c5e0a05bb616f3ef",
       "date": "2026-08-26",
       "title": "新役員／神戸製鋼所 執行役員エンジニアリング事業部門原子力・復興プロジェクト部の担当・梅原直紀氏ほか",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5UREVyTF9kRDVIMkZJa1dKd0NIT0FsNUoybUVJSGFaQTRrT1EzQWhEYTNyclJoVXEtNnNIZmREUGg5dThORnRlRjhmeEhvTTIzVXJqdGdmUGE?oc=5",
       "source": "日刊工業",
       "published_at": "2026-08-26T13:16:49+00:00"
-    },
-    {
-      "id": "hl-16eda9b10689da10",
-      "date": "2026-08-26",
-      "title": "原子力機構、福島原発の下水汚泥焼却灰から放射性セシウムを９０％回収",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9HTzVCYk55Z0Y3b0tsVG40REdnQ2lXNllaTFFuWmZDY1RQYzJuTVNBQXdSejRKZGltNjVxcE1tX2IzVGN5Tko2OHd2ZWtfZ3g5LWdGRmVONWU5Yy1HVVpsRHhveGVJV1NFTl85RFpyRQ?oc=5",
-      "source": "日刊工業",
-      "published_at": "2026-08-26T12:36:35+00:00"
     },
     {
       "id": "hl-9e84e6cef75f89cf",
@@ -406,14 +446,6 @@
       "published_at": "2026-08-26T06:54:18+00:00"
     },
     {
-      "id": "hl-132df234adedbb01",
-      "date": "2026-08-26",
-      "title": "政府、電事法改正案を国会提出 原発建設へ公的融資可能に",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBQdlhmVkFNVDZoUmhadU42VW9MNUxXS3ZKdTVwUVlCaGlUTGpSUEs3OFh0VE1Ed1JjRkc5TVprRExPZTRndDlyRWJxTU9Zc1Qwc01hd3g1eE9TLTNYMVZFYWZCeF9XeUZfeGs0cWpDaw?oc=5",
-      "source": "日刊工業",
-      "published_at": "2026-08-26T06:45:34+00:00"
-    },
-    {
       "id": "hl-ae80ee52b24242b5",
       "date": "2026-08-26",
       "title": "東日本大震災／東電、福島第一原発３号機の原子炉格納容器内圧力降下措置を保留",
@@ -454,14 +486,6 @@
       "published_at": "2026-08-26T02:34:00+00:00"
     },
     {
-      "id": "hl-7fe1ff6a254c501a",
-      "date": "2026-08-26",
-      "title": "東電、福島原発で高濃度汚染水処理を本格開始",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9oSU1ydTM0UnNNWURndDR6NnJ3eVFMMHRwRHZfYXFRRldvazZFWng2QncwQ1dZMFRUaFk1UVpyY3YtMkxZNjYyTUFzRmU3U0NNcVpETkMtRm50RVpOdDhCRy1ackRPMERzUGkyYktn?oc=5",
-      "source": "日刊工業",
-      "published_at": "2026-08-26T00:59:25+00:00"
-    },
-    {
       "id": "hl-5960345e17ffa728",
       "date": "2026-08-26",
       "title": "電力４社、きょう５原発の審査申請−原子力規制委",
@@ -494,12 +518,20 @@
       "published_at": "2026-08-25T23:03:45+00:00"
     },
     {
-      "id": "hl-9cd6e8aaaff7bf5d",
+      "id": "hl-83522a2bff3f749d",
       "date": "2026-08-25",
-      "title": "関電高浜原発１、２号機、規制委が工事計画認可",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA4X09DOFE2RDVnTllENUNjYjFWRC0yYUl4S0hJNlI2d3NqZGZRdkxBZTQwejNjeG0tLXpPV254b29fbEpDX2lxXzhaUEctNE56VXc1aGhrYkNQOXBYSUc4YjJSaU1BLUlJeVNuNVln?oc=5",
+      "title": "Exclusive | Trump Sends Nuclear Agreement With Saudi Arabia to Congress",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQ3lMNk41ZjNONEZiVmpqRFVXTmVIeGU0bjIxbHNheWlHLVNqSFNvMEstQ0hGUlpLOW5FQWhlZjU5Sl90TnhPSWhQY3JrdFZkYmR6ZURGOUVNVGRqWFdCVjdINl9vbXg1S1RId3NpdzczMG5Vc1N0ejVCaVZid0ZVamtRZ0xWRVNkNHZfSnNZMkJvdnZIQ19jMFFZMWttcmFGOFFldTM3dXU3dw?oc=5",
+      "source": "WSJ",
+      "published_at": "2026-08-25T23:02:00+00:00"
+    },
+    {
+      "id": "hl-307d036733b9368e",
+      "date": "2026-08-25",
+      "title": "2025概算要求／文科省、中小原子力施設の廃止加速 廃棄物処理含め612億円",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5wTE5wMUg1cm9HQlFrcm9HRHhILS1ESlhhVk1CQjdESV9rYTFBU1prd19JSzhIVmIwd1k4eGtuX2RNU3NvenNIeUxqLWQ4MnU3dzN0Yzc1M20?oc=5",
       "source": "日刊工業",
-      "published_at": "2026-08-25T22:32:16+00:00"
+      "published_at": "2026-08-25T21:44:45+00:00"
     },
     {
       "id": "hl-218f127d4a41b513",
@@ -508,14 +540,6 @@
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBTV0xuN3N0Qm44QjBmZVBpVW4tckpqRHRoMDVJNVlzdGNOYVdtX3loaHJKc0pfWTU4UmhfRzB3dlo0aEhndmxpaFhsNDdmZ1ozc1JWNFJGaTBXRUtmOVdqTHZxX3I5Z2otRHpwcWY5RQ?oc=5",
       "source": "日刊工業",
       "published_at": "2026-08-25T21:14:22+00:00"
-    },
-    {
-      "id": "hl-297e5974b8f7404d",
-      "date": "2026-08-25",
-      "title": "九州電力、社外委員会を設置−原子力業務に助言",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAwamR2ZkhjRHZjd3JUNjZSWmVCSmFWQ3I3eFV5Y1VZa3VLb2dTZGtGMXpDNzFtLURZektncml2SEQxM2psVjZnZEJ2ZVI5c2t2dHlabTRMODBGS0dNZEZ3Zk41MVY1RjZMZktxWFVubw?oc=5",
-      "source": "日刊工業",
-      "published_at": "2026-08-25T21:06:50+00:00"
     },
     {
       "id": "hl-5d79cca3831d753f",
@@ -532,14 +556,6 @@
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA1RkpmWWdoeHJyQlFhaEJpM3FsbVJuUTBfbGhOR0xlSks3Vk9Td3RSTmNaMDloZFk4YTdhRkRDU3hMYlc4YkIxSFJqXzAwUmF6aHJPckhnN1lMMzBYd3l3SVVndWpBN2JyU0dSaTZn?oc=5",
       "source": "日刊工業",
       "published_at": "2026-08-25T19:25:33+00:00"
-    },
-    {
-      "id": "hl-76540a8604601376",
-      "date": "2026-08-25",
-      "title": "原子力機構の価値 原子力の社会実装に向けて（167）アジア原子力人材育成の礎",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBwemkwU0ZILVJENTNxVGZha3RVamZJZEJCRE9nNVZDby1jWGVHZHNVdlpoOVYta21CZTN5dGdhcGVjenJaeVcyUWVLdUZKbWJyWWVTTS1LaGE?oc=5",
-      "source": "日刊工業",
-      "published_at": "2026-08-25T18:43:57+00:00"
     },
     {
       "id": "hl-45444702005e7c7c",
@@ -564,22 +580,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1heGlzUlBSNjVKaWNEcllQd2pBczF2R09fTkJOV3habVpWeUExQlplUUlndl9VQWt4OXB5RnFXb1YtYlB5V0lndURGZkUwQ0Q5bncyQkM5S18?oc=5",
       "source": "日刊工業",
       "published_at": "2026-08-24T20:00:00+00:00"
-    },
-    {
-      "id": "hl-77f001dc8983f228",
-      "date": "2026-08-24",
-      "title": "文科省、原子力人材の育成強化 産学官の連携組織設立",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mbHd5QmVFbnZUeWQybk9ZZGJmS2duMWVSeUx0WmZCeG9FejJXVnlZUlhFOHdndXdrcVJVOThSVnN4ZEhGdDBVQkhkRUJpcUhMdk9tWm9LWXo?oc=5",
-      "source": "日刊工業",
-      "published_at": "2026-08-24T17:58:08+00:00"
-    },
-    {
-      "id": "hl-235395198be6e814",
-      "date": "2026-08-24",
-      "title": "原子力機構、英にナトリウム処理施設を設置",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8ta1c1b0JfdkVxazY2UlVxUzVRb1FvYmlrTUlJcDRCazhwM0NSLTR2YUVtSlo3VlNaWE05N2FrX1lSd2FIbnJ4SW1aTUFnNlZub0NhbFdIT1M?oc=5",
-      "source": "日刊工業",
-      "published_at": "2026-08-24T17:19:39+00:00"
     },
     {
       "id": "hl-ae8510794867f83d",
