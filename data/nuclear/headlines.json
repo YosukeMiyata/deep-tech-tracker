@@ -1,6 +1,6 @@
 {
   "_schema": "id: 安定ID / date: YYYY-MM-DD / title: 見出し / url: 原文リンク / source: 媒体名 / published_at: ISO8601(任意)",
-  "fetched_at": "2026-08-31T17:27:37.679501+00:00",
+  "fetched_at": "2026-09-01T14:35:11.345480+00:00",
   "theme": "nuclear",
   "sources": [
     "日経",
@@ -12,52 +12,92 @@
     "東洋経済"
   ],
   "fetch_notes": [
-    "日経: 24件",
-    "Bloomberg: 6件",
-    "Reuters: 4件",
+    "日経: 25件",
+    "Bloomberg: 5件",
+    "Reuters: 5件",
     "CNBC: 2件",
-    "WSJ: 1件",
-    "日刊工業: 23件",
-    "東洋経済: 9件"
+    "WSJ: 3件",
+    "日刊工業: 20件",
+    "東洋経済: 10件"
   ],
   "items": [
     {
-      "id": "hl-78ebad6c363762b3",
+      "id": "hl-bd2d201e35c67fe4",
+      "date": "2026-09-01",
+      "title": "停止中の美浜原発3号機、関西電力が10月9日から営業運転再開",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBtOXAxd19ZRlU2LUFTeTdRSDd0ZkRidFVIVkt5T3pRbTl5LVlZWkpFN2tKMl9zUW9aUVFoTmE2eGFoWDM2Uzd5a19peTR3OU4xblFWTXB0cnVlZWlkM0tKY3FPWVlhZ291dG9sVQ?oc=5",
+      "source": "日経",
+      "published_at": "2026-09-01T09:25:00+00:00"
+    },
+    {
+      "id": "hl-e13fd26834201f24",
+      "date": "2026-09-01",
+      "title": "原子力年鑑2027 - pub.nikkan.co.jp",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9PR2hqTlJRWVJpaDhhbDA5LVctLVdtWHdLdE9zU19qY0kxQnF0dGcxWjdRTEV0eFhKYVdXQVhNcmxvZnhlT0V0NzlMLW9SQ2pLaXZEa1N5OA?oc=5",
+      "source": "日刊工業",
+      "published_at": "2026-09-01T06:08:41+00:00"
+    },
+    {
+      "id": "hl-dda9011d68299855",
       "date": "2026-08-31",
-      "title": "原子力災害医療に5つの提言 新潟大学 救急集中治療医学講座 教授 西山慶 - nikkei.com",
+      "title": "原子力機構の価値 原子力の社会実装に向けて（182）淡水供給設備遠隔管理システム",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBzcmFXU3l3WGs3Zm15Uk93cEdlSDd1cW9sR3ZKeFpwRkFYUDdhSlhPa1BmTXZqdzZHU2J3Rk5zVU1oUk8yMGpTTVFCOWY5YjVKRGI3MnFrYXo?oc=5",
+      "source": "日刊工業",
+      "published_at": "2026-08-31T20:00:00+00:00"
+    },
+    {
+      "id": "hl-6f027353bbb05828",
+      "date": "2026-08-31",
+      "title": "Westinghouse Electric Wants to Ride a Nuclear Power Revival to an IPO - wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPODd2VmFmT0xiYkRYTmtsaldiTlBJbWlsdUFmV2JrMnVHaXU0MzhQczBPOG00YVVLdGdiT0hFQU45QlI4bE0wSXNZOUtscjdCalVTVEpvUTVSOHA2X3otS0dLZ3lHRV9IVDVzOGlFU2FDQ2YtTWdVdVlsa0xvdDhpM2VjR3kzYnFIT0RPcFpudTNjcTNGQm14TldmeHZIdVJIZTRZQ0hSTndvRVc3LS1xRkJIQ3hSQzl6b0E?oc=5",
+      "source": "WSJ",
+      "published_at": "2026-08-31T18:35:00+00:00"
+    },
+    {
+      "id": "hl-ddaa2a40a7f8e1ec",
+      "date": "2026-08-31",
+      "title": "原子力災害医療に5つの提言 新潟大学 救急集中治療医学講座 教授 西山慶",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9IUEpzQkR0NlRIVjZFbUZQRUQ2TXQxTmhDMmxpTEEwVXJRQnJpMjVRbHg4eE1lZmJTcElVSHVJX3JyQmpYMmI1ZUx0am1Rb0d0c2xnMlV1QUYzZU0zZDlsaW9kV1o1ci1DOUN4VA?oc=5",
       "source": "日経",
       "published_at": "2026-08-31T17:00:00+00:00"
     },
     {
-      "id": "hl-0e1eb5cfd647e0a6",
+      "id": "hl-2185fcaf39d17a89",
       "date": "2026-08-31",
-      "title": "原子力災害医療に5つの提言 西山慶氏 - nikkei.com",
+      "title": "原子力災害医療に5つの提言 西山慶氏",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqNG54emZlOUdwc2pnZXJTd2Jya2I4a3pCUlNWYWVzaW1FRExRdG05cmVvX0pibzVydmFNSFZ4SjNXSnp4c19pYm5hdTlHOVNnU2k5MGtoc2NrYUxPMFVXaXBybktqT21BcW1zcA?oc=5",
       "source": "日経",
       "published_at": "2026-08-31T17:00:00+00:00"
     },
     {
-      "id": "hl-eb256de4e6235fd9",
+      "id": "hl-3399a78276415b5b",
       "date": "2026-08-31",
-      "title": "関西電力、高浜・美浜原発の乾式貯蔵29年完成へ 福井県が計画了承で - nikkei.com",
+      "title": "関西電力、高浜・美浜原発の乾式貯蔵29年完成へ 福井県が計画了承で",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MV1RwaThPejhRMEJBVGRZVzNMRlRJcGt4ZkgtVDVUWEJwZ25KdGN4T0xoN1R4dktyZ2NDUG5YZnAzTG9pQnpxQURIejZDM295TjhjVVFRRGdxdFFsVGFCSmlDVG1XSkM5NEk1VA?oc=5",
       "source": "日経",
       "published_at": "2026-08-31T09:00:00+00:00"
     },
     {
-      "id": "hl-d87deff37990c2f8",
+      "id": "hl-eb9de555b85bfbd6",
+      "date": "2026-08-31",
+      "title": "North Korea says hostile US policy unchanged, vows to strengthen nuclear force",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQb0F3OEVRMm9EclRnQjJYYUtMcWU3b0VkNnVOV1BFZFc3Y2hFakhtdFlQX0pkOHRyUF9ZdVExclFmNmY3d21mMWJGSG1HRmxMV2V3M25iX3B0OW9vV1pFTk9FLU1TMWRxX2YzR0lhcEl3eHN1S1QySzViZV9sRll1SFZFSmhUVVhHM0FBeW5NQmlGb0p3a0FzbXo3RDhVRXhCYWNtekNua3duOTZ2OHd6dVBlem5WR0J1TUdwZlZjeUs4SURnT3dUZlNKelB6Zw?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-08-31T05:18:00+00:00"
+    },
+    {
+      "id": "hl-e90dcda5df4b4479",
       "date": "2026-08-30",
-      "title": "画像 | 豊田通商はなぜレアアースが生み出す\"厄介者\"トリウムに向き合うのか…レアアース開発で動き始めた次世代原子力",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5mRVhhRGpVb3FUNmZMTkwxUENWbGJpVGJMX0RDVjRjX1U2X2FnaHduT2lHVW85TzF2TUlCbWQzNThsZjdXOGdIalE5T1hZNTFZOWE5UU9MTQ?oc=5",
+      "title": "豊田通商はなぜレアアースが生み出す\"厄介者\"トリウムに向き合うのか…レアアース開発で動き始めた次世代原子力",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBxS1lRX3ZIUGNWWW5BemRkalBMODE2Yk84RE5YS05mZ3VBYXhCc3NaS2JYbHUyamRHM3d4UWdMZS1hYUxkM3NCZmlNMS01a0ZUaHc?oc=5",
       "source": "東洋経済",
       "published_at": "2026-08-30T21:00:00+00:00"
     },
     {
-      "id": "hl-5416da61db56fee1",
+      "id": "hl-676cafea914ce8d1",
       "date": "2026-08-30",
       "title": "豊田通商はなぜレアアースが生み出す\"厄介者\"トリウムに向き合うのか…レアアース開発で動き始めた次世代原子力",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYQllZdTI3dEpaYlNaNE85WmNSZ1cwbXNzazNoWkNYaGdpQ015aXp0bGZTRlJoUEIxb2pIQnFKT25IMFRaZDMtdkRTcTZyMVlqU3AxNmlUMEFOWEk?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YYVFpUjQySEUzU0F5UjR1X2plSVhCRF81QU5hQWczMjgxUmJ6N0Q1dmNjdEdtYUE1Nng0bUdVOWVSR2hiUjNDMUI2R05hZWVPWHAyZGFnSUQ1MkE?oc=5",
       "source": "東洋経済",
       "published_at": "2026-08-30T21:00:00+00:00"
     },
@@ -78,140 +118,100 @@
       "published_at": "2026-08-30T20:04:00+00:00"
     },
     {
-      "id": "hl-551c8b5d363d5ef3",
-      "date": "2026-08-30",
-      "title": "OECDのNEA事務局長、原発新設に投資を エネ安保重要 - nikkan.co.jp",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBUQ0U0MEVYeE9KUzRYRG5yQXBfaW1uOGloUkxmNmk1YnVQbTJrLUdGUjhEOXVVWFphWEI1THBwa3IwbUJHN0lUTE0yYmx4aGtxTGJDMGdUMXY?oc=5",
-      "source": "日刊工業",
-      "published_at": "2026-08-30T10:49:08+00:00"
-    },
-    {
-      "id": "hl-74b56ba868131ea2",
-      "date": "2026-08-30",
-      "title": "経営ひと言／日本原子力学会・越塚誠一会長「教訓の反映確認」 - nikkan.co.jp",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE83UGgtVWtPNHhQVDJsSks2WUtiZGVPcFdDbHNWZFJEcnE4MkJpaUVMRTRMZ1NyQTlLMi1XY2IzUXlWSGhJOVBaRXl2dFREY1Y0RTh1N21ISDh4Y0RBRmcxRzY2Q0g5S0RZTTN2VnlQMA?oc=5",
-      "source": "日刊工業",
-      "published_at": "2026-08-30T04:25:10+00:00"
-    },
-    {
-      "id": "hl-3fd71f86e3cb3f6c",
+      "id": "hl-590caf8c2fc07c04",
       "date": "2026-08-29",
-      "title": "日立子会社、ベステラと業務提携 原発解体ノウハウ共有 - nikkan.co.jp",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBFblBIMmNRVUVYdTZWSXVRVS01U19uTW5FV3NGS2xqaFM1SVdVRGVkeE5WUURzWTUyT3puUVRmdG9iTUlxQ2MtZmpCcDZkejZ2YkVsZVBjN1FFc3RmaVF1MG5ya2Zja3RMUjFUOE5xMA?oc=5",
-      "source": "日刊工業",
-      "published_at": "2026-08-29T17:38:53+00:00"
-    },
-    {
-      "id": "hl-64df500ee89eb1ed",
-      "date": "2026-08-29",
-      "title": "〈地域発〉福島県 第1原発周辺にホテル続々 研究者ら利用見込む - nikkei.com",
+      "title": "〈地域発〉福島県 第1原発周辺にホテル続々 研究者ら利用見込む",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBbDJKUlZxenFqeWNTZWJMaXYtdFJucS1vZWNPdlh4aFdaSE9RLTloWUxTdVQta3pUb1hpOWN0ZlZqZk1WM21LMmJSS2xvSFBVRWx1LWRBZDk0V1BFZmdCcFRlcDQ4U0NsMVJjTA?oc=5",
       "source": "日経",
       "published_at": "2026-08-29T05:30:00+00:00"
     },
     {
-      "id": "hl-91d0510234073970",
+      "id": "hl-9df5c28180f3c8d4",
       "date": "2026-08-28",
-      "title": "〈記者の目〉関電、株価反転へ値上げ 相次ぐ原発停止、続く燃料高 配当引き上げも意識 - nikkei.com",
+      "title": "〈記者の目〉関電、株価反転へ値上げ 相次ぐ原発停止、続く燃料高 配当引き上げも意識",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBVcVVDbzAyZFVhZ09sb2RzRkdXY241bXZwYkVYUmoxTHozN1ZaSlFDWi12OFVmLWxTMTZkRUEyd0VvMEJsNWFod2ZFdFNMa3lhT3BuWTh4b09tNFIwVkxlM2ZyclQxLVBPbVI0NA?oc=5",
       "source": "日経",
       "published_at": "2026-08-28T17:00:00+00:00"
     },
     {
-      "id": "hl-51a9b02c33be93f3",
+      "id": "hl-8e369c55d6ab8708",
       "date": "2026-08-28",
-      "title": "東海第2原発の防潮堤完成2年遅れ 日本原電が見通し発表 - nikkei.com",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52R3VQVjl4RWtLWklkSmlPNkZ2QXBjWGNmcmc4aG1GX1JDaENKNHlVd3pqZGZYYV9kM2RfdEl5RjBxTnItbWw0NzNWRFRvVUNZTnBjeGpsaVl2QVlJakxyUzZvUTFZTnhqNHhNbQ?oc=5",
-      "source": "日経",
-      "published_at": "2026-08-28T17:00:00+00:00"
-    },
-    {
-      "id": "hl-4ae47dec6f2f1c72",
-      "date": "2026-08-28",
-      "title": "浜岡原発の不正「最大限厳格に」 経産相、対応を検討 - nikkei.com",
+      "title": "浜岡原発の不正「最大限厳格に」 経産相、対応を検討",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Va3Y1VExmOHdGMjBJUUxVVU53bGV1T0xtb1plODBleG11QXk0YWxic1ZPeTZEUXN1MGNTWWxvYUZITlU0SHlsR2ljZTRsenJTbk1yWDY1am5VWDg5dUItY1JEaHNEQ0g3VEJ2eA?oc=5",
       "source": "日経",
       "published_at": "2026-08-28T17:00:00+00:00"
     },
     {
-      "id": "hl-25f2484fec1d8823",
+      "id": "hl-2cd77580801367a0",
       "date": "2026-08-28",
-      "title": "中部電、原発データ不正で御前崎市に謝罪 - nikkan.co.jp",
+      "title": "東海第2原発の防潮堤完成2年遅れ 日本原電が見通し発表",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52R3VQVjl4RWtLWklkSmlPNkZ2QXBjWGNmcmc4aG1GX1JDaENKNHlVd3pqZGZYYV9kM2RfdEl5RjBxTnItbWw0NzNWRFRvVUNZTnBjeGpsaVl2QVlJakxyUzZvUTFZTnhqNHhNbQ?oc=5",
+      "source": "日経",
+      "published_at": "2026-08-28T17:00:00+00:00"
+    },
+    {
+      "id": "hl-cfa3999e99074c18",
+      "date": "2026-08-28",
+      "title": "中部電、原発データ不正で御前崎市に謝罪",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5TLThuT3M0UnNuUnhKcHFnZGNKSmlqempIQzJBek4xemhJSUZ0X3lhZno1bjFFMjNSOTF2WDA1bXJ2SFd5SGpacEVtU0tyamd0b0lqX3Vwazl1Z05SQ2VqUzlKZk9GRW9yUUVwelN4MA?oc=5",
       "source": "日刊工業",
       "published_at": "2026-08-28T11:48:45+00:00"
     },
     {
-      "id": "hl-5e4fffcf6ca5aeb8",
+      "id": "hl-fb1917277b752c38",
       "date": "2026-08-28",
-      "title": "【電子版】中国、18年に原発7基が新稼働 全44基、総出力世界3位 - nikkan.co.jp",
+      "title": "【電子版】中国、18年に原発7基が新稼働 全44基、総出力世界3位",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1yVEtLWUEyMElIc2QxTnptSWJyaDZua3RxaXFKS2ZyaDA1dDBJWUU5VTRsTEFIZTdFWVcya3Rhb3ZsXzVLMUplc01TckFEMy02ZXI0dnNqOGFOdkN2T2RDbEt6ODBJWnJ2LTlZR1pWYw?oc=5",
       "source": "日刊工業",
       "published_at": "2026-08-28T07:26:40+00:00"
     },
     {
-      "id": "hl-2dbdf43d82daf406",
+      "id": "hl-35e45328cbfcf556",
       "date": "2026-08-28",
-      "title": "Majority of South Koreans Want Nuclear Arms as Trump Cuts Drills",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNUlpTm1mNUlpbWRXSmh5R3lVdTYyVjZOaWlyUlVpNllOTU9VdU9USEVHdDJWd1RSYjlBQVFxWERzWnpTc2lQemt2NTRfSTR1T244Qm1oZk5SdS1pRUJ6U2tLamVtTkd0UGV4UW40dlBQZV9MeGI2WWpucEpwZWp2TW9LbU9HRUpEbW1RbUhEYU81QTBuUnUyWmpBWldsMnRfdk96Nk5EbHFMQ3NWRGswaEwtb29XQQ?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-08-28T07:13:03+00:00"
-    },
-    {
-      "id": "hl-3729122f78aae8f4",
-      "date": "2026-08-28",
-      "title": "東海第2原発の防潮堤工事、完成2年遅れ 再稼働28年度後半以降に - nikkei.com",
+      "title": "東海第2原発の防潮堤工事、完成2年遅れ 再稼働28年度後半以降に",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1EUG5DRGpaVFFiU2otbFFTZHFVTlljcHZjZEJwM2NzT3d1NXdWcWdYVTVNclZJOEkwNjlrbU5yRW5SWlFKNGYwTTJGYy1YSWo1cHplckh1eEZfSGQ5UjJRSTFrMklPNHBpaS14UA?oc=5",
       "source": "日経",
       "published_at": "2026-08-28T03:05:00+00:00"
     },
     {
-      "id": "hl-cf5d42a15cb3e05e",
+      "id": "hl-dd21f82fcea7cb8a",
       "date": "2026-08-27",
-      "title": "中部電、浜岡原発廃炉工事 報告書改ざん - nikkan.co.jp",
+      "title": "中部電、浜岡原発廃炉工事 報告書改ざん",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16Tmo0N0Z5dk9yNkd6c25YUHpfb1VzaVplUWx3dF9kUDZ4U0dpc09QZkwzeHBwN2xWYmVrdkJxczgxYnVHYWgxYWVWbXptTmx4cTl4Rmp6QlE4dlk?oc=5",
       "source": "日刊工業",
       "published_at": "2026-08-27T20:00:00+00:00"
     },
     {
-      "id": "hl-991571f57fd4b165",
+      "id": "hl-d8544e85ca13f2e8",
       "date": "2026-08-27",
-      "title": "中部電、浜岡原発廃炉工事 報告書改ざん - nikkan.co.jp",
+      "title": "脱原発でも原子力研究「続ける」ドイツ、自国民を守るため 現地を取材 - 日経クロステック",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9vNmZNSC1kTld6MDBUSmVpTDM3Z01CUG11MkRoYzdOSHhQQmNDb1JsbFROT2V1S1U5N0tXQl9CQ0FJWTFOa3BCUHZndWozZlh1YzNKZ1pWcGtrUEd5Rk9KSTFIWkFYbDFOMXducg?oc=5",
+      "source": "日経",
+      "published_at": "2026-08-27T20:00:00+00:00"
+    },
+    {
+      "id": "hl-d732f655767f129e",
+      "date": "2026-08-27",
+      "title": "経営ひと言／日本原子力産業協会・増井秀企理事長「融資制度を歓迎」",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1vWjMtMDNTZEVISkZLclpVVENkMTVIdlNSTFZ6VWxpMXJnT1pTTEJPdjhnbDlFWGRSNTFoNFBrSjN3UmpwWjhRQ0tWeGlTY1NaT241NUwzeGdUTi1lSlIxdFNMSEhUTjAwZFNrMXRzMA?oc=5",
+      "source": "日刊工業",
+      "published_at": "2026-08-27T20:00:00+00:00"
+    },
+    {
+      "id": "hl-8a920ae7bcd5204a",
+      "date": "2026-08-27",
+      "title": "中部電、浜岡原発廃炉工事 報告書改ざん",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1heUl0aGhRQl9kUW1NNUd5VVBSVkpDb3ZEWHdidTNDTWctbHlqZU8wS3RfcC1rMzVFaUtOR0EwVUZMNDVwV0hrWnRaUkMyS0RXT0tFcFA2Tl8?oc=5",
       "source": "日刊工業",
       "published_at": "2026-08-27T20:00:00+00:00"
     },
     {
-      "id": "hl-719cf45a57654db2",
+      "id": "hl-35f637c624efa231",
       "date": "2026-08-27",
-      "title": "脱原発でも原子力研究「続ける」ドイツ、自国民を守るため 現地を取材（2ページ目） - 日経クロステック",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAycGlQUWJnNzBPR1Itc3U5VU5xRjlxMHg1ZkV6RmwxMGFnVmNaVzZUZVpEQWFCNVJDUVRFLU1XVFktY1dRZ2o2aGtyaF9WTEJBOVJiX0dNNHlhZktjNXppaXkzS0o2T2lqdE5fcWRyUkgwQQ?oc=5",
-      "source": "日経",
-      "published_at": "2026-08-27T20:00:00+00:00"
-    },
-    {
-      "id": "hl-4f51e3ed1a5522a9",
-      "date": "2026-08-27",
-      "title": "福島第1原発のデブリ、2回目採取分を詳細解析 生成過程が類似か - nikkei.com",
+      "title": "福島第1原発のデブリ、2回目採取分を詳細解析 生成過程が類似か",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1b0VsSndMTnZ1dTV0bW9pc0tsUGt2M0xKd1dCdXFjWHBHR0VXWnlTX2p0alppQjliMzJSM3FPZkNTV2lzYktsX3hUeU85WThnR09KQ05lR3A2R1otM0NLSDR6bU53YmhLZVYwaA?oc=5",
       "source": "日経",
       "published_at": "2026-08-27T20:00:00+00:00"
-    },
-    {
-      "id": "hl-46725ce34ca9d260",
-      "date": "2026-08-27",
-      "title": "経営ひと言／日本原子力産業協会・増井秀企理事長「融資制度を歓迎」 - nikkan.co.jp",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBsaFJHbUF5bUd2eXBkUXRfRG5YQXUyMmp1V2xUejVzVVNScE5SeXRDckdNYjRYRk5tcFFBakRSaU5nd2Z4QzhKQktQRUtwdHR2eVVLVVRYanQ?oc=5",
-      "source": "日刊工業",
-      "published_at": "2026-08-27T20:00:00+00:00"
-    },
-    {
-      "id": "hl-18717093dcfb9df6",
-      "date": "2026-08-27",
-      "title": "関西電力悩ます原発停止と燃料高 値上げで挑むエリオットのハードル - nikkei.com",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kUEFQMmd3QjBaV0lHemgwQ3JZRm4xYkdjVlUzdkQ1UmJtRlF1MldweWFiU2pmVTFJQkNYZ29JeFJGeUw5dzU0MDN2NEF4elFON29MejJnZno3UHNSSUJ6dGxYQW9mdlllRmtkZw?oc=5",
-      "source": "日経",
-      "published_at": "2026-08-27T19:00:00+00:00"
     },
     {
       "id": "hl-8463b721790b0b8f",
@@ -222,9 +222,9 @@
       "published_at": "2026-08-27T17:32:09+00:00"
     },
     {
-      "id": "hl-0d123eac8f411e57",
+      "id": "hl-4531409faaceb1f3",
       "date": "2026-08-27",
-      "title": "中部電、止まらぬ不祥事 浜岡廃炉巡り不正手続き14件 原発再稼働の道険しく - nikkei.com",
+      "title": "中部電、止まらぬ不祥事 浜岡廃炉巡り不正手続き14件 原発再稼働の道険しく",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5yaDI2RzNoRkNocDhyZXBXdmdoY0VxWHJUOFduYkdDRjYyQ0t6R2pmMk5Za1ZrMnBEcHhFR1hvUmhMLV9CRk02SEx5WTY5Y0x0Y25zY3BnLTgxWUV4Y3RLaE1xVjBUNGFDS2FtTg?oc=5",
       "source": "日経",
       "published_at": "2026-08-27T17:00:00+00:00"
@@ -238,9 +238,9 @@
       "published_at": "2026-08-27T15:49:31+00:00"
     },
     {
-      "id": "hl-0a3d5a7b513aa76b",
+      "id": "hl-a8d611c1e8884543",
       "date": "2026-08-27",
-      "title": "福島第1原発3号機、原子炉底部の穴は3メートル大 東電が発表 - nikkei.com",
+      "title": "福島第1原発3号機、原子炉底部の穴は3メートル大 東電が発表",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9tUkdCLTVrbmVneVZGS0w5eXNJVm1la2ZpMEQ1RGY4eTVCbTBGTFE1b19ZaFFDby1uRHFEd0N5MnRoUG5JTW5pSll3enZnRWpFRVlZdVBsSXZtYzVtRldwSldnR3p2RmZ3NG9CRQ?oc=5",
       "source": "日経",
       "published_at": "2026-08-27T13:16:08+00:00"
@@ -254,9 +254,9 @@
       "published_at": "2026-08-27T12:13:39+00:00"
     },
     {
-      "id": "hl-20459cb6d77b0439",
+      "id": "hl-00c449ac23dea577",
       "date": "2026-08-27",
-      "title": "文科省、次世代原子力で中核拠点 革新炉研究・人材育成 - nikkan.co.jp",
+      "title": "文科省、次世代原子力で中核拠点 革新炉研究・人材育成",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1VdG1aa0JjLU9XcHBtU1plYkhUb20ybjg2SE9EcDFTclRSWjVCdndSMzJSVkZZS1d3WHRWSExYeklkbWhtdHpOWUdtNzhLeWhzdWlmckF0QnZOc3pyZm5lUjlybE9lM1F6a2hBQ0t5TQ?oc=5",
       "source": "日刊工業",
       "published_at": "2026-08-27T11:06:40+00:00"
@@ -270,44 +270,36 @@
       "published_at": "2026-08-27T10:40:00+00:00"
     },
     {
-      "id": "hl-912a3f8f67cb88d3",
+      "id": "hl-99db89550aab087b",
       "date": "2026-08-27",
-      "title": "東京電力､原子力安全改革監視の第三者委を廃止 ｢目的おおむね達成｣ - nikkei.com",
+      "title": "東京電力､原子力安全改革監視の第三者委を廃止 ｢目的おおむね達成｣",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNaWluVUJtaXRJdjZqXy1LZ084VjU3MzA3TnlhLWE0MjhEVV9tc3NFc3p5MjVmWEZraERST0g0SXNxMXd3Z2hUMkh3WHZ4RFJSblc2TDNZbWYyalhaR0xZMlI5Q0txNnZocUVObg?oc=5",
       "source": "日経",
       "published_at": "2026-08-27T09:35:01+00:00"
     },
     {
-      "id": "hl-5481cd279f55bb25",
+      "id": "hl-ad696a13faf2c23b",
       "date": "2026-08-27",
-      "title": "【電子版】東電・福島第一原発、男性作業員が内部被ばく - nikkan.co.jp",
+      "title": "【電子版】東電・福島第一原発、男性作業員が内部被ばく",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5QZmY5S3BkcS1tNHJRaXo2aEhpOEhpdmYzbHZJb2tVZmVKS0VUUkZkU1RGVm5kMlNvRW9tY052ZFlYUjJtQ0RnRmlSU1ZVRjRSZm9nRlpzYmdmNGJ0VGJZdmJ2Q2hyNTcydmtxcGRn?oc=5",
       "source": "日刊工業",
       "published_at": "2026-08-27T09:30:04+00:00"
     },
     {
-      "id": "hl-5357ca353ce4ede8",
+      "id": "hl-20060ee8821899e6",
       "date": "2026-08-27",
-      "title": "原子力機構の価値 原子力の社会実装に向けて（168）気液二相流の圧力計算を高速化 - nikkan.co.jp",
+      "title": "原子力機構の価値 原子力の社会実装に向けて（168）気液二相流の圧力計算を高速化",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5PUUJhWnBYRHNlamMtWjFDMHBaZlJpbnRzNjdLNjAtLVl6eTB3SmdyZHYwSzVZVldvUWVvSUlTSTdlNFBNbVBMYUc4elBTanZfX0tRYnpaTVdJNnlBc2d1bHFQOVpoZWR0UmtmcVk1UQ?oc=5",
       "source": "日刊工業",
       "published_at": "2026-08-27T09:01:34+00:00"
     },
     {
-      "id": "hl-ee6726125a0a3949",
+      "id": "hl-b838cdb7f96f9744",
       "date": "2026-08-27",
-      "title": "懸念組織とは 国の安全保障を左右する機関、兵器や原子力研究に強み - nikkei.com",
+      "title": "懸念組織とは 国の安全保障を左右する機関、兵器や原子力研究に強み",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1JQkI3UTNXXzY4bVU2a2pJb29idmNLcGczeVoteHdxeTNNdXRuc203RVd5alQ5clQwOFA2QWxuZ1BFdGVvWHMxa1hndWg1NnZKNzJtRzg3TnBPaFVZOFBLXzUyZG9iWENQN0dFcQ?oc=5",
       "source": "日経",
       "published_at": "2026-08-27T09:00:00+00:00"
-    },
-    {
-      "id": "hl-3bf7d719ddadd1b9",
-      "date": "2026-08-27",
-      "title": "東電、青森県東通原発１号機着工 - nikkan.co.jp",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE40aEVKU3JUb19LOVVEcTZRVzZNNWhISkRabW5kc0tsZXBpSGJ0TGswYXNnei11ajh4N05oX3ZkYVJZN1ljWWthRGs5RThCR1RDSGVVb3NIRkp5akpObXAyRnpJQUthOEMwampwNW1n?oc=5",
-      "source": "日刊工業",
-      "published_at": "2026-08-27T08:58:34+00:00"
     },
     {
       "id": "hl-742d97ef33986e9c",
@@ -318,17 +310,25 @@
       "published_at": "2026-08-27T07:02:40+00:00"
     },
     {
-      "id": "hl-6c617f7146d5b210",
+      "id": "hl-2da7c271e848a797",
       "date": "2026-08-27",
-      "title": "中部電力でやまぬ原発不祥事 廃炉費用で不正、遠のく浜岡再稼働 - nikkei.com",
+      "title": "【茨城】原子力プロジェクト管理事務 - 日経転職版",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBWbUNnZUpKRm9WTEJCbW9RcDBwQlVmVGYyRjBuekxtN0s3SzNXSUd6MkZEaGNvQlhaaWNPd25EM3JfQmFfODdlZWVabXlsdmdodDM4Zjc5WGN4ZlVSaVF4dHJXcw?oc=5",
+      "source": "日経",
+      "published_at": "2026-08-27T07:00:00+00:00"
+    },
+    {
+      "id": "hl-a167e201d94e620e",
+      "date": "2026-08-27",
+      "title": "中部電力でやまぬ原発不祥事 廃炉費用で不正、遠のく浜岡再稼働",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1YZXFjNWRFRmt5ZmdPR3kxMkxmSkhUUXJpdTlEZTZBSFltWTlSXzJyRnNUR2xNU0RHcGp5V0JBVG1oOWNENDJ6UkhDeFM4dDNlTU4yOHdEd3NWZFVHaEQ3VnExdEFYN2FvSDl4UQ?oc=5",
       "source": "日経",
       "published_at": "2026-08-27T06:55:55+00:00"
     },
     {
-      "id": "hl-d0309eb804d3c5ca",
+      "id": "hl-8f19dc3aedeccbc0",
       "date": "2026-08-27",
-      "title": "浜岡原発、不正手続き14件 中部電 廃炉、実態より進捗と報告 - nikkei.com",
+      "title": "浜岡原発、不正手続き14件 中部電 廃炉、実態より進捗と報告",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE13eEo1MF9DVFlYb0kzVjhkR05kRFVfNzdwQUR3NlY5WmZSMWJRU2lwd3lTOUFHelJjR2dIbmFSTmlxeGhXdjhQdENJR3Q2ZFZEa2lzcWNmRUFBcFlLYXNLRHZQcVVPb1NlWHVHYg?oc=5",
       "source": "日経",
       "published_at": "2026-08-27T05:30:00+00:00"
@@ -350,33 +350,33 @@
       "published_at": "2026-08-27T04:43:00+00:00"
     },
     {
-      "id": "hl-52b60337696e0692",
+      "id": "hl-da1e5f8495c52100",
       "date": "2026-08-27",
-      "title": "社説／前進する原子力政策 安定収入確保できる環境整備を - nikkan.co.jp",
+      "title": "社説／前進する原子力政策 安定収入確保できる環境整備を",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5FYU9HalItUEY5ZnBraS1tTlk5Uk5PNU5BWkoyRDlPdFpJZU1Nbk55OWhZMTRqeTRnYUJmUkxETWJ0bDc2bjRFcGZWUUp5X1p2OUFHeDcwSmg1cTdVRF96SGRfa2hFU3V2RFVmVl9rbw?oc=5",
       "source": "日刊工業",
       "published_at": "2026-08-27T03:52:32+00:00"
     },
     {
-      "id": "hl-9f855b6dafb17805",
+      "id": "hl-89944d281608adad",
       "date": "2026-08-27",
-      "title": "中部電力、浜岡原発の廃炉で不正手続き「計画未達で辻つま合わせ」 - nikkei.com",
+      "title": "中部電力、浜岡原発の廃炉で不正手続き「計画未達で辻つま合わせ」",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE13YVY1TVY0eTliYTUwWms4VWlpUUtFNlVPSmJCSlhTX294NjBIQ0ppSWNreEt2MWdzV00wVHgtaFRCS0drT3hpRjlydnlqSExxenh6V2tTRmxRWUt6LVQxUWJBWGdaNjRrRW9oeg?oc=5",
       "source": "日経",
       "published_at": "2026-08-27T00:03:48+00:00"
     },
     {
-      "id": "hl-6af0b67c98cbf2c1",
+      "id": "hl-b631cad86ba850e4",
       "date": "2026-08-26",
-      "title": "電事連会長に関電・森氏 原子力信頼回復が最大の使命 - nikkan.co.jp",
+      "title": "電事連会長に関電・森氏 原子力信頼回復が最大の使命",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1XUjJWUDc0SWdKeXFZZHcyay1YQ0VoWG53ZXA2bVk5UzROUHZFRElqUTN6eGswV2VHc3BXX3RXbkdubVIwZG92VDZ1cUZrQUZzSGRaOVM1UHFUSlUxRFB3UGtTYUxZVUtTYndRbUpXYw?oc=5",
       "source": "日刊工業",
       "published_at": "2026-08-26T21:32:14+00:00"
     },
     {
-      "id": "hl-823b635d702ff117",
+      "id": "hl-1b6f06eaac1d9e0a",
       "date": "2026-08-26",
-      "title": "時事速報／原発への電力供給システムに着工、インフラ整備着々 - nikkan.co.jp",
+      "title": "時事速報／原発への電力供給システムに着工、インフラ整備着々",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE14ZjZQaVFSNG5rdzh6V2xKTWNxTUF4Q2R1QUlJS2RwZktidEg2Y3dONEdsRFMxLWp5OHRLY21mSnhqY0VRWTVhRFpHRGNBVUh6WnJxcDA4VGVVc3JRTG9GOXhJS3FidDhXTHpzYjNoQQ?oc=5",
       "source": "日刊工業",
       "published_at": "2026-08-26T20:09:12+00:00"
@@ -390,81 +390,81 @@
       "published_at": "2026-08-26T20:00:00+00:00"
     },
     {
-      "id": "hl-8c917e659a11ad58",
+      "id": "hl-63de038e444ea8ea",
       "date": "2026-08-26",
-      "title": "浜岡原発、不適切手続きか 中部電力、廃炉費用の請求巡り - nikkei.com",
+      "title": "原産協会が都内で年次大会 原発人材戦略、道筋探る",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5zZm1NbmhZVTBxMi1GcUd5QmtENVZxZFkzWmhPUkttMWFkQ082QXZieExqWXJVMDJxOFV4dkFVQ2VJZ3otVVFIY1lJOTQ1WWJNU1FwVWV6M1RoeTZkVThHZmJtbm1BS0N1b2NhSlhtUQ?oc=5",
+      "source": "日刊工業",
+      "published_at": "2026-08-26T18:14:00+00:00"
+    },
+    {
+      "id": "hl-46cf7b7b169762df",
+      "date": "2026-08-26",
+      "title": "浜岡原発、不適切手続きか 中部電力、廃炉費用の請求巡り",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HbDFKM1c1QldfQUQyZ3FPaWk5WkdEcGdsVTVjYktGNWxXNUJfTjYwd2JyRG9wZTEtaXFHNWpDUnJ4dlBXNG1FRlFxUUc4SnB2NW42TnN0SkEya1MwN3JyNzVRRkVwT2t1c2VWeg?oc=5",
       "source": "日経",
       "published_at": "2026-08-26T17:00:00+00:00"
     },
     {
-      "id": "hl-756f867b1b8e3bd8",
+      "id": "hl-51bff5225472925c",
       "date": "2026-08-26",
-      "title": "原発事故巡り来月に共同シンポ - nikkei.com",
+      "title": "原発事故巡り来月に共同シンポ",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE13Z2ZPcnU3cUlfY3pVbFE5el83RTBrcXVEZWRWcFJPbW9xRFJobXV2VGJxNUtfSXVQYnR6b3VpcmV0YmJEUmU4NEdDODJSNjZfbXpDMmVnYmludDdHTU1JN2RmRnBnVHY3aXB4aQ?oc=5",
       "source": "日経",
       "published_at": "2026-08-26T16:49:00+00:00"
     },
     {
-      "id": "hl-1581a68209e0601d",
+      "id": "hl-2132577829027a1d",
       "date": "2026-08-26",
-      "title": "女川原発2号機、停止回避 東北電 対テロ施設、設置期限延長 - nikkei.com",
+      "title": "女川原発2号機、停止回避 東北電 対テロ施設、設置期限延長",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBxRlhfeEQ4RzdlX1RkOTkxNzFlTW83ejV1U0hCUnVyaVlNMkJvUnlobVB0d09NYWlkNExIaXZpVFlGc1JLbDU5TUVEU2Vxblc0SHdabldldGY1UGRlNFdDYnQ1SjhkUDJoOGxfQQ?oc=5",
       "source": "日経",
       "published_at": "2026-08-26T16:49:00+00:00"
     },
     {
-      "id": "hl-4cb69a1a8defd5b0",
+      "id": "hl-2684cc6e7a1a40fe",
       "date": "2026-08-26",
-      "title": "三菱重工、ＰＷＲ原発がＥＵＲ認証取得 - nikkan.co.jp",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1hZWM0M0hZbFI0RVFkX0JjM0ZFOTVBZnBTWUNpVEs1YUFCYkJBU3R1aWxTRzNWUDJBVGRYTGRRNElzbXpJMUhudnRMOGdQVXloUG9IQ0hsN2hCM1A2Z3BDZWhlMHY5MkNSdzlHMmx6SQ?oc=5",
-      "source": "日刊工業",
-      "published_at": "2026-08-26T14:00:01+00:00"
-    },
-    {
-      "id": "hl-53e0159309cfe2b3",
-      "date": "2026-08-26",
-      "title": "浜岡原発の廃炉費用で不適切手続きか 中部電力「疑いに対し調査中」 - nikkei.com",
+      "title": "浜岡原発の廃炉費用で不適切手続きか 中部電力「疑いに対し調査中」",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xemRCNi1KY3FHTy12NXo3S3B5eF9VVmM4TFBiYmJxRHdOdkxpLTFPZGtOd0FFQXJ5RThnb19JWEFqNzgxNWhGLXpiaVJWNS0ybWkyMmtKR3NhNk05U0lHUGZCQ2l0Xy00VEVNVw?oc=5",
       "source": "日経",
       "published_at": "2026-08-26T11:55:57+00:00"
     },
     {
-      "id": "hl-fea076102d6703b3",
+      "id": "hl-cb713d4018951ba7",
       "date": "2026-08-26",
-      "title": "関西電力、米事業者と原発協定 - nikkan.co.jp",
+      "title": "関西電力、米事業者と原発協定",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBzbW11UjgyLTBkTG1fSjUyMi1qWFI5VWNrSVh4REppMjhMelI1c1VYUk40eW9WaVgzZkpWSDFfTmNUQ0h2TEdxZDMwQ3lBVjJaX3JPUVFOa1dMYlNnRW9ub0Y0a1lFcWhuMy1lQ2lsdw?oc=5",
       "source": "日刊工業",
       "published_at": "2026-08-26T11:53:19+00:00"
     },
     {
-      "id": "hl-39c6a7a2a1c40501",
+      "id": "hl-119eb6b9da9a9682",
       "date": "2026-08-26",
-      "title": "Will a U.S. Nuclear Deal Push Saudi Arabia to Recognize Israel?",
+      "title": "Will a U.S. Nuclear Deal Push Saudi Arabia to Recognize Israel? - wsj.com",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSmNvU0lsQ0tWZklpTUtfZUpnUFo4N0hxUWVFcWZ5YlVYaWVlS1cxdWM5VFVKdTIwRUJpclBXRERNVTE4ZWkza1pJRzhOMGR3WnQzV3R0OVRRd3FXRnB1a3BCM3JOWjRLQWFfZnJfLTdsbl9zbUZmbkp4VDlCNXN3SUhkUjhTaTNhUkR1UFczVklSLXlFbElvbEctXzNGVnZreTdPNTlHY0Z1NUIwYlVZN2l1YkVCUVBUUWlYa0tseF9iQkFqaGFDS1VHTnNyT202UXhn?oc=5",
       "source": "WSJ",
       "published_at": "2026-08-26T10:03:00+00:00"
     },
     {
-      "id": "hl-e0625efcf2468068",
+      "id": "hl-ae80ee52b24242b5",
       "date": "2026-08-26",
-      "title": "東日本大震災／東電、福島第一原発３号機の原子炉格納容器内圧力降下措置を保留 - nikkan.co.jp",
+      "title": "東日本大震災／東電、福島第一原発３号機の原子炉格納容器内圧力降下措置を保留",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5UWFA4eElRa3ZBQ2JlNDNtS205eHdZT2xGbUtEbFMybmozUVJVenJpVUZsWmI2eFFwQUxvX2pnMFozS3pqY191X1UwRmxkeTh6OE5pUDZQTXd3LVlPd1h2SW8tXzlfZ2s0NE5kUF9B?oc=5",
       "source": "日刊工業",
       "published_at": "2026-08-26T04:21:03+00:00"
     },
     {
-      "id": "hl-b4a600955fbb3460",
+      "id": "hl-11217740a6fde533",
       "date": "2026-08-26",
-      "title": "ＪＮＣと仏原子力庁が提携−車載電池負極材開発 - nikkan.co.jp",
+      "title": "ＪＮＣと仏原子力庁が提携−車載電池負極材開発",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5wNVhKa295SEo5bWZjS244V2ktRzdfZnR6R1BFMzNOYVZkVVExdlNMQkVpSUtqUzJhTUYwM0p4VXZJSGd5a3R2enp4MTR3RVJNMWlGbzlvcDJyMy10RE5hYXBUMFJzcXQ0QmFvZXRQNA?oc=5",
       "source": "日刊工業",
       "published_at": "2026-08-26T04:00:11+00:00"
     },
     {
-      "id": "hl-12d8020eaa41e264",
+      "id": "hl-639511c0faf338c7",
       "date": "2026-08-26",
-      "title": "原子力文化財団が「原発」世論調査 核廃棄物の関心低下 - nikkan.co.jp",
+      "title": "原子力文化財団が「原発」世論調査 核廃棄物の関心低下",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBfY3IwaDJ2SlRSOUlBa0NkdlJ0TE00OHFxb1JPNktzd1hITEI0dlNBUUI2RDd0UkhNLXlfc093VXNhMGk5RDlqMHQ1Zk5vZ2pFN01wRlU5Wmk4YVlzYTJaZjlHM2RGQjg3UnBtaWpDMA?oc=5",
       "source": "日刊工業",
       "published_at": "2026-08-26T02:55:53+00:00"
@@ -478,9 +478,9 @@
       "published_at": "2026-08-26T02:34:00+00:00"
     },
     {
-      "id": "hl-bca83808dec55555",
+      "id": "hl-5960345e17ffa728",
       "date": "2026-08-26",
-      "title": "電力４社、きょう５原発の審査申請−原子力規制委 - nikkan.co.jp",
+      "title": "電力４社、きょう５原発の審査申請−原子力規制委",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBxS3hSQmhpcy1QUGtwdVRNRlpSZk5KRWk3M1dDbWluRVJoQ2NUbUFlYTM2My1Gblg1ajdXNWRWM20wSzczTVF3cWlVSmpfNno0b0dvbl96cFV2eU10b09GeDRGSnYxcFpqTUhweXUwaw?oc=5",
       "source": "日刊工業",
       "published_at": "2026-08-26T00:47:25+00:00"
@@ -502,28 +502,28 @@
       "published_at": "2026-08-25T23:24:00+00:00"
     },
     {
-      "id": "hl-016ce14b324b2e7d",
+      "id": "hl-b54560da4e9cf7e3",
       "date": "2026-08-25",
-      "title": "原子力機構の価値 原子力の社会実装に向けて（160）都市鉱山から白金族資源 - nikkan.co.jp",
+      "title": "Exclusive | Trump Sends Nuclear Agreement With Saudi Arabia to Congress - wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQ3lMNk41ZjNONEZiVmpqRFVXTmVIeGU0bjIxbHNheWlHLVNqSFNvMEstQ0hGUlpLOW5FQWhlZjU5Sl90TnhPSWhQY3JrdFZkYmR6ZURGOUVNVGRqWFdCVjdINl9vbXg1S1RId3NpdzczMG5Vc1N0ejVCaVZid0ZVamtRZ0xWRVNkNHZfSnNZMkJvdnZIQ19jMFFZMWttcmFGOFFldTM3dXU3dw?oc=5",
+      "source": "WSJ",
+      "published_at": "2026-08-25T23:02:00+00:00"
+    },
+    {
+      "id": "hl-d21a9b093d9066cb",
+      "date": "2026-08-25",
+      "title": "原子力機構の価値 原子力の社会実装に向けて（160）都市鉱山から白金族資源",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBjTEVuVDUtbjJLUFBpY01DcnZLZVhjdnV0VV8wSTdkYWpKUERpdFFDa2VEYlF5X09wVHQ0ZFFxamd6WnhON3E5NnZPbmFyVXM3QlJpZUdHdW1UNGxLUjZBVHU2N181MV95cS1rVTAwVQ?oc=5",
       "source": "日刊工業",
       "published_at": "2026-08-25T21:25:52+00:00"
     },
     {
-      "id": "hl-14556e61ff517ed5",
+      "id": "hl-5d79cca3831d753f",
       "date": "2026-08-25",
-      "title": "「都市鉱山」に眠るレアアース、核燃料の再処理技術で回収 原子力機構 - nikkei.com",
+      "title": "「都市鉱山」に眠るレアアース、核燃料の再処理技術で回収 原子力機構",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxeWZmUFBoRnd3S0htV0phTnhtX21TVHQ1d3dFSWRCUy1uZ1lhOFZ5aWhINlB2OGROTGhfUUNHTHozM1lwT04yRjdXUVBrdmR5eWY5djJNTllFcTV1MUF1cWE1Q1Bja0FTMS1lUw?oc=5",
       "source": "日経",
       "published_at": "2026-08-25T20:00:00+00:00"
-    },
-    {
-      "id": "hl-21772601736b32b0",
-      "date": "2026-08-24",
-      "title": "原子力機構の価値 原子力の社会実装に向けて（181）SFR向け蒸気発生器の熱流動解析 - nikkan.co.jp",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1heGlzUlBSNjVKaWNEcllQd2pBczF2R09fTkJOV3habVpWeUExQlplUUlndl9VQWt4OXB5RnFXb1YtYlB5V0lndURGZkUwQ0Q5bncyQkM5S18?oc=5",
-      "source": "日刊工業",
-      "published_at": "2026-08-24T20:00:00+00:00"
     }
   ]
 }
