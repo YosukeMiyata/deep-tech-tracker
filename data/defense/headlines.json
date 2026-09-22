@@ -1,6 +1,6 @@
 {
   "_schema": "id: 安定ID / date: YYYY-MM-DD / title: 見出し / url: 原文リンク / source: 媒体名 / published_at: ISO8601(任意)",
-  "fetched_at": "2026-09-21T16:14:05.747194+00:00",
+  "fetched_at": "2026-09-22T14:25:00.983986+00:00",
   "theme": "defense",
   "sources": [
     "日経",
@@ -13,16 +13,88 @@
     "SpaceNews"
   ],
   "fetch_notes": [
-    "日経: 23件",
-    "Bloomberg: 17件",
+    "日経: 20件",
+    "Bloomberg: 19件",
     "Reuters: 28件",
-    "CNBC: 8件",
-    "WSJ: 7件",
-    "日刊工業: 1件",
-    "東洋経済: 23件",
+    "CNBC: 7件",
+    "WSJ: 8件",
+    "日刊工業: 2件",
+    "東洋経済: 17件",
     "SpaceNews: 11件"
   ],
   "items": [
+    {
+      "id": "hl-b1d8970f019bbf83",
+      "date": "2026-09-22",
+      "title": "US Military Modifies AI and Lethal Targeting Process After Iran School Strike",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMW9CeTF3ZXBmblJYQ2RXaGZvRTA2SVJIR1p3ZEtBYnpDUnQtcldWQS16dXJ2eEctM3BzTDZNQlZLMTRBQnpSUnd6WlBlQU4xRDVMVUozLWUtNVlMRVd4dk9lY0RLdWhyeXppeGMyZkNfS2tLNzhnNEp4QkIwOGpYS2M4cWpwS2JpNTdXcDVSMFF5bmlQZlRSNllRNVRtMEU2d1NYQkJjcTVPNlY5OE9CSmV1eTVCaDZJOUxyYWk2OA?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-09-22T12:30:12+00:00"
+    },
+    {
+      "id": "hl-b1edca3e539d326a",
+      "date": "2026-09-22",
+      "title": "Germany's defence spending boom opens opportunity for Mittelstand, HCOB says",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOFRzYnJ6cHRCaGl6X1JlQ3J4LVFRZFMyNlcxNW5iNHpwbmNicWpxNTFnOTVmSENWZG5UX1p5aWF0eGw1dElsbmZGdWc0a3JxVnEwZUhsNjNtcDlqU2xLbEY5OTN0ZkxSbjgwYzBQM0FuOENEOTVKWFVIaXVNamZXVjVaZGJBUUFpMEw3alpKZHpxUjRKLTFEUW5uQ2FqWU9DY3dxRUZhZWF5dU0yRWtuRW1RTl90ckIzTzhGX2ZOVV9ZM1hhYjhvVFpxa0F5Zw?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-09-22T08:02:09+00:00"
+    },
+    {
+      "id": "hl-cd5c573e28bf5d83",
+      "date": "2026-09-22",
+      "title": "Iran reportedly says it can reopen Strait of Hormuz within 7 days if U.S. eases military pressure",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE56cTJuZUVZVG1nNHo0SVU2eGgxQzNqbF9aWWhycHVZZmJNTDE5UkJSV3YzVDFVb042YTFOc08xd0M4cUo2MjFtakxyZVUxQ3drNnFKb182cU1JSGhtQ05vd2NTaDhHTXMyYktKcEdR0gFzQVVfeXFMUGpLbzc2YkZoQWFzOUFNRVNqejU0SF9lY3Rfa0lFNlFIUzR5ZUdrRE9VUDBjWllFSkU5YndMMU5kM2RCbDQ5UmVVR0NLSGtuY2ZvZWk1VXBBSVBDRWlTNHlwcjdEWUVycXd1QWVxLWtIV1RCTQ?oc=5",
+      "source": "CNBC",
+      "published_at": "2026-09-22T01:43:00+00:00"
+    },
+    {
+      "id": "hl-7e21da633025b5c0",
+      "date": "2026-09-21",
+      "title": "EXCLUSIVE: US to open two new military bases in Greenland, sources say",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbTI3eU92Z3FoaElJN24tR3JUS1F2bFFoYUh6X3ItQjV4T0s1M0FiV0Z6dTB2aU1MX1pxamNJOVpUa0RvbkNVMnR5M0hCeEVsSGVMTlVZazhpOXRPcXB2ZDltTTZKSTRPSm8zNkFVelh2RUVyVHZPdTZJRlpmamxucjRaeGVuOFVmZlE2NmRUY0Z6Q0Q3N0Y1cHFabWZDVG1JM2F3?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-09-21T22:34:00+00:00"
+    },
+    {
+      "id": "hl-7dc480b7c11876f1",
+      "date": "2026-09-21",
+      "title": "Lockheed wins US Army missile contract worth up to $1.2 billion",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPU0g3eUhxbmJIVWlkVzd1VGdWcHlRNDloREFqOFV0WFVwYjI5RUIxZW01YVVMdGU4U2QtVmtTdmp1R0RFay1GRWJrTndXVndfeDNURG53Tk5hZDdjRVp6Y3pXM1hmcDdRbmI0UUFpeGhkeTFaeTJyZ0JDcjhWM3o2ZWlBWUJzZGt0ZGl1YzRncjBLVjdFYmo1NEJPemJwOXZBa09RTERoSlBPRmhEY2J3eEFCb1hfRjFoZmM5V3VB?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-09-21T22:33:30+00:00"
+    },
+    {
+      "id": "hl-e802ff086f11ca7c",
+      "date": "2026-09-21",
+      "title": "North Korea reports new missile test designed to give enemy 'incurable headache'",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORkFiQlJWMXdJWVMya08yZS03Ujl2S2lBc2pibzFOd2xoZXZsVDJ5R1M5Q3hnT3ZqaU40RUdCNUdqMGozcXpxSHNZSWZKckZ4eGtZd0FoQ2g5M1E4NmVYOGZOSmlXRHAzYWdicTZ4RXZCZC1SMld2QmRYdzMyOHBzeGNpZlJmNExHdjBhbGdFa0VZeHJoY3FuaE02ak5vblp3NVlPbEprckNhQ0VqRDBsVUdFeDF3cXJ0cFE?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-09-21T21:18:00+00:00"
+    },
+    {
+      "id": "hl-2936b442443dd3fd",
+      "date": "2026-09-21",
+      "title": "東大・京大、三線防衛 リスク管理の柱に ガバナンス強化",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5KWm5nZWV4ZzZEeXoybzJyMHltd1NDRlJEQ0hCWlRZVEF3R2tVQ0pPZi1faUF4RVZOcEFNdTh3MnpPVWhOUFFWMHBXSVI4ZFpySVowVWhzVlA?oc=5",
+      "source": "日刊工業",
+      "published_at": "2026-09-21T20:00:00+00:00"
+    },
+    {
+      "id": "hl-a11dbfa0f0209fc7",
+      "date": "2026-09-21",
+      "title": "Vance Says ‘More Work to Do,’ Playing Defense in Senate Fight",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYVNGR0FjT2tUblFGSE15MEpzMEFNVm16dlk4NUlTSkNqSmFJYXVfUUMwR3pVSC1OeXlNR21fUUtCR2xBNThSbV9lbGxILTBPci1EVEJHWUxLZWtiTnd5M1lQRVZVeENzSnpWM0g4YU5qcUdSaklPYkNBNmxDQnV5NmRDTlZKMDNpdWtEd21IVlNZYW5acFdMemZaQTNRd0dOcXhONzJUMDVhdUR4eEE?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-09-21T17:54:45+00:00"
+    },
+    {
+      "id": "hl-1e661e1e9d7f9a88",
+      "date": "2026-09-21",
+      "title": "Why the Sale of US F-35 Jets to Saudi Arabia Isn’t a Sure Thing",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWDlFTmJOaFJjUDVibjdCT2Z0X0xDWU5jWTZlRGxBdkVXX2llX0hrTGVYWjVmSUh2TkxaaWQ3UGFoeW9jcUMzdHZiZE8xRmMwYzlsaXpJRmhLUk1NVkx3YkJRRm5xS000ZXpXNFduMC1XNGhRODB0Q0diU0pJRUZpUkhCcVdWYmlZU1dUSjJDSnRUUklJSXNKSlJ6b2FxVm1CcnlnMzhoRXBaY2lsZ200V2JGY09IUW5pemVGN3VlVQ?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-09-21T16:48:17+00:00"
+    },
     {
       "id": "hl-41aff6e35c3dba58",
       "date": "2026-09-21",
@@ -30,6 +102,14 @@
       "url": "https://spacenews.com/commercial-space-federation-csf-welcomes-two-new-members/",
       "source": "SpaceNews",
       "published_at": "2026-09-21T15:00:00+00:00"
+    },
+    {
+      "id": "hl-cf83e61b59f8c76b",
+      "date": "2026-09-21",
+      "title": "画像 | 【検証･防衛記者クラブ（後編）】取材独占と二重基準が蝕む知る権利､専門記者排除と不透明な情報統制､防衛報道の欠陥",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5CTVI2Z21MX25QcC1Kc19XRFlFVHdDQ2tEZmVYMkQ2YzFmSE5SRVZiWlhkcEJ6dEozUEhPektSWmJBMmZTaG5ueENVVFFSb2tNd3E3dlRWcw?oc=5",
+      "source": "東洋経済",
+      "published_at": "2026-09-21T14:29:14+00:00"
     },
     {
       "id": "hl-703acaebfc9aea0a",
@@ -68,14 +148,6 @@
       "date": "2026-09-20",
       "title": "【検証･防衛記者クラブ（後編）】取材独占と二重基準が蝕む知る権利､専門記者排除と不透明な情報統制､防衛報道の欠陥",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9zOGhfRHVfSWk0UE8wYi1paDAxcTBUUG9ZeEEwNFNRU1RHeE9fdzlYZ0lWaGxnektkU1F5UGt2MzdLRzNjNW5fOEdLcGpLWlJETWNlbTF3d1FkeXM?oc=5",
-      "source": "東洋経済",
-      "published_at": "2026-09-20T21:01:00+00:00"
-    },
-    {
-      "id": "hl-9a52e384a93ee30b",
-      "date": "2026-09-20",
-      "title": "【検証･防衛記者クラブ（後編）】取材独占と二重基準が蝕む知る権利､専門記者排除と不透明な情報統制､防衛報道の欠陥",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4UVU0YjZGTDJmYk50bGF1U05QUDlzMW50bk9EblB6dWhmWUMxbGNsU3NJdVZlX2RtM1BfWjBpclRPel9kU2xvRnB3cHJ5Qjc3OVpQY09UNHhSbW8?oc=5",
       "source": "東洋経済",
       "published_at": "2026-09-20T21:01:00+00:00"
     },
@@ -120,10 +192,10 @@
       "published_at": "2026-09-20T21:00:00+00:00"
     },
     {
-      "id": "hl-d21f18329675679d",
+      "id": "hl-d8a55d09bbb3d306",
       "date": "2026-09-20",
-      "title": "【検証･防衛記者クラブ（前編）】国民の知る権利を空洞化させる―防衛省で露呈した権力監視の放棄と当局癒着の実態",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9mSnVnU2g0TXJfUUFBSE8tNDBSVmNqSjYtMmNKc2dKMHJCbjU2NDhXNlVoY1VsNGQ3LVNmb2JfRHRqcmJQQXdsbk5uaHgza0FmTWxvRldxdGo3dkNLeS1R?oc=5",
+      "title": "画像 | 【検証･防衛記者クラブ（前編）】国民の知る権利を空洞化させる―防衛省で露呈した権力監視の放棄と当局癒着の実態",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Pd3lNQ0h2NkYtU0REWlVKUE5hTF9PZXNVSndwRjVqbWNmTzdmOUtrUmdlanBIc1c3cHdtTXRnLWJPZE1qSXBqUUJ2VHU0SzM4em83N09xZw?oc=5",
       "source": "東洋経済",
       "published_at": "2026-09-20T21:00:00+00:00"
     },
@@ -152,14 +224,6 @@
       "published_at": "2026-09-20T21:00:00+00:00"
     },
     {
-      "id": "hl-637ee7e433e07846",
-      "date": "2026-09-20",
-      "title": "【検証･防衛記者クラブ（前編）】国民の知る権利を空洞化させる―防衛省で露呈した権力監視の放棄と当局癒着の実態",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40RTZNcHlGZnYyNGt2RUJDMVNWRVlWLTZzWU1NUDRYME83QkU3N0lHaFZyVmVYMEljM0plNV8yeGplRm1kX3cxMkpmc1ZWUlM5clJENHRUS2JvRGM?oc=5",
-      "source": "東洋経済",
-      "published_at": "2026-09-20T21:00:00+00:00"
-    },
-    {
       "id": "hl-2eb7abfb4cd483e9",
       "date": "2026-09-20",
       "title": "【検証･防衛記者クラブ（前編）】国民の知る権利を空洞化させる―防衛省で露呈した権力監視の放棄と当局癒着の実態",
@@ -176,14 +240,6 @@
       "published_at": "2026-09-20T21:00:00+00:00"
     },
     {
-      "id": "hl-e18c7bd4c8efa722",
-      "date": "2026-09-20",
-      "title": "Russia's ruling pro-Putin party on track to win wartime election after drones strike Moscow",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWDJqS2NxNFR0bDJsWl94dzg1SmZNM0hkVHhvTVBCV2wxc0dzYVJTS2JqTi1xV2ZCTDA1eXJOTkNKcTB0QlhsQnpUTU5JWW1RTnZTVThta0dOWVRuSTNXZkJFQXdUWl8yNVdiQ1VsMWZWdGcxYy1jc3JfS0hZVENKcU9Jc05KMm1qbTc5cWxkRE5xekdqbmJ3dWc4RjFjc2UwQVHSAacBQVVfeXFMTmc1bnZFc21VTE42QTBzT1E0dnN1eGd6ZzhGY1BaeEwtNFVyd1lRZXNJSEhBT0dMa2ZiNy16UThQUGswVU5oS21QSjMtSEx4UVBLajhrVW1WMm1tdWRiLXR4c05WMXFXMEZCaUwxaEpaN2N6SHJEa1RmQU9nZGRIQmZjd2NYNXNqR1o4N1MzSVJvMGZLQkVzd0FkX1ZCRXd1cFZTS2NpbEk?oc=5",
-      "source": "CNBC",
-      "published_at": "2026-09-20T20:10:06+00:00"
-    },
-    {
       "id": "hl-f923d03ec34a45f5",
       "date": "2026-09-20",
       "title": "自衛隊、火薬庫の構造統一 防衛省、増設へ設計期間を短縮",
@@ -192,28 +248,20 @@
       "published_at": "2026-09-20T17:00:00+00:00"
     },
     {
-      "id": "hl-521507ddb879fd62",
+      "id": "hl-19afd23d551a2d89",
       "date": "2026-09-20",
-      "title": "Luxembourg deploys additional detection assets following drone sightings - reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSm05czFzTUZEcjcyamJpZ09rOGRFYlpFLWhoaFdKVFlpaThZclVlQXV2SHMwZW9rZ3F5NVNMVld2Y0dzWHdabWZJbFlaZEdYY3BMcWFjMmQ1dU41MER4ZXhHa3B3RU44V3JwLWtJeFh6dXh5UEd6dVdNVEV0QUVSOVhweVZnSmJVTkN5R2lLOGV3WWVfajQ3TVhUQk5QWmlsTHEwSEtvX0ptbTNYTGIyRmhlcVh4Y0dUQnJIVzhxc0UtVEV1bklEdWlXcGt5cDQ5?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-20T12:30:54+00:00"
+      "title": "Trump Says Proposed Arch Will Double as ‘Military Complex’",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbDByN0VvNnFHbkNpcks0R294RUZFdEtEc3lxLVlhSnhiWF9lbUpkYThxamZyYnVBNjk1SEg5d21sRFF6cnNzZy00ajEwVFRYQlJocURNSV92emIxLTJob2VTcHg4eXlvaTJWOEx5RGhYSUJ2XzktdlVqSTE5UlZtWUptSXhJY2h0SjF3UUlYN0h6andsSjhxMWxPZGJpQ2wtT0pnYnRFUUhGbld3OHRXelhn?oc=5",
+      "source": "WSJ",
+      "published_at": "2026-09-20T14:24:00+00:00"
     },
     {
-      "id": "hl-8c41d7a943871f2e",
+      "id": "hl-80d691d79a695bd1",
       "date": "2026-09-20",
-      "title": "Trump wants to use Washington arch as military complex for drones and snipers - reuters.com",
+      "title": "Trump wants to use Washington arch as military complex for drones and snipers",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS0NSWXh5Yk1oTE53RXhpcE14ZHRTUUl2Rzlhbkhhb0wyLXJYdkR4azJXbkxZRENxRTRTNkEyX2xHQTlTLUtTSFhZM0xqMlRJSTdvWUcyOTljYjUtY2tJYTRJcnpwMXNXSjU5VnRpN1JMMVRRS01ZTjZTUklacUQxSWZObk9FOG0xak9lazNlcFhTcFZyRjFxR1hVQQ?oc=5",
       "source": "Reuters",
       "published_at": "2026-09-20T11:57:00+00:00"
-    },
-    {
-      "id": "hl-0849f576a31b8557",
-      "date": "2026-09-20",
-      "title": "Ukraine launches heavy Moscow drone attack as Russia votes",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNblpTUndRWEpUcUtqVjM2Y0ZpNWxiTmV3aHFLWEdhRmN6eFdYX01udDhzSEdjYThFa3o5THFmV2xQMzRnNzV6NGpYOTVaN0otQm8xMDBKUnctUzlGdTZLck1GZFE0Q29DSE1MNC1tRU04Uml0dUNRUTAzX25lVS0tcWJSVUd2R3Z0MnUtMmlCZ1lXeGFrSFl2NzFDNNIBoAFBVV95cUxNZkZNamhlODZUTDZMUXNmNWRPQzFjZ0xtbTZzaTlKRGlOdWcybzJyN1psYXhDaUNpeG5nb0R1NzBTYTBlbnFMNUdvd253dnVLMUR0R2FCLWYzQVFaWER5LVM0cDZjMm5jeWhDaWhuR1FZSnlMcVhkTUV6R0MzMWRkZm1vU08wSlhGLVpaRW1pT2NmUUtVa1FOMnFDZThjczFf?oc=5",
-      "source": "CNBC",
-      "published_at": "2026-09-20T11:07:57+00:00"
     },
     {
       "id": "hl-c354d4f17ca0e0d7",
@@ -232,9 +280,9 @@
       "published_at": "2026-09-20T07:36:00+00:00"
     },
     {
-      "id": "hl-4e353e791c1aedf1",
+      "id": "hl-f99eb108a2c5c5ff",
       "date": "2026-09-20",
-      "title": "North Korea fires two suspected ballistic missiles off east coast within three hours - reuters.com",
+      "title": "North Korea fires two suspected ballistic missiles off east coast within three hours",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTDFuRjFrR3lVU05OakZFWFlOdWFSTGsyelUxZmZrMkZvamthRHNRVkx0ZG95NnRIdXlWUFVhX2pfaUo2M1haY1B5RXNzVjJTRDZ3bXN6MUpYWUxiZThYbE9FWHBUemMtbC1SMHRQeWdBdC00YmxUWEZkXzljNm9PTnBCNS14WGFUOUFQRVZEN25feWZLNkRmcFN4M0pyM3pBZDF2cktnVGF6OXM?oc=5",
       "source": "Reuters",
       "published_at": "2026-09-20T06:18:00+00:00"
@@ -248,9 +296,9 @@
       "published_at": "2026-09-20T00:00:00+00:00"
     },
     {
-      "id": "hl-24c48dd7d20f1e9e",
+      "id": "hl-27dff473dd030013",
       "date": "2026-09-19",
-      "title": "Turkey says it could help meet Saudi military needs under defence pact - reuters.com",
+      "title": "Turkey says it could help meet Saudi military needs under defence pact",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcFRETlRnejhZT205SG1jcTdjVXczcElRSUxEam5NemVkeWdYaEdkU0hjSFlrMGkxd0JoV1YzMHlRUWl4TnJSSy14aFJUemp3bm55X0dqcXdEN0o4aUdScDE0M3ZsRzlEQ0lhWm4yX0NDVE02aUl6djZneTMxMWxsYnVlYTltMmVhMlVXdU5vZjY1Z3B3aVpCU0NVb1Y0ZmI1V3FJUi1EaGt1d1AwUV9JeTR0RWZVeFRZbUsyS2lTUUJUd1hfOFg4NEtMcWhUQQ?oc=5",
       "source": "Reuters",
       "published_at": "2026-09-19T19:21:47+00:00"
@@ -272,25 +320,17 @@
       "published_at": "2026-09-19T15:59:06+00:00"
     },
     {
-      "id": "hl-566062fa5ef1b39c",
+      "id": "hl-eb543816b3a7b5fd",
       "date": "2026-09-19",
-      "title": "German general Breuer elected to head top NATO military body - reuters.com",
+      "title": "German general Breuer elected to head top NATO military body",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRUN1Ympkb1FkbG0tcF9GUXFaSDVMV2I5ZGZUeEFVUUZMVElYVEQzWDlCVmlYT3RxeVVwQjRHY05zWEpfa0JoU3lyTExDWWdCWFlmQ3ZpeUJwYkNnc0h2QXd0M0d5dXdGdjBKMEd6Qkl0Rk95SkZmcE5zVHdCY01yNmlZS1R1dnplbUR0MF9QNWRkeW5tTXRWWmlqMGxCdUpvS1RraGp2bU5HckRtVUtuczdSei1YSTBZWTdXbw?oc=5",
       "source": "Reuters",
       "published_at": "2026-09-19T15:33:43+00:00"
     },
     {
-      "id": "hl-0cfafe364469af77",
+      "id": "hl-2876ef152063ad55",
       "date": "2026-09-19",
-      "title": "Defence firm Anduril says US delay on Taiwan arms sales affecting its business - reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUS1zbnlmMUNZQU8teS1FUnNoOE1EMVNycDNJUVcyQ25QRGpyQk9WaVZPRG8zbzJCWlJSS3RDNHlqWmgzZkJibklPaVpGanBMQWc4LUFrN2s3NC1ieGpFVEMwY0w0eHhZckJ5NGNSZzQ3QnJPel9LeGdWclh0allIZDFHVTVta3k5Z1pwVlEzRlZSQzduNF9zNXhVaVlDQnFFX2VlTExZNnVrODVJUE9RbkJGZ0hzaV9MN1hkU3FxU0I?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-19T13:11:42+00:00"
-    },
-    {
-      "id": "hl-efff1ba8b31a7cc2",
-      "date": "2026-09-19",
-      "title": "Is NATO ready to fight? The Ukraine war is raising doubts among military analysts - reuters.com",
+      "title": "Is NATO ready to fight? The Ukraine war is raising doubts among military analysts",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQTJ5OFk4WGtia1NNbkZCUV9MVklIOVNfUF9QcVpfTV9QS3VacG1GbHQ5QnlLbkhfbi0zNjZPZFhnVjF0Ry1UaWtTbC1ETmdyT29WeUY3R01HODhPQTFVNHhHN3REZS1aMVZpX2xhUXJUT2FGZ2VVMzMwWnFBRHY4UU0yQzdzRHdsbXZITXRydTQ4TmxDLUZRY3UzX0xiT3lCdTB0NEhSaUN0NFkwUmEwOGVoTjJHc0ZkQWt3dVY0ay15YWhreTJtcGhjVkdwZGZDUkE?oc=5",
       "source": "Reuters",
       "published_at": "2026-09-19T10:11:47+00:00"
@@ -304,6 +344,14 @@
       "published_at": "2026-09-19T09:05:24+00:00"
     },
     {
+      "id": "hl-f4d52255eb66e3bc",
+      "date": "2026-09-19",
+      "title": "Defence firm Anduril says US delay on Taiwan arms sales affecting its business",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUS1zbnlmMUNZQU8teS1FUnNoOE1EMVNycDNJUVcyQ25QRGpyQk9WaVZPRG8zbzJCWlJSS3RDNHlqWmgzZkJibklPaVpGanBMQWc4LUFrN2s3NC1ieGpFVEMwY0w0eHhZckJ5NGNSZzQ3QnJPel9LeGdWclh0allIZDFHVTVta3k5Z1pwVlEzRlZSQzduNF9zNXhVaVlDQnFFX2VlTExZNnVrODVJUE9RbkJGZ0hzaV9MN1hkU3FxU0I?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-09-19T07:52:40+00:00"
+    },
+    {
       "id": "hl-41de7b1b2cc364d9",
       "date": "2026-09-19",
       "title": "Saudi Arabia Issues Rare Air-Raid Alerts for Riyadh After Drone Attacks",
@@ -312,9 +360,9 @@
       "published_at": "2026-09-19T07:46:08+00:00"
     },
     {
-      "id": "hl-2a60ae0d51ac8e1c",
+      "id": "hl-b1b2b24d186e8c33",
       "date": "2026-09-19",
-      "title": "Russia adapts a training missile to lead its ballistic onslaught of Ukraine - reuters.com",
+      "title": "Russia adapts a training missile to lead its ballistic onslaught of Ukraine",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeUNWVzAzWVRGVXc5RkhoNEFoVkNIbGZob2gyU2k0NmhuRXVqckx6NTh5R1BQTHlnMENfN1dXa2RYVGVnenRjQVJhdFQ0c2hHTjQzTjB1bW4xVVB0R1pHUDZYYk1oN2FDNUN2dEk5UXA5N3RaeXVVWnRBZWRDY043aEE3SmprQl9RMFdpWFJ3a2dkZDF0Mk5UemV1b0c2UldEaENtQWxIZjhHclBROXBOVHlZcmRWczk3SDJaaWJR?oc=5",
       "source": "Reuters",
       "published_at": "2026-09-19T07:00:00+00:00"
@@ -328,17 +376,17 @@
       "published_at": "2026-09-19T05:30:00+00:00"
     },
     {
-      "id": "hl-ac3326a03cb6499a",
+      "id": "hl-341cc236d1053213",
       "date": "2026-09-19",
-      "title": "『地球防衛軍6.2』をD3ブースで試遊 圧倒的な敵の物量に絶望【TGS2026】 - xtrend.nikkei.com",
+      "title": "『地球防衛軍6.2』をD3ブースで試遊 圧倒的な敵の物量に絶望【TGS2026】 - 日経クロストレンド",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5VRUpMNE96U2hIZVhuUFJ0a0pRWFVEdjRRMHcyYzFpMnByUHJ6NzBUNmJsODFHdTlYak9PNFl4Q3JELU0wSGh1R0xzalkzMlBVRlctV2d5S2JCaFlJZ1lScjFzTExHdw?oc=5",
       "source": "日経",
       "published_at": "2026-09-19T05:21:00+00:00"
     },
     {
-      "id": "hl-e581dce078dd7f0d",
+      "id": "hl-818c78e399498430",
       "date": "2026-09-19",
-      "title": "US clears way for $2.7 billion sale to Ukraine of air-defense development upgrades - reuters.com",
+      "title": "US clears way for $2.7 billion sale to Ukraine of air-defense development upgrades",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORFphMEFsdXBIdGF5VFAxeWFrV3g4OGFVMWJySWhZcTFycXZ3bVB2VjdTZlFVNVVpbWtEMHQ1MTEwb0laQTA4cUFkZkktcU1kbWhqM2VlNDlaMDdzaVJXY29WUUF0MC1Cd3ZhaU8xSkkyQzZGSUpSTEhBRGJQZVNKTHRhSzRSNkxLVDJJMF9yTTZERWZ2djI5ckFnOGE5ajNMT2x4b2g5NFJEbmpEOV9kdGFvRWxNWjhSSEhR?oc=5",
       "source": "Reuters",
       "published_at": "2026-09-19T02:17:00+00:00"
@@ -368,9 +416,9 @@
       "published_at": "2026-09-18T21:34:06+00:00"
     },
     {
-      "id": "hl-27f53c8f58a77b31",
+      "id": "hl-f1d7cb83af424b97",
       "date": "2026-09-18",
-      "title": "Saudi Civil Defense lifts warnings of potential danger in several areas - reuters.com",
+      "title": "Saudi Civil Defense lifts warnings of potential danger in several areas",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdlpTM1JIVGlNanRpa0drbElOWTNPVGp4bUhMNEd6TTZnbFRQbG5IMDV2VmxTS0VLeTNKaWl1cDJDeml0U2F6NjNGMFJoWkdVTHV1cG5BeHBtWm9LbnoxYXBmSXB2MFE2MGlla092UW1fZTF6eHFxc2NjNFlORkVpc3Q4b0NOdk44Z1NXTVdZQVhqNHpTRFduNFF5SXRicFpiX0lSWGlmWUZVa2laMGlrZ3Vn?oc=5",
       "source": "Reuters",
       "published_at": "2026-09-18T20:48:09+00:00"
@@ -384,17 +432,17 @@
       "published_at": "2026-09-18T19:42:55+00:00"
     },
     {
-      "id": "hl-616c5cededff7abb",
+      "id": "hl-18f43fb003c4ded4",
       "date": "2026-09-18",
-      "title": "US removes sanctions on Eritrean Defense Forces, Treasury website shows - reuters.com",
+      "title": "US removes sanctions on Eritrean Defense Forces, Treasury website shows",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQVNWSkxBR2ExRTZDVW43YWFBZV9CbmZ0TUlEdEtTaWNaTmpHOWhiMTZMbllxWXotZjdETnJJd3FxT2VpMXhjOHVWVHZiekhucThObVJsYUdCZVhpNzlUQmR5WllsTmlUdkt0dW9fWFB4UXo0MXZWajd3RlNDemgzVnB3cGFYWU84S3prR2xudl9oazVmaVhmTWQxWFdBaHBUQUxKeVd2clAtVWNvUm0xd0FWME10N3M?oc=5",
       "source": "Reuters",
       "published_at": "2026-09-18T19:06:36+00:00"
     },
     {
-      "id": "hl-98d46c71bac11aac",
+      "id": "hl-adc823ab0b70b4bd",
       "date": "2026-09-18",
-      "title": "Top NATO commander joins briefing on review of US defence engagement in Europe - reuters.com",
+      "title": "Top NATO commander joins briefing on review of US defence engagement in Europe",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNXM0Z1ZzeW5odEM2c1F4RVpURnFBX1lHbzNXR3R1dzYwb1lreU91Mm9VM0p1OUdkM3g2SE5tLWFDUXBVSDBtR2FON25kWWl5YXhWQVh4Ty03aGNOcHczUjRPSEJaUl9jUzJHT2xaLTEwR01NTk9pMUR3QlJZSFVnMFRnRVVJdnItZnkzQm1TdVBrUkRYNkR0NWVmRU1qLUxKM1BiRXNISlZZQ2pPNEZ4M0JmQ3V3UHU3QWozOTY1YVViT2hvSE5QRnVPejA?oc=5",
       "source": "Reuters",
       "published_at": "2026-09-18T17:57:43+00:00"
@@ -416,9 +464,9 @@
       "published_at": "2026-09-18T17:00:00+00:00"
     },
     {
-      "id": "hl-d7ee68c06e737636",
+      "id": "hl-b8cda687dd1db4e0",
       "date": "2026-09-18",
-      "title": "Poland joins anti-ballistic missile coalition with Ukraine - reuters.com",
+      "title": "Poland joins anti-ballistic missile coalition with Ukraine",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOHV6cUpEOTZGYVpVbU5NV094S1lJUTJyQk5PVjlRaEd1ZkhSVGNpQU5XUHZncmRWc0xDMWQyMUp4NEM5RHo3b2tGZ3FPbFc1UXBuWVR2VllCZTdfUTRuTmNudi1VNW5veHdULVRlZnpiS2JZQ2hLeG1JWWJOa1NpQVV2aDhwNGZVNUdnRmhqcVZFRGYyaDBmanhaY2psbWg5NmtNcDVIV0ZOaEYwaVBCZjByZF91TS1nZ1o5YTB3?oc=5",
       "source": "Reuters",
       "published_at": "2026-09-18T15:36:09+00:00"
@@ -456,25 +504,17 @@
       "published_at": "2026-09-18T02:35:12+00:00"
     },
     {
-      "id": "hl-439d27865825815c",
+      "id": "hl-36d481cb632ed453",
       "date": "2026-09-18",
-      "title": "South Korea's Lee says will not deploy military to get involved in Middle East conflict - reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcHVWWW80X2pnalBXQzRpRlpIQnNiNGt0V1o3Q01OME0tSjg2X0ltaENaUjBXZ2NUWVFnLVRQUTNvRzBHdUh3am9SNExYc3RuQmtxdjkyeGNnMzRvOGdFeUxyTG83bUlEU2NJQ3FCb3ZhR1hjRFEzal84X0pDUW9KWUMtVElRYmI1VWljLTN3ZnNJNkNMLVVyR25DUWI0SmMwQkpqQzRGRUlnMFlSS0RObkRTaTBCRzVwZDN0QjJLUlNDTU96ZDhPb2RSWWtXNEcz?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-18T02:26:00+00:00"
-    },
-    {
-      "id": "hl-d970ec7656687a6f",
-      "date": "2026-09-18",
-      "title": "AI military risks spark concern at China security conference - reuters.com",
+      "title": "AI military risks spark concern at China security conference",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQV2R6ekhkRHVUTU95d042blJ6bWlXZEFxcEhPWTV5S3JtVXI0emlsaVdyb1BURWJzZk5ySWdyVGNKcEJldUg5Q3BaNF9wdUxWVzZyZHA2RWpjVWJVU1hRa2c2dmtMX3FOOGVKWFlBU0dfcjU0R1AtTjFURmpUOHo5LTFVRXBlaWx6OHktNHJiQUZ6a0NOdElKVHNIZnlTVW5hc0RTMTVnSE95NnExaEdJNWplNjdUdjQ?oc=5",
       "source": "Reuters",
       "published_at": "2026-09-18T00:25:06+00:00"
     },
     {
-      "id": "hl-260238a3c5cb83e3",
+      "id": "hl-4f115787dc388dbe",
       "date": "2026-09-17",
-      "title": "OpenAI, Microsoft executives' quotes on AI training threaten copyright defense, news outlets argue - reuters.com",
+      "title": "OpenAI, Microsoft executives' quotes on AI training threaten copyright defense, news outlets argue",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONHczYjIxX2dqTUpmMjBubHYzSTZCTVhBdmhHZDdOY1Zia05tQzhzY3hFc0pWR0czakY2c2ROUnlOZm1TbGNyTFk4UGc5REVTYzJmekFoRnFNS2lPeEhKVDctVkJXaHhldkZJanpqenFwZWtVT3JnQ0JYTmVja2ZKcS1EMTMwS0NpNzdVczhhRUVWLXF5aF9qRXBPVFJXSFljQWdwT0FWUjVBbDQ4YkVOdUNBS1ZtR0YzaXM2YnlYQ3VpQmt2YnVqNEEzejM3bjM0cDZj?oc=5",
       "source": "Reuters",
       "published_at": "2026-09-17T21:48:26+00:00"
@@ -496,9 +536,17 @@
       "published_at": "2026-09-17T19:27:41+00:00"
     },
     {
-      "id": "hl-08fa8a6bf9e35a75",
+      "id": "hl-bb7161b92f6d6671",
       "date": "2026-09-17",
-      "title": "US clears way for $24.3 billion fighter jet sale to Saudi Arabia - reuters.com",
+      "title": "US to Sell F-35 Jets to Saudi Arabia in $24.3 Billion Deal",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbF9fRzV2WlBaV3NBVmhnQjZ6ZWpndWZqTTY3SkxHUUxmTnZmWmJvblFzOXVXVjVFcjhhaTh3YkdWVE1mZnpicmVvRDNua3Q3T1pkT1NLMGlFTHh1cllYWWp0SEpMcVZDS3EwSXZneV9LejRsLUJsdno0bHAtaDk4b3dDdkVyR293LVV3STNKcnYxRzFaYU1GUmZ1RXJKQVhLYVVCZzBQMlhnZmk0?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-09-17T18:21:19+00:00"
+    },
+    {
+      "id": "hl-19549202b3d2a797",
+      "date": "2026-09-17",
+      "title": "US clears way for $24.3 billion fighter jet sale to Saudi Arabia",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONTlQX01aWTdhM21Pc2N5Q3hWVDFSbTM1WFhhTjBadHptcmg1RGRnWkZhakttQjVWMWI1cGU4WkE1Nmp0b1lBVlpDMktBMzdKZjJ6RGtxOGF3TmlpVjQyZDVoMmg0MGlENFJsVEpwOXdtc2F5NXBHZ1RPYUhMODBFcnhuTlV5SUNteXlGUWVwWnZLVEVXM1lrNENJREptVEtnZnhGdlAzc3pTMk0zUmtiSFRIdzkzeDRRX1gxRWt6SHRLanhmLVNEbDd3YlNsRkdiOV9JeS1DNWpwaDQ?oc=5",
       "source": "Reuters",
       "published_at": "2026-09-17T17:28:00+00:00"
@@ -536,9 +584,9 @@
       "published_at": "2026-09-17T14:37:26+00:00"
     },
     {
-      "id": "hl-2e51ae19ad8aac87",
+      "id": "hl-f03448d4772e5378",
       "date": "2026-09-17",
-      "title": "Serbia opens Israeli drone assembly plant - reuters.com",
+      "title": "Serbia opens Israeli drone assembly plant",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVEdib3pfV3UwbG1Mcm9XU1IyYWtGXzBDZG9DckE0VV9TWmh5TXdCWURSX3ZLQ3I2TUduNzRjMkN1R1RNX3F0Mk8wX1c5dEhfbWJOYzlSMF9pZXRncTFxa0puVmxGZ0ZOTVVZMXlaS3BHWWd2M0NsVFFhZzBLRFdRNUhZLXdhWTRoeWJJeWcydnFfbGhCWHNWRnRma2pudFd0bEFCNkdmYw?oc=5",
       "source": "Reuters",
       "published_at": "2026-09-17T14:25:44+00:00"
@@ -550,54 +598,6 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMF9WS0pXbTRUYllJdzNfaVVZeURvYVNJYnE2cjBvQnNMOTRGekhVN2pQdmYxMEdlUDA1eVNkcjFndkJQMTJLUm9WSEppQlhwM0l5emZ6MmVQMWt1cUpXbGwzN3hLXzhremU3Z3gxWENVSXRaUG9HZG1kQ3k5LXRDVFBFR1NXQXJTYzRENlNKM1FGSFprSk5aUHRmbTNJaXRfNWdSaHJrMU1nUlFGR0lV?oc=5",
       "source": "Bloomberg",
       "published_at": "2026-09-17T13:38:07+00:00"
-    },
-    {
-      "id": "hl-f2da1f59fec41667",
-      "date": "2026-09-17",
-      "title": "Icarus Robotics tests Joy in Canada ahead of ISS flight",
-      "url": "https://spacenews.com/icarus-robotics-tests-joy-in-canada-ahead-of-iss-flight/",
-      "source": "SpaceNews",
-      "published_at": "2026-09-17T13:00:00+00:00"
-    },
-    {
-      "id": "hl-a10a983a9fc7ceeb",
-      "date": "2026-09-17",
-      "title": "Catalyst Campus for Technology and Innovation, in partnership with the BMC3I TAP Lab, Selects Focus Area Cohort Teams for Cohort 26.A",
-      "url": "https://spacenews.com/catalyst-campus-for-technology-and-innovation-in-partnership-with-the-bmc3i-tap-lab-selects-focus-area-cohort-teams-for-cohort-26-a/",
-      "source": "SpaceNews",
-      "published_at": "2026-09-17T13:00:00+00:00"
-    },
-    {
-      "id": "hl-bf7ec1156d1bbc70",
-      "date": "2026-09-17",
-      "title": "Risk of Midterm ‘Blue Wave’ Leaves Defense Stocks Out of Favor",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY0IxZGkwUDZxM2FJajNwY1dkVTR0RHo3bE1NMjZISFB3eUp6TFV6cWhfc1NlR1pyUjFpSGQzN1BkVm5feGFPOXJjQ1lOODdWUENwQ0hsaVlIX0tLMmNQdDZXaW84RHBoR29rU2pLWk9aQnpTcUo0MHhyNS1Vd19wZDRNdTBfWmNjT3QwTE5pbW1hVGJTaG5tTXg3QkZsQV9PN3VTMlJSNDZhRU4xZHEzdQ?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-09-17T12:43:54+00:00"
-    },
-    {
-      "id": "hl-71263811291d5493",
-      "date": "2026-09-17",
-      "title": "Lockheed Martin reveals new secret missile, fast tracks production - reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPM0dqZ3hGcHAzNXRmNXZJRzRSV3EtbThWYms2Z2tRM1h2QzVUTncwMEhudXVmbWRhd3d2MHoxZTctUXc3dWRXdWxxN29lbHRieGpVZUFuMG5ta1ViQ3NZdXhsLWZucXIzZXhDSXRuR3Rud2Z6dnpoaXZxM3VKUFZMX3JUSUw2S1d2Z1piZU5vNjBXMHMzVHRHaGRES0NrcmxBTXdrLVhldmZqbWlfU2FqUHlfTXpUbTRGNkZNR08tb2dENklSd3BF?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-17T12:39:46+00:00"
-    },
-    {
-      "id": "hl-db93b435749ced35",
-      "date": "2026-09-17",
-      "title": "Pentagon, Lockheed Move to Accelerate Production of New Missile",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUEE3YS1SUFV3bXRyUklTUG1xLXNTVVdKc0tyTm53N2VxemZ3TkNwTm80UDNTNWRCU1RnN2FhZDhDVzNUX3Jud2lkNmRkT3k4cXdWYk9KRkdsaGtwbUJhVTBYdEZJNi1ORkV3b0FlUFhNNDhDYXVfdEsydGJ4M0ZCaTlzMlJadnBMcW9lTkNVU3FTcGNOOHhkQ3B3TTdFV29MdjJDNlRMQU1ZSTEtME5HeENQYw?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-09-17T12:26:39+00:00"
-    },
-    {
-      "id": "hl-872fca0bc67972b2",
-      "date": "2026-09-17",
-      "title": "Trump’s pressure on NATO is reshaping Europe’s defenses. Will it break the alliance? - reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZnBsTk1ER0drbVhQU1Vyc0RiQnVKU0pvYWhQSk5BRVJWelZmbElmRmRmYzl3Q0QxU2FUV0hUVVpiSWM2UUtSWFhmdzNoc1dRMllBbzBlaWtQeUpoWVdmeHJaV2JsZ2dvalk5OG1KQWI4bVVnX3kySHlNRUNNYVZLVFJ4V0NWLUp3QzBRYnZPbmlqX2U0MlhiNnFRUmYtNWEtMG56ZW1yZFNTVm5oaUZOUWswZGlwTHBUekFyYjU4T3huZw?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-17T12:23:43+00:00"
     }
   ]
 }
