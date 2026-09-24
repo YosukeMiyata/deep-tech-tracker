@@ -1,6 +1,6 @@
 {
   "_schema": "id: 安定ID / date: YYYY-MM-DD / title: 見出し / url: 原文リンク / source: 媒体名 / published_at: ISO8601(任意)",
-  "fetched_at": "2026-09-23T15:01:41.647515+00:00",
+  "fetched_at": "2026-09-24T14:41:47.436926+00:00",
   "theme": "ai-dc",
   "sources": [
     "日経",
@@ -13,23 +13,583 @@
     "Tom's Hardware"
   ],
   "fetch_notes": [
-    "日経: 81件",
-    "Bloomberg: 45件",
-    "Reuters: 79件",
-    "CNBC: 43件",
+    "日経: 79件",
+    "Bloomberg: 53件",
+    "Reuters: 74件",
+    "CNBC: 39件",
     "WSJ: 42件",
-    "日刊工業: 8件",
-    "東洋経済: 35件",
+    "日刊工業: 7件",
+    "東洋経済: 31件",
     "Tom's Hardware: 50件"
   ],
   "items": [
     {
+      "id": "hl-7f1e3b6b0ddf6552",
+      "date": "2026-09-24",
+      "title": "Japanese used bookstores see 5x sales surge as books are being bought by the ton, one 50-ton order sent to the US for AI scanning and destruction",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/japanese-used-bookstores-see-5x-sales-surge-as-books-are-being-bought-by-the-ton-one-50-ton-order-sent-to-the-us-for-ai-scanning-and-destruction-multitude-of-suspicious-bulk-buys-thought-to-end-up-in-foreign-ai-scan-and-shred-facilities",
+      "source": "Tom's Hardware",
+      "published_at": "2026-09-24T14:35:12+00:00"
+    },
+    {
+      "id": "hl-eee46665cdb29c7c",
+      "date": "2026-09-24",
+      "title": "AI Cycle Set to Offset Energy Hit for Asia Economies",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdENRTkhjMkZfOXdrdjgtTlFjQXk4YVFheWVZeFU5djNYVU0xYUZabHhoZHhQeWxBWk43X0pmOUlWV2VLdFI4RGZ0cnlWQjJCa2tOSVFRcldKT0xHYmVyUDZXbGlYX3gtdHhfVDFDR1k0Yl9NV0E5a1JqRVZmdEJPRW1OdjFSMGFkY3JSaEd0Z1lqc1k?oc=5",
+      "source": "WSJ",
+      "published_at": "2026-09-24T13:56:58+00:00"
+    },
+    {
+      "id": "hl-b31e25cd08749784",
+      "date": "2026-09-24",
+      "title": "Microsoft Recasts Culture Around AI",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcTRjeEZ4OUktLUpsazM2NlZadldVS0gxamJ3QWM0QVNtWFI3NVJ1QkVCSjhOUWdLaGVWSEt4NGQyZkhCMlNva3l5eDgyTDRvSHNRcjBEa2ctVnk0QlIxLWk5UzRvZVZkVXpUMDlmd1BWaVltZ2w5V04yaHFqc0gzVUln?oc=5",
+      "source": "WSJ",
+      "published_at": "2026-09-24T13:01:00+00:00"
+    },
+    {
+      "id": "hl-866d1327a8fcc1f9",
+      "date": "2026-09-24",
+      "title": "Oracle cites ‘force majeure’ to shield itself on data center, Bloomberg News reports",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbWZqSDVjdjZZaURFZ3VZNzlrRzdIZzE1MDRPNkNlQjRsbmlzLWdzUTRqTEFVdnNCS1czRkNrbVZTbzFHa1B2Nm51ZWRKSUUxMm41M05DWWw5WlQwZWhsR0duLVMzS1lXekZ1enFyS0VpcHRUTTduUVZtVnhXRDZRTVpHN0ZfUnhjUVVCbkNMeTAtZHdmOVpwUXpyZDNDY00zRVVyM1dyVG5fMTJ6RzE5XzBFTHU2YTNtMDdmdjh3?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-09-24T12:56:32+00:00"
+    },
+    {
       "id": "hl-192234ed752b2a2b",
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "title": "U.S. to Launch AI-Powered Tool for Air-Traffic Control",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbXdhMWRuNUFnYXpOY2JQNlo3d3ppZ3BGOXRqYU9GQzVweGVDZUxIaUVFMnRJX294YWcyWkt1UF81aVBrUlRKM2t6ellwUnVCUUpYRllzTXg0MkhsOGMtc0p1S0dBTWlBcHFicjRDclVRMFB5ZU9rNmk3Z3AyS1ZOczdsZ1AxckY5cHZBUVd5MGU2cXo3REVPQWdPWVBicWxz?oc=5",
       "source": "WSJ",
-      "published_at": "2026-09-23T14:03:25+00:00"
+      "published_at": "2026-09-24T12:55:28+00:00"
+    },
+    {
+      "id": "hl-a2ce9b58e43ea8ca",
+      "date": "2026-09-24",
+      "title": "Oracle sends 'force majeure' notice about data center project — stock sinks 7%",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE83OGFNcURydFoxR0o2WFYyX2ZTRkVUdno1UnNET2lrM0ZDVUdnZE11NWtMWFl1NnV1aU4tbXlLeFgtUEJVT2ZRY0tVcWxZWnpZR0g0a2owZDNYUHQ5Z05NZDY0aDAwUGhQMHZtUFZVd2lXX3Nnbkp5b9IBfkFVX3lxTE9xalhSV0NpQlJoUnQ4VDZGYUQtR1hnY1ZKMlVPVlRTelNaQk9qMTF5NzROY2xRcmFVNFJBQnY4QnlsVVRuOE53T1BtaDVxTXJlZlB2UzZhWmE2b0hPZmFlYlhZSDdDbU5lbEpGSnFvUGJtWVd5S1RZMGFvdG1Qdw?oc=5",
+      "source": "CNBC",
+      "published_at": "2026-09-24T12:48:08+00:00"
+    },
+    {
+      "id": "hl-2d0a3e27f53ea6b3",
+      "date": "2026-09-24",
+      "title": "Meta Shows AI Agents Aren’t Just For Businesses Anymore",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOV2tJVmk4TXpveG52aC1XYWZkTWg4LUxpLTNPNlZacFJjWW81LUt6NS1zU3B2TXJTeWpZd2ZZRWN1dUNHLTNVU1hkWUxsYW84a1pLejFRV2p3VlkyRFRsaDQzZ2w4NHI4bWdaYnNvVDlmV2lBT0ttRmFzZFBRT3Zrc0l1ZEptc1NPMS11dVFhTDNmUFI1Z01kQXVldw?oc=5",
+      "source": "WSJ",
+      "published_at": "2026-09-24T12:26:25+00:00"
+    },
+    {
+      "id": "hl-9c3703c869af7159",
+      "date": "2026-09-24",
+      "title": "Oracle Cites ‘Force Majeure’ to Shield Itself on Controversial Data Center",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOR3J4S0lNZEtDZ25YQWdUQkplRTFuVFlCTzFpOHc4MDVTQk1kZ3BUZkUwV3p5QmFwV2V3MEdBYmdRdU1xQTE4RzJYd0RhZTBoUmtXcFRzZlBINFN5LVBINXR4TEk1YlcxZ0RlOVE2YVYwZHE1WkdrVlN2WG5XcHVKcDJkdFhnVUk4ZkpHeEtrZ1NHM0VRZ21EZ3l0YXBBZUpnWG9BcG9vZG00NnNiNEppcnVwdkFRY0dkWnFzbFlhekU?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-09-24T12:25:36+00:00"
+    },
+    {
+      "id": "hl-d9bfadb4b262ceec",
+      "date": "2026-09-24",
+      "title": "Forget the AI Apocalypse—the Real Threats Are Already Here",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBhdFl5cV9RZkVnM1RyaDNwa3o5ZGtqc2R4RHRuYnZFcHBzNy1MR3FXN0t6Sy0yb2FDdGJENkt4LXhLM0dYYjBKX3N4YzFHNFRFZzZ5YXZtcGV4M21jWWRMRFRfYVhjd1FUTnRwdWRfUjVsUk1KcE54eTh5Yw?oc=5",
+      "source": "WSJ",
+      "published_at": "2026-09-24T12:09:24+00:00"
+    },
+    {
+      "id": "hl-890b6e723f7abbab",
+      "date": "2026-09-24",
+      "title": "Palo Alto CEO says slowing down AI is ‘unrealistic’, extinction threat ‘extremely small’",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUXBYNHRYWklyel9EM3lReklqMVMwRk9TdGc3bHNQSkhleGdJOWYxUVZvOFhiMXVaZ0xIWjFIMkFPekZFQ1RUcXA2VVVRc185OEEzcFlGcGgtQ09FNElvdUQ1Mmc5ZjJHOEJiTEpYNG1pd1JjZS0xN0xSUVVBWHBmTktSZ3JHVlnSAYwBQVVfeXFMUFB6Tkx6c0RzWEUzQ0R5SHBRTzlpVHFXNTY2ZnUwd3V3RFB0OVVsbUVDQlJJV1JTaVAzcnE4Sm9uNkZoeFBCd3J0NmtOeUV5OVNzTkJRODV5NkczLWZYUGtzNEZoeV9wc28zQzV1LTBrVExYSUNTZE0wODRLenVVTmw0ZS1QR3JTTkZQa2k?oc=5",
+      "source": "CNBC",
+      "published_at": "2026-09-24T11:45:22+00:00"
+    },
+    {
+      "id": "hl-8b350c7a72c17e95",
+      "date": "2026-09-24",
+      "title": "Seven Big Ideas for Responding to an AI Jobs Crisis",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZXY2alZGWF9rNURWYTJ6M0VjbF9scnkyYnNZVEE1ak05emJFZVVFRnpLMGFhZllxNkNLUExyNjY3eW11T3Qxd1R0Z05TRTFrV3p3MXQ5YnZPbjVlaTY3Y1hDR0pVN1IxSGFGckVWS0p6cjFLZVhZV21xaVVLMERvNkVRSUU4M1dFUkJ1dzRBSW9HcnY5Y0hEQjJfUjZQUGVjeU1jQ0hyRWJCd0NlYWc?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-09-24T11:00:00+00:00"
+    },
+    {
+      "id": "hl-72e14f357e75ab63",
+      "date": "2026-09-24",
+      "title": "Trump, Xi expected to talk Taiwan, AI, trade and Iran as DC summit kicks off",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1mdzlDbUQ5ZkNPanhHNDFFUjcxTVlITlJzUEM0LW5YVkpoRmNNQ2pTNnlRV1RlV0ZBN21LempRUkg0WHRDX2VyNVZpNTNGSUlJN215Qk95UUlMVFFyRGRqeDJuTEc4Q1NERFhhNGFzOFNiY2c4cldiUUtn0gF_QVVfeXFMUHlicjEzaTNPNzFDbjZ1SERYXzE4bl81anhXZmVNaXd1WGlTaThtU3pKYXZoeG1NUWlqWW9Ja29KNW9qZVJyVkRjSUh1Ui1QQnhQNDlZSFNrajR6Vk9GaGRTSlhHQU5XZkRNekNORFVOSzJkRGd0NnNZMmFvNkVIUQ?oc=5",
+      "source": "CNBC",
+      "published_at": "2026-09-24T10:56:00+00:00"
+    },
+    {
+      "id": "hl-c9dc98c6c50fef4d",
+      "date": "2026-09-24",
+      "title": "British Columbia sues OpenAI and Sam Altman for 'aiding and abetting' school shooter",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/british-columbia-sues-openai-to-pay-for-new-school-after-tumbler-ridge-shooting-lawsuit-says-openai-identified-shooters-chatgpt-account-eight-months-prior-but-didnt-warn-police",
+      "source": "Tom's Hardware",
+      "published_at": "2026-09-24T10:30:00+00:00"
+    },
+    {
+      "id": "hl-24bc6fdb7fda78be",
+      "date": "2026-09-24",
+      "title": "Financing of historic AI buildout raises systemic risks in US, researcher says",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONTI0NGRQVHZXUklOa2xra3RUeVRIUnBhYjdYVENBX1UzTkJoZ1hsX1lvX185ajhhNG5xeWpCMWctSUlnVDFlcE93akVCblpGMy1QY0lCUEJDSVZyZnFWVVA4ZzRhSDM2eVlKelBJRDQ1dlh4UjRsYS0xdVBVX2lWRGQ5ZklQUi03NnZBVm9ncE1KU2JOR3hWRFZ6djBVR1dCak5zREE0VUp3UF9ieWRsQlk0VXUycXBQNTQ1eHdzbkdydw?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-09-24T10:07:31+00:00"
+    },
+    {
+      "id": "hl-e6495fc6879c75d9",
+      "date": "2026-09-24",
+      "title": "Cyber startup Island hits $6.4 billion valuation in new round as AI attacks fuel spending wave",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE01VzBSRmVkM0JuVHVUS3lRY0RCVnlPUl8xYzFldk0wcWJlME1aaTNEUXNFYUozdmM1SmU1S09jek05UVg2b0p6M3J2akpmWUdGMm8wZTRrQnBUVDJYbmE4dlBmOGMwYTBkNXhrNGJGX281TzNwQ3V30gF8QVVfeXFMT25rZnFVZHAwZi1rZkZHdjhleWk3RUh4RWxuWVJRRGxXTmNFOGszQ1VMZUFtdUJnX0c5cExiYUpqMFFSdlRIOUEzOUpoWkpYZXE1d1dpWjd2MDBiYXA1eFJ3U0N2MlpxS19GUHllOTQyeHZTYWdOTVY5SjVzQw?oc=5",
+      "source": "CNBC",
+      "published_at": "2026-09-24T10:00:01+00:00"
+    },
+    {
+      "id": "hl-e854b3e41ea133d5",
+      "date": "2026-09-24",
+      "title": "A Kill Switch for AI? Microsoft’s Brad Smith Says Yes",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdHdwd0tPdG04OEVMU0NhbnFfVjFUbm14WFJVSlB6Ymp3c0UwYWtUWVRRWEwtTlFjTjl1dWI0VC1XaDJ3V01qMUZaYURlS2VseERCR1NJVU42bnJGSjJxWXk1WGNJTHJQbDBnaHc5Z3RyakRyN3JiOHpCa21nYUZqVkdFMDk0ajVsUFpoWDlDelZxRnc?oc=5",
+      "source": "WSJ",
+      "published_at": "2026-09-24T09:58:00+00:00"
+    },
+    {
+      "id": "hl-27411274e91f223f",
+      "date": "2026-09-24",
+      "title": "東北電力社長、GX戦略地域認定「データセンター誘致につなげる」 - nikkei.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWNjBEaVJsMWhuQ1RWYVp4MEtWdDFsRWl2eld4UDdLSEppamVDZ3ZDcEhabG15cV94NkpMUDJiWHh6X21wVWN0Znp0WmtaY3V5blJjMTh0RzI5YkJLLVB5MXcyZFI2WFE1ak1XRQ?oc=5",
+      "source": "日経",
+      "published_at": "2026-09-24T09:50:00+00:00"
+    },
+    {
+      "id": "hl-5c0f58f9c431351f",
+      "date": "2026-09-24",
+      "title": "In the Age of AI, Cash Is Still King",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSFpodVhaVkR2bUJoQUc1THJhcHVXSWcyZGZNX2M1REpWZHFkeVBJNkJsVEJXTXFBeGM1d01GMnZFak0tT3pNaHE5YmtYdGxzaXpOelF4Vng1SGJwdGlxa2tnV3FVVEU2WE9ZY2dJLUdFWVdyQmtFWGFPWGVqaE1kMTVxNXNwZGwzbUE?oc=5",
+      "source": "WSJ",
+      "published_at": "2026-09-24T09:30:29+00:00"
+    },
+    {
+      "id": "hl-7efa10e1bcd6a648",
+      "date": "2026-09-24",
+      "title": "The AI Folks Don't Seem to Understand Intelligence",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQi1qNnVCeHQ0Ylh2azNVUjItMlJxRDluNktVM1FSZ2xXX2pTOTNpWEw1YnhiZmdPT21iSjJCSlFJdDNKWEFDdklVODd3TlFCd2JGN0VMVDdQU0ZheWhCVVl5UVNrWnVIYjZQbWVNRTZWcG1JaFRJcXFSbGxvY2hQS0U4amx6RlgzNmoyZHZNTEtURlZXWVNuT0g1enlQQ0FLUkhaSWtYUndHcjlXdVE?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-09-24T09:00:00+00:00"
+    },
+    {
+      "id": "hl-eeec720484369972",
+      "date": "2026-09-24",
+      "title": "スマートニュース村上臣氏「AI時代、経営者は茶道に学べ」 - 日経ビジネス電子版",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5NQVVBdTRqaVRkM1FBRnV4aDgwUkkwQ0Q3c2NueUlQUkRpdG9JanVGNGhvS05yZmd6QXNJY01PU21FQ3puWkx4X1RQaXo1Mk9HOEZmeUNFUHBMS0xDTnNvajFhcUQ2YU0?oc=5",
+      "source": "日経",
+      "published_at": "2026-09-24T08:00:00+00:00"
+    },
+    {
+      "id": "hl-b74d0327dcc6cdc4",
+      "date": "2026-09-24",
+      "title": "富士通、半導体不足商機に 新型AIサーバー、メモリー容量「27～45％減」も - 日経ビジネス電子版",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oUVZ6dGhFUWNUd0d5NnJ5UkRkZFRXNkZKbkl6SUhKbjlQdXpsNlotZHVfWWRRRWhfUE4xSXlIWDFTekIzVHZXeEV5dTFTVkF5OVEwc3BLaGJ1cVUzVFNVQkdOQ29iS00?oc=5",
+      "source": "日経",
+      "published_at": "2026-09-24T08:00:00+00:00"
+    },
+    {
+      "id": "hl-7b79dc46c20c04a8",
+      "date": "2026-09-24",
+      "title": "キリンHD南方社長、AI役員との対話術 忖度なき指摘が経営陣の「知力拡張」 - 日経ビジネス電子版",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNd2JISUVRVnBuRUt6RkhLQlNGTi1CR3lFcjQ3MmkwQmg3TXRWaDBhWEJfY1FjSWt5TUV3bnAzOXVjUEd6d2dkNnFJWXl6ZkQwblBvQmdtMUdod3l3RGVzaTBXdFEzTHc?oc=5",
+      "source": "日経",
+      "published_at": "2026-09-24T08:00:00+00:00"
+    },
+    {
+      "id": "hl-65753caf17fbc3b6",
+      "date": "2026-09-24",
+      "title": "AI Is Upending the Lives of People Who Do Social Media Professionally",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMnY2MEl1M2txVF9seUZLM0xDaGtkcWd3XzRORURWRG5zRWsxZFRuWDlTRTRLWThKYXBFakxTcF9IRzdsRUt5d2tKeDFwU0V6Wmc0T1BKMTVoNGhtQlYyWHRHMWwyV2Q5Z0dOUHQ0eXFTTFBmLXVYNjJaMjZmRWh3UjJWR1FGYzV1aVRJT1hlWHMxOXQwR083OFFsRklQMkVmbUJpOXpvU2lMQ01FdzZfazBfUFNrOFA1WjZZbg?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-09-24T08:00:00+00:00"
+    },
+    {
+      "id": "hl-f0466bda49d75b6b",
+      "date": "2026-09-24",
+      "title": "24日の日経平均は4営業日続伸､AI投資への期待再燃が追い風 - 四季報オンライン",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA0ekNiWUotQlRscTZOUUtTNldhMnRZMmtzWWdKYU1sR05KS3pTVEwtdkQ2anlPa1A3MUQ2ZDBQbFFHZV9SeXkzd1JtODZEVFZLMVI0WUJCdw?oc=5",
+      "source": "東洋経済",
+      "published_at": "2026-09-24T07:25:00+00:00"
+    },
+    {
+      "id": "hl-84e21f93f19eeb2f",
+      "date": "2026-09-24",
+      "title": "BlackRock, IFM Close In on $25 Billion Asia Data Center Deal",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUnNRczdINDhEcnk4aFpZcnZfem9qT0R2ckRZRVBpMkF3VjFaVWxEOUlvXzNYbXZpU1NCLXlpMkZqNVNKV3J0TzJtT3EwNnc3blhmTzhORHRlaFJ5RDFIMXhKOC1IWE1yRXM4WmE0cHlORjFMSVBaWFpPUktCVzNKNHBVWDd2ejJ1LUxIQVZiM3pLeEFualdDZGw0N1c0bF90dGR0NGNwbVJzbEVBUEww?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-09-24T07:00:11+00:00"
+    },
+    {
+      "id": "hl-e5ded0b344801401",
+      "date": "2026-09-24",
+      "title": "イオレ[2334]：イオレとWOODMAN、AIデータセンター時代の冷却技術を議論する 「液浸冷却ソリューションカンファレンス」を開催 2026年9月24日(適時開示) ：日経会社情報DIGITAL - nikkei.com",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9QQkJlWVlOeVJLZzlDNHgxSU9wcXJTc1kwSkdKcWhKSzlBQzVXUW00MDYxRHJ4RlU3U2J3TzFHdFVRbFlIN0lmR0JCWXNXQ1NtV3B0RllqUGhfeTcxdXNwZTZLOVg4OXMtUVE?oc=5",
+      "source": "日経",
+      "published_at": "2026-09-24T06:30:00+00:00"
+    },
+    {
+      "id": "hl-10729b41653ee1b0",
+      "date": "2026-09-24",
+      "title": "ドコモ系、AIデータ処理と通信を一体提供 国内完結の基盤構築 - nikkei.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wSWNiV2Y5T05mcnNscC1SZWIxUFZjU0lXTGFFdl9fbDhfOGxQaElSMUFVVFZ3eWVyS2Y4MDNTbnhFWWt2Tm1ueXZxMGR3VUlaOVNUMTdNTWRxLUF6SGRVeTh6Q0NNY0gzb28weA?oc=5",
+      "source": "日経",
+      "published_at": "2026-09-24T06:05:09+00:00"
+    },
+    {
+      "id": "hl-62a15092b4a7f19d",
+      "date": "2026-09-24",
+      "title": "画像 | 〈動画付き最速レビュー〉新Mac Studioとオープンウェイトモデルが変える常識…｢AIを借りなくてもいい｣時代の勝ち筋",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9HQWcteGFBdURKOFFMSm1seHdVd0hMZVJIZzhrUWo2T3VoTzRkNW5hd2E4aVJ2QUdjNmdqX1dibXd2UHVsSXNhOG1VNmZLMUt5QkJNOXlOZw?oc=5",
+      "source": "東洋経済",
+      "published_at": "2026-09-24T05:08:50+00:00"
+    },
+    {
+      "id": "hl-93118af3f50a215a",
+      "date": "2026-09-24",
+      "title": "GMOグローバルサイン・HDとVESS Labs、AIエージェントの「身元と権限」を確認する信頼基盤を共同実証 - nikkei.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtUG95TmxYWTkwR3otZXl4RC1GMk1TSE5xY1hSaWpESmxCdmZrc2NSTHpOTmczWW5oel9VY2VIZjNmc3k1LUVvV2NhVXFzbW5FVVBWYmpJeGNNU3lsZDJuUVBuMkRIN2hlUk5QZw?oc=5",
+      "source": "日経",
+      "published_at": "2026-09-24T04:44:55+00:00"
+    },
+    {
+      "id": "hl-0d72145dbbf7a31d",
+      "date": "2026-09-24",
+      "title": "Meta's Charm gadget carries CEO Zuckerberg's big AI ambitions",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPR2h1c2dZMG5ya1BGWURiTFpoTVQ2MlRuRXlxVmFzVkFJWHBfVmg4SGl1T0ttVUNrY04wMVJuUGZtVlhWYTAwN3IzUEUyOW9KQmVoUDhfY2UzYnREQ3J2NnQyUGN1bkN3MnU0LTIzLWZCYXVwSDFDb0tqZDNvVlhUUGRxY042cUxUeTVKdzRyNnNhYWJ1VG5EWXV6aGN4U0V6eEF3Y0x4dnJTdV9COExXZTYtU09fRUlnY3c?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-09-24T04:38:00+00:00"
+    },
+    {
+      "id": "hl-96b69f2438d3b309",
+      "date": "2026-09-24",
+      "title": "China's AI chip blitz arms Xi with a message for Trump: 'You can't choke us off'",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPM1poekxTT01INi1FY0h2MGNpNmtWMHg2S3JLTDRXRnBLVFFaa3B1cHZ4djMwM2VzN0dPc2hfQ1BlckZIZGFqM1hQUW0wazd3OFFKWm1nVGc5LU05b2dXTUxkdWtkWDR0MnM0VThfZlZINlZvd09qWkNvWW5iVEl4V3NoUUpRZ2NYcHk5eHR2czJVXzUxTEFjVHJrNUF5b1Vi0gGmAUFVX3lxTE96M21MTWJjLVpqZ0RwdFprNFM2N1JnVXFoZWswSGpHVmZoY0J4ZXVPdDJEbXVMc1V4eURUMG80LXNWWEd0djRiZl9hRU94T1c2OEplWFhPNkJBaHpWMnpwVXlHRmxoU3ZpaUVRUGpjSmZ6dXRuRDN6d0NsaUVRSlpOT1NFTXYyU0ZJeXZjTmU3NWNZM05XOUFyZkowejFJTXY5RWg2bXc?oc=5",
+      "source": "CNBC",
+      "published_at": "2026-09-24T03:38:00+00:00"
+    },
+    {
+      "id": "hl-0bc3ca29aa873cd3",
+      "date": "2026-09-24",
+      "title": "Exclusive | Silversmith Backs Vantora to Turn Enterprise Pain Points Into AI Ventures",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVnk3alIwckZIOGZESHVFOTVaQndjd3pMSmI1Wm9ubG5rZGlnV2ZoZm5IbEdoVlg4Q0k2eUtiYmk3dXFxLUtHOGtvUkwzbXVrbE1pWWRBYlZnU2tZSERkX0NLcktGRTdSM0RUWHZwQjNOb2tlSVBWMGpfci0xWHZNakU1bWRKQW8xcmRRc0VreDlnd1FhQ2tLbXVUSFhjaGxwZHVMM0ZIVWFfOXF0YVZDOUp3S2k5bUtrWmRacllJWGZlOG44b1o2OA?oc=5",
+      "source": "WSJ",
+      "published_at": "2026-09-24T03:33:06+00:00"
+    },
+    {
+      "id": "hl-09833365f995bbf4",
+      "date": "2026-09-24",
+      "title": "OpenAI data breach latest in long list of hacks in Australia",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcFM2SnQ3ZWdmbk1yS0JKSXkwZFp3QmZsbzZTbmxFTHZMWGxVUk5MMHJFQ1IzcVhjdW5obE5OZzJ3cUFwYlpPUHR3V0hxY3hqd1BtbWVvZWVNYk5GSk1aVjVsdUx0U2J6OGh5R3A2SlhVUzFGeFo2U3pWZG9zU2V4NVNZSHVTRDZiNXJPSkhyWHMxY0NVOXJSV01fX2FVZjRtVGlOTm1Naw?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-09-24T02:01:00+00:00"
+    },
+    {
+      "id": "hl-b70dfcdc8c916bda",
+      "date": "2026-09-24",
+      "title": "ソフトバンクG株価一時7.5%高 米AI半導体株高、英アームも上昇 - nikkei.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9LbXRtZEZiYS1QYnZPMU00S1luSTNiSUJGaTAwTEZpek1jRTJ1cDdwTlp5S2RVT0UtX2ppSnlkOEpUc3hYOGFkbzVFTWhfNE82LXlja0FCNVlfYXpTdWsycTMya3p2U2tER01jaQ?oc=5",
+      "source": "日経",
+      "published_at": "2026-09-24T02:00:41+00:00"
+    },
+    {
+      "id": "hl-c9c4fcc1ca4c6cd7",
+      "date": "2026-09-24",
+      "title": "三菱電機、米子会社が次世代AIデータセンター向けにNVIDIA製GPU対応のリファレンスデザインを公開 - nikkei.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZcjBkYWRGeldKMGxfc2duMXRoYTMtUHM1eWl0Y25rOGZZeFJ3d2ZSTEFScEtYUld3bFY3cE1WaUhwZWx3STBndkd1aDRmemU1dzRHQ2pNSjlua0dKMVA1VXF5TnhVdlFxWkhOVg?oc=5",
+      "source": "日経",
+      "published_at": "2026-09-24T01:48:47+00:00"
+    },
+    {
+      "id": "hl-74fd98613266b895",
+      "date": "2026-09-24",
+      "title": "メタ、眼鏡に独自AI「ミューズ」搭載 販売1000万台超えへ - nikkei.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9PWG5kWU9Gc0VndVVyZFZfNzdOcUlhaU10dHczYUpSM0cwM2pvd050bmstQUMzTzFXVnA3cERnSXgyWDZXNmtsNDdMbkI4bG54eXBLQVg1czVndDZndUJXWWE2V2ZRcnJJQUdWQw?oc=5",
+      "source": "日経",
+      "published_at": "2026-09-24T01:30:45+00:00"
+    },
+    {
+      "id": "hl-50775d83af61e743",
+      "date": "2026-09-24",
+      "title": "The AI Build-Out Is Becoming the Biggest Economic Bet in U.S. History",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRnMwcmstaEVJUmswYTZMOWc2MmpyWmEyM2FxeHZua3FCWUVBazU1cnJsc3huYUNub1hYWUZ3UE5OQVJ4S3ZaNTJNOTVlbGJKdmE5ODZDeF9KempCRXZ5TGVQcVJVRGd1VWVGOTlIejlLZ1ZEMG1NOW1DYnRNSjcxM0hMU0xaRVg1OFgwaUFFWTA5Qk42RWcwTTcwRDB6dVNoZ3I5Y1V1c3U?oc=5",
+      "source": "WSJ",
+      "published_at": "2026-09-24T01:01:56+00:00"
+    },
+    {
+      "id": "hl-6ecd777aad18640c",
+      "date": "2026-09-24",
+      "title": "24日寄り付き直後の日経平均は一時1000円超高､AI関連高い - 四季報オンライン",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBOOFh1R0Q0SnFIaVVnMWNhYWNJQzdEVjdnb191SlhQQWpMT01IMlh0RGpDMWxwQ0RWWGNSSlF6eVRKT241Tl9FWVpXQlQzSERvdUp0QlNfQQ?oc=5",
+      "source": "東洋経済",
+      "published_at": "2026-09-24T01:00:00+00:00"
+    },
+    {
+      "id": "hl-4daff38979e1272b",
+      "date": "2026-09-24",
+      "title": "Meta Debuts Dedicated ‘Charm’ Device for Using Muse AI",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMThMd2ZURlVmOTRpS0dzNmNSSFVfZ1dzNDZrd19YTUprcTA5dHM3NkFRekJsemdBd2hmak9INnpYSWlncXRVd1VpVkM0TnQ4OXFET3Jpb2xxd054cVJWLUt4WFlQSmxYTU5VdEJXbEhHbzRILTRuQUY1LWtKMmZwRF9VdzZCRUN4UVpoZmtBMF92dWRCUm5Pbkt5OHlnNXpQeHpzcWpkZWU2QngxNWJMWWNMS2pCd1BqeXZXYno4cms?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-09-24T00:42:00+00:00"
+    },
+    {
+      "id": "hl-0bac02795c1d9a67",
+      "date": "2026-09-23",
+      "title": "OpenAI Agent Hacked Australian Government Website",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdUxmdkdyV2FyMzMwZGk1MjUxalc5aVhsSXF2T0ZrSWcxZW5nSDJTS2Z3cVVRNDVUdmZ3MkhJMi1mV0tGQjZyTDktazVFYXBxV0J1NVdUMGJJVUVNcENMZ3RucTNlRzNpenZKam40TEdxN08xTjVvdTJxNElTNUJDYUpFOVg4dW9oV2s3cjk3WQ?oc=5",
+      "source": "WSJ",
+      "published_at": "2026-09-23T23:24:00+00:00"
+    },
+    {
+      "id": "hl-3e6b1a111f2b5b6d",
+      "date": "2026-09-23",
+      "title": "Startups Modal, Baseten in Funding Talks to Help Businesses Run AI",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcE1haUR1NEpCaERxNzRhSFkxVTJ3TmQyODg3M3lTX2NWZm9XUGx6V19BZTM2amU0LVJIT1VyV09yaVp0ZFgwU0FNbUlUWS11LWVwUmV6WFFHUDBOOS00N191Z1ZaU2E4Nm81N2Q3MEp4LThwV0RLSm9NeHVkWTBSRGpzS1lpMFE1U1NGV1lkZm9yc3RUUmx6R29hc3Z0b0dZREZmUmh5dFBqY0JGNGkydWVocnpmMUE?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-09-23T22:28:24+00:00"
+    },
+    {
+      "id": "hl-af10a439a761e2f9",
+      "date": "2026-09-23",
+      "title": "YouTube Says New AI Tools Will Help Creators, Not Replace Them",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNX2ZwUmRsZ2pUNlBRNXRiT0hSREtjcFZ0VVQ0dG9iX29iaDZyMW1YRlNMSm9Kd2txS0h0am9JR0NtTGFicHQ4cC05aVpGcE9ySzk2MDJ5M3BScmI0Yi1rcmxaWExQMU9QMEJUa2h1MnhORGlZaHFLMm1CM0xWWTVsNWZZSkpVdE5EOTN1LUx0N19jQnZ0Y3lwS0twNFJmMTMxVGhrTFZLN3liRHZoY3R0SHpR?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-09-23T21:54:54+00:00"
+    },
+    {
+      "id": "hl-2961e9ab45022b6c",
+      "date": "2026-09-23",
+      "title": "Gemini Joins the AI-Hacking Club",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRG5QTTViQVJpaVV0UzdhSXJzQ3RUMUtta25PYTA3RXlMb0lGQUVTejF4ZzFsUHFOeTZzOWRpbk1rLV91SjVzSG5YMktjbzM4Qkw0NEdzeV8tSm9jZUI2Z3drUUZlQU1Ra2dIaGlGb2lRQk1nNnZLeUhQY01NVWUtRnFHQklMZw?oc=5",
+      "source": "WSJ",
+      "published_at": "2026-09-23T21:46:20+00:00"
+    },
+    {
+      "id": "hl-491b69f808e1ca6e",
+      "date": "2026-09-23",
+      "title": "CoreWeave-Tied Data Center Raises $1.1 Billion in Junk Bonds",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTGhRTF9zbVJKS01hcmdKZGdkQ2U2dWpuU0ZkYy1Remw4UzZtWFpWQkJUUWFiOUllVUp4ZC1OZXVKYXFfekVqYTBaRE56WThaZk1lZlZqNVhQbUdHVU9jcjBYWEJhbVBJWkpoeldZWHlEWmNKVTFLbzNickZiNUhqeW90d0RnQmVBT0xjdnQyU3lkcUdpdkx3OUpHX0lzZjg2MnFOM3JZZnVJQnZHQ2Mw?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-09-23T21:41:49+00:00"
+    },
+    {
+      "id": "hl-bf84f2a47de7b3a3",
+      "date": "2026-09-23",
+      "title": "国連安保理がAI会合、アルトマン氏「枠組み必要」 中国企業は不在 - nikkei.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xQTNEd2ljM2lIRGZvQzZScmxzaUZib1VEcnJydXRZN0hUZmJ0c1RMeFhoS2Z6WjlqeTEyWXhfZkJQNkpESUlyTnFQVDVHQzk5bFc2cXEtWlhrcjFFN0lWV1hRVDRzek9yc0ttOQ?oc=5",
+      "source": "日経",
+      "published_at": "2026-09-23T21:08:45+00:00"
+    },
+    {
+      "id": "hl-0c2d088d0a007413",
+      "date": "2026-09-23",
+      "title": "AI firms should not get regulatory waivers, Nvidia CEO says on podcast",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYkRfdGVvZzNROGxZeEd5dFQ5RV94YktETmZzRmNkekFLdkluYkVFNTVXSEI5RGtzOXNDa2FTWGN1RE5ZTEIta18tSWNWSUFCT0JNeXMyREZuNFFidlpPOEoyYjhMUUZlMC1odGpNcEdnR2tCdmZBRldqSnljTjNPLUVQOFBSWVkyS3Rsdzh2LWNvWGVoSkpTbUp6YUlLWFVRU1RkQ1hDMGtwUGVjN2ctUm9xWW9iNHNVSjE0?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-09-23T21:06:13+00:00"
+    },
+    {
+      "id": "hl-734d2f979eb115d6",
+      "date": "2026-09-23",
+      "title": "〈半導体分野でも存在感〉ヤマ発はAI特需を起爆剤にどこまで成長するか？ ロボティクス事業｢第3の柱｣への期待と課題",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00eWc4dTZYdEZCc3Y4cEJnY0IzOGVHY1JIeS1HSE9FSlk5dXdZZ0xrcUNiUDVkdnlUYXFfUGJYT0ktNTBnYUw5NDhJTnFLRW8ybXpVNHhuNnVrOG8?oc=5",
+      "source": "東洋経済",
+      "published_at": "2026-09-23T21:00:00+00:00"
+    },
+    {
+      "id": "hl-26ad0cefe86be88a",
+      "date": "2026-09-23",
+      "title": "AIデータセンター需要旺盛､｢金｣で稼ぐ貴金属リサイクル株 - 四季報オンライン",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ybzFNd2FGd25nRnEzbmROOG15MEduWGU2Q3MzbWVwVU5mVng2MnFyek1idmo4elR3RTFXb1VudWE0RWN5ZG9XbHUxOUdJMzA1SnRHQVNpSQ?oc=5",
+      "source": "東洋経済",
+      "published_at": "2026-09-23T21:00:00+00:00"
+    },
+    {
+      "id": "hl-3a97e7b634cf5b84",
+      "date": "2026-09-23",
+      "title": "Australia says OpenAI agent hacked government website, checks for more breaches",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOLWZud0ZEMW9uYlUwVlpoRlBIbW82Tjc4Rjl3WW5jcWxVR25wSmZCTXlOdHkwR2VrQzdzZkUwX3lNMXBGUkZMZU1sYS13dzRRb1RMRzFOVjc5RmJIbXFfNy1ob1VZY1ItYS0tQW9XVHNLc3p3UEJwNy1QRWVSYVFjQnh0ellEX2JSZkpSdXlMYVI4UkV2VE05enVnZFJuV3BaS1pVczF5VE9vaTdZOGZyU2tjTk9oVVE5RVBjTnVWNGNUZzVEZDM0?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-09-23T20:44:00+00:00"
+    },
+    {
+      "id": "hl-4830c9f82d377318",
+      "date": "2026-09-23",
+      "title": "NEWSLETTER: Funding frenzy, chip wars, and robot dreams: Inside China‘s AI boom",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQ1hSZVA3UXRLNWE3RU8wUWRTN3Z5SGRTQWkzRGRScVVHdDhfWFliZXdLSXlDdzdoX3NhN3BjdzNEUTJ2NmJRMVYyN2RteUdidHd0ejNtS1hZSlFPUWw5Si1GblRRQktKM055MDQ3V2kzWlVuREpNSmJZelozbFZuVGU2MW1STXdqN09mUEJRa3hHUkNXbEdRUEhBV0gzVHg4RjRmQ0VRcExrNURXZnExcURyWmVheEQwSTVDTEhCODJGZUNWV09OSUFn?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-09-23T20:11:03+00:00"
+    },
+    {
+      "id": "hl-6cb95c6ba414f008",
+      "date": "2026-09-23",
+      "title": "Altman, Amodei Call for Global Cooperation on AI to Boost Safety",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSHZFN0h0Wkx1a2ZTSWRfX2g2LS03TG82QWo2YzRDU3lqOTliM3FlTlphdlFMLVU1WkFIM0lkYmE5XzFLRjFENFJPS2NPd3d1WjVJMnhRLVJWckRPQV94SExCNEJ6TGRtTmpjQmszclM4OUYtVkYxcF83aG5LaWRaSDZOdFBhbVZqdEN0V0FlaTNvQkR4SnJnWkFiTnNlV1Z5NW01M0t6X1JXb3QzczZmbWVnbkY?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-09-23T20:09:50+00:00"
+    },
+    {
+      "id": "hl-c03c9795c6276403",
+      "date": "2026-09-23",
+      "title": "AIが変える電力地図／AIは24時間働く経営チーム／中国製AI「Kimi」の衝撃（2026年9月24日版） - 日経ビジネス電子版",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4wbE5rMzhYYkY5VHpWTVA3Nmp3dnoxN25wOUtremhhbDZwbzd6aC1aRXdJMTN3UWNmZGRmU3ZvZkMtLS1UVHlkY1dIbWp2WV8ySFc4TW1ELUt0R3NjSmhGQWwwbExyRnJ2ZEE?oc=5",
+      "source": "日経",
+      "published_at": "2026-09-23T20:06:04+00:00"
+    },
+    {
+      "id": "hl-dcd4ae961cafb1a2",
+      "date": "2026-09-23",
+      "title": "決算:中国半導体の1〜6月純利益7.2倍 AI活況、製造装置などに波及 - nikkei.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLdFQtTVNGazdXWFo3bGduNC05dWdHRjVVbW9tZFkxVF9xamZoTzMtWXdLQ0F1ZTBTSUwxVmdXVXhTZnViTG9rOHk1YVFVVk1FMkM5b2c2RWZZbGlsTVFCWU8zcEpmVlZHQ25xQQ?oc=5",
+      "source": "日経",
+      "published_at": "2026-09-23T20:00:00+00:00"
+    },
+    {
+      "id": "hl-bc2c5c0e28e9585a",
+      "date": "2026-09-23",
+      "title": "ai&ベネットCEO「海外モデルも国内稼働でソブリンAI」 - nikkei.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xck9SVVNCVk9teWVnMW5ySGtEQmhTTTh6cFdHZVE4S3c0OEFkZzZLQmZRbmFRYl9FdVBLNFB0NzF6cHBoeTBMZUNqZ1FoYUo1VmxibTdaNEhpTnAtOF9nbWczcGhhcmZpTWJlUA?oc=5",
+      "source": "日経",
+      "published_at": "2026-09-23T20:00:00+00:00"
+    },
+    {
+      "id": "hl-b5ca44d12d9951b0",
+      "date": "2026-09-23",
+      "title": "光電融合、スケールアップ領域へ GPU間を光チップレットでつなぐ（2ページ目） - 日経クロステック",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYkVhOFRaMXh6enJYaDZWVWtCMGc0TFFjTlBCdXc2aGktb2xHT25yS2hocGFsR21fRU9qU3ZxY2w4QUdMblBIdDQ4N0xnakVwbml3TC1FbFFOdG1uM3M1VnFpcHdQMlh6WDMtemF1LVgyS0F0NC1QcmE5R1I3eHlwRzRLS2R3NHBVU0tYSFhRSnpqM3BSTG96YXRR?oc=5",
+      "source": "日経",
+      "published_at": "2026-09-23T20:00:00+00:00"
+    },
+    {
+      "id": "hl-b0686f35d384ca58",
+      "date": "2026-09-23",
+      "title": "編集者の視点「AI半導体新興、ステルス抜けて210億ドル」 - nikkei.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPM1hlcDlpbDZ6X1VMdkZvTUJLZDBMc2VGYUtJSm04NXJZVHJuZmowY1lsWDdpZVZsRDBTcTRNVFNlSG5qcVJfc2Joc29JdkJ3MUpEZFRvOG05Q0ZfYTVwT2gxUjdNRHlKY0RwLVluaHJTdHl6OEU2WW1SV2JLMUdDY2ptdHluSkE?oc=5",
+      "source": "日経",
+      "published_at": "2026-09-23T20:00:00+00:00"
+    },
+    {
+      "id": "hl-9661f5c23e4c7a02",
+      "date": "2026-09-23",
+      "title": "NVIDIA、HBMの省電力化技術 クラウド大手のAI半導体囲い込み - 日経クロステック",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMWNNb3otZEpITjFNNjltS3E0R3AxdzNHUkx0blpCczQyaERtNDNYM2VKNE9veUhJVENhaDd5Mkc4OXlNeXVhR2ROZ29Mbm9ORjdYcXhwOGRLemEzQ0luV0Y2WHZrczJFLWJabHF5UkhGWnNoTnRLMWRjRUhlVHJMbmFKLWlTMUE?oc=5",
+      "source": "日経",
+      "published_at": "2026-09-23T20:00:00+00:00"
+    },
+    {
+      "id": "hl-95b87d899ef1ed3e",
+      "date": "2026-09-23",
+      "title": "AI安保は「身体」の攻防 米国で中国狙ったロボット規制 - nikkei.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObmlUMjFibnJFQmh4WlV0RVVoRUJxcWRzc0VSYXlDd2ltOHdfbmhXejk4VGtpRTZ3dDd2T1VkZGl6TnNiT2N0MzU5UzlJeGVFanh6RzFuekxuSF9hd0FmdHREdUJVTGVJeXJpcDRwZXJTY2xKNGIwRGlPc2VPOXhmNHUybWMtd1JGYjhQMw?oc=5",
+      "source": "日経",
+      "published_at": "2026-09-23T20:00:00+00:00"
+    },
+    {
+      "id": "hl-88110b8cc6966efb",
+      "date": "2026-09-23",
+      "title": "船舶データを営業や経営に生かす商船三井、AIに「反証」できる人材育成 - 日経クロステック",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wZGp6QjZaTjhFQzBaQVJHUl9fUUttTExQWmtJVEowaWJOUU5uUU4zNlZZcWxMbTlIbDRibHRWV0lHUzlreVduNDVaSXV0RlFlWGltaHp5UUlQOEJGc3p4T1ljVWRRS3hiYmgxaQ?oc=5",
+      "source": "日経",
+      "published_at": "2026-09-23T20:00:00+00:00"
+    },
+    {
+      "id": "hl-4643b3879e2c223d",
+      "date": "2026-09-23",
+      "title": "光電融合、スケールアップ領域へ GPU間を光チップレットでつなぐ - 日経クロステック",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9IRGR0eWRHWG9ZMm0zald0ZWpjT3ZyaDgzOEFjOERiS2NRc1FtME9WMUZOVUxid2pIRWxKbVJpR0hpS1ZKVWE0dnFMd3I4S0RSRWxHZDVZMGlqb0k5SnpsamlBR0JpTVpnRk5jRA?oc=5",
+      "source": "日経",
+      "published_at": "2026-09-23T20:00:00+00:00"
+    },
+    {
+      "id": "hl-3b7f3287ef72c0b2",
+      "date": "2026-09-23",
+      "title": "「雇用なき成長」インド、データセンター誘致に期待 - nikkei.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15aEFmRWdzUzJKdlhiZHhxZjgxbEIyeDB5RTFHS1NJc2tROHNETG1nMjI2SDlxdVhjMDhyWkUwM0ItdGllcm0xTVEtV1NuRnB3VmJ4RjVKMDQxaEkweThYMEN2eGNBSmNmeFNfNQ?oc=5",
+      "source": "日経",
+      "published_at": "2026-09-23T20:00:00+00:00"
+    },
+    {
+      "id": "hl-32b5544c94aee1e7",
+      "date": "2026-09-23",
+      "title": "［新連載］AIが変える電力、原発「選ばれる」時代に突入 関電がPPA開始へ - 日経ビジネス電子版",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15U0pUYlB1dDdSMmQ0OFQtanhTTXRkTGlfcl9qOWVxRFNvRHhWS0h3bjVjSk85cXhTbzBYcW5RdEIyU3VyS0p6elV6Vl9vRjRqOW8zTHVJaFVhTEJrTVlnRkJTWjZRUlk?oc=5",
+      "source": "日経",
+      "published_at": "2026-09-23T20:00:00+00:00"
+    },
+    {
+      "id": "hl-0a3f00fd1c10ed87",
+      "date": "2026-09-23",
+      "title": "マネフォ辻社長「AIにダメ出しさせ自分の弱点を知る」 24時間働く経営チームに - 日経ビジネス電子版",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE13bXhOeE5TbE4zcDhSQTJHRmZCYzNLSjhFVW9BS202MnpRa0JYU3Z1N0R5WDF2UUxhc3lISWtiZFBCTGV1MXFNY0dna3FyN1FmVTVUcThQT1ZLTXlKOVlELVlickVHZlE?oc=5",
+      "source": "日経",
+      "published_at": "2026-09-23T20:00:00+00:00"
+    },
+    {
+      "id": "hl-0850ba42b6e32161",
+      "date": "2026-09-23",
+      "title": "OpenAI and Anthropic CEOs push for AI cooperation at UN after Trump rebuffs 'globalist scheme' to control it",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBnYmxuWFJ2T3UxeFlEbFlOY3VvVjFzaHQ2U2Z2MHlPZ0Q5c01zQ19aQmlGNE1hcnBUQWk3WTlXSmk4cUI0ZFp3TTVndkNDa3Q1RFFWdjdjV1lZWDJVZkpmaldLdEowRXpkSEZid2piVUXSAXZBVV95cUxNMHZEbDdqaUUwYy1xbTYxQ1dSWTJBZGhRRS1BOThUWTVKQnpBSnl3aTktbkN3Vmx2WGR1clRVZExIdDF0TU5meWo2T0wzek1HZTNQZnQ1SjNhTm9PZTJOTkMxUkxiWVdjRnZ5R21ZR3dLTmZyeGRR?oc=5",
+      "source": "CNBC",
+      "published_at": "2026-09-23T19:53:12+00:00"
+    },
+    {
+      "id": "hl-5e17595d1b16d272",
+      "date": "2026-09-23",
+      "title": "Opinion | The Politics of AI Regulation",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA4ZktDUTByQ2JIT2dKaXRSdlVGOFZFbDkyVy14cmhtczBJS1hnS2s4dTQ5eVowZVdUWmNNcGpPZ3Q3dUdnZzd2clNWQU9aZEllWFppaUw2VWdmUlNJUDNNSVN1VHlnQ19mZEw1V1NscWV6UWxs?oc=5",
+      "source": "WSJ",
+      "published_at": "2026-09-23T18:32:07+00:00"
+    },
+    {
+      "id": "hl-c93150e60485f758",
+      "date": "2026-09-23",
+      "title": "Meta's Muse rekindles fears over winners and losers as personal AI agent emerges",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNlVtTVRPc0JSamlpVlpnNHFRZ1FQWDE0OFpRN2JoTzhQZ2lXaDVJV2FkMjBGa0psQ2ZUWVpzbXIxbFVDS3M0eHVWWGI4aGxxZVotZGJXTHRocVhXZU9fbl9rX2xvbGFkSGIxazlPOXlVRlNISEVLTEFZNXlpRVI5V1JRS3k5N3JTLXZ3UEFnMXA5cktvaDEwa3V6dUhvTkZRTnotSnhKV2xRbDJjRTF4NW5Bd0VWcXVIZHJWbDgtLTM2M3c?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-09-23T17:13:00+00:00"
+    },
+    {
+      "id": "hl-efcc4fae688e183c",
+      "date": "2026-09-23",
+      "title": "OECD expects AI boom to help offset Middle East energy shock for now",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUjhCamFjUEdaSHhrSGlUR3hEaHhoczQtY0d1Q19lNWhsTUdtX0Rxb2FkbjdUSDlmOVlZZ19rdjZ2NDFrT3YyYmt6WG1WdEYtUVBjaWxuVTR1Sk1KYjJxVEppbjZtQ0hfVVpLM1UtV3pqTHJMWkR5ekNLMUczR18tekM4NXJrdHFYOXBCUTdOdjlLVTdjVDZkSThPSm84UXVDMWFLVWZ1OU1oRWRhUGc?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-09-23T17:09:57+00:00"
+    },
+    {
+      "id": "hl-35bf8b9b64270751",
+      "date": "2026-09-23",
+      "title": "オードリー・タン氏が警告 AIが考え人が従う「逆ケンタウロス」の罠 - nikkei.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBGcmNTNTlkOHRwYkN0ZGNIdjQ4d0xRdXowd2wzQzlDTUpCc25YWHYtTkJpRjNackgzX1ltcVFxMF81ZGg5UlRrS0taQTRxVkRtYmFBZDJ4LTZ5bFU2MHV1MVlrTkVRYWdUamdOTA?oc=5",
+      "source": "日経",
+      "published_at": "2026-09-23T17:00:00+00:00"
+    },
+    {
+      "id": "hl-0174f7fe0e1946b0",
+      "date": "2026-09-23",
+      "title": "Alibaba claims new Qwen Image 2.1 AI model beats Google Nano Banana 2.0 with minuscule 7B parameter model",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/alibaba-claims-new-qwen-image-2-1-ai-model-beats-google-nano-banana-2-0-with-minuscule-7b-parameter-model-benchmarks-show-open-weight-contender-is-competitive-with-openai-and-meta-image-models",
+      "source": "Tom's Hardware",
+      "published_at": "2026-09-23T15:34:36+00:00"
+    },
+    {
+      "id": "hl-5a61807dc8116b19",
+      "date": "2026-09-23",
+      "title": "World Bank’s Banga Says Data Centers Aren’t for Emerging Markets",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeWx5S1AxQV9aUmZJdjNjNXRpVVZ0V1d6NkdodmcyMVAyWVl0VUZ2MzFoQndaNEo5VHlTX3JqV0p4azRrdzlfVDVoQ2RPdEt6TEVLYW80ZnZvRTJKeGFCbXRlNVZxOEFtRlZfZHhHekFaSjNNZGZyblN0N3VVSEF3UlZ3a3Rjb0xsLUpWZm5YcWliX2xPZzhwZWlGbEFLU0Q0Znd5YllVTlgySWJ3VVlBV083R2VfQQ?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-09-23T15:07:48+00:00"
+    },
+    {
+      "id": "hl-8e58bfa2e7b92e26",
+      "date": "2026-09-23",
+      "title": "Verizon to invest $70 million in AI training effort",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbTBjNFp0WEJlQTNmMVR2eEJWd2RhMVpJak1ybXNLWVlWTVhZU19VQVJpb3lMaWFET2N6djc3U2cxdDdacFprVDhrWHJ6T0pNb1RJOUdxc0cwUHhqdHA4RGE5dHpTaGRyVVBwbTh6RkpzLXZuajlfX094OUdZQ21JZTBJUUZQUHFqQUVvU0ZRQTI5UWUtLVcySzFLMHJoNlUzVzB3YWZn?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-09-23T14:26:36+00:00"
     },
     {
       "id": "hl-9d420998e77ab9e5",
@@ -38,566 +598,6 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNno1MXBaZ3JtY05ZWHpfU2RsV0JuU3Zlb3hlN2RiaExrSHdEbE5wNGZjZUhINUNJQkdBR0pTM0xQUFhHZjdMdmEwSGtOcDRVcjJ1dFJNU1ZqMWlzbFpDZFhUVTlGaDFpTENaRjhKSDk0YWFiX05VOUZNbVVqRGhSemt6MHpabV8xbHNHSkZwbGRWVy1XdFdGZlVUVS1iMEJCNUNkd2stYUU2TnZ6Ny1LSXZB?oc=5",
       "source": "Reuters",
       "published_at": "2026-09-23T13:03:43+00:00"
-    },
-    {
-      "id": "hl-c92079da0ecb34a5",
-      "date": "2026-09-23",
-      "title": "画像 | AIブームの陰で｢ふるさとの雑木林｣がデータセンター集積地に…埼玉･川越の開発計画に専門家が抱いた疑念",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBKMUdMU1o5cDM2aTVQaWx3cDFZZ3cyUHQ2T09RYlE5S2xUeHdxOW9zSVc1dHE4Q3dDRkFCdDg5dTNuNmtjMFJnVHNSRUVULXhRVWlZYmxlbw?oc=5",
-      "source": "東洋経済",
-      "published_at": "2026-09-23T13:01:00+00:00"
-    },
-    {
-      "id": "hl-29b377504c386ba1",
-      "date": "2026-09-23",
-      "title": "AI覇権争いは米中とも｢開発にブレーキをかける余裕なし｣…米中首脳の利害は一致",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jaHNQVjdibjR3ZGtoRmN0d0NzU0Y3ZTZINlllcnFoU1RERWoxQ055bmhFYWJIR3E1bWFfUWpwZzBZRFRXVXhORTRrblVXOWE3S1g3VTRQWHIwM0Y1QkVR?oc=5",
-      "source": "東洋経済",
-      "published_at": "2026-09-23T13:01:00+00:00"
-    },
-    {
-      "id": "hl-7eedb0fe61320253",
-      "date": "2026-09-23",
-      "title": "Why AI is Leaving Many Employees More Overworked and Less Productive",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdHhrRjZOeERZMUJBZE1DUWo5WU5xQXZPRWl6QVlKbVdRc1NIZEhxdEo3dDg2bWVRcXdzQzNHZlBndVlOQ2RuZm5icm9TMC1rQUVmNkJ2ZWQ4MzJscDBOZWROMXhPZlhNWmZya2hPZ19WLWNUMFVXUWZ4Ml9Jb0dvLTdYd00wU3pJWmdzTWhad3NobFZad3RmMFEwZFB4TXp5dllzYXFlbE1nMFdablE?oc=5",
-      "source": "WSJ",
-      "published_at": "2026-09-23T12:28:00+00:00"
-    },
-    {
-      "id": "hl-64a9c73073385da8",
-      "date": "2026-09-23",
-      "title": "Alibaba unveils Zhenwu V900 AI accelerator, claims it's 'the most powerful AI chip in China'",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/alibaba-unveils-zhenwu-v900-ai-accelerator-claims-its-the-most-powerful-ai-chip-in-china-accelerator-supports-500-000-chip-supercluster-with-a-10t-parameter-qwen-model-on-the-roadmap",
-      "source": "Tom's Hardware",
-      "published_at": "2026-09-23T12:00:00+00:00"
-    },
-    {
-      "id": "hl-282075cca509cfad",
-      "date": "2026-09-23",
-      "title": "Meta's Muse reignites AI disruption fears. Traders are targeting this brokerage stock as next casualty",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBtRTVFTXJpb0lqMXZCM2ZJc08tVUFWQjd1dTdKOUhhVjFFV1REOXQ3SjlrNURZWnJfeVRRQTZ4S0d5anRKSk9QYWU2NjN6bzhfRHlrRTR4eEpiQnVuOHdudkdCMndLNkJhR3dna2tIQTdkVlpKYUNaMm42a3fSAYIBQVVfeXFMT0x1cHFQZ01KbDdkY1ozMTduSVk1TGhtRVZPS3RXMHR1YXMyNTNFbld1elJrVy1WdjlhMlZTamZKbzM2UXpFWVN4a2JMbEpjc01HNGR2aW9jZUc4RHo5ZjJZQ2V6clp3QTRyNnhLa0NxSEVUS0ZTTzZqQXU5U0xhOG45Zw?oc=5",
-      "source": "CNBC",
-      "published_at": "2026-09-23T11:51:23+00:00"
-    },
-    {
-      "id": "hl-a11c7f8cff715635",
-      "date": "2026-09-23",
-      "title": "AI leaders to brief UN amid warnings the technology could slip beyond human control",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOazV6Q242LXE0TVZZRV9wcXl4UmJlMHp2ZHMtX0h4RGlPeGlUbkhGQklJTDhuN0FKaFdzUUs3cS0zN1ZsTVR1Mk51M190NFFuVjdZekJVSjlXMXpuaDAwVGVaSl9LbnpKMWlmMG1YaUVOQ3lqTXl4ck5nZm94RlMxaFA2N091TUxyNWJCSkpLOER1TDAtRF94TWZ6NVNIM01lcWxvOUJaWTVHYUZ3WlJjSm16WWtUSldqcHdWOFNR?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-23T11:18:01+00:00"
-    },
-    {
-      "id": "hl-57d0aa393d67035f",
-      "date": "2026-09-23",
-      "title": "China launches 'Supercomputing-1' AI satellite as orbital data centers gather momentum",
-      "url": "https://www.tomshardware.com/tech-industry/space/china-puts-ai-compute-into-orbit-with-supercomputing-1-satellite-onboard-processing-aims-to-cut-earth-observation-data-processing-from-hours-to-minutes",
-      "source": "Tom's Hardware",
-      "published_at": "2026-09-23T10:30:00+00:00"
-    },
-    {
-      "id": "hl-73c3ac23fc082df1",
-      "date": "2026-09-23",
-      "title": "Texas turning blue may hinge on Democrats harnessing data center opposition",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1RdVJ6cDNydXp5SzZoX25mWGxydVBnZjJRd3NRenFHVHEtQkJlOS1rWC0zci1IdldQb0dwYnhPd0ljelI3MnhDdzdvZ0k0b0pOd1JoVGtTVG1ZUjJaNm13V3k2ZEgzakJ6ekRSUTdZZXZ3d9IBd0FVX3lxTE1vRmptdVUtTF9zSTZ0R29zR21EY2EyaXAxWXMxQnhuVEVNU1ZLZ3d5Nk5SM2s2em5uUDlseUlxSGtKcHpmX084aWJuVHNMaE1VSk1SMGdiS1locXBYUF9pQ3ZGdTIzUE1qWGdUc2RJS21WSTNzQ0FN?oc=5",
-      "source": "CNBC",
-      "published_at": "2026-09-23T10:00:01+00:00"
-    },
-    {
-      "id": "hl-0a3accdbfa1792c0",
-      "date": "2026-09-23",
-      "title": "AI Data Centers Release Heat, Posing New Problem for Cities",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSjByUUJ5TUpxbWRxQUdDR0kwYkxNRXU3UlZlQkh1WmlwX1FuZ1ZpTF95SzN1MkZGQ3ZJTXdMQ2JTbG52cmprVnhWZzN2TUJRbUxzY3FVcFVONjI1Tm5LU2EwU1k2QnJUT1pzR0dpZVY2RU1GMWE3RmZORTdUYmxDUjFpVQ?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-09-23T10:00:00+00:00"
-    },
-    {
-      "id": "hl-354a150cf66859fb",
-      "date": "2026-09-23",
-      "title": "受注は14カ月連続増！AI･半導体で沸く工作機械関連5銘柄 - 四季報オンライン",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5iVGhGN0RiaDNaR3RqZ0hyY0xPM2xJQnVRam0zSHFPajA2alRYN0VETTVHYV93XzFPcDRhV19SUEpPMlk4RHpkZ0hGUGZBXzQtLTFQNE9nVQ?oc=5",
-      "source": "東洋経済",
-      "published_at": "2026-09-23T09:30:00+00:00"
-    },
-    {
-      "id": "hl-65acc6e36858b5fe",
-      "date": "2026-09-23",
-      "title": "SoftBank Starts Jumbo High-Yield Bond Sale to Finance AI Push",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZUx2ZTFXUVJxeElDQ00tOGZFM2k4eEFadmVublNfdjZQN0xSOTY3cHBjMGtSdzNPbkFQbUExTm9yZjhWMkhmMXVnbHFPclNrRnJiY3RjQ1BleUFXdEwtZkFoRDd3SzNQT0JxR3Rxdk5Zb2RlOXRpczRHTnd5ZXdWal91YnhhbkE1QlZqUml2SmJyaWNLZVRXWk9yRVJpWXNCTk1xak91NWFfRGRpUDFrZlJB?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-09-23T09:26:19+00:00"
-    },
-    {
-      "id": "hl-1d8ced9d8a397159",
-      "date": "2026-09-23",
-      "title": "AI Rally, Weaker Yen Set the Stage for Japan’s Market Return",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbW5heHhsVnBYQ2tkX1NqTEZiQzFsOFdOR2c2eE92M1RmYTg3Z3I0SXBkZldRRDZNOEd2Nk9wbmExOEI0S2hfNUY3WWM0eHZja3RFelA3X2ZtcHNScUxDREtpR0t4RXB6aW5QM1JDM2Vra0ZPRUNORllZYXlXbmo0S1BCUWdwM2hSdU5hQUo2Wjl2cjM0M1RkOTV6dkVJNzBmaF8wQnAwUkpnRmVLRDZB?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-09-23T09:17:39+00:00"
-    },
-    {
-      "id": "hl-c072eb0cffebeaf0",
-      "date": "2026-09-23",
-      "title": "How a Chinese Hacking Firm Tapped AI to Supercharge Cyber-Spying",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZkxVbXltalNhVExtUjZEdGJDNnkxZUwwc1Z3c3J4bE5lWnFRNGVPZXBQZHJnNDVLUk5JYk5rcTdvOWRCbHdQU1JEdHFiQTJJSXhDajVDa3lxLURKSmtyTW9FQXVFNWwwZDFFUnFjZzZLdW5wcVRYd0dyMmpRM2YtejhhenVLaHFLTmpKa1FHMUVjREEzXzRMc2JGWEhwcnc?oc=5",
-      "source": "WSJ",
-      "published_at": "2026-09-23T08:58:21+00:00"
-    },
-    {
-      "id": "hl-efcc4fae688e183c",
-      "date": "2026-09-23",
-      "title": "OECD expects AI boom to help offset Middle East energy shock for now",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUjhCamFjUEdaSHhrSGlUR3hEaHhoczQtY0d1Q19lNWhsTUdtX0Rxb2FkbjdUSDlmOVlZZ19rdjZ2NDFrT3YyYmt6WG1WdEYtUVBjaWxuVTR1Sk1KYjJxVEppbjZtQ0hfVVpLM1UtV3pqTHJMWkR5ekNLMUczR18tekM4NXJrdHFYOXBCUTdOdjlLVTdjVDZkSThPSm84UXVDMWFLVWZ1OU1oRWRhUGc?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-23T08:05:32+00:00"
-    },
-    {
-      "id": "hl-66c3c2ec9550f85b",
-      "date": "2026-09-23",
-      "title": "Nvidia-Backed AI Startup Seeks $10 Billion Before Australian IPO",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNkc5bzJlcU13bkV3ZlpvR09FM1F6MWNkNWh1Vk5lb0l2NlJPQ3Q1OXRjWXk0MzdjcmlzcEFzSUhqSmlKUl9QTF9qczNqRDRzTks0Smp0NkRIUDJqUmlFVW9tLVA2MHJVX284dEF2TjZpVWZYc2c2WElXUmJVamJhdTFrUGR1N0JPemFjZ2thZHF3WnVJemFydjZDVzM4ekNqVWtiU05LOEM4bDRUc0ZRNmtBcDI?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-09-23T07:46:12+00:00"
-    },
-    {
-      "id": "hl-f1c2be443e0aec97",
-      "date": "2026-09-23",
-      "title": "Trump-Xi summit puts AI safety talks on the table but neither side wants to slow down",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQczZ5TVhnb0JkM3VYZzhRR0MyOGNxNkY1c1JLZlNDR3pEQzJ6c0p4R1F4SVBiSkE2eDUxY3RkclhzUkpsREtpV2c4QTUyd1FlQzRmNU1rTVI4SEFoSGJ5N2ExNnpwM21lQUhLZEZzQVFnQVY5bDJDX09LaFd0NW1oa21KYTNjbVR5dTN0bzY2R3bSAZYBQVVfeXFMUEZQTV8zRk5POGkzLVdDMDFuMGpvN3dJWUhMVFNmWDRoU291VmFMOVg1QWFwbzFNazNLSnJyclItWDQxWDJwa09lSU1Xc2pGWUlKYVM1YVJkbWQwMmx0bThxRkxoUW5iWmo0MWpmYk1nTTJKQkQxTDBVTDVYNFh0YkR3c2JSSFp0bzlDa2x6WXROUmI3WWNB?oc=5",
-      "source": "CNBC",
-      "published_at": "2026-09-23T07:36:47+00:00"
-    },
-    {
-      "id": "hl-4fd5b7b536526f59",
-      "date": "2026-09-23",
-      "title": "Chinese AI Stocks Fall on Report of DeepSeek, Moonshot Probe",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWlNBRnBPUi0zNVlHUUNlTUU2dHk0c3ZDNG8wNUh6T0hFb1pfLW5BeXFYUWFHRGczeEFEeDRKbzZ5dHhHRFp5cjZPRU5jOEJpdFZLdFM3a0x3bVlLYUJsYWZSRDc1bkZDM09lQ2Q5Y3R5QU1yYmFhSHFhUkRORkttMEI0YmJ1RlpXN0VPc2g1Vy1NbDlSSkxna1d5MHF2MXowWFBSS1BPT0pqbjVYZFE?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-09-23T07:30:44+00:00"
-    },
-    {
-      "id": "hl-15e49a176d1bcf8f",
-      "date": "2026-09-23",
-      "title": "Xi and Trump Seek Safe AI Without Slowing the Race for Supremacy",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYjNsVU1heW5sVVpjSjIxSFJlbldscnI2ZFJWUHdEdXM4N1FYZkJWbEh3Q24tTWVkNXZpSkhPQXFfRGdxN0NtMFBpY3NiSy1SdTlOMVlmS2s2Smx0RUdGTGFVVlZJb0hsdFA3VjdFT2FYUHVPOWVzM09vT0NZc244cFEyTHR2Nm1Na1FUS2VSOV84azJWRHUxSFNxZElGX2d6ZkM3Mkk2ZmkwZ2FnQjh0eThsUjZHQQ?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-09-23T07:00:00+00:00"
-    },
-    {
-      "id": "hl-eee46665cdb29c7c",
-      "date": "2026-09-23",
-      "title": "AI Cycle Set to Offset Energy Hit for Asia Economies",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdENRTkhjMkZfOXdrdjgtTlFjQXk4YVFheWVZeFU5djNYVU0xYUZabHhoZHhQeWxBWk43X0pmOUlWV2VLdFI4RGZ0cnlWQjJCa2tOSVFRcldKT0xHYmVyUDZXbGlYX3gtdHhfVDFDR1k0Yl9NV0E5a1JqRVZmdEJPRW1OdjFSMGFkY3JSaEd0Z1lqc1k?oc=5",
-      "source": "WSJ",
-      "published_at": "2026-09-23T06:27:00+00:00"
-    },
-    {
-      "id": "hl-db281c2cb37a868d",
-      "date": "2026-09-23",
-      "title": "U.S. Stocks Mixed as Inflation Trepidation Offsets AI Optimism",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNanFXeVpzR3g2Z2g3eFFiTFVTSVpidmtKaG1iaERGTElfb080cjFtazdldGoxc2tHcGZjVUt2SW5BMHlPZklwOXM0Zmdkam9DVnAtWUxIXzBLSE5BLTlyNlhFVDRoTExIY2pDZHRwRDZMRFFsbHhKdHVOMW5BWUM0WDBvd1RTRFg2QVRnTTdvNkd5YXRLcWhKUHZkNlRjbWlNQnh4SVREbFo?oc=5",
-      "source": "WSJ",
-      "published_at": "2026-09-23T05:32:00+00:00"
-    },
-    {
-      "id": "hl-965f76a11d26b82e",
-      "date": "2026-09-23",
-      "title": "China surveys Broadcom switch use in state data centers, FT reports",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQY3ZtVXNDVWtQdDE4MHk0cVkwbXY1ZU1BTUJpcTZ4RTFOZTU0RjJoQ3oyWUxsMGJGcmZLQ19yeXFqd3VhbWFKOHVfV3ZwbzJYcVpKQ3lkOEJhYUxkV2RTUlNxMGMzbjNpcFdQZUNOTlU3QUZwdENIcERqN2ctS2JlRkk1U1BtTm1RRXluOEQ2b1lNUGJvNXhWMmdkRUh2UFFNVUpvdjEyaGpkTXhLZGNKQg?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-23T05:09:00+00:00"
-    },
-    {
-      "id": "hl-4e054d762dc96be0",
-      "date": "2026-09-23",
-      "title": "AI is killing the grunt work, forcing companies to rethink entry-level hiring",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNM3NHcEl2bmIzaWlmYkk3UkR0U1cxYTNldmo1YUpMSzNpRWVXbmNqYnVvbHJVWXZlNWxURXNsSmViWERTUUE5QXVjcGI4VVB6R09GeW5VU2pnMm5OcFAxNm1JaVI4VUpfbTZkTzNiNUpPLVZiZDhpcFUzVmE1LVJBOUVrSnFWRjhjN3Z3ZtIBkgFBVV95cUxOUm1KWHkxMzVZWEhVTkxRdTB2U1RUX05uMGFWVWhjYmZJWjF1ckhCbnlLTVNzeGNZTzBLdExBd0c2QjRZSzhfRFp4ZDVObHpYVXJlM2FSdDhLT0tqMzM2N0pTbzNESnZSUWU3dzVmZVNrWFViUjF1NWdyS3NWcEltV1Zldy1fRjFIZVRlZFpZTFdWZw?oc=5",
-      "source": "CNBC",
-      "published_at": "2026-09-23T05:00:01+00:00"
-    },
-    {
-      "id": "hl-6346ebc779e3452a",
-      "date": "2026-09-23",
-      "title": "その鳴き声、甘え？それとも不安？犬・猫の気分をAIで予想する「PettiChat」Makuake先行販売 企業リリース",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8xSzluODBHWWFfeE53a2lIQU84d09nU0cxR29qd242SXF4cVNsc3FhWnJmU29LZnQ0dGd4RnYxdWN2ZzJTWG1hTGRYQkNjamRnOHFjUHRBRy0?oc=5",
-      "source": "日刊工業",
-      "published_at": "2026-09-23T03:08:53+00:00"
-    },
-    {
-      "id": "hl-8bfbba481c965d7a",
-      "date": "2026-09-23",
-      "title": "Alibaba to Add Data Centers in Europe, Middle East in AI Push",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMUZ4Q0M5UER6MW1vRVU3Ui1iOTB5VWNnT0stWjBvdXVzRDZ4X0hBNjh4bDlua1Z3V2dpYWR3NFMtNWs2eGhCMU9GdV9FUEdFandmZmczMFM5SHNmSEwwNHZ0TkFvWnk4M2duWlQzMHdzUkw4SUNFQ2xzTXpNQlM0ODJ6dC1iR3d2dlNzWTA4dXpVSnA5b1JzaVpNN1B2WjVpaDNzYzVFMkxId0tvdG5IUw?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-09-23T01:59:00+00:00"
-    },
-    {
-      "id": "hl-0f6a9a789002d223",
-      "date": "2026-09-23",
-      "title": "中国当局がKimiやDeepSeek調査 AnthropicのAIに機密情報転送疑い",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBMNGxOVTV4d2xabG1ZQzY3SFd6MWlvc1FaTFI1cHA0UVV1cG1za2ZSZGpsU0FLbUZ6SW5JdzMxSmNJMXFmcm9PRGFFNjZiWXpaMHpPVWo2MVIzRnJGZ2gtd3VxMU5GVFpzU0dOYg?oc=5",
-      "source": "日経",
-      "published_at": "2026-09-23T01:55:00+00:00"
-    },
-    {
-      "id": "hl-86778c478fa8c884",
-      "date": "2026-09-23",
-      "title": "UK ready to lead global push on AI standards, Burnham tells UN",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNHpCck9HeUt6OXBEQk55bHQ5X2JSOGRuSHVmakpVV1k1R0VTT3JmOTM2RmJyQXVIN255Yk5rdEpIYlp1ZjZaZ3NyX212aUsxLV90eDk0OXJ1cTVkY3FBTVBfQ2hsUlZ5NzBCUm12UGJRam03cHZ1RTU4SHoxYmVwa3hKUFdkSmMtbjVsTkZVeG1FZDEzQUlFX0JCTVB4SHJVNnc?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-23T00:03:00+00:00"
-    },
-    {
-      "id": "hl-5ffe49dfd3c4eab3",
-      "date": "2026-09-22",
-      "title": "Ex-Google safety chief warns AI could harm children more than social media did",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOS3M3dS1XSU9ra3NOc2lNdURNcl9ReGRaRWJXMy01NnJzWHNJNWdYU2FYd2psVjhUSEV2dTNOTjlJZlFJUllzMThDM3RUR1M2VGVBYWw5dVNoaE92SzE3WC12RC1JcWNWNjFkWVJQdGltd01tRl9yb1Z4dzRoMk1zWlRUUUJnczdBQWp0YVBCNThKejZOYUpDUS1YR1gwZlZsZXN5VEhNdFB2Y0JmVjE5RTg4Y1VYSE83RERoM3VxbzI0RE5ZYmtuMndURQ?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-22T22:45:59+00:00"
-    },
-    {
-      "id": "hl-7da1aadfec5b6b32",
-      "date": "2026-09-22",
-      "title": "Anthropic, OpenAI call for Australia to relax ban on training of AI models",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaFRueW1Majc4QVM4VzE5R3BRYk1vOVZlWHZFSTNMZUwwSi1aUXdBYjA2ZHJqVnFyam40ZS1QbUttUkpIWW5wT2MwVHVMMjJSV1A4WUZjTUtRVzEzcGlzR1Nxc1V2VnpxZ3ZFSUN0WGxEcTlkb3I0RGFlekt3bTVRa1V5ZXR1QzFCM2o4Ym1BMXJrZjVQM25XYUttSmRDZ3JYcVZiQ2wySWJqRDZ2bXlneVVxdw?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-22T22:35:14+00:00"
-    },
-    {
-      "id": "hl-961c6b8ee875958b",
-      "date": "2026-09-22",
-      "title": "Trump says US Justice Department could rein in AI companies if needed",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYkFwcnFpOFFycEx0SEwwNUxZazVuTTh6aUNKZ0pUUHlPU2toMkk2WXAyc3RkYTdKWlVsTEVoTmR5VGJaZlhaU21OdHp2aXRWZ0VGNGtJdERKVGUtWXBiMWdKRm9JY04zTnZ3YXp5akdBU2RsS0tHZG9ESTVmR0hOWUYyaWpjYVNCcFF3c3RBVk53NC1SanNTaXpxOHdMei1SNUJPWnhLLTkzU2VOaUE?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-22T22:32:04+00:00"
-    },
-    {
-      "id": "hl-44f73914c8095a24",
-      "date": "2026-09-22",
-      "title": "EXCLUSIVE: Snorkel AI valued at $3.5 billion amid surging demand for complex AI training data",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQnpTdVJoYlBubmcxZzZDSGlkaHAwemtyWEVFaWZ4TGtQVkFhNVZ2VlViVGRXQkFTYUhQVlREVmxxcGhTYmNxMW5YbFd2TUt4Y0NVTkgtWWZjcnhYNmJQREhYTkk4elNZX0Q3STRGNG51eV81NGNaZXV1ZnR1MTBmeXhoOUt2Y3lmNEgzMFd2a184Mk5NdVo4UUVFbGlzSGhvOEJuR1ZCZ09pMFVGZk9MYnZTUWRJaEFlQ2VtVzd2bDlsQUVHbHBtSA?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-22T21:58:09+00:00"
-    },
-    {
-      "id": "hl-700078e3dabe0f47",
-      "date": "2026-09-22",
-      "title": "US Treasury secretary could take on AI czar role, source says",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNUpGX2hDdFZBMW45ZFVIelJSUll4TnpWR3NYWExINUxaX2planJ6dU9JNkNCcmM1U216U0VNcDd2TjZfNlluVHUyd1NtZkk2MjZlRTZRRWtLUGJBckpEQk91cUl5QnpvQWc2SC11cTRZczZPa2xBMTBjeVRVMWhRLURoazZZR0E1ZHY4OGNzY0wwTFFCXzRUNFlnbFVmcFFxVjRNRw?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-22T21:55:00+00:00"
-    },
-    {
-      "id": "hl-9cc0112c8325e184",
-      "date": "2026-09-22",
-      "title": "EXCLUSIVE: Anthropic, OpenEvidence partner to bring medical AI worldwide",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOLVV5RE9jdGNuVXUycl9fTjJ1Ty1tVzZ2U1MxcWtaZDhXOG5qc29yTENvLVJtZ19PM09MQng5azRmbU5kNG40dUtBcVcxN0U1eGZNUkZwaXA0amt6R25qak9za19YTTNKVHFDVGg0VVVzN3V2VjFHdnBHN3BpUmtQR3BUdThUd3FqbXJIOHZLVE1kbVVRV005bDJmM3o3N2Z2Z3Bvd2NYZjhSLUdpYUhZ?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-22T21:31:00+00:00"
-    },
-    {
-      "id": "hl-b6146f691e8b27c3",
-      "date": "2026-09-22",
-      "title": "UN chief calls for AI curbs and end to wars in his last assembly address",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTkpSMVRsY0JxTUpDS2t2WDhJNm5pSjdkME96Z2poVEhWM3JnZVU5MDZoMTlFQi1xZ3NZVllGX1JUYWRla0wxdk1aeUFOdEk5VWRZTnhTUmZtZHZ1a1pYNkIwWmpzN1FmaVZOSm5DYWdfTlZQWEZYVEU4OXZXckZ5LVBKVnBWUjhBd0VEQVo0ZkpnT3RkVGc2QUtOcmJlNDdlaEhZZmlYWVRCYWs?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-22T21:16:50+00:00"
-    },
-    {
-      "id": "hl-28f496260e50e370",
-      "date": "2026-09-22",
-      "title": "AI｢ミューズ｣人気でメタ株高値圏 買い物代行、Amazonは警戒し遮断",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xNFRHLWNReU9PRG1XNGpyLWl5UjY2cnZvaUN5dmZra21wVVo5ZXlwdW5Za01nd2pyUXlsekpRWm9iZ2FacmRjWTZuSE8xZXRkTlFIUTNJS0JhTm1XSzZQaTV0MW9mNk1yME92MQ?oc=5",
-      "source": "日経",
-      "published_at": "2026-09-22T21:13:27+00:00"
-    },
-    {
-      "id": "hl-33c4921ed56cda41",
-      "date": "2026-09-22",
-      "title": "U.S. Stocks Mixed as AI Buzz Stokes Tech Gains",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTjVQU0liVTVHYlRkX0E4eDhIOVZMNVpDNkU5M0Y2UFdsbE1nWGJBaV92NVM4d3JqOVBwSE13R3pyWVNNcU01YkVTNXpseTNMaXhiajAtZVg1SUZUbEwtRW9vajdBYjV4UEhVd200bjJGM2x1RVRWNXBCQkhBUTh2dVVGdjZFdUZNQ2hHcGZjV0JMZTg?oc=5",
-      "source": "WSJ",
-      "published_at": "2026-09-22T21:06:00+00:00"
-    },
-    {
-      "id": "hl-99106286f6f59175",
-      "date": "2026-09-22",
-      "title": "Financial stocks fall with AI and flattening yield curve in focus",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPejZNajQteTk5RElWNTZRWHR4YV8tdF90N19DelgxWHI0X0RSTFgtRm9GVVQ2bWIzaWJ4SEFwdi1DUmZ6cXQ3dm5rYVRZdjJQaGRxMDRsZ0IyZ19mVDdHN0VlUXdObko1Y2R1Qkx1ekNDYXNnY05oN3lsUnVwYjRobXFXU2hrUEx6T3BES3Vad25fTDk5cHBjWjVFQTE4VWZCWHlkMS1TRkltc281QUVWRw?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-22T20:52:00+00:00"
-    },
-    {
-      "id": "hl-90ab4eb0e6fcdb04",
-      "date": "2026-09-22",
-      "title": "画像 | 【1兆ドル規模の市場へ】勢力図は？／NTTが世界シェア3位／秋田を含む地方分散も？／もうけの仕組みは？／住民と勃発する立地問題のナゼ／バブルなの？巨額の投資は回収できる？／データセンターの建設ラッシュ",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ENm1USTEtVzNDanh2SHdwdlpRQlllWE4xS1dtcDExOFJEQTFTTXJZaTZpcWhoTkRkenVQQmcwQWRWNjB3d00yMjdLSTF2X2xuZzVrd2M1aw?oc=5",
-      "source": "東洋経済",
-      "published_at": "2026-09-22T20:40:00+00:00"
-    },
-    {
-      "id": "hl-e616a3885d6a9044",
-      "date": "2026-09-22",
-      "title": "産業春秋／AI論争の行方",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE16OHFYUTJuRmtGb3A5LVZ6MkY5TnI3UlkyTmZqSnhHTHNtZTFpTUo1SHNuT2N2Znktekd2XzF3a2RLY0pGSmgtMEtIdnMxX2wwNjctM1lkQ24?oc=5",
-      "source": "日刊工業",
-      "published_at": "2026-09-22T20:00:00+00:00"
-    },
-    {
-      "id": "hl-a715694ac1815afb",
-      "date": "2026-09-22",
-      "title": "AIでサイバー防御高度化 ソフトバンクなど、サービス好調 申し込み2500件超",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9fd3hndjFoa3JTQUdlb0JYeWoxd2RoclJBSUdPSjdpRG5fRmRvX2RnRXl1MHM0b01LQ25hdHR3NVZ4T3RsOXlHa1g4eUJ3a0phVlBwSWNwNlk?oc=5",
-      "source": "日刊工業",
-      "published_at": "2026-09-22T20:00:00+00:00"
-    },
-    {
-      "id": "hl-5bc87d4c9bbe9eef",
-      "date": "2026-09-22",
-      "title": "企業のAI実装を知る10選 人材確保から料金管理まで",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMWt0S1dkMVBzTmFBZ3V4c09BalRjVTNvM0JzLXlibWM5M1JkZWhKNU5idllfT080YVowZ0w3c1ZzcGhlNEtGc0g0Wk55ZFcyNlkzZkZoeVdaZXFLNXBpdHBBREFMSzlxT3Q1OHNFYlFqNmloTjJfWmlCX180OXlkZXl1ejRJMGlJbUdwMg?oc=5",
-      "source": "日経",
-      "published_at": "2026-09-22T20:00:00+00:00"
-    },
-    {
-      "id": "hl-f65d6979446cbc11",
-      "date": "2026-09-22",
-      "title": "Meta is breaking out after introducing Muse AI agent. Where the stock is going, according to the charts",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPckdqcmI5VWVQdXJSRTE5d2ZsanowZm5jSC1laHFTbktDWm5VTjhfeUhVRXQ0WlVCRzhpZlhaTjRsRVp3X2xWYWJGR01Gd3lHQ0RzUmI1U0NuMGExMWRPWkEtaUMzZjNDb0lJckJVUlNHQkYtRlY5N1RHZ0tyMWJtaDVTUE13ZVFUZExfV19udEpaWmlLWm1CLXlScW51OTNnbFZ6THhyRHZObEx4dDN5aTY5dEU?oc=5",
-      "source": "CNBC",
-      "published_at": "2026-09-22T19:46:16+00:00"
-    },
-    {
-      "id": "hl-ceaf606e563dcdea",
-      "date": "2026-09-22",
-      "title": "Wall Street expects Meta's AI agent to shape into a new revenue engine",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSHZ3dUF2a3BDZVdNNW00Rm5jekRCZUlNeTdabXRaQUdNaHpqZG95QnlISWVGQTJYR3F0bWJ5MmkxUUZkYndqUkZsSG1EdXU4MFcwdE5taHp4UU1DTk16OWV0bWJDU0drdEVVb0FmMnJWUVdLbm5SRFdMdWtRMzd4NnRlUDB4bnVQd3d1Q1VmSmdVOFJQdlJtVTBQUExDeFVFdXRWbTRvVE9yTDFZdVE?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-22T18:25:41+00:00"
-    },
-    {
-      "id": "hl-316e6003dd5f12b8",
-      "date": "2026-09-22",
-      "title": "Anthropic and OpenAI roll out cheaper models in first release since call for slowdown",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1sZVdROFlLTUpZMmZPb0lWNWUtenNWaDhjX2JqeVZQM19lM2JVMmNYSHllQXczQWN5VVFHejNVOGFVU2NpVXdHQnJiWEU0eENSTmxaZGFBaTNQNXd3Vi1WM25wTVg3bjI1TEFsX2x3VlVHYzZWLWRvVW5vUdIBgAFBVV95cUxNWlZ6cE5mOEo5cUFESnpnbEFnU3h6OEhFU2hRWVFUNVVMR1FTUXk4cnR0b2Vjb3V2LVRUQXR3dl9sZDRKamNnYkhpQ3hMM3ZsckdaTlk5a2p2NDRud25uMWtUV1E0Ny1NblVMWTlGNTdYdTF6Q0JsZ3l5V3hOaHQ1cA?oc=5",
-      "source": "CNBC",
-      "published_at": "2026-09-22T18:23:57+00:00"
-    },
-    {
-      "id": "hl-aae37e2e0f54f06f",
-      "date": "2026-09-22",
-      "title": "Corporate bond buyers get picky with flood of AI debt",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYTBXQ0tEcFNaRTU4dV9GdmJTSmxPVUYzVVhNQmRyWkRHSEx5YTJNMjFLcjNIWFI2R05iSEhSdlF3b29abnEteEcyR3dtWHBCYmNDWmJXcTBqQkdwWUxmWi12Yk1sQWV6VWJPTjZWeG9FckdFT3FlMVhXRkk5SFZyWElxZXVMZ1J2SEpiMm1CZ19jQXVkSnFpUVB6Ujk4cmdyOXNESXhiZXprUQ?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-22T18:21:10+00:00"
-    },
-    {
-      "id": "hl-77864f9656d49dce",
-      "date": "2026-09-22",
-      "title": "OpenAI expands GPT-6 lineup with cheaper Sol and Luna models",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb0ZYd1JncUkxX2hGZWN1ZDlZdG5ERWw3bUltSHNTQm5iMW1YeWdMUVF1dmNkZWJkdHRsQVZTRnQ5S1ozUE1NdXZIYkJNVHNUbm1Pc3YtTFhyTHBLclc1LWoyWm82V2gwc3UySE9lbHdaQ29UWF9nZ0FfYk02UjNjcVBrU0ZMbmxPWUZBWW1fbmVDNTk2RGJyTUVfVHNVUk40UVY1YkNB?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-22T18:03:43+00:00"
-    },
-    {
-      "id": "hl-e727578d7e8f7730",
-      "date": "2026-09-22",
-      "title": "Abbott Pauses Data Center Permits as Polls Tighten in Texas Race",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNU05WTndCN2ZKQ3BfT1NGRTYwaTFLVXlWSEhNc1A2SE5GNGIxOHhrX0R3SHYtUmFnclZFdmJOWFlzbFNjdGZRVHdfWVZwZ0hmRDZaUUVzLUNQR0JHdFJZOEZfTy1CUzBZdlFwWXplWk13UjZ4bU5ZQVFJTkZOM1pfNFd2NjJqanJnYmZZdGpHQnlxSW9Ld0pMWWlIN3NrWjZLeWhfYXFnRjI2ZHBZSUxQSFQ4Z0hDdw?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-09-22T17:52:53+00:00"
-    },
-    {
-      "id": "hl-eaf331542ad27d33",
-      "date": "2026-09-22",
-      "title": "Opinion | An Accountability Test for AI",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8yWUptQXZ0TDJuaDlUNEF3TTJTU3JxRnBBS2VNem5qLU9uVzZheksybm1vUnBvNmM2VDdEcXp5cl9XT1B5ZkxKOXpvcldjWUR5V0F0XzlPRzN5LUtPX0JtMHV5OHZfZXdfMFNRMkUwVC1FX0FC?oc=5",
-      "source": "WSJ",
-      "published_at": "2026-09-22T17:17:00+00:00"
-    },
-    {
-      "id": "hl-67029af5a0d3d518",
-      "date": "2026-09-22",
-      "title": "AI infrastructure firm Accelevation targets up to $5.4 billion valuation in US IPO",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcWRwZS1feHZJdllyNHhVSlFtb0FpTjdSaEpSMUJCdXVhOE9WVk5xX2NpWHJmWFV1cHk2eDVLbHdPSUhVQnVUdmhtMG1RbGU1dk9qN3FRNE5va01YRHNocHZEaGRhdzVXbHY5eEVaZGFWd3Z1Y2hxYmxXRWtQYy1rd3A0NExUc2prS3BBWENxV1V0ZnFFckhEdXhBbk8?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-22T17:00:42+00:00"
-    },
-    {
-      "id": "hl-1f04c9dbb6a35304",
-      "date": "2026-09-22",
-      "title": "AIも食料も水が要る 始まった世界の争奪戦",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE50d1FneFRLcFFPOWpDcDh4NUFfd19vZGU1cWc1NXduNGZJS3hIei12bndKRWV3c0I1RVU1VEkzOF9Ua1AtNHZhV0dxN1h2WTVfTUY1VTVtS1hVTWw5T2I5dnJyNGZiR1NLSlk3eQ?oc=5",
-      "source": "日経",
-      "published_at": "2026-09-22T17:00:00+00:00"
-    },
-    {
-      "id": "hl-193810e4a7bc0763",
-      "date": "2026-09-22",
-      "title": "〈学びのツボ〉世界を揺らす「水」リスクとは 食料・発電・AIが奪い合い 国連大学「水破産」と警告",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1HeXBaQXFOa2trWFppX05IQzdhVHE1RDdMNC04aUFmMG5tLWZDaGc0bF9PVmViR2J5Z0pJeURUNjNDcjF1MHRiS3VnblRpMzRDaXJMTG9Xc0ZPNHRITE5rMWFDOXUxcFl0bWh6cA?oc=5",
-      "source": "日経",
-      "published_at": "2026-09-22T17:00:00+00:00"
-    },
-    {
-      "id": "hl-fff3cd0f310d2e7c",
-      "date": "2026-09-22",
-      "title": "｢AIを制する者が勝つ｣と語るトランプ氏…米中首脳会談､白熱するAI覇権争いの行方を左右する5つの火種の写真一覧",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE14cGFfUXRfVEVMQjVwdkpYMm1menYxV1dybHlLVmprVTZYb1lHdmZDU2c3bVR2dGVGdXpGWlpLbTRYMzU3aTBFTTlvVEJiOFJtbE40aDE0TQ?oc=5",
-      "source": "東洋経済",
-      "published_at": "2026-09-22T16:10:38+00:00"
-    },
-    {
-      "id": "hl-dcec921ef35f5a3e",
-      "date": "2026-09-22",
-      "title": "EXCLUSIVE: Meta testing a 'human concierge' for its new personal AI agent, Muse",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRC1FTHlGVTZjNmVycUMzV3RjbnJycmN0cXo0eWd6RWM4WG9GZTJWLXBuLUJidnBxQ0p2SEpUeVZoSU9ibWZWSkNDd1NxTF9IYVFicDg3QWR1VWF6UkNweGlUSkRPdWxqLWpmVVZqbkkwa2w0Y2E5cEc2b016Z1N0bWc5cjBzQnd4Z25WV0FQclk4OHk5UWdPWG8zcFZ6VWRGWE8wVThaRQ?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-22T16:01:00+00:00"
-    },
-    {
-      "id": "hl-f243ec27e4cb4f42",
-      "date": "2026-09-22",
-      "title": "AI Leaders Are Standing On a Liability Landmine",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUnhjYW9VVGYzUllZMTIzbm5TSW5Hc2hrMmhzUzVOMmMxMjh1TUtieUxobEVsMHpzSl9OMWZRUUN1aFREajRTRVlfQktOcXlWLVhjMmlfcUJmdzBvX2NWNXhkekhkS3Fza3dRcWZJQXE5TDFJRHMySjFaN3dVUG5PWGhSZHBNRWxJN09Dag?oc=5",
-      "source": "WSJ",
-      "published_at": "2026-09-22T16:00:00+00:00"
-    },
-    {
-      "id": "hl-64eeaf6b212f141f",
-      "date": "2026-09-22",
-      "title": "Three out of four Americans say AI firms not doing enough to prevent disaster, Reuters/Ipsos poll finds",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX2tkSmZCVGNBY3lkMjNnZHhBT0V0el9sZWdDakE1eHBubVJHdHV3UlVHT1dZT0l0QlVzWXQ5eWEzeVJoUUdhdW8wWS1JTWV2bXBIR0FHaFlpYS1lWjZQRldiOGlibUpOTDI2aTV2X2hRMUw0OEJpcUhZTGUzTUlLbU1kWXNpaTVSUGQxd2JiRE5rNEU0ZEY5WWVEVGtDakp6aEhPR1dsYzZxcW9aWkVuVVczcw?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-22T15:21:51+00:00"
-    },
-    {
-      "id": "hl-487a42342c175ec7",
-      "date": "2026-09-22",
-      "title": "Banks warn AI shopping bots raise scam, fraud and data-privacy risks",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUDlYaXB6UFVtWndZUGJsNy1FQzRrM203TUc1RDA0VTZ5Y0FaZ0JHVnV0dzVKMHJkSGowOUFYVUs5N1Y2QWJibzhJZEJpbk8xUmxja1o2ME9tY0hfZjRCOGFGWjVVcmVza2F2VGdvNzJjRnVlY2tzeTdIWWUxREVrNkJYRWRPazhzcG00b0NNYzJDRjlQRmhFV3JlQWNZS2lJWFZfeV9VMmdrdmJiZ0xWNlVkblM2Qk0?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-22T15:20:52+00:00"
-    },
-    {
-      "id": "hl-ffcdabe350868ab5",
-      "date": "2026-09-22",
-      "title": "脅威か経済のけん引役か AI記事まとめ読み",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBBdkVKQS1sMmlYX09vLTFKeUhwaTVrNmVQSTlWelpxZ2FTdnpMbGNpc2pha3l6dUcwc1hoSTVFMUZMSWtkY3ZIc1QzV2hnNDVUX21CYlFOaVRBNUJqNkVBejV6a1VzZUFaMURiMi1mMERlaVNibExN?oc=5",
-      "source": "日経",
-      "published_at": "2026-09-22T15:00:00+00:00"
-    },
-    {
-      "id": "hl-0c2e94c7fe8cd3c1",
-      "date": "2026-09-22",
-      "title": "Trump slams Iran and Cuba, defends AI growth in boastful UN speech",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKX2dnMnltcXRQN1pydURuZGxSOXY3eEtIVVd2TjVHbC1wNHQ1TDkwLXVpLWgtUjZaZlJ6VTJITnZpY1FOdmc4M1ZjQ3NvaElTOE5ROWEtZFkxRTBhc1d6TUZndzkwU0VWdmfSAW9BVV95cUxNZlhHeFhKV3ZfQ1dWcDZHck45Y3djSnZVbkttXzRsNlFxVFBVV1FEM0ZlYTZSd3RXc3hRa29oNWJsUWpOd2JGUmRMQWlBVmZGSW5QM05NQVUwZEFaejNOU3AxYmZmaW9wOUFNOFVfdjg?oc=5",
-      "source": "CNBC",
-      "published_at": "2026-09-22T14:24:57+00:00"
-    },
-    {
-      "id": "hl-6a6dba0e575ef615",
-      "date": "2026-09-22",
-      "title": "Palo Alto Networks unveils AI-powered cybersecurity service using Claude, GPT models",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVW5mc2xwMFhGeW1Dd3Y1bUY4dE9NVzFOa2FQSTI1a193YUk0aExLeFU2cm4xOXZVc0RqYjljNWVxMHpfWVRabVJMVkg5OE1aMWdXYUJKSG5RN2tYeUlycXh0VTcwck83TEdlcV9kOTRTdERZRXo5X3FUWkQ2WnlHb1hUZ3FDTzhwb3h0bWRlTWFOUmxBN2luR0QwQjRjeHhMWjRFRUN2M0V4U3FIaUZmRzk2QlN2SjRxSmZmUEhSQmo?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-22T13:37:12+00:00"
-    },
-    {
-      "id": "hl-2c03999b6bb6283d",
-      "date": "2026-09-22",
-      "title": "With new Macs, Apple aims to take on Microsoft, Nvidia in a rush to lower AI costs",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdW5hd1BKazlnZmctdWM5ZjA5QXFOZnVPYjE0dExZNXc0cDJiUWhjb0VzWUZ0QkdYb3dKaThfR20wMzlOVWRGaTc3SlZUYVdWOXB5bWV5NFE0ZGhsSC1xeG1NN2szdVpISklVdW1FcExXZ1Eya3JoekEwa0VJSHJzc2l5dW9PRWdLVzJ5MVYyNG15ZWFVRHMxNmdDRHpZd0xWY2ZaUGhLTWptZVJlSHBueWloeUFIcHhYTGhISC00c0pHQ2lBdVE?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-22T13:01:00+00:00"
-    },
-    {
-      "id": "hl-2d0a3e27f53ea6b3",
-      "date": "2026-09-22",
-      "title": "Meta Shows AI Agents Aren’t Just For Businesses Anymore",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOV2tJVmk4TXpveG52aC1XYWZkTWg4LUxpLTNPNlZacFJjWW81LUt6NS1zU3B2TXJTeWpZd2ZZRWN1dUNHLTNVU1hkWUxsYW84a1pLejFRV2p3VlkyRFRsaDQzZ2w4NHI4bWdaYnNvVDlmV2lBT0ttRmFzZFBRT3Zrc0l1ZEptc1NPMS11dVFhTDNmUFI1Z01kQXVldw?oc=5",
-      "source": "WSJ",
-      "published_at": "2026-09-22T12:31:00+00:00"
-    },
-    {
-      "id": "hl-9ae5bac6b71b27e0",
-      "date": "2026-09-22",
-      "title": "US and China propose hotline to de-escalate AI threats ahead of Washington summit",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/us-and-china-propose-hotline-to-de-escalate-ai-threats-ahead-of-washington-summit-comms-channel-between-both-nations-to-be-left-open-in-case-of-national-security-threats-posed-by-autonomous-artificial-intelligence",
-      "source": "Tom's Hardware",
-      "published_at": "2026-09-22T12:13:41+00:00"
-    },
-    {
-      "id": "hl-43b4e08baf99086e",
-      "date": "2026-09-22",
-      "title": "Texas Orders Halt to New Data Center Permits Pending Audit",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMGg3TkJkaThsYUFveWJCSWxXNmluSUxIamV6aEloQk5xTjgySzdTU1RTSVY1SXRETTliMXlzWWJLaXNsNzQtYUl5azNITU1CYkNDRzZvbHo0bTA0WnMwUzRnNEQ4dXVjQ0U1czZ5RkJqbXZSNUlPNlhESVFDZS1HUXhRdnU0d1NBRUdoUDZuU2xNSHhzNFd3emhPbExlNDg4aWZyY0dFX3NUT3F4dF9Z?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-09-22T11:50:24+00:00"
-    },
-    {
-      "id": "hl-309f8e4e73677b3f",
-      "date": "2026-09-22",
-      "title": "Alibaba shares jump as company unveils new AI chip, plans to expand data center buildout",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcnkxdDlSWnJlVVJUX2dZb2dfTktickh0UjFpOGNRVC00bjA2eXVxVzZGMDNNbUg4Q0dZV3RFOWFBdUM3UnctQzdFbk83UTFIb2FOZjdDWUpobk8yenNYTC11TzJvcGZWQ2RCYWlrblBadG82amV5ZzlHQmZsV0VKdXZ2bGtRVmg1TmlSckJUUFkwc2xHYnBqY3VVMExwUnhfVldYbE9LVmZZSG53Z1NqWVVkOWE0eTZEQl9xLUI5bS1jaVdRamZyOVd3?oc=5",
-      "source": "CNBC",
-      "published_at": "2026-09-22T10:58:23+00:00"
-    },
-    {
-      "id": "hl-e4745cf64252fc1d",
-      "date": "2026-09-22",
-      "title": "From smart glasses to AI pins, privacy fears challenge tech's next big bet",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOUgyOXZwdDA0cWZ2dk1tOU0tcHBBZG95TXFOLUwydXpqem4xZDRfYVJvMkhocFVldVp1cXNOX01zd1Z4YnJGZmxQYWFjY044VlQ2Z1V0UlNhUkU1bEVycUlMX3ZOVGhfMEh3SHRkNlVCTzkyc0w1MXR6RXF3bmJaak1tbXRTMEVNejBTWXFPeDVNQXNPWm1TdW5TTkhGakxMUHJWZURrdVoyanhQRENfc1pTdE5YMll4YjRqNzBNWG8?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-22T10:01:00+00:00"
-    },
-    {
-      "id": "hl-9e11f1c4147db9d0",
-      "date": "2026-09-22",
-      "title": "Trump’s U.N. Speech and China Talks Put Tariffs, AI and Energy in Focus",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbzFtdVRUektSQ0t5ZlltWF9lLU41dVRxMVl2WHNUZnpmaHJFZXBaX2ZOUEJFTEhZelhtYVhuSXlod1dSbWluMFF5SWp5RTFXV0tycFEzb3dSY0t5cGMzVUdRM2dHVzZzZWZFSkZBR09BTk1lTkd4SE53ZFpKZjgwNmh3dXF4VTRiU01xR0ZsS0t3LWpqazdTUi1WY0xGUmE3UEVjbkFyeEJMUQ?oc=5",
-      "source": "WSJ",
-      "published_at": "2026-09-22T09:59:00+00:00"
-    },
-    {
-      "id": "hl-5c15234ebe5a5497",
-      "date": "2026-09-22",
-      "title": "EXCLUSIVE: DeepSeek to brief UN Security Council on AI this week, sources say",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX2ZLc3FkMFBGdGM0Mno4QmV0ZFJtVWZ2X3RyLUp6SmFUX0tQQ0FPRHlLRmdJVmU5dy11SlE3SXFJUVlySDNQOXlmZTFkV3JNc19nSDlyUlhJZzgyMDY1d0VRaV9IT054T2stSTd5VWNOVVJNa0w3VHctTW9GdUJjYkRkQXdmSW1pOWllUVV4OVdOU003ckJBaWloZ0JKUmdtVTFiLVRhajY2N2pKUHhiYXV1Z3Y?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-22T09:35:06+00:00"
-    },
-    {
-      "id": "hl-318b10ff59961815",
-      "date": "2026-09-22",
-      "title": "Watch Meta’s Muse Revives AI Trade, Lifts Chip Stocks",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNld6VGp5UVVRd2VZYjBMWlRwdGFwZTdST2lGaHJnbVk0YnFDaGdWcW5BN3dfemF3T3NSNW1YWlRPOEFiY3o4UGV2TkltdURWWVY1SGVKQmZmM3ZCYVR1U0MyeC0wR3M3NW1OMGxneE1MLXdfVm5iOXRTNE9UeFFUOXRvUldsQ24xMVlzWkFMeXZWbzJyMTQ3bEp6d2hmNVB4b1Rn?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-09-22T09:32:26+00:00"
-    },
-    {
-      "id": "hl-ff7269c9d84544d5",
-      "date": "2026-09-22",
-      "title": "OpenAI and Anthropic scramble for smaller data centers as massive gigawatt projects lag",
-      "url": "https://www.tomshardware.com/tech-industry/data-centers/openai-and-anthropic-are-reportedly-seeking-out-smaller-data-center-deals-to-meet-current-demand-20-30-mw-facilities-to-provide-capacity-as-mega-structures-undergo-construction",
-      "source": "Tom's Hardware",
-      "published_at": "2026-09-22T09:30:00+00:00"
-    },
-    {
-      "id": "hl-aa11e43e146322a8",
-      "date": "2026-09-22",
-      "title": "Why the Data Center Backlash Has Republicans on the Back Foot",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZkFrZmF3clVlUG9KMkI2UzZtT1RhMldkZS1YOTJrdzRGUEdfdkhPblFOMTlJbTFVV2lYQ080QUwyUjRJZ2dUNFBNLUJhT3M5QzJ1SEpPS1NCXzk5Yjdlb0xPX1ZOMFNJaEJYWE0taXE0M1F3ZWhQbi02VUlRY1JWUFJ0aU11Q3A4bk9aM0g0c05URUVBQTdpNmI3dThZZ3Jmc0lFVVgySWNSUm1WV1NsTWZB?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-09-22T09:30:00+00:00"
-    },
-    {
-      "id": "hl-7d0ec6fff87adbbf",
-      "date": "2026-09-22",
-      "title": "Khosla Ventures Taps Ex-OpenAI Executive Tal Broda for Infrastructure Investing",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOUFiNmgwejQ1bkhnQzFrODlkTmNQN29qYmFJZGhqSHNtN2hsREZxLTI2Q0c0ckU4M3BaUEs5cEFuRlg5T090NmFfay1IZkZKTTg1VHZiVlFOS1ZpQmM4ZEFnRUpRTm1ldENzMWFoVnBycTAzVnhqbFpMSlExTFZmQmxlZ1N2VktvVGtIUGw0Wl9ueldFNkZqX3Exa1ItaGtpWmNCS2I1dEdlR3hhU2VnN0gzRm5Xb2h4RFVqbkNRdlpsaGt0QXMw?oc=5",
-      "source": "WSJ",
-      "published_at": "2026-09-22T09:30:00+00:00"
     }
   ]
 }
