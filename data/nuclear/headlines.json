@@ -1,6 +1,6 @@
 {
   "_schema": "id: 安定ID / date: YYYY-MM-DD / title: 見出し / url: 原文リンク / source: 媒体名 / published_at: ISO8601(任意)",
-  "fetched_at": "2026-09-24T14:41:54.154108+00:00",
+  "fetched_at": "2026-09-25T15:00:06.139831+00:00",
   "theme": "nuclear",
   "sources": [
     "日経",
@@ -12,139 +12,211 @@
     "東洋経済"
   ],
   "fetch_notes": [
-    "日経: 12件",
-    "Bloomberg: 10件",
-    "Reuters: 14件",
+    "日経: 13件",
+    "Bloomberg: 7件",
+    "Reuters: 11件",
     "CNBC: 1件",
-    "WSJ: 2件",
+    "WSJ: 4件",
     "日刊工業: 0件",
     "東洋経済: 9件"
   ],
   "items": [
     {
-      "id": "hl-abdc8bff232c10c8",
-      "date": "2026-09-24",
-      "title": "［新連載］AIが変える電力、原発「選ばれる」時代に突入 関電がPPA開始へ - 日経ビジネス電子版",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcVlQV1pIRVQ5eGFteVk2WHZqY0h4ZHM5NFRuVjJRTHpDWXRHVl9lNEoyalF4UXl1OE5xWmIxMVNDR2lDQkJFdk05QmxZelZNV01RS3hTc3F3YWtwY1NKTWdnLWlVYkRRSkw5UmYwR0hBdURhNXl5UVdWU19XRVB1cmZKWVF4bXRIT3dvSzV3?oc=5",
+      "id": "hl-48ed342a8424013b",
+      "date": "2026-09-25",
+      "title": "中国電力、過去最高の総額1490億円を調達 島根原発の安全対策などで",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE50SnZVbzBtMWNLUDZaYTZfUkZCOUVQYUxZV09wTVVma2NqZGVBZzM2aGxPOTczUFVtTDllQTVKMU5zQTVUOWRSRUREVWYtTmwtZF80Mmpmam1oamlNcEFQbkwyODk2ajl0dE9JbA?oc=5",
       "source": "日経",
-      "published_at": "2026-09-24T00:52:51+00:00"
+      "published_at": "2026-09-25T09:52:42+00:00"
     },
     {
-      "id": "hl-32b5544c94aee1e7",
+      "id": "hl-91706e0bcb5996c9",
+      "date": "2026-09-25",
+      "title": "AI’s Nuclear Power Push Runs Into Cost and Regulatory Hurdles - bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVFZUM213YUJ5bmM5VHliV2M2czV4OGNsN2NxSDdnQ3ZIZ0FyRE1lS3VnQmRmLTVRYWdLQmQwSWMwcVhqYjkyQkdTMTIxdFNReTMyN1BMdVlRWkRJY29BWE9aX3B4TkNsUHNmMU4tQ2RvYUU2SmRDZllSVk9sMUo5Tkl5UERPWmZXWFlzTEFqX3RNOEtpWmJjRFFQNDNVSENURzVfdlNRdHNtTW5OVVZMUGhB?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-09-25T09:30:14+00:00"
+    },
+    {
+      "id": "hl-7dcaff90e462bab7",
+      "date": "2026-09-25",
+      "title": "柏崎刈羽原発の人身事故が増加、所長「非常にまずい」",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLcDVQalZ5QVR2WDRUdEN0aDJ6ZmxxY25fcjlnQ0ZnQ1dSUzltTmxhOWlnYkV1ZmhHNlp2dF9qTFExN3VMaC0zYnJiSDJJOW90QTAwOXZSYlJ0cFlCdkRNYlBKOW1CRFRWTEtJMg?oc=5",
+      "source": "日経",
+      "published_at": "2026-09-25T09:00:00+00:00"
+    },
+    {
+      "id": "hl-9ec9bad84618e03a",
+      "date": "2026-09-25",
+      "title": "中部電力、浜岡原発の廃炉手続き不正の調査やり直し",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Sdk9qNHdDUF9YeWdkODBLQldKWm8yM0Rhdk9wVDMzYnFxMk1CVTRSSkNSY19BUFhfTFhMRWFUUjhKZDRjT1h4cVY3YU5rbWtQNGo4MFRwN2YzQ1d3MUhfd0dXSzYzeXlzNi00NA?oc=5",
+      "source": "日経",
+      "published_at": "2026-09-25T08:22:01+00:00"
+    },
+    {
+      "id": "hl-f94e43a7980b794a",
+      "date": "2026-09-25",
+      "title": "Taiwan Backs Early Plan to Restart Nuclear Power in Policy Shift - bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOakE4WGg0SHI0RnpyNGs0dGRfTzZxVVBnZ2d4eTZWT1Rqd2Ryd3N1MkdCYjNvLVptU0gxTWE1bDBnUWVpLVQ5Z2p2c2NIZmdlVzVHVzZwZjIyY3dxOFF3M2dhMVg5VlRaNGxQTTF5aXNCMEhQUGhtU2MyVzFWUFoxWDFrR2F6X0xweHA1WnFKcXRTUzdRWFA2VWdILWdxcFdVME15VkVDOHZhZ0c1QVhaczM1UlhOQQ?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-09-25T08:00:37+00:00"
+    },
+    {
+      "id": "hl-dc387e2520dee207",
+      "date": "2026-09-25",
+      "title": "美浜原発3号機、腐食で配管に穴 関西電力が手動停止後に調査",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52NzNRMWlHMTFfV2pLaEpmRTVtbExydG91Zm9kT0RHZDJtWXh6Z21GOExMRk12WWV0VkFPY2RtTzNFSW9OZ3lvWTRmQ2dMdE5CRm1GeFQ2aUQ0ejRLMGRBN1VkamMtOXBlOUozcw?oc=5",
+      "source": "日経",
+      "published_at": "2026-09-25T07:48:55+00:00"
+    },
+    {
+      "id": "hl-9cce58816102269c",
+      "date": "2026-09-25",
+      "title": "Iran offers to reopen Strait of Hormuz within 7 days and restart nuclear talks - cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5aZ0hqeDJKZlFWZTE2eWwxei1Cd21MaFNkZFZPRWxzNllJdmUzUXVGMFZ6THlXempxQmo1NzhRV1FuNG1sd3hTSW9NT1hvSVdEMVhfVDI5bFBlYWk0T3pvTGd3ZXpjcDJIbEHSAW9BVV95cUxQbGRDUzktQ3JVU3VVcnpXSk5LN20tZEVPbEZ1d3NjSDJKa0xleWt4V054NFNtYU54WElPeWE5ZXk4VnlDVUg4TUIxaExtbGZBS2xkZEdXeVpPd0Z4VFk1cWo1QnRQSFBOUXNUUE5nbW8?oc=5",
+      "source": "CNBC",
+      "published_at": "2026-09-25T05:37:21+00:00"
+    },
+    {
+      "id": "hl-7f99d66fccfe9358",
+      "date": "2026-09-25",
+      "title": "中部電力、浜岡原発の再稼働審査の申請取り下げ データ不正受け",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1nWmk3bVJtOXVTeUFzMXdoLU9uaG9DREExZ19LSUNqeGhQODBGSkx3NEVKMWpEVXdLc0p0aEtoWXZGX2xKZ01jZWJ3cmppemZOYmMyME0wMzBwQVZaQm1LQ3RaRzRnbG5UTHFFdw?oc=5",
+      "source": "日経",
+      "published_at": "2026-09-25T04:12:13+00:00"
+    },
+    {
+      "id": "hl-161eb82960dd3a03",
+      "date": "2026-09-25",
+      "title": "［新連載］AIが変える電力、原発「選ばれる」時代に突入 関電がPPA開始へ - 日経ビジネス電子版",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNek9jdE5RMm83MW5TUVI4RVdSYlNnMVdGaGN6WkxLOUlEdVlnTllLbXN3a0RCNlExZWpNcUpwNkp1alJQTkFYYU5YU0s2aExoaVRkZTdrTHpOVVltTjdTYkhTMHpoM2pDeXNhSTB1U2ZMODNXZGF3V2U5NFByLVZ6YXRoQ0Uxd3NENUE?oc=5",
+      "source": "日経",
+      "published_at": "2026-09-25T03:01:10+00:00"
+    },
+    {
+      "id": "hl-52c51182abf4a0a7",
+      "date": "2026-09-24",
+      "title": "Exclusive | Trump Administration Presses China on Suspected Nuclear Tests in Confidential Talks",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNOHp1cHpGMHY1M2dCcFlVVUtCcXl1a3l0dUd0MnBJcEIxWlIxZXlGWThyeTdPVFZhdUlCVmRnaTBuR1VRRFV5WHpoXzZXVkRiZVhJRFJ6Rmk3WFY5MndFZ1RtX08tUTl0N0tqN0VTT2l6UGdlSURpdFBRNWh3TERGYkgxbG54TFhhckFzVWJTblRIanA3Vjhhd3o1QzhvMm43TWYyTEhUOVMxNEhEcTJ0SjBzOEVpRVh5TkxqcWJKSmkyT3NuZHhDY2VfNnpwTm1oYVFfUWFn?oc=5",
+      "source": "WSJ",
+      "published_at": "2026-09-24T17:00:00+00:00"
+    },
+    {
+      "id": "hl-4ffe678b0108a94c",
+      "date": "2026-09-24",
+      "title": "伊、40年ぶり原発回帰へ 首相、エネ確保に道筋 地政学リスク警戒、欧州で動き拡大",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBwWUpIV0ZvOWJVQzNjZlJZN1p1eGQ0WDVvSG5nWkNjTXMzYzFFVjdSc3BYRGtxWmNFMUNHY2VVSkUwdW5wdmRXTDdfdi1Zamw5OXozZk1HUGVBbEt0MlN5NjhOMEFxWU9KdUlF?oc=5",
+      "source": "日経",
+      "published_at": "2026-09-24T17:00:00+00:00"
+    },
+    {
+      "id": "hl-1e8d5e375612c150",
+      "date": "2026-09-24",
+      "title": "North Korea rejects call to halt nuclear tests - reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQ0tGSzR6cTBTeXYtblYwUXdEX2ppeFRTUEEwNlo1VnFxbndoalFZd1BwdWtTZ0JrTkIyTThaS0NkbFhxRmIwRTRKX09fWldha2dxYUUtaXMteEV1c29KNDhKTEZvTHdTVDhfTk5qQWJNdVNKaFhUcmpUaUJtb3MxUWt2ZVhoWmlkd1VuU3BfZDJ1dTFvMnJsTENFMXQtU0k?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-09-24T15:05:44+00:00"
+    },
+    {
+      "id": "hl-874c926d97427d07",
+      "date": "2026-09-23",
+      "title": "ONE Nuclear Energy Inc. (ONEN) Stock Price Today - The Wall Street Journal",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5wTGRiSmZ1dnV5R3NsRlVsQWg2NnBoLXFLZi1rRTBNYWF5LWhRNERtc2w4cEhNYm5KTm5VSF90b2prcnNnZTBkY0xKLUtwcjdoSjR5Wg?oc=5",
+      "source": "WSJ",
+      "published_at": "2026-09-23T20:00:00+00:00"
+    },
+    {
+      "id": "hl-3dfbc65f7d952909",
       "date": "2026-09-23",
       "title": "［新連載］AIが変える電力、原発「選ばれる」時代に突入 関電がPPA開始へ - 日経ビジネス電子版",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15U0pUYlB1dDdSMmQ0OFQtanhTTXRkTGlfcl9qOWVxRFNvRHhWS0h3bjVjSk85cXhTbzBYcW5RdEIyU3VyS0p6elV6Vl9vRjRqOW8zTHVJaFVhTEJrTVlnRkJTWjZRUlk?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0yWVZBeW5tNlpHcGNSN1d3N0R0SzhDU2hEZ2RNR201Q2FrZ1JEak45YUtac19YMWVVanFTbmxiSkdZbzhaeG1oUzZKc3ZlRjVSZ1dEaHlBUm43dTZMTEV3M1JmM0w2bUN1WUZ5TGktZWVyc3I2M21Sek9yXzc?oc=5",
       "source": "日経",
       "published_at": "2026-09-23T20:00:00+00:00"
     },
     {
-      "id": "hl-4d0bd154fa2644fd",
+      "id": "hl-83eb9366276abdab",
       "date": "2026-09-23",
-      "title": "イタリア、40年ぶり原発回帰へ転換 首相「必要なエネルギーは国内で」 - nikkei.com",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE02SDVjaE1Xc181M3BIX09jaGRfcURtOEF4dE03ZHE4Nm9wYjRUd1paZThxUFFFanBYeEM5blVQa0VLV2htTTZhbjk5OTR3cndoTGVSakdkdjhZclVaUjdhODZQY2ZqUzhfTGFpVA?oc=5",
-      "source": "日経",
-      "published_at": "2026-09-23T19:11:55+00:00"
-    },
-    {
-      "id": "hl-02db18998c31e256",
-      "date": "2026-09-23",
-      "title": "Italian parliament backs Meloni's plan to restart nuclear power",
+      "title": "Italian parliament backs Meloni's plan to restart nuclear power - reuters.com",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVDc2TkdTUlNKbzZiUHJFOUlqc25NNm05ZXNKQW5TMlNnNlBZVC1UM0MyaTNrMy13ZGpiQVBrNG52SDI3VEYzak9oYnIyVTJlWXg3Mi1oWkpnelRfNGp6MGJzUUpwRVVDX0RlbjlyV1RhZnBlRU0zamNFR3RPY2tFaUI1ZkJkdzVVNFNwRlliSVdoRUpSQkhYczRNczB2d2JLR0Vv?oc=5",
       "source": "Reuters",
       "published_at": "2026-09-23T15:31:44+00:00"
     },
     {
-      "id": "hl-fa4a9bd603d2dc32",
+      "id": "hl-936415d75ac7610c",
       "date": "2026-09-23",
-      "title": "Italy Approves Return of Nuclear Power After Four-Decade Ban",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYlVSbVhtOHlNOFNwYkdjUVlBXzVNdmNwajQ4cDhObTJnelA3QllKMmlmLU5MX2FPVFppcXZpWDVsd1p5VzhsbzVGekJWR25POGItWGVPUTBVTDI3OFJOWlZ6ZUVSZC1BR1N6SDk3U08yVWxWdkd3T0hUR3VUVTlTY2VLZ2p4bTBYZkh6cG14S0pWVGpwbHRYbjlRTUw3Wm83SG1BeUdWM3JkQndoOVFrQml1QmdhM3pIdkl2eU9DZFNIZ2NmUUZJWA?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-09-23T15:24:31+00:00"
-    },
-    {
-      "id": "hl-3601ee65b18c0527",
-      "date": "2026-09-23",
-      "title": "Italy Approves Return of Nuclear Power After Four-Decade Ban",
+      "title": "Italy Approves Return of Nuclear Power After Four-Decade Ban - bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxON0lQMk9qV0tCbTZma0JUdUo0dzV5NW5VTVJLR0daV1FMMkYybEtDbldWbzdrMzg5QjhYbUFMckIxUnVsVG9JelpaUUhObGNaZEhtNl94aXJZSGszV29hdUNkajdYRDVHSENpdjNQU1JVNWFPMjZsbUVmVVVJM3lhR1MyNDJNZ2pUbnJ0VlFCVTh0azBvM01Yd0VVcWFadWk1bFUzaTdYUmlqQmY5cHh5VQ?oc=5",
       "source": "Bloomberg",
       "published_at": "2026-09-23T15:24:31+00:00"
     },
     {
-      "id": "hl-09a9859827380a16",
+      "id": "hl-0549455a89b55133",
       "date": "2026-09-22",
-      "title": "「次世代原発、第三国に」 日米韓外相が声明 北朝鮮の非核化も確認 - nikkei.com",
+      "title": "「次世代原発、第三国に」 日米韓外相が声明 北朝鮮の非核化も確認",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zRjBnTlNVTFFsbDAyQ0J5dWFQNzhOZ2tkODVNYm1nMEZaQnNmNDRKMWp2OGpTVDBTdU16cTBlcFlVQ2JHOTc5YUxYUGhha2g4M1VXRV8zTzIyVWNINDZib3c3UnNfeXBLb1NWZQ?oc=5",
       "source": "日経",
       "published_at": "2026-09-22T17:00:00+00:00"
     },
     {
-      "id": "hl-c9a8d6487663f028",
+      "id": "hl-b490ba1e1a760aaa",
       "date": "2026-09-22",
-      "title": "A $50 Billion IPO Is Good News for America’s Nuclear Rebirth",
+      "title": "South Korea's Lee urges US to ease North Korea sanctions to freeze nuclear programs, NYT says - reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWnQtNV93S3VlR0QyOWR2akZfM3o3OVVxaFdkSEdYMzFGMnZHYXQtRWNsLWNoY0x6c2cxOVdkdC00cElETGRNSUhUNmNRbGVVMENsS2pwUk42UGpWYmxFaHNic3RxVENNaFRScFlqNF9KT3lmU0tKdXZfSUhhemtFUHdDb01Mc3ZDcDBGeTFRQ0E2MlppSU82QXRWREtLUTJBanlPeERVcGhGeUU4MEJiNVVHLURSS25WTTFDaDBSakJsZkZDa0VScWhNOERsRm8y?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-09-22T09:55:34+00:00"
+    },
+    {
+      "id": "hl-2b741475ee55347e",
+      "date": "2026-09-22",
+      "title": "A $50 Billion IPO Is Good News for America’s Nuclear Rebirth - bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX1I3REI2Y1QtbUhuTUlab0FqRXVjZmR3NzVLQVlXSno1WVUycUNhMXlNNE9ia1VHTVA0aWVybG5GZWlaekhxSWdLdGtxWTFMdWczbi1BOVJGUnNxTTc5dzdISEZMWVJUYVhjLUFGeUxzRGVlYjlqLWFya3FiUVpTeE1jc3JpVHlMelMxX2NFVktRMUloM3ZyV29icDZoaTdQTGE0bmtRUWpBdENtdUoxNWhQd1JaRXh2?oc=5",
       "source": "Bloomberg",
       "published_at": "2026-09-22T09:30:04+00:00"
     },
     {
-      "id": "hl-5a45ade3305536aa",
+      "id": "hl-df7c45f7941e7e76",
       "date": "2026-09-22",
-      "title": "Turkey's TUNAS, USTDA launch new nuclear energy cooperation",
+      "title": "Turkey's TUNAS, USTDA launch new nuclear energy cooperation - reuters.com",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOGFTVkZqLUppU0NJQk5PSlh3NEMwUktFc0NCb2JpeW1yZl92M3M0SWpaeXJiYlNHeU9OSzVSS3RqR0NJREZnemd2RnRzTndyUDBxaWFBWU5pbGQyTUVpWmQ1ZkUtUGdaZmtZeWozUlU0NDFhTWdfSF9vS2VrMnNRRHdac1hORl9BV0wwWllBY0RFTnlXZ2xTRjBHNXNlS0lCZVdXdVcxc0FVaVEwSFE?oc=5",
       "source": "Reuters",
       "published_at": "2026-09-22T09:26:49+00:00"
     },
     {
-      "id": "hl-1030d5d1fb2e0fa6",
+      "id": "hl-8c45825a798df984",
       "date": "2026-09-22",
-      "title": "South Korea's US investment package takes shape with Texas power plant, nuclear projects",
+      "title": "South Korea's US investment package takes shape with Texas power plant, nuclear projects - reuters.com",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOLWxiUU5GWGJWWTM2a05YcTE1MzVybVp3dGlCb2hQN09LNDdMQ3JUc3EzVjFzMy1CakNsSkstTWRsUWhQR1VEMEVhbjc2dmRyYUVrLVJlRnN4Q2x0bjhfNUxsRFhnRHpCVWo1SjZZaUppaV9FNDJpTXI2a2RTMWpSdWplSHJ1M3VzbXdfbTR6QUxfUzU3ZkVXakg0X2daX2F1Zmd2ZHFGN0pzV2YzV3BCZHZJMlRZUzlhVWRkYk5VSmVKS2VUWVB3RkFR?oc=5",
       "source": "Reuters",
       "published_at": "2026-09-22T07:00:00+00:00"
     },
     {
-      "id": "hl-664ee1c60cd5882e",
-      "date": "2026-09-22",
-      "title": "｢石油はいつまであるかわからない｣サウジアラビアが原子力とレアアースに伴うトリウムに賭ける知られざる事情の写真一覧",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA2allPc3g2Z19Ba1c0Q3c2eVhiT3VuUWVTX3pHVmlEWUFkNmVEZlBDMWRlUTVtWGFpVTVvUnBBLTJpcUY3dWJrZ0FZZERwSUlFXy0wOXc0MA?oc=5",
-      "source": "東洋経済",
-      "published_at": "2026-09-22T02:00:00+00:00"
-    },
-    {
-      "id": "hl-29287e748448bc0a",
+      "id": "hl-9f8bad03f4e6cf09",
       "date": "2026-09-21",
-      "title": "Google to Fund Power-Capacity Increases at Two Georgia Nuclear Plants",
+      "title": "Google to Fund Power-Capacity Increases at Two Georgia Nuclear Plants - bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOXzhDYmJrTHRmWGNFaG1VRVhtV0NBUEhRdlhia1ljcWxUdFhiWGZGQm9mYjI2Q0hwQUswcEFORnp6TVdoMlk4NlhkRmN2TlIweUZHUHBtWGpOZ192NHc0TjBQWlRnRUNMSzNuNXFiRGc1eGdjek1UbUJ1R3Z0VTAtN2YySmFLUkwxWnNnS0ZtV1BFbGx2b05UaG92R21oSThfQk5UdDF3ajdMX2JyWWc?oc=5",
       "source": "Bloomberg",
       "published_at": "2026-09-21T23:40:16+00:00"
     },
     {
-      "id": "hl-5bbed2d0bdb47483",
+      "id": "hl-9f34e9691d6c8b65",
       "date": "2026-09-21",
-      "title": "日米韓外相、次世代原発の第三国導入へ声明 北朝鮮の非核化も確認 - nikkei.com",
+      "title": "日米韓外相、次世代原発の第三国導入へ声明 北朝鮮の非核化も確認",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pLUxac29Zemc2Zzc3b2dDU0pLNzFnSmRoZGsxai1DQjA0NHBLaE5kQmxRa2VLQUg3SnBPaUdUZzRDRllPV213dVY3cGNjaHBlYlZkMUVSbE1CWkN1ejFydmhHaGZWZlBFM05CbA?oc=5",
       "source": "日経",
       "published_at": "2026-09-21T23:00:00+00:00"
     },
     {
-      "id": "hl-77d8ce5a97c1fc19",
+      "id": "hl-2ee9fb78dbb5baf4",
       "date": "2026-09-21",
-      "title": "Southern Co unit signs deal with Google to add nuclear capacity",
+      "title": "Southern Co unit signs deal with Google to add nuclear capacity - reuters.com",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYUl1Q3lBdk5XNTJaUl9zUkR5bms4cFBTN3R0cEFiUm5tUXVyVEp4NkF3YVVMWk9WSFBmcW5mVnIxMGU2Ry02UWw2ZUlLMjB0NWZEMVBxb2h4clpxZEVZOEd4S1h3dGlVQW9MNkNBTHJzcGJvVjRsWXZ4NDhwZFFKdTdBNTlwNlh5aDdrWHF3azRtNnJYSGI4bG9HWHY0ZldETU5wMzR5Q3dubEZ3YzhabUdLNA?oc=5",
       "source": "Reuters",
       "published_at": "2026-09-21T21:48:03+00:00"
     },
     {
-      "id": "hl-04206eab70785173",
+      "id": "hl-d9e3540e39182147",
       "date": "2026-09-21",
-      "title": "Nuclear Startup Newcleo Sees Nasdaq Listing Boosting US Growth",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbFRCRElySS1TZldCcExZU2E0dmRaQ2lyZlRMZ0RwVWtzYUNIRFUzdkZQaFBXSVFmOTVkWS10QjFROGIxcHg2Y0FfM1pzcW5fQ3FlTVJ2VnpfQlREWTBaVk9DaGJjTDRtMEJiNUptSmVhZm5yeHZBNnNJSnlHZEN6b2M1YU9iLVJvVmZycktJTDZWbFJEeF8xVFF4dTM1YXJuamxxalJYY09fLUxNOGsyNkExaEFWNTc0SGJXdGNRVQ?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-09-21T20:01:00+00:00"
-    },
-    {
-      "id": "hl-9ec021d371c978ea",
-      "date": "2026-09-21",
-      "title": "France to Upgrade Heat Wave Modeling After Record Nuclear Curbs",
+      "title": "France to Upgrade Heat Wave Modeling After Record Nuclear Curbs - bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOVVHTnVpU0dSTXVmejZUSkk0U0ZWYy1nNVc1UmhLdmM2bEtkTllWc1VMZ2Z2M2lCbHBSM1JjX1BwMmw0ZDFZOUNmOWwxa013U1VRQV8wZzkzNm9XU3Y3SF9VeE9OYVp1dU1yc3F5WTduc255Rnh1MUUycjd0TENpdldFUjZaZjVwYnAzN1lwY0h5bXRqRVpyTlNYZVZsd0M5MmxJYkxtU25WdHk2aTh3UW9ZQko?oc=5",
       "source": "Bloomberg",
       "published_at": "2026-09-21T16:44:06+00:00"
@@ -158,172 +230,76 @@
       "published_at": "2026-09-21T09:30:00+00:00"
     },
     {
-      "id": "hl-0b21fdc12c408790",
+      "id": "hl-f5b3e151689f3388",
       "date": "2026-09-18",
-      "title": "North Korea Rejects IAEA Resolution, Vows to Keep Nuclear Status",
+      "title": "North Korea Rejects IAEA Resolution, Vows to Keep Nuclear Status - bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOelRqSUtYYzlvby1lM0doLWRHekxzdC1CRkd4WW1TNmE5ZVdvUVdfWlZiT043a0dneWJRTWptM2RjLUFWbzJMSWlvVFZrSWdEWGpkRDNQQlB5bVhaVktpVGJ4d19wMHVxeDY3emZ4Wm1jOEJwUXptdWRfRlRHT3ZtWFRtRWxWaExOY3JBQkQtWTlLdkRHVEpIY3lLOHIzOHFOWG03S0o2ZVVWblpISVNPVlNsSlg?oc=5",
       "source": "Bloomberg",
       "published_at": "2026-09-18T23:50:51+00:00"
     },
     {
-      "id": "hl-d66f79540f9fd235",
+      "id": "hl-f19e496fc80d3d44",
       "date": "2026-09-18",
-      "title": "North Korea says nuclear status 'irreversible' after UN atomic agency rebuke",
+      "title": "North Korea says nuclear status 'irreversible' after UN atomic agency rebuke - reuters.com",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUzlRTjFCMURCNF9XUkcySmFGZzdUdlBNcEs0TmNZb00zbV9oYXp6Z2JZZVM2amh6VVZhU1VBbm5jTENUOG9tMHg1VVQ2NTdHbVdFWjRNcF9DV2RfUE5KU1ZhWmRKR1pPcTIyXzM2N2FUYmJUSlNkX3BRalhIYk5vUmRvNjJpcmlvd3B4aGdaZ0hPb0hUYzAyRG1EWkh6UklLekZiajlFMXdBM3R4QzJvYXRIRU1GdXlkbDFyQ2wydE1RenB5UmJRQTNB?oc=5",
       "source": "Reuters",
       "published_at": "2026-09-18T23:40:54+00:00"
     },
     {
-      "id": "hl-b0b6b1de9e947731",
+      "id": "hl-eaf08365757cfbb0",
       "date": "2026-09-18",
-      "title": "Drone hit cooling tower on Thursday at Russian Kursk nuclear plant, IAEA says",
+      "title": "Drone hit cooling tower on Thursday at Russian Kursk nuclear plant, IAEA says - reuters.com",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbzBpLWw1RUNBVmo1R0ZpSkR0Z0hPNG52dktlU181NDhaMUN5Q0g3dDJ1OU5reDJ4MzFjb2dRVldsVkExUm4xTlQ2UzZfUWVSbkdsTkNzdUlDUWg3cFhZQ0I1ejNwb3ZzbTAtQWVXMjkxZ2xwZGRqckxTYVRneDJ0TlZqeHo4MDNGR24wQUZVZEdFc0FPcml2WllxSGVNdGRKWl9hREIyNHg0RW5FVG0xSGxkSUllSGhZYUxz?oc=5",
       "source": "Reuters",
       "published_at": "2026-09-18T19:22:07+00:00"
     },
     {
-      "id": "hl-d9ff085e52142efa",
+      "id": "hl-839a12fd0f05bda4",
       "date": "2026-09-18",
-      "title": "中部電力、原発迷走招いた「二重の対話不全」 信頼回復へ出直し - nikkei.com",
+      "title": "中部電力、原発迷走招いた「二重の対話不全」 信頼回復へ出直し",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sRWtmNDV4RjR6V2RFM24tN3psTDBUbkNUUWRzQWtNRUdkN25acW5oX0o0TUxOOVB6M2lGbVpLRDR2WWgxellQV3Z2aXdlRUdRQ0xaTXE0TW16cDd2YldWYmpfci0wSEFtR0o4Sg?oc=5",
       "source": "日経",
       "published_at": "2026-09-18T17:00:00+00:00"
     },
     {
-      "id": "hl-40274860251269a7",
+      "id": "hl-7f89995b25d50085",
       "date": "2026-09-18",
-      "title": "〈スクランブル〉電力株高、「国策」も追い風 機動的な値上げ容認に収益期待 原発事業では明暗 - nikkei.com",
+      "title": "〈スクランブル〉電力株高、「国策」も追い風 機動的な値上げ容認に収益期待 原発事業では明暗",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4xV2QzQWlBYnhra2ZuRzdBbWZzUUZrNl95cFhUUGFNM2s5bHZ4ZGd0azhfNTNEb3kwTU1LMERmbjNjMDJLUl9aUzRvbE5YeUVTTmNFVjBwRDVkXzhoRk5CRGVYYzFIV0x1WlNCaw?oc=5",
       "source": "日経",
       "published_at": "2026-09-18T17:00:00+00:00"
     },
     {
-      "id": "hl-cfdbc4d5e3c84086",
+      "id": "hl-22e3db4de0b59643",
       "date": "2026-09-18",
-      "title": "France's EDF plans 10 small nuclear plants in Europe by 2035",
+      "title": "France's EDF plans 10 small nuclear plants in Europe by 2035 - reuters.com",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR2dvaUVUUnduTlNRc0hqNUdBaTRDMEkwa1pGdzFWdTZsOFQxU2tjS2pSVnlxdXNUcjhFS2RFQUVpX2tRdnJKUU1vd1ZISkZGX3Y4OWhIUk9Lb0RmNTdHeC1vZnpGT1lWeWFfV2NTeFFWbFI4UGRFMW96S3AxSmxVWDB1NEE5bUNJUXQyWFBKTmU0LUozbXkzZnNoODhaYlZDYUs4Z0dxR3ltX1VE?oc=5",
       "source": "Reuters",
       "published_at": "2026-09-18T16:06:12+00:00"
     },
     {
-      "id": "hl-13caf9d5a2f210b4",
+      "id": "hl-829c324a566a4c7e",
       "date": "2026-09-18",
-      "title": "US seeks faster uranium enrichment expansion to avert supply shortages",
+      "title": "US seeks faster uranium enrichment expansion to avert supply shortages - reuters.com",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQVhRRlRQREJJR2VyaE5NZ1cxb0NEbGNKanFGZnlyZFEtd28zejJlcy1TdUd4TjQzdE5xQW1laDBSSHdNUFdpUDM4N3UzdEZpRjRram12czAya3o5ZHBSLXlSQ1dSd3JsUDhnT0JWOXdpRGdYaUFqTUx1Vmlhek1NUDlaUUtKN2d3Z3JJN2lzMUV4TnBYbjZ3UXJiZ293b2FaUmRmR0I0TGF4YXZWeXJjZU0zYVA3YVlWVVpEYQ?oc=5",
       "source": "Reuters",
       "published_at": "2026-09-18T15:55:38+00:00"
     },
     {
-      "id": "hl-6ac1d399da0acc3e",
-      "date": "2026-09-18",
-      "title": "青森・大間原発、再開時期また示せず 専門家「Jパワーの仕切りは元々無理」 - 日経ビジネス電子版",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWMl80ekthWnlrRy03VG5HckRwSjVLS25GY2Q3WHhKNlhuNGpOZDZQbVVEcGxZM1lHZWhMcUZEQXdCVXBkdm92VkxzNXFodHJObWRZQkVMbjNNUWh4dDdIOFN2WDdmOGVTVVE3Zg?oc=5",
-      "source": "日経",
-      "published_at": "2026-09-18T08:00:00+00:00"
-    },
-    {
-      "id": "hl-5cc59507e5b5e2fe",
-      "date": "2026-09-18",
-      "title": "東芝、原子力発電プラント（沸騰水型軽水炉）向け「発電用原子炉施設に係る特定機器の設計の型式証明」を申請 - nikkei.com",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5icFpvTXZycGN0WWpERzhSYUdoN2JhUWFmMGtMWlplR210VmxTdjhxSmd0eTh6NGRFUlRXaThmMEZPN05ZNG1CSTR3TTE5dUlKRWdVRU9sZnkyQVdBcW9xVTFNVW1vajNCakZQcA?oc=5",
-      "source": "日経",
-      "published_at": "2026-09-18T07:00:52+00:00"
-    },
-    {
-      "id": "hl-d7248a99a6828cc5",
-      "date": "2026-09-18",
-      "title": "US says Saudi nuclear deal off without Israel recognition",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaFEtb2pVRzJFQThOZGROZ0hBV0pQUHNWSE1kZkFIdG9nV3d4eHBHUXlaTW1jQlpKVmNmV2twYmQ4VjJ1WDNPeW4tOXYtamtJeXk4STFCWk5CS09yUDBoRENzakZmR1FXbXdTcy0zbGdneURkUWphR1p0bTZxOUszS3Z5TXkxQnBwYjlBYVpXSEJCR3cyR3dZZTYwQktlTDJ1ejNpYklIQmlESXJCempEYUR4UWJXX2QyR1lwVGdiUmtMYU5NdzE2UDBn?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-18T07:00:00+00:00"
-    },
-    {
-      "id": "hl-ca7bc701d6942881",
-      "date": "2026-09-18",
-      "title": "Kim’s Sister Says US Drills Push North Korea Nuclear Arms Growth",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ19LelZrYUJscHVjWXZBTE9iemsxcmpCZzFDM3ZuWU5oQS1fd0JJcWlqMmtKM0dKR0JKbDUzWmV3Y2ptRUZ3ZFJrVzNfNWxvWjl3NWluai1yT2RmeVZIaHpJQXJKZFF0d0JIOHRtMFphWTNJSmd1dHV4a3dxblRTbGFxT0xXTDd3NE5SY0JocjVuMDRKMVBvVUlfXzc1eXBNWFExSklEUnpWRC1pWmt2SWhQQQ?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-09-18T02:01:00+00:00"
-    },
-    {
-      "id": "hl-5c8798445ef7bab2",
-      "date": "2026-09-18",
-      "title": "North Korea says US-led arms buildup justifies expanding nuclear force",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNU0zRU9hZ181OVZyTUp5OFNoY2NmUGlmZ2o0dGhXU3dKSG5oeC0wU1dpSEY3OHZtTkVDODNBUEhkcUl5XzVyWUlGNnlHdkV6VXBDSHV4QW8wbC0tZkxJV2xuS21QVjFmaGd6OHNhV0xhVTZTZHBmakdvTWQ1UjZpVXNqRGU4Z1ZtM3A4aHcyR25DTnNnOFgxZk94RjEybGVtQ1M0N20wamNYUFBHWnlNOTJCNU9QdDJQbndtcDkzbkVzQWhITjYtUW1TQkVQN2lYcnJR?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-18T01:31:29+00:00"
-    },
-    {
-      "id": "hl-d33508edd565ec06",
-      "date": "2026-09-18",
-      "title": "Holtec Nuclear shelves US IPO as AI trade hits turbulence",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZFo4eWh5Nm5DY2lvX3k1cFZpbkw2QU9WNVdTalg5b3B5VUJQWlhvWk5qeVFuVjNvMlFES2JIMlh1VWlMWHpXcWZuQ000WjFBU3JhOVJmYUcybDAyaVBSeTZPbGxONENmeTBFQmg5NVhEYjZpbkRzaXByY2ZzZ0hZQkZqdTQtd3RBbFh1b09kYV9YTUQwa3hTM1lYQjZOZERWQm9VelBn?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-18T00:20:35+00:00"
-    },
-    {
-      "id": "hl-379e2b3ce61550b9",
+      "id": "hl-fd1d03cc07e02550",
       "date": "2026-09-17",
-      "title": "Japan’s Nuclear Revival Hits Setbacks After Scandals, Accidents",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcVZnc2U3bDdNVGNZbnJFTkQ4UWp2a2tjanlzanpmbnJNS1VxS1BQY0FSSDR1T1NINW1XbjVzZkJKR3I1WkxHTkMzLWg4WVJVRUltaEpZR0tfTE9ZVkZubnFRUDZJc2RKUnlBSkt2WXFtdkhhYUQ2UXBoa2JhU01fM2VsVTgycjZXdWozZk02MEVqTVJQOS1UTDhfN2k5elNHVzBqZTRLMkExeDhMQnFpd041cw?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-09-17T23:37:17+00:00"
-    },
-    {
-      "id": "hl-e5ea3756b1f831e1",
-      "date": "2026-09-17",
-      "title": "Move of the Day: Nuclear stocks jump on energy bill",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMmdlY196UmhzWU00YWtxNWJKLXZxMEh2ampMN2dUSVhNakhwaW9Tc3V5RFplSWt5WlBHTkZOOUdmNnBsS2tCMzNVSUpiTGMtaDFwMFYtMGxWSjZKSkNpeTdkdnl0Rno1a0VWR3JyWEVjaVpkbnVsRE51ei1hZ1ppOXJ5VWVkZzJzRDRaMF9yUm1wZDVnWmVkZw?oc=5",
-      "source": "CNBC",
-      "published_at": "2026-09-17T21:43:00+00:00"
-    },
-    {
-      "id": "hl-ea47c68bcbfb0832",
-      "date": "2026-09-17",
-      "title": "中部電力･不正の背後に｢原発再稼働｣への固執､調査報告書が指摘した｢独自の正当化理論｣…異論許さず不祥事の温床に",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4zNlMxbncwc2VneTRNZVozRnZ3NUJQcE15RzRKV245eWoydlBnb2ZTX3NqUTdJYkpoQkZTX0Ric1E1cnlKUFZDaU0waUNXMUhobGQ4NjBISGdYR3JoczVF?oc=5",
+      "title": "画像 | 中部電力･不正の背後に｢原発再稼働｣への固執､調査報告書が指摘した｢独自の正当化理論｣…異論許さず不祥事の温床に",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0xb1pISzZ6SVcwbTgyYW5TNE5sZmRvQ1N3QkR5X3dRZTg3bjB2ZE1rcGdkQ2ZzZEoxMHlkT1BCcHpEeW9tYi1qOUg2cC10ckVsTmpMUmVGYw?oc=5",
       "source": "東洋経済",
-      "published_at": "2026-09-17T21:00:00+00:00"
+      "published_at": "2026-09-17T22:23:04+00:00"
     },
     {
-      "id": "hl-f1b66e7ec5248ffa",
-      "date": "2026-09-17",
-      "title": "原子力規制委、浜岡原発の審査却下を一時検討 中部電不正で 先んじて取り下げは想定外 - nikkei.com",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xcWc4bjZHVk5CRFdTQVRjTFM0eUdFTmVuVXFfSDVzZUFLVmt1OFlqLV92RmZzU0NQVGFUdXhZeXpsZFFNM1BTdVpXMklRbEh5c1FDVHd2dE16Wnk1N2MyOGNhMXRNR2ZhZDRrSg?oc=5",
-      "source": "日経",
-      "published_at": "2026-09-17T17:00:00+00:00"
-    },
-    {
-      "id": "hl-44b2e63487b24967",
-      "date": "2026-09-17",
-      "title": "US Democrats look to stop Trump's Saudi nuclear deal",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZUFIazFYWDhqbnZxbFFlTW4wbUgtdk53aWs1SUNJbnNjT1RSaHdkVlRvdk14NnlYVlM2OUZrcGJHQmpmaUgwb1QzUXlBU1NRX2FIMGRjdmYtTE0wRVVPZ2FJN3NqR3VhYUw3WlBaMldzb181MzRmTjc3eUdhOHNDM1JiY2tJWkllOUstU01wUlJqSnNxeXJmNTZRN3VNMFh3aXRV?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-17T16:52:19+00:00"
-    },
-    {
-      "id": "hl-d85e0666860f07db",
-      "date": "2026-09-17",
-      "title": "中国電、原発に託す社運 島根3号機稼働、収支300億円改善 投資と財務の両立課題 持続成長へ難路続く - nikkei.com",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9GYUdnM3hCLTB0UTJJYkRxeE9kVkJyd1ItMEg0REdXQjRYejMtRjBSemo3RlJ6YnBHWVhfRENCcWxuVFdzY19fUm1OM2l0dDk1S2lIVDkxMWdyd1ZuR29jb3BBcEo1Q1FtdTZaYg?oc=5",
-      "source": "日経",
-      "published_at": "2026-09-17T16:49:00+00:00"
-    },
-    {
-      "id": "hl-c1e331c31cbed53c",
-      "date": "2026-09-17",
-      "title": "Iran’s Rare Win Over US Sets Up Clash at UN Nuclear Agency",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPR3d1WWRZNmZHWURmZUsxaWRKV3I5QVJORmJ0aHlhak90bTVMQW1mdUNaa0FORS1BS1hCSWlfUmM2ajUzejhKX01NUUtvTEZFSXNVZHVGRDBGdjlUcDNXdWh6RTV5d1pzeHFGbGlRTGFGbE1kUG8zQVE4dGY0MklTZW9aM0gyQ25aSGlJaWlyLV80Njd3ZGF0TlhXREk3bV9jUnl5bEZtSy13MmlVREE?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-09-17T16:45:27+00:00"
-    },
-    {
-      "id": "hl-7f574846fe5eee55",
-      "date": "2026-09-17",
-      "title": "North Korea's nuclear ambitions",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9tX0pIX1lyYUs1YzhoY0hCb1hzU09wSVpsc1JqVkZFOXA3VUVISi10eDZvRHFtQlU3TUxwUUZtalBaUDZxSV9iMEt0c2ZRZzZocFhxcjNUQ2tzb3FoX25N?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-17T05:23:09+00:00"
+      "id": "hl-664ee1c60cd5882e",
+      "date": "2026-09-16",
+      "title": "｢石油はいつまであるかわからない｣サウジアラビアが原子力とレアアースに伴うトリウムに賭ける知られざる事情の写真一覧",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA2allPc3g2Z19Ba1c0Q3c2eVhiT3VuUWVTX3pHVmlEWUFkNmVEZlBDMWRlUTVtWGFpVTVvUnBBLTJpcUY3dWJrZ0FZZERwSUlFXy0wOXc0MA?oc=5",
+      "source": "東洋経済",
+      "published_at": "2026-09-16T02:30:34+00:00"
     }
   ]
 }
