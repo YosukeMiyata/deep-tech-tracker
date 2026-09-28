@@ -1,6 +1,6 @@
 {
   "_schema": "id: 安定ID / date: YYYY-MM-DD / title: 見出し / url: 原文リンク / source: 媒体名 / published_at: ISO8601(任意)",
-  "fetched_at": "2026-09-25T14:59:56.637363+00:00",
+  "fetched_at": "2026-09-28T18:01:53.237590+00:00",
   "theme": "defense",
   "sources": [
     "日経",
@@ -14,68 +14,348 @@
   ],
   "fetch_notes": [
     "日経: 12件",
-    "Bloomberg: 11件",
-    "Reuters: 31件",
-    "CNBC: 7件",
-    "WSJ: 3件",
-    "日刊工業: 1件",
-    "東洋経済: 19件",
-    "SpaceNews: 13件"
+    "Bloomberg: 7件",
+    "Reuters: 23件",
+    "CNBC: 5件",
+    "WSJ: 6件",
+    "日刊工業: 0件",
+    "東洋経済: 18件",
+    "SpaceNews: 15件"
   ],
   "items": [
     {
-      "id": "hl-1445e0b7f9dc3904",
-      "date": "2026-09-25",
-      "title": "UK firms to use Ukraine battlefield data for AI drone swarm development - reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdVV4NEpRTjNmNElrSlRPZnpPRURQekV6SzY3MnZSX19nUHAzN0puTTloNjJOeVFNcG9SMUdHcFJGbXJuZnBwSFpOY1NLRURwTy1Fc2JnbGdoYkw0SUZlVm9MMm5QcnVubm8zd0taWVFidHl2Z0RiZ3dhMkh0YWhncGpZcktqZG9HOXFUajQtX2tTSTBaa1hKRGZpbnk0T050Q1d0Ri1OOHpMa25NN2pZQnBGUU5uVm00enF0bGlvVDJseGd0Qmc?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-25T09:35:06+00:00"
+      "id": "hl-58d5d0bb48a4e99f",
+      "date": "2026-09-28",
+      "title": "小泉防衛相、タブーなく核兵器・原潜保有を議論 安保3文書改定巡り - nikkei.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1XTzljbjk2YnlWT3ZzeTN1eExLcFNCQ2YzbFFDUjgwMHFTSkQwWi1QblhwdUNQTElQbjRPR1RxM09ERHNuQ2RjMjBPNFM0YkY2NWhRUnJXbXpmZlN0N2JqN01INk9FVl9raVRobQ?oc=5",
+      "source": "日経",
+      "published_at": "2026-09-28T15:15:00+00:00"
     },
     {
-      "id": "hl-0f68cf03fbbbef25",
+      "id": "hl-b2e1727304db91fc",
+      "date": "2026-09-28",
+      "title": "Space is everyone’s business: Economist Enterprise’s 4th annual Space Economy Summit returns to Orlando",
+      "url": "https://spacenews.com/space-is-everyones-business-economist-enterprises-4th-annual-space-economy-summit-returns-to-orlando/",
+      "source": "SpaceNews",
+      "published_at": "2026-09-28T14:57:21+00:00"
+    },
+    {
+      "id": "hl-2563c03903bb5eed",
+      "date": "2026-09-28",
+      "title": "From pickups to idle plants: automakers seek lifeline from defence boom",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQW9jYVdEZ19vYkRWVC04bnJLU241NWtCby11TnJGMkEyX0RiT2JicGI2ZnZfM04yLWV2aW5vVjlUUTFzbmtnZnVKdk42VHkwLWZRUDlveC1LUWRqcERlX1BTUkNtT3BhUVNRUW1VMVN0a3pUb0czb0FWX1NxYk1zU19PWC12cjVub1IyVnJlTWNmQi1mcUNxVEh6OEpBMVhyUFhwb0FNeXZYTTdmdzFDa2ROc0Z2YjlVYW8xdTRaQlA?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-09-28T14:15:14+00:00"
+    },
+    {
+      "id": "hl-69b9e97053c6cc46",
+      "date": "2026-09-28",
+      "title": "Nvidia's new AI platform, Nor'easter flight delays, NFL's drone focus and more in Morning Squawk",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOWJsc3YtMzFrcHdhNlNPRDdZTHZqcWFiY2JjdzZJTTlSNlFJbXBvNC1uYjgzcHdCYXdRMmpJMndkNUg0R2hxcExwbUlKSHdJUFdrUEJnNjR5c1VFNC1fM21sLWI0ZElfUEpDX1IzWUViOWVoaG8tNnF6N0JsSXYtcHpENHhVcGR1Vmdj0gGQAUFVX3lxTE1KZHJhek1uc0ROamdRZDgyRzhlTDZoZkgwWUMzVkczNHpNUEI2R3RIS04wZDBwWV91bmplWEhOT01XYWVqbmY3b3FmV091Z2h4Wk9rMHBpbDczaGJvQ1VSVG9ybDNZYXliMVE4aDZINjNEUDI0RDAwRi1lWHU0V2RRdzZzbDgwSGRycjVxWEY3eA?oc=5",
+      "source": "CNBC",
+      "published_at": "2026-09-28T12:09:46+00:00"
+    },
+    {
+      "id": "hl-a675dd25c99d55b8",
+      "date": "2026-09-28",
+      "title": "Defense Tech Firm RedLattice to Merge With Bold Eagle SPAC",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdThMRVRBMFJudDc5VGNUOGJ4eEVyWGdGbFFDTVpEYnhCQ09JOWhMeW5NaUxDQVFEQTExR1pRTUxRTzF1RjR6Z1dnSUdRRWxRX3QwRDljd2pCaTc5V1NTRUNGaUJGXzlCWWdkWnc4dWs2aTNVUjJ2TDA2cDZVV2FtWTk4STRPSDFLQ21HTXhQNGJFU0thMmlILUdJNUdyeW1VX19rVEUxU19BQlB3Q1E?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-09-28T12:08:03+00:00"
+    },
+    {
+      "id": "hl-36289e48c444b5a4",
+      "date": "2026-09-28",
+      "title": "Agile Space Industries Expands Leadership Structure to Support Next Phase of Growth",
+      "url": "https://spacenews.com/agile-space-industries-expands-leadership-structure-to-support-next-phase-of-growth/",
+      "source": "SpaceNews",
+      "published_at": "2026-09-28T12:00:00+00:00"
+    },
+    {
+      "id": "hl-73f01f3bb5d71d81",
+      "date": "2026-09-28",
+      "title": "EU members approve five big pan-European defence projects",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTDJycHFUcEdJTmlST1FoOEkwei1mc3liQ0NyMEEwdzdpRjJQWHVLWk02WFlMMGdHZDFlb3dmdDRpcEdYNUdGY3pOTHVDNl9mRzVoV3pFb3NfeGZmNjVBYWJaVTYzZHlmQXlEbTVMYkdBQWNvenZuU3dlYTM0ZXh1SnhpZzhjbm5ueU5LTXBWdkh3QS1mdFU1LVJSRHBYSjY1bi0xUmw3OWtnSGxzdVY0Mkt4alZzZm1hc2pZYg?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-09-28T11:07:44+00:00"
+    },
+    {
+      "id": "hl-673c68f0bcca5b96",
+      "date": "2026-09-28",
+      "title": "Drone Threat Drives Rapid Expansion at Dutch Radar Company",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObUR6RmRFbTU4T0tUNlRrTXUwZUNabGRpN1plUHFlNzZfdDRxbVBfS0ltWGxkVXNrWEs0dl9iVC1RWHdnaUluN0NHanR4Z3BSZk9qY1Z2UVNQaDdfVkRkZWN6dUVveDRLWU40WjE3SS1na2p4eXFMYTA4cHNYcmRpTDZLTGFKeFFiazlGN2F5bWNLcXlCQWMxdzdlVUItY2dXR0FlRnBaVTB2V3RiZEE?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-09-28T08:37:17+00:00"
+    },
+    {
+      "id": "hl-d067faf002bb308e",
+      "date": "2026-09-28",
+      "title": "Japan’s Defense Buildup Won’t Rattle Markets, Government Adviser Says",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTE5YU0Y4VHdpSlNicEFTWk9IRGRsUXU0VklQUVAyQzQzZTBySXp3b3ZkU3VaNzFTdGloZzZreWRyRmQ1S3ZIcU9ydUlCbVN3c2JlUkNNV2d4R1N6Y0RwV3RvRU1CSXB2RGt0U3Zib1VEcFczcE5pSzBSS0hDWUxBUTN5dUxMb3dCX1BlOWR0bzVGNHZWRjFtOE9hUVprZDlCU25IZElYbUxDN1JaOHZTalZBWQ?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-09-28T01:52:00+00:00"
+    },
+    {
+      "id": "hl-c4860f61bf1be944",
+      "date": "2026-09-27",
+      "title": "UK's Healey puts defence in focus for reindustrialisation push",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN3lyZHF6UXJQTVJiWnNKbzdKcDdGRFpWYTdHbW5SQXFMVGVvUkhVLWJBR1U3bmZsNGhTM0FFTzZ2SG5fVE9hRnJmMTZkRnhtdjNkc0QxZmlOLWNjUmJvY3FOOEtNNEhZcnozY09DYTJVYXZ6Wkx6SHdybUlycVJyZHBuZFdHaEgxMXdNblRHSjdwVW9JQWpFNFhwV3RPdGtIR1J0NTByZERGMHVraWhPdExfYVRpZmNr?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-09-27T23:03:00+00:00"
+    },
+    {
+      "id": "hl-5aa17310c636e91c",
+      "date": "2026-09-27",
+      "title": "富士通がAI時代のサイバー防衛戦略 - 日経クロステック",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBwR3Y2M3dQRlJLVVV5TEdyXzZtYU5xc0FOaWdCY05CMmY4bkJwZXE0ZWJ0ejR6Sk81aEx2MW91WGphQ0VkMndOSklWQmhXQ2gzdHBtNm1vTWljR2xxMUtlZmoyR2FoNDFGS2VNR0J0RFNHUkE?oc=5",
+      "source": "日経",
+      "published_at": "2026-09-27T22:00:00+00:00"
+    },
+    {
+      "id": "hl-d1949257c61afbec",
+      "date": "2026-09-27",
+      "title": "顧客を守るために｢銀行システム｣を止める日が来る…官民会議の座長が語る､直面しているサイバー脅威と新たな防衛策",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1jRGVZZlpkVGs2SzA3dExiWGVIYkxmX1JXcXFVaS1WQTRjYmw0LS1jQ0hydEJvcUJZZVlRdER2NktWNkE1MGhLckhBQWJGYzgzeVE?oc=5",
+      "source": "東洋経済",
+      "published_at": "2026-09-27T21:00:00+00:00"
+    },
+    {
+      "id": "hl-c7e1bb82f8261b43",
+      "date": "2026-09-27",
+      "title": "顧客を守るために｢銀行システム｣を止める日が来る…官民会議の座長が語る､直面しているサイバー脅威と新たな防衛策",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RWndRaXVhbVVhVFJrcmFwTm9lRHF2dm5NR1RpZFQ4ZnpXSG9UT1pFLWhFOTdNUUpwMDBfRVZyanFSWUVEaDZEcmRZLUN2cmFvTDlEUmFkWjQ1Nlk?oc=5",
+      "source": "東洋経済",
+      "published_at": "2026-09-27T21:00:00+00:00"
+    },
+    {
+      "id": "hl-2e4adc8027744a1f",
+      "date": "2026-09-27",
+      "title": "North Korea Is Testing Swarm Attacks Mixing Drones and Missiles",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQ0hoV09vR2hMYnZleHBQSUVqTk5zZ3cxZVM3bGhCMkRCV29OdmhYUVNXSHF4WF8takQ0czdCdUUtaWk1WlI1YUJwT21hNUFvOFBadU1UcFpSM0xlQndUOHRZX3VpY0FicXVkWDVJS2pzZWQzc3RfSFpOcGhDRWkwcmJoOFRqcHAydEl5X2s3aTRkUUFPWnk3Wkg3Q3hMcHM?oc=5",
+      "source": "WSJ",
+      "published_at": "2026-09-27T20:47:39+00:00"
+    },
+    {
+      "id": "hl-763c6a1b95d1dcfc",
+      "date": "2026-09-27",
+      "title": "強い円へ日米タッグ、雇用統計・日銀が波乱要素 防衛ラインは160円？ - nikkei.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9UQktTQVZHVTlOa0RVdFdZTm9ZbHFsVjROTEcwbF9xQmMxMVAyOEFYaEhKaWR4Ul9IaFZUZ2t4WVQ4NDFKMjViUThxVVpvQ2pFTnd3d2ZHZ1dTRmRBdjJvV3ctbENmekZKNkk5Xw?oc=5",
+      "source": "日経",
+      "published_at": "2026-09-27T20:00:00+00:00"
+    },
+    {
+      "id": "hl-fda98178c2ef6ba7",
+      "date": "2026-09-27",
+      "title": "（ボクシング）井上、2度目防衛 WBCバンタム級 ダウンも冷静、那須川下す - nikkei.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Pd3VaRmpWaHM5WDhzUVM3bmpLVHhlMXBfeVIyTV9PRndSRW45VmprbWdrNW9hbGdmblpiRnVVZFRxX29mVGF5SW9CNHhQRTVEd1NzazF4eDBmZ3ZYMFBBdm1hbWxpTnl6SXZCSw?oc=5",
+      "source": "日経",
+      "published_at": "2026-09-27T17:00:00+00:00"
+    },
+    {
+      "id": "hl-1a25e41f91a63187",
+      "date": "2026-09-27",
+      "title": "Kazakh President Dismisses Defense Minister After Drill Deaths",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONFA4cUZJQmN2V2Z5cGptWm9KQ0Utb0lsRjduOWhjRFNtUlBNc1FPMkVfYzhvdFNfd2NrYU93TC1XaDFfSkNNdFZlQnAtY1oyaEREdE9jTHMtX25ieF9uZHBudUFyOHAzbS1BOTZsTkpVaEIzMTV3Q1lkeVhGNXF5ZHRyaTNFbmo1bzY2RGJweDdFWUlCcVZmX0hzamRGVkI4M3I2UEVWcGJzQlEwVVJzTGZJWQ?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-09-27T14:48:03+00:00"
+    },
+    {
+      "id": "hl-9e53c28c699a5d2f",
+      "date": "2026-09-27",
+      "title": "Afghanistan says 28 fighters killed after crossing from Pakistan; Islamabad denies ties",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWHFmNzhleVFtVHNiMHZNN2JEeWxxS25BZkJGYTZ4d0lRODhZdHhKUnI3LTNMWHlMTTZiaDdkaDlabGl3Uld5dXdqVFdjMVNIRFVrNk8waXl4d1EwNF9hSEVaV2tiTGs5TjA5ZkZjNUptSi1xdFlNNG5NMnZOdXdCSDFSNmpjR0ZzdVF4bWJzZThBOFNuXy1aSndCdjZmSVFqTjc3VWVSNllOcFk4THNhb2t5OFk?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-09-27T12:02:30+00:00"
+    },
+    {
+      "id": "hl-f28f00ad1a95b09a",
+      "date": "2026-09-27",
+      "title": "At NFL games this season, drone defense tech aims to bring down disruptions",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdTFnMVFfbVRVVE50SXN6Rkhsb0ZWUFZTZUxZX1ppaGRDUnRyajExQldiRlI0dVlDUHRyLTFXSHdEeW9fWUUyWDY3aURaX2c0ejJGTTBudnctX1dKbDBuZ05NQkRXc1Y4OXdNOGJZeXRHWEhlSlgzM2pEbElSOFF3VHJ30gGHAUFVX3lxTE9ubmp5bktKd1ZlRW5aTXFUZGN3OU1fa08weS1nVE5ORFBOQTBYd0xEMUxlcVNUanBETnlYeGI0QjRhdVFBT1VSU29GTnlVZWlvY0MySGNhM3lBZGY5OEdubTQyWElPYmpBNTByRzk0TlBFNkJLODRDaHc5RGxLX2RhWGNhQkphRQ?oc=5",
+      "source": "CNBC",
+      "published_at": "2026-09-27T12:00:01+00:00"
+    },
+    {
+      "id": "hl-78439b38fe80225e",
+      "date": "2026-09-26",
+      "title": "｢飛べない国産哨戒機｣稼働率2～3割のP-1､なぜ失敗は放置されたのか―防衛省･経産省に欠けた航空産業を育てる能力",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1yY1AtSVRaY2NFbEt4UGxhLXJUVERaQWVrY3hnSGJvOXFPY2V1ZjNJN0hMa2NQdFBBbmhRQVoxVDJNUGZhSjR1M3Nqa0hiajVFaTctSl9xTDZBVlU?oc=5",
+      "source": "東洋経済",
+      "published_at": "2026-09-26T21:00:00+00:00"
+    },
+    {
+      "id": "hl-670dbb7b26a0e42e",
+      "date": "2026-09-26",
+      "title": "｢飛べない国産哨戒機｣稼働率2～3割のP-1､なぜ失敗は放置されたのか―防衛省･経産省に欠けた航空産業を育てる能力",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5iUy1MelNjaVZZcWlYYXNnM1dfZnJfb25NX3lwOWs3TlR6UVJSSElRWWFzMVlUUnNJQmJNRHVkVkpPaXFUdUdPb1R4eW10RmE5TVE?oc=5",
+      "source": "東洋経済",
+      "published_at": "2026-09-26T21:00:00+00:00"
+    },
+    {
+      "id": "hl-5fe5024782565345",
+      "date": "2026-09-26",
+      "title": "｢飛べない国産哨戒機｣稼働率2～3割のP-1､なぜ失敗は放置されたのか―防衛省･経産省に欠けた航空産業を育てる能力",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xUHZuSVZJSzBTN1E4Qmpib09xOFBkZ2poNHZtemh1Z0ZQUmFBY09va1FjOThpUERMOHZFWGlQT2lsMHVTV3YzdnZiQUhpNmtncWw4T3pGY3pEYnc?oc=5",
+      "source": "東洋経済",
+      "published_at": "2026-09-26T21:00:00+00:00"
+    },
+    {
+      "id": "hl-50f6449b2a9d9ae5",
+      "date": "2026-09-26",
+      "title": "｢飛べない国産哨戒機｣稼働率2～3割のP-1､なぜ失敗は放置されたのか―防衛省･経産省に欠けた航空産業を育てる能力",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vSy02WWJJdVhfTlhLaGt4UGRNN1E0UXNTSTEwOWx5LXUxVGZMUC02WVFQYnlTYndsX3ozRXI1czJYdXozMHFER2Y1RlRaU0dGUTMwakdzdHNDSUU?oc=5",
+      "source": "東洋経済",
+      "published_at": "2026-09-26T21:00:00+00:00"
+    },
+    {
+      "id": "hl-449869762c13bca4",
+      "date": "2026-09-26",
+      "title": "Saudi coalition says it intercepts Houthi missiles, drones",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdndqUFdtd2J6b19yZlhhZjlOZXVBYkNvYjVtTjQzYUxlRTVldkZHbjdQdDQtMGI0ZFEwSEY2MTc1OHNTcWJHUXJCbFJjSlpFb0o3blUxMTRBQWZncEVZaEZiMEdJbU9ZOGZIbUFxQzB3SGduZFZ2ZGFDYWNoZEtqVTd0QXRVZUc2UHRXMnpjUi1XM0d0a3dXcDg3ZFRqd2xsWHdzVXlhOXhMMDlQeHlpcEFXWjNncEZWbnBxZ0NaLXI?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-09-26T03:13:41+00:00"
+    },
+    {
+      "id": "hl-c45f97a2f6950f23",
+      "date": "2026-09-26",
+      "title": "Overwhelmed by Ukraine’s Drones, Russia Tells Businesses to Defend Themselves",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNDRLMDFWM000dm01WHlBWWRoQWMxaC1QU25sU05KTTJIaUV6bm5MM0FScWN2SU1mNndkVF8xMjF6eFJjcU93X2c3YjR1dWhXZmtieVByR0IxaG04ZWhKMWdJRXFTUlJDWHRDcnlQVVktaC1XWnpWWjJ5dG11YjRyeEtsd0JHLXdEeDVZa0FkdjlVU3M4eE5jNUpUekRZSXNQdHdEYU9zV1lKQkRUSkJpbkpiWnN1cEh0?oc=5",
+      "source": "WSJ",
+      "published_at": "2026-09-26T02:00:00+00:00"
+    },
+    {
+      "id": "hl-45439c55ba93f1a9",
       "date": "2026-09-25",
-      "title": "UK ministers to brief defence companies, infrastructure providers on Russia threats - reuters.com",
+      "title": "サウジなど3カ国、フーシ派への対応協議 集団防衛の誓約を確認 - nikkei.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLRUZ3SGVndjEyMi15N3JuNVhiV3RwRW1USm1hNXNYZ2JBZXQwRGw4blZVcUpaZlVCQkxjcDd2VGJSNVYzRVEyOHNFZDNsWElHcS1ocTdVaXpITVNfUU5oXzBDc2ZmdWZFZWsxNw?oc=5",
+      "source": "日経",
+      "published_at": "2026-09-25T23:09:42+00:00"
+    },
+    {
+      "id": "hl-7ca54fb7ad181c46",
+      "date": "2026-09-25",
+      "title": "サウジアラビア、トルコ、パキスタンが結ぶ防衛協定は？ - nikkei.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1Bbm5UcjR5TVpvcmk5eTdMdXViYUlCQ3MzSTFJampzSzBSX0JDaVlCLXZmSkx1eFQtb2doZEliWS1URzVLOFRkaExOWjRJVWp2UFJiQldGcnZXNVVhRGJWeVlmb1RFb2J3b3p5Z2NPb2J5ZUpfMG5LUUpPQmlPZw?oc=5",
+      "source": "日経",
+      "published_at": "2026-09-25T20:00:01+00:00"
+    },
+    {
+      "id": "hl-5b74466c1e558b00",
+      "date": "2026-09-25",
+      "title": "F-35 Parts Seized on UPS Path to US That Often Stops in China",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRWxRbk9zaG8xMWlVVkJBLXFOVHh5cG9ISXZCdkZ0T05IRktpUmFEcDI1UVg2QjVEdU15OC1RaWpSdEo0YWFBS0FjQTV2MzdpT2d4MUxPMjltdXA3dW9iRXF1NzczZjlHMDFWclR6MkdtVHQtUHRLTEVoSWJEVjlLazR4NVJQczRNSzFTTG54Z2EzV0FmRHBTelpQV2NCRWpFVnVPY1BVQWx2THNXNWtfdjln?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-09-25T18:32:00+00:00"
+    },
+    {
+      "id": "hl-1d259ce2a75f099b",
+      "date": "2026-09-25",
+      "title": "Opinion | Inside Ukraine’s Drone Mission Control Room",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOVhFOXowYmZGQlVta2FrcUJENHltR2RLWkJDQVdBMW9td3Jxc2xscDVVeEpiQmZGUHdkeFptQ3NaejZxUlZhM1JPSHRycTVUaTN2WVhJcUFLdlg4ZVZHbS12QTFMZGNuemZCdjNFNkRGYzVWdDNqVm5LVTFTTVZ0VWQ4d3R1UQ?oc=5",
+      "source": "WSJ",
+      "published_at": "2026-09-25T17:51:00+00:00"
+    },
+    {
+      "id": "hl-99c58489addff73f",
+      "date": "2026-09-25",
+      "title": "ドローンなど装備品、量産へ新興公募 防衛省 - nikkei.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1mUUJsT3RJazR3QVcyVEFYNTBkZ0pQNXlyQk80bWw3MUlqbUJFVHYxOXVKS203R3NFTzQxdl9JX2hKd3l6RURkSnR4RkU5Nko4NWZFWlpDeTZBVnlSWWpwSmdjVzU0Ql9KOFJCZw?oc=5",
+      "source": "日経",
+      "published_at": "2026-09-25T17:00:00+00:00"
+    },
+    {
+      "id": "hl-6a10d5b974e5a1cd",
+      "date": "2026-09-25",
+      "title": "Russia says it struck Ukrainian defence industry facilities, vessels",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPclNBcm1TMURGNjhCeWNpQnlDTFgzQml2aFd4TmNKRXVaZEFyQzJoN1NNWTRnYXZyMnF1bHJ0REE1d09oeVpZRUV6UWpHVUg2MjlPNUxPWXJJVEdQMWtMem8yRTdtREstRjBkU25iemdRYmNpNGhjN0pyM21VOEg4UXBsMjdSYWJCNTRaSDJtN3VxS0ROQnZjbVhZODV3WkRhODByLXZmcVZlbmlXV3F6czMwV0MzZHBxZnVFMjB0SU9LSjhLbE4yU0d3?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-09-25T16:11:30+00:00"
+    },
+    {
+      "id": "hl-87aa772b78e61a09",
+      "date": "2026-09-25",
+      "title": "Swedish, Finnish fighter jets intercept group of Russian military aircraft",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUFZXWmdHU3d1eVF1UWdzV1RYVEJJeEVFTjV2aFF0REdYYUUxMEZSV0o2dlVPb2hoZzhELVU3MTNINnh3b2ZOM2kyWmJpQlU4ZW11SzhBOTlIeWl4OHJMM1FlZUNLS2hKZHl6c3Uzc0NuTDllTEItbGhyRHE5S3NianZTbXk4NWxaa2F2NTNBLVlXSmdvSTBPeDk2NXUxNmNqWnlqTDJlaHRFMTgwZjdSZHdsSERkY1hJUnRSa3RoczZYQXZoNkE?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-09-25T15:29:56+00:00"
+    },
+    {
+      "id": "hl-bd685f70dfcd1025",
+      "date": "2026-09-25",
+      "title": "Telecoms networks disrupted in Tigray as Ethiopia's military cites major losses by rebels",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbDJJMmIzb3BPa0Q5MUYtLVNzSk1CdzRVWHB6QVBOTU5MeG1yVmZZQWNnQ2dhUHRGbTZqQnNoU2xBUzRzM2lGM25zMnZRc2tGVUpaMzR1dVBhLVVrazc2WkN0V1pKcTdKRzU4VkVPTzNPRGNMQm5MeFNrZU94M253OWRFZjZfenhpT29qY091RGN5ajRNV1dTbHUxM0N1QXgwYmJiOExqaldneEdfbXF2QVBWTmZNcFU?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-09-25T12:13:06+00:00"
+    },
+    {
+      "id": "hl-9328c34bd245aae4",
+      "date": "2026-09-25",
+      "title": "ArcelorMittal Drops Plan to Restart Ukrainian Operations After Missile Strikes",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVE1YcXFTQjN6SlhCWFdhVURDRURJbW1JMmxYSVJtbm9sM21pQ01vd3lrYTFTT1gxaGtiM3pBakJkNEpOeTZVN1ZjcWtJVlVjVEpSbkVtMklFSC1nS01qMmhSSzJHLVl2dHhvS09zTm42WDhjWXhBQkowTzV1M1RMY3psU0dTWWhwSUlNSE04dzRIZkd0MHU5X2pvdkNaR0pfQ3BPSDZnUlI3QkI0eDQ5X1R3UnVOaUpiR0ZJ?oc=5",
+      "source": "WSJ",
+      "published_at": "2026-09-25T11:39:00+00:00"
+    },
+    {
+      "id": "hl-e3fc0faebc071f4d",
+      "date": "2026-09-25",
+      "title": "UK ministers to brief defence companies, infrastructure providers on Russia threats",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNkRtcHliTFVyb1c2TDRXUmdtZU9HcVdvc0k4c2JReFRvaFE2Sk00b1Y4ald2SmZCUE01WVNEY014SF8xazduQTJPZmZXUlR5aWxyNE5UZWx6T2hGMDJVU3dRNTdDajVTb1IyOU9VMkRJX2hLc2c3UUFaSEhvNk80WWQwVTk2SGhrLVI5OWZCUGk5Vy1rajVpdWtsYWJKMFhJRjM2WGVVUmVvR3J4VEJFLUpQWDYxLTBXYjUwMG56ZkVvTG5qUUdnaUlSLVBhUXZLSTlTOHhn?oc=5",
       "source": "Reuters",
       "published_at": "2026-09-25T09:10:09+00:00"
     },
     {
-      "id": "hl-bcb93733f7637d4b",
+      "id": "hl-b53aab3ddfa82c38",
       "date": "2026-09-25",
-      "title": "Swedish, Finnish fighter jets intercept group of Russian military aircraft - reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUFZXWmdHU3d1eVF1UWdzV1RYVEJJeEVFTjV2aFF0REdYYUUxMEZSV0o2dlVPb2hoZzhELVU3MTNINnh3b2ZOM2kyWmJpQlU4ZW11SzhBOTlIeWl4OHJMM1FlZUNLS2hKZHl6c3Uzc0NuTDllTEItbGhyRHE5S3NianZTbXk4NWxaa2F2NTNBLVlXSmdvSTBPeDk2NXUxNmNqWnlqTDJlaHRFMTgwZjdSZHdsSERkY1hJUnRSa3RoczZYQXZoNkE?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-25T06:46:00+00:00"
+      "title": "画像 | 顧客を守るために｢銀行システム｣を止める日が来る…官民会議の座長が語る､直面しているサイバー脅威と新たな防衛策",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1TWjQ4T2Z5bGNWM2FCdm1KLXdsOHNpVjB2RmJwVzdpaGF5bl81dHJERF9kMzdkb2ZZZE5OaEp6S0QyTHlmTEFTZEEyZlpCeXNKQmhCTlh2Yw?oc=5",
+      "source": "東洋経済",
+      "published_at": "2026-09-25T08:01:00+00:00"
     },
     {
-      "id": "hl-42d3df23c9bee722",
+      "id": "hl-8fdf2261572a8fa8",
       "date": "2026-09-25",
-      "title": "防衛省、10月に無人機開発へ新興企業の公募 早期に量産体制構築",
+      "title": "｢人を変えて守るセキュリティはうまくいかない｣､元国連CISOが壮絶な経験を経て辿り着いた組織防衛の解の写真一覧",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAzTkkxWFJQSWhpV0hTNmpoMklEcHN3aHhPM3Y5eThSMUJBMldSUHpDS01hUDJVZ1JYQmozUWlvZjc0SEladjlYTDRsQ3J5WnhTeEJidEVqaw?oc=5",
+      "source": "東洋経済",
+      "published_at": "2026-09-25T07:00:00+00:00"
+    },
+    {
+      "id": "hl-890e13007540f228",
+      "date": "2026-09-25",
+      "title": "防衛省、10月に無人機開発へ新興企業の公募 早期に量産体制構築 - nikkei.com",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CQ00xZm90TDRyN21DdHFjZGIzSHE3Nk1GclRCNW50QkpqZmtFUTRUZlJSclZxS1hCbGl3Z0RvLXlJSG5tNmk5MVBUU0RGWVZ2Uncyb0l4bF9EQ3ZXRDBTbUdITXFreGZTUF82QQ?oc=5",
       "source": "日経",
       "published_at": "2026-09-25T06:09:35+00:00"
     },
     {
-      "id": "hl-a938953b97947acc",
+      "id": "hl-77fcaad94d209527",
       "date": "2026-09-24",
-      "title": "North Korea says South Korea a target if it becomes US collective defence hub - reuters.com",
+      "title": "North Korea says South Korea a target if it becomes US collective defence hub",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZDJqRlRVX2xBTWhnOWhMa1VOWUxhRFBDTU1KOUtqNUgtbzJ2UElnVFdoVUVFSHJ4VUJZdnN1T2J2djJfSG5uY0NGalZiRkdraW1tVEFSV1JsU3A1US16c3VaWWZsR20ydElhY0lrNG94b1ZqMExjMVJYVTlyQWlpR2hnM28xMU1maUxLOGNoSlQ4MnYwOTRGRGtCMVNDWm5YM0o0a1BhNHpiM0x6b1owcEcyWHN0Qzg2WGlCWndYdS1GUGt4WGNxc2J1ZFFRVVlHcDRmUg?oc=5",
       "source": "Reuters",
       "published_at": "2026-09-24T23:57:00+00:00"
     },
     {
-      "id": "hl-87f5a0593bb64ed1",
+      "id": "hl-0f8c7b0a778ee094",
       "date": "2026-09-24",
-      "title": "Finnish leader pleads with Musk to help Ukraine hit Russian missile launchers - reuters.com",
+      "title": "Finnish leader pleads with Musk to help Ukraine hit Russian missile launchers",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYVhWUGo1UzRrdV9OR0FEenhJZ0VPZ0dBT3lTRG5zSXlrbzQ2NS1fWmcxRC1GY1FWNTRGa3JuM3J3ZjFwUnRFR0Nkbm9HOWtRYVZsQ2tpc3AwYl9KbkxuenNtOFlsN0hINVFNRDZtejVsVGUxVkFRMFc4NEM0OXBCb0pZc01MZ19ERXVlYXpBYzA5aVZuZ2ZEUTZpVWtOb3FrcnE5ODRFYUpkZS1LQTJXTXVtamhDbWs0SDBNRjM0cnpZUnN3SVRWSUpBdkwzZ1FFaVZj?oc=5",
       "source": "Reuters",
-      "published_at": "2026-09-24T21:06:00+00:00"
+      "published_at": "2026-09-24T21:11:04+00:00"
     },
     {
       "id": "hl-d95331d54c064576",
       "date": "2026-09-24",
       "title": "〈利上げしても円安〉日銀の内憂外患…通貨防衛戦の出口見えず､金融市場に｢利上げが足りない､遅い｣と急かされるばかり",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DSm1uQWRpcTA3YmRDb0IwdHZWaXB2NmdBU0hmWEd6OHpTZFZ4VEZ3aW5fTGVhZFk1blhmRExhdlJqbF9qQmFDaFY0cmk3QjdfUHg5d2pvbEZBbXM?oc=5",
+      "source": "東洋経済",
+      "published_at": "2026-09-24T21:00:00+00:00"
+    },
+    {
+      "id": "hl-71b17604a03c4053",
+      "date": "2026-09-24",
+      "title": "画像 | 〈利上げしても円安〉日銀の内憂外患…通貨防衛戦の出口見えず､金融市場に｢利上げが足りない､遅い｣と急かされるばかり",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE94dm5YdFhOb1hyb0dWcWJDOGdhLWNfMFhuRk5LSFRiWVNaRXBMZEdTWFU5NUlBTXFzMHp4YjJRM2pSLWM1dGNkWnQ1NW5YZktrTWQ0SjR3UQ?oc=5",
       "source": "東洋経済",
       "published_at": "2026-09-24T21:00:00+00:00"
     },
@@ -88,28 +368,28 @@
       "published_at": "2026-09-24T21:00:00+00:00"
     },
     {
-      "id": "hl-fcbb6dd86bcd7049",
+      "id": "hl-cdcd585323992ad4",
       "date": "2026-09-24",
-      "title": "EXCLUSIVE: Europe needs 'decisive change' in defence efforts to face Russia threat, EU agency says - reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTS0wNUhjWjVKZkJEbkhCcGRRUWVnUHd3YWk3MHgxSXRMNUxKTUwwaEtrU2plZy1BRzJQOHMyVGszTnVtMC1XLVNTaWVNdGlTeUEyN3BiREk1eVdPUUw3Z2tfekt5YkhHVWxnMS1OMFN1U0laV3ZCY3VoOEx0UFREeFZ6c2I2dDhPLXFPWDdIcHowdExSNkQ1MEdOZGJDS21pYkhmYmpYc1hQSVVBdVUtVEJfdG9zcTB6clR3ZVR3TnFvNUtLdU1PdQ?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-24T17:36:19+00:00"
-    },
-    {
-      "id": "hl-2799fa3a0a08e451",
-      "date": "2026-09-24",
-      "title": "31年度防衛費GDP比、明示に慎重 米が3.5%要求、達成困難 参考値や長期目標案浮上",
+      "title": "31年度防衛費GDP比、明示に慎重 米が3.5%要求、達成困難 参考値や長期目標案浮上 - nikkei.com",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9iNWkya0t0eGRBWFhqbFVlV25weTF1ZnVTV3Q5RnRzZ3M1U296VnBEYmhSbWJ5YmROekRrcklfV3lSMXltLV9UOFd3QTlKZ3YxVjRzREVpdTNMLU9RSnhMMG9tMjZWYVJiYmQtWg?oc=5",
       "source": "日経",
       "published_at": "2026-09-24T17:00:00+00:00"
     },
     {
-      "id": "hl-cf21514d9b8d9ec1",
+      "id": "hl-75a4e4624f22ee4d",
       "date": "2026-09-24",
-      "title": "Airbus pitches Eurofighter to Portugal as best replacement for F-16 jets - reuters.com",
+      "title": "Airbus pitches Eurofighter to Portugal as best replacement for F-16 jets",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeFlha3JRam02N2pjTlF6d0IxcEdFaXBHLVpJNTZFU1RlUXk3Sy0xY2FfUzNQVE9fWGNhT1pCakR0dkZwcW4xWm1KOEJWUXQ2bmRqOGJKeUNwQktYUU9wdnRSWFEtbHhKUmFLV0RCQllzX0g4M0x3RHYteG9OdEVjcEZqVGVoRGVnSlB1ZXR1b1NvQkhUbFBRaXp2U3BrQnJ5cFl5aU1UeWxSR1dZZS05aG1kSXFUbEd4eVBpRko0NDhLWk0?oc=5",
       "source": "Reuters",
       "published_at": "2026-09-24T16:40:17+00:00"
+    },
+    {
+      "id": "hl-141c8ba696c2db99",
+      "date": "2026-09-24",
+      "title": "Opinion | America’s Military Power Is Already in Orbit",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOT1hZU3ppc3JPbTVITnd3S0twd09TS1lmZ2RNSXVOelIxcUlraWFQTUIzUkNHMUJucjk4b1lkWDNxeHBKcGpUSTJmaDBUYUxpU2laMzAwc2tKXy1lVzFkSjNMQlVNTndkbVU2aHRvRXlIMFhSU3Q3NnZhZUFqVDdDdDBfbzRNdjQ?oc=5",
+      "source": "WSJ",
+      "published_at": "2026-09-24T16:11:00+00:00"
     },
     {
       "id": "hl-32ce52608b05d655",
@@ -128,36 +408,36 @@
       "published_at": "2026-09-24T15:05:28+00:00"
     },
     {
-      "id": "hl-80058dfe1bb2ed20",
+      "id": "hl-2f52f38c580a41be",
       "date": "2026-09-24",
-      "title": "Greek-operated air defence system shoots down ballistic missile, drone over Saudi - reuters.com",
+      "title": "Greek-operated air defence system shoots down ballistic missile, drone over Saudi",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOY2N6YzZlY3BwZ21GRi1FMVVZZGsxUkExb3g5eS1GRi1JTEx0SlI1bFp5VU1YcS1OWWRvOEJiRFY0ZG5rNGtERGI5MnNIdVRXNnVBaEVEcF92Zk1pSm5QOXg2YXZ4RFhjUkFIdXZyVU4xazR5U1ltSVd2VE1oRDdPWjVvUFIyaFRjNVhkUlN0T2dRbkZON05WRDJTa2hoU0pmejl2eEZFUzAzNEpqeWgwOHJHUzFNOXltYTh3bXliRm5lM0t1UWFubnpiUkVicWxGeFpNenJPb2Z5eGM?oc=5",
       "source": "Reuters",
       "published_at": "2026-09-24T11:58:36+00:00"
     },
     {
-      "id": "hl-d8a55d09bbb3d306",
+      "id": "hl-6135e2cfe47cfa6c",
       "date": "2026-09-24",
-      "title": "画像 | 【検証･防衛記者クラブ（前編）】国民の知る権利を空洞化させる―防衛省で露呈した権力監視の放棄と当局癒着の実態",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Pd3lNQ0h2NkYtU0REWlVKUE5hTF9PZXNVSndwRjVqbWNmTzdmOUtrUmdlanBIc1c3cHdtTXRnLWJPZE1qSXBqUUJ2VHU0SzM4em83N09xZw?oc=5",
-      "source": "東洋経済",
-      "published_at": "2026-09-24T04:00:00+00:00"
-    },
-    {
-      "id": "hl-d6921b0110fb6cbb",
-      "date": "2026-09-24",
-      "title": "Chinese authorities reportedly in possession of F-35 components in Hong Kong - cnbc.com",
+      "title": "Chinese authorities reportedly in possession of F-35 components in Hong Kong",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9GNDFza09KZEk4aFFsMWNiMml0S2t1TFYtS0trdWl2TXFNSFhQZ1RSUHloNkxERlJzX2tjVWZIWGJZM0h4a3p0SU5NcXRudUVDSzZ1cnBESnVKRFhneW1FOUx3Vlc3LUp2Z3lEdl9sNE5wNjl1YlJz0gF8QVVfeXFMT1JLcTl6ZDlWNGpwaGFubWdvUHJ3WVdweVFMaWZEN0w0b2VoeGNSWEd2dmN6SlNwakliVGpNRTN3UmhOYnpUT3ZwcGtoMkdjTDI5ZGk3dVpTOGg1UUJiYXJnTUg4NU56UDZ6RWJYbmVfN2RVSWY4Y3JkU1JjbQ?oc=5",
       "source": "CNBC",
       "published_at": "2026-09-24T01:16:00+00:00"
     },
     {
-      "id": "hl-8fdf2261572a8fa8",
+      "id": "hl-c5ca1db7d4791620",
       "date": "2026-09-23",
-      "title": "｢人を変えて守るセキュリティはうまくいかない｣､元国連CISOが壮絶な経験を経て辿り着いた組織防衛の解の写真一覧",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAzTkkxWFJQSWhpV0hTNmpoMklEcHN3aHhPM3Y5eThSMUJBMldSUHpDS01hUDJVZ1JYQmozUWlvZjc0SEladjlYTDRsQ3J5WnhTeEJidEVqaw?oc=5",
+      "title": "｢人を変えて守るセキュリティはうまくいかない｣､元国連CISOが壮絶な経験を経て辿り着いた組織防衛の解",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5hMXRwRUJkYldKWW1DMFBOVXRnOGVsMUpTS1h0VFhBMEZXN1hIWXJzSGd2NGFxdWk5ZmpMMlFXSmgxWm5uXzhIUTh2UDJLSDhEQ1AwWWxqSnVqSTRJYnVJ?oc=5",
       "source": "東洋経済",
-      "published_at": "2026-09-23T21:56:47+00:00"
+      "published_at": "2026-09-23T21:00:00+00:00"
+    },
+    {
+      "id": "hl-c45098a9e96ce11e",
+      "date": "2026-09-23",
+      "title": "｢人を変えて守るセキュリティはうまくいかない｣､元国連CISOが壮絶な経験を経て辿り着いた組織防衛の解",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9UTURfNUs1dG11UEtVYVhUYTZhM0ctODBEMW5jSXdkVHVRRUstenowVl8tUEVHbmk3MHpKZm00b0wwWWR5b2c0NUxELTBZUmVDcjRYOGliTnBZaU0?oc=5",
+      "source": "東洋経済",
+      "published_at": "2026-09-23T21:00:00+00:00"
     },
     {
       "id": "hl-ba1b7b4cedc5564e",
@@ -176,44 +456,60 @@
       "published_at": "2026-09-23T21:00:00+00:00"
     },
     {
-      "id": "hl-c7f5d0e2a3a7b873",
+      "id": "hl-3fbcc63a8a496690",
       "date": "2026-09-23",
-      "title": "高市首相、防衛費「5年後GDP比」明示に慎重 参考値や長期目標案",
+      "title": "｢人を変えて守るセキュリティはうまくいかない｣､元国連CISOが壮絶な経験を経て辿り着いた組織防衛の解",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5MNVlGb2JRd1h2ODgwU3NNUkZ4MzZiMHBtZGFCNEx6OWZTY2JEZ1hhbFRxcHJybjg5RExrZEp1WU5zV1JJd3ZDaGZ0RjFYaEw2OW5MZm1LTWZNcE0?oc=5",
+      "source": "東洋経済",
+      "published_at": "2026-09-23T21:00:00+00:00"
+    },
+    {
+      "id": "hl-1a8d0c5aca8b0b6d",
+      "date": "2026-09-23",
+      "title": "｢人を変えて守るセキュリティはうまくいかない｣､元国連CISOが壮絶な経験を経て辿り着いた組織防衛の解",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XekpXSmhxS3M5Q0UtQ2JEYkNoSnlhVk5SOUFxd1lBMUZhWHRHVXhjdXlOYUhwc1Bld3RidlJzV2s5NWpDU0VKcDlsQzkyVk9yaF9RblN2dGtWUGM?oc=5",
+      "source": "東洋経済",
+      "published_at": "2026-09-23T21:00:00+00:00"
+    },
+    {
+      "id": "hl-131d79b2ebdc79e8",
+      "date": "2026-09-23",
+      "title": "｢人を変えて守るセキュリティはうまくいかない｣､元国連CISOが壮絶な経験を経て辿り着いた組織防衛の解",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5YWduTmwwcVVlRUVmRmhUaUFvOFA5NUhXbVVlLXIzWGJoMjRFRW9SYzZwYnNkOHNIVERWdEdfeXBsOGVGV0d6cVhVMmZEbkFlekNDcGx3YWFqRUk?oc=5",
+      "source": "東洋経済",
+      "published_at": "2026-09-23T21:00:00+00:00"
+    },
+    {
+      "id": "hl-2724662719e4c877",
+      "date": "2026-09-23",
+      "title": "高市首相、防衛費「5年後GDP比」明示に慎重 参考値や長期目標案 - nikkei.com",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA3d1NHWHF4M3RiVFVOYUlmQTF0RUNVOHR5RkxMOTBRVTJUXzZnTjBzanNqTTZJMGhyN24xck5FbnBIVHpqRm9rRFFQcWszRGV3NWlDdVpCd3BVV0dYMndFOFFEQzk0d1lsNkZCeA?oc=5",
       "source": "日経",
       "published_at": "2026-09-23T20:00:00+00:00"
     },
     {
-      "id": "hl-ea3c9b5d6dd4e478",
+      "id": "hl-6cdff302b659f898",
       "date": "2026-09-23",
-      "title": "Ukraine's Zelenskiy says he signed drone deal with Finnish president - reuters.com",
+      "title": "Ukraine's Zelenskiy says he signed drone deal with Finnish president",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNFM5MHJIdm11UXRBeGdkdzAwV1haMEF2NTlGekJNNVVKb0lFX0w5b3pLeFJmYWQyZEdLUGhqTGxGRURMR1lLNDctUVBpb3Bid0MxSTdxMEpvc3JvUDdGQkkzMmc1N3plOGpvV21sdW1LMk9lMTNoRF93SWRfN0F5LUExUndKWDdpUVZDRmJ4WTdPbDZCdFpEakFwMDU1RkQ1dElKSE1HZzRZcXBYRnl0eDRyMU1oZi0xR25RZy1CZWdEc3RtOGxnTFh3?oc=5",
       "source": "Reuters",
       "published_at": "2026-09-23T19:39:43+00:00"
     },
     {
-      "id": "hl-fec2dc874e6db72d",
+      "id": "hl-09381698cc4aa71b",
       "date": "2026-09-23",
-      "title": "ドイツ株23日 反落、原油上昇が重荷 防衛関連には買い",
+      "title": "ドイツ株23日 反落、原油上昇が重荷 防衛関連には買い - nikkei.com",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XOUVDclVpU3NnZEFvb19OOHczRTZsbFNJeFE5eWI4a2JtZE45UGI3ODFpZGd0T0NlM0VCU0JuUUFzMVQwVXluUmU2TU9wbzZId1ZqVVNmRGN0NG1CZWFabmJ4dWwwa3FjV1RoUA?oc=5",
       "source": "日経",
       "published_at": "2026-09-23T17:30:52+00:00"
     },
     {
-      "id": "hl-e8d4e4a2d62fa331",
+      "id": "hl-881b4c90773840ef",
       "date": "2026-09-23",
-      "title": "ユーロ圏景況感、3年半ぶり高水準 AI・防衛投資が追い風",
+      "title": "ユーロ圏景況感、3年半ぶり高水準 AI・防衛投資が追い風 - nikkei.com",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9INDdidkFzc21QaFpGejRXX0xWTVdhZ2NGOEk4Z3lGT2JmLWp4ZW1XNFA4X1pqQzhUQmlYNWFzeVlXMUVLSUU4SzJDWGR4dnNPQTF4T1Q1M0p3VmFNNFZFTERoUzltOFp4SVZ6cg?oc=5",
       "source": "日経",
       "published_at": "2026-09-23T15:30:01+00:00"
-    },
-    {
-      "id": "hl-4a9e4542f0bf506d",
-      "date": "2026-09-23",
-      "title": "Italy won't participate in Monte Paschi AGM on defence moves against Intesa - reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONzlYWGhCNXpZdVFyNUpzVEdzYTBHdkZpbExRZjVUTGhHckdYM0RldWdpd1dXTE1rR09MN1FVQWkyT1NpdGxRbzAwcGFXTFBpZGZaR09pX1ZmOG1CZlI2Y2dlZ19OSzliNTdvMWZLT0t5MTd2eFdHS0g5blE4RUZDZUZUZzdwNFpmRzFSdVpmM1lDci1XSDVZQnpvLWxfNWs5VklURFROMWtJYzROS200UVdpQjJUUWFhTXNaN2pR?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-23T15:23:45+00:00"
     },
     {
       "id": "hl-505b632db77de7f0",
@@ -224,14 +520,6 @@
       "published_at": "2026-09-23T15:18:10+00:00"
     },
     {
-      "id": "hl-66ffd1e92711500a",
-      "date": "2026-09-23",
-      "title": "UK arms broker jailed for 16 years over missiles and fighter jet deals with Libya and Sudan - reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNemgtYU5BN2pEeERLeVFhcGlGbXlmZjVSeHZsN21SYjVLUWJqUi15SFZ2T19yb1lPczQyS1lFSjE2Y3AzWDFTN1luRE1SU3UxSW9VTlRnQUZ6SVVBYkl6dG5jeFlmU1RZX1AxMmdkNUp4SWp0MHEwanFlRUl3ZlRUeFFQSlRpRTlJOHZiMTNHMnFyYmRmMWVyeS1DYi05X0ZvaUtobzN5VEttTVJ6SWxGbDgwcXBCRmtDUUdNakdMVHpXLWo0Ynhxbkh5aW4?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-23T13:33:48+00:00"
-    },
-    {
       "id": "hl-7216a67d1b627f63",
       "date": "2026-09-23",
       "title": "Finnish Drone Group Sensofusion Seeks $344 Million in Helsinki IPO",
@@ -240,364 +528,76 @@
       "published_at": "2026-09-23T13:13:00+00:00"
     },
     {
-      "id": "hl-44dea069c9df343e",
+      "id": "hl-d1b918dcc47929dc",
       "date": "2026-09-23",
-      "title": "Russian military helicopter entered Polish airspace briefly, Polish army says - reuters.com",
+      "title": "Russian military helicopter entered Polish airspace briefly, Polish army says",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMWdWYUU3UHU3elo4dTU5RHRsN3ltVXhiMi1WdHhrcGFjLWF6S0JsSUlrRmRKanE1Z2pxa3JMRng0MHFrWGM3aF8xSFpVOXpMSnNKMGZFUk55Tmh5VGR2WHBacDE1LUNFSjU4dFRoSFhkMUtmamtJbVZMV1VVRnJVTlBXTXVGa1lFM09XLTJobTRZd2tpQi0tWXBJTzNZTjB4eXBnVjVlc251UmxNOXU1cnJsWXRReHpvOU05dnlFTUpabDZTam5OTFlDblFnUlRRcGQwa3pn?oc=5",
       "source": "Reuters",
       "published_at": "2026-09-23T12:09:41+00:00"
     },
     {
-      "id": "hl-b7155de8deabae44",
+      "id": "hl-32fe7e7e60480bdc",
       "date": "2026-09-23",
-      "title": "AI drone maker hits $6.4 billion valuation as Ukraine war spurs defense tech - cnbc.com",
+      "title": "Tekever raises $580 million as investors back Ukraine-honed defence tech firm",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNU2lMcXFhWWdHaUdJYjExWFF0SmVyY0RLSTZDOWoxS3pkbmc5czJHdi00MHJxVERmdzFKam9CRmZLZXRubURtNWtfRDRubUd1UDJzUkt3WHM3TlM4cF9WWjFkaGMxeWVvU3ktYjdOMENadlhaMEhSZVUwMUpQN0xXVExQUEJBWDZoS0pmMWR5RS1jMVpNWWhkUUVNb3NhdEV0ZEdXeGFVb2VrWTc1TjRVM21OVDVBYjZG?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-09-23T09:51:54+00:00"
+    },
+    {
+      "id": "hl-a0159ea44fe7b5f8",
+      "date": "2026-09-23",
+      "title": "AI drone maker hits $6.4 billion valuation as Ukraine war spurs defense tech",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTXpEYjd0OUZLUmJLOVVrMVBYRUd1T0s5YXVETHRSUnd0MVI0LVZBalhSaFRfWkRFZUhTTlh1cGgtRjRjNFU2enBXT0RFc0htQmtYaDR2N1c0NGpjOElwSFU4ekkyeTFuQXcyQ0FpdEhXTmJRNXNlbzNKVFFIQjM4RHFn?oc=5",
       "source": "CNBC",
       "published_at": "2026-09-23T09:47:31+00:00"
     },
     {
-      "id": "hl-13a590fa054db2f0",
+      "id": "hl-7d9775856082213b",
       "date": "2026-09-23",
-      "title": "Drone Maker Tekever Seeks Deals After New Round’s First Close - bloomberg.com",
+      "title": "Drone Maker Tekever Seeks Deals After New Round’s First Close",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOY3U2emQ5YjZIQ0p6SkI4ZmdyT0tMWHpQd05sWnpKM3VzTWh6RzUwNEJyYlg5cUxNeC00QkF3d0ZBT01fTUl3VXNwMnFIWUVvWmlxMDlORVA1MFlFZndYVkllaDlKMEh5Z0JKOTdVeHp5cndUYXhiNk9tRGdWclo3N3V1Skt3RGVFZGM4d2lreHJQbWF2VzhfV0pVUWZqTTk5dGN0eVR1Yk9vb1FmNlNZNE9B?oc=5",
       "source": "Bloomberg",
       "published_at": "2026-09-23T09:00:20+00:00"
     },
     {
-      "id": "hl-173c3759cbe7f9d4",
+      "id": "hl-3fee3bed4e8ca16f",
       "date": "2026-09-23",
-      "title": "China's purges of top military commanders spur questions about war-waging ability - reuters.com",
+      "title": "China's purges of top military commanders spur questions about war-waging ability",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeGdEYlV3dUljYzl4TGkwYXJ4elVTYjlKV0Vydm1SSHJydTdPT0N5OWd4c3AwTks1bF9SakVHcXdmclFkWXhkZTVyUnZ6cnZIMTQ4WDd1RzBUY080UTV1YUN6OEx5WlJRTFNOUFBiWENlZFJROVFiVlFxaWhlcG9FZ2F1Ylc3VURrOFdMU2tkS0lmY1BUYU5hNjhPNjN2bUhYQ2dpWnVJQVpoNjFNY3UwZ1pHc3JIVHV0Uk1zUi1SbVhlQ1VpYW1VNWV5cUhfZm1aM0hJTmVkRQ?oc=5",
       "source": "Reuters",
       "published_at": "2026-09-23T08:00:00+00:00"
     },
     {
-      "id": "hl-712ec5ed19b63291",
+      "id": "hl-0f0636767fb4c4a3",
       "date": "2026-09-22",
-      "title": "F-16 fighter jet crashes at US air base in western Germany - reuters.com",
+      "title": "F-16 fighter jet crashes at US air base in western Germany",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQc0FlV0xFS2dRb3p2QnVVUWYweUhEUDhzWUZSRElLbllxZ2VDM0ZxcnpQb1hzbUZjNjBrdmtWRW9WOExGR0t5TTcteGJuWjZfZUljaTdXWjk2c3VISWVKSmxyZUpKZmhHQWViSm9BV3RwTmRpbTFIRlFra0taRWRxeG1qUGx0ajdyZExTUm1ZaVhVYzdNX2FJTVVPOUJ0N0RRenMweUhDVGE3cUk4OVNFVW9TeHhzQQ?oc=5",
       "source": "Reuters",
       "published_at": "2026-09-22T21:10:25+00:00"
     },
     {
-      "id": "hl-18dab1f8a0932c5a",
+      "id": "hl-b1d8970f019bbf83",
       "date": "2026-09-22",
-      "title": "Boeing, GoGo test satellite-linked military drone in challenge to Starlink - reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWWlfdHJPLVFJRU5BSkxDU3JfaG5lVkMyaFJLd1o1dEVub0RJRTlqMzRMd09nVEpxM3VtWFc4UTlzZ0xHY2ZSV2pibXlJSGxNR3hKRnI5V2VYcUwtUld2NVp5b250b1JEOEFPeWVycWlxYjZqQkNBeVVXSG5nT1F3cmc1OU41TDNtUzlNTEhFbzJ3eTVQckZNYjNlRm1EUXJLNkktazQ4RkJpSjgtbDFoUmI5WUZUY0pRaElxM20tYmlJVS1j?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-22T20:24:19+00:00"
-    },
-    {
-      "id": "hl-6ed94d870d81a8ed",
-      "date": "2026-09-22",
-      "title": "Scotiabank Sells First Canadian Defense Bond as Spending Rises - bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSDR3UUxrZmJybFNpV1J6VUpET0tySDFjNVJWWGo1UFUyR2tueDdVVTVjLWVpLVdKWTdlV2x2NUNGX1ZSZ0V2M0FkQkxkbW5TQmZ6dGwwZFREZ05pWmh4MXJqdEttaFQxcEVMWUJrRHlTT055U2thSWRyNUY2Ni1kRG90anlqamZsdU5ZQXFTeG9VMFZCbnV3aGRRWnljZjVfUUIwSTF1aFJJby1yc2FoMThrSFZ6QlB6NmJ1bkpFRklaMHljN1RN?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-09-22T19:26:20+00:00"
-    },
-    {
-      "id": "hl-849ce0bb9253afad",
-      "date": "2026-09-22",
-      "title": "Batistas Plan to Revive Defense Firm Avibras With 1,000 Jobs, Overseas Push - bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYmN3MjBzSlpIcjdwUExhRmVYbllOZFlvQTdmZHVZTGhfY0lLcm1zR3VKNlNzb2U5SDVVMHMyNURTSzE0N29nNk5CQlluREc3WmFrTnR4eHg3MHBuWmdackdIVUVISzAwVThzYkMxbE40Yl9EaEFIMWNXbDJZb1YwNm4tM0kyZS1VTlFKRlN3Nlp3cDdHMUNuTk5ybHFyUEd4LWxiQXE4QXRKYUdlWnRZ?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-09-22T16:58:21+00:00"
-    },
-    {
-      "id": "hl-13ebb4942d1b057a",
-      "date": "2026-09-22",
-      "title": "US Military Modifies AI and Lethal Targeting Process After Iran School Strike - bloomberg.com",
+      "title": "US Military Modifies AI and Lethal Targeting Process After Iran School Strike",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMW9CeTF3ZXBmblJYQ2RXaGZvRTA2SVJIR1p3ZEtBYnpDUnQtcldWQS16dXJ2eEctM3BzTDZNQlZLMTRBQnpSUnd6WlBlQU4xRDVMVUozLWUtNVlMRVd4dk9lY0RLdWhyeXppeGMyZkNfS2tLNzhnNEp4QkIwOGpYS2M4cWpwS2JpNTdXcDVSMFF5bmlQZlRSNllRNVRtMEU2d1NYQkJjcTVPNlY5OE9CSmV1eTVCaDZJOUxyYWk2OA?oc=5",
       "source": "Bloomberg",
       "published_at": "2026-09-22T12:30:12+00:00"
     },
     {
-      "id": "hl-17decda39558ec2d",
+      "id": "hl-bedb7712e2bf4515",
       "date": "2026-09-22",
-      "title": "Dassault Aviation tests AI algorithms on Rafale fighter jet - reuters.com",
+      "title": "Dassault Aviation tests AI algorithms on Rafale fighter jet",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZUxwak1sd0hYUGdPdW16RUxHRkR0eXg1MmVmUzBLSkJVRWptcUUxUHRmX0Z6d3BFUmNTM3c0TmNKNXp2eWVYNmlvZlNsVkpQektGcG15cExLOHhibmNkVldkODhNWmdOQ0lsUHdNRXM0WWsyTUl0dFVqbUx4YXhKNWhteDNTVU9lUEMzeUR3ZDBCVWR6cG1RYkRZV2FXRkVBN2ZzX1d5MGo1aVdrcnc0VTFCVmdwQlZBcEEw?oc=5",
       "source": "Reuters",
       "published_at": "2026-09-22T12:11:59+00:00"
     },
     {
-      "id": "hl-1be4cc138b90afb0",
+      "id": "hl-ba58d854ff3277cc",
       "date": "2026-09-22",
-      "title": "Jet-powered Russian drones strain Ukraine's air defences - reuters.com",
+      "title": "Jet-powered Russian drones strain Ukraine's air defences",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOY3oxSW05Z1BOc2lHbGotZDd1NzA5TUlxWFJtN0JSbWdzLVlZelE0VnVFU2hkemZjTWZDd3lnckVEcEJ3dmR0eHY4MGthYjRqUVFQdjRhVFdlc1d1SmJva0hiSG84OVEzLVR0NVdTZ20ya244T2xDWWl0cWR3QzhLUDBqY0JEOHl3MGdhWXBleEJtS0UyRnVLc0dXc0h2ZE1DMnZSQUFCOUtnLUp1bDZKZFB1UHN2T0djSFE?oc=5",
       "source": "Reuters",
       "published_at": "2026-09-22T09:56:10+00:00"
-    },
-    {
-      "id": "hl-49d0e15cc92bc29d",
-      "date": "2026-09-22",
-      "title": "Germany's defence spending boom opens opportunity for Mittelstand, HCOB says - reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOFRzYnJ6cHRCaGl6X1JlQ3J4LVFRZFMyNlcxNW5iNHpwbmNicWpxNTFnOTVmSENWZG5UX1p5aWF0eGw1dElsbmZGdWc0a3JxVnEwZUhsNjNtcDlqU2xLbEY5OTN0ZkxSbjgwYzBQM0FuOENEOTVKWFVIaXVNamZXVjVaZGJBUUFpMEw3alpKZHpxUjRKLTFEUW5uQ2FqWU9DY3dxRUZhZWF5dU0yRWtuRW1RTl90ckIzTzhGX2ZOVV9ZM1hhYjhvVFpxa0F5Zw?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-22T08:02:09+00:00"
-    },
-    {
-      "id": "hl-8d61ed96fa0578c7",
-      "date": "2026-09-22",
-      "title": "U.S. strikes Greenland deal at UN to expand military presence at Arctic outposts - cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNa2IxdXp3dFlSZ1N0V0dzYWRXWkllWDVDNjg5Ym1QUjc4OWw0aHdWU2xPaUItVk5qQjd1MkV6UDFEUkJCb0lKSlZlVzM1dXpjQ0xPWW1LeFBuajRWbHZaLURoU2lRaDVUcTdNWmxEbjkyVUFKdkdfLW5ZU0R2ZUE3azZmWDkzbkpiWVHSAY8BQVVfeXFMUHhPYlNMTkw5NWVoMzBoRnB1MWhWVzZCT3ZOaVpKSmUzdm9kVl9GbUZ1UnhqV21FUkxLOE9LYW4wZFo5X0JuZEpRN0FTZlBGN3BZeDd5Tk9JWVFKVDBCYndDakNmWUZYTE9sSVl1RWtIU3lHaE1kc2J4NWxJeTFKUmxwb3B5LU9FUHkzVFU0M1E?oc=5",
-      "source": "CNBC",
-      "published_at": "2026-09-22T05:00:18+00:00"
-    },
-    {
-      "id": "hl-883150b8f748afeb",
-      "date": "2026-09-21",
-      "title": "EXCLUSIVE: US to open two new military bases in Greenland, sources say - reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbTI3eU92Z3FoaElJN24tR3JUS1F2bFFoYUh6X3ItQjV4T0s1M0FiV0Z6dTB2aU1MX1pxamNJOVpUa0RvbkNVMnR5M0hCeEVsSGVMTlVZazhpOXRPcXB2ZDltTTZKSTRPSm8zNkFVelh2RUVyVHZPdTZJRlpmamxucjRaeGVuOFVmZlE2NmRUY0Z6Q0Q3N0Y1cHFabWZDVG1JM2F3?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-21T22:34:00+00:00"
-    },
-    {
-      "id": "hl-6e9a4d67f3c23f78",
-      "date": "2026-09-21",
-      "title": "Lockheed wins US Army missile contract worth up to $1.2 billion - reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPU0g3eUhxbmJIVWlkVzd1VGdWcHlRNDloREFqOFV0WFVwYjI5RUIxZW01YVVMdGU4U2QtVmtTdmp1R0RFay1GRWJrTndXVndfeDNURG53Tk5hZDdjRVp6Y3pXM1hmcDdRbmI0UUFpeGhkeTFaeTJyZ0JDcjhWM3o2ZWlBWUJzZGt0ZGl1YzRncjBLVjdFYmo1NEJPemJwOXZBa09RTERoSlBPRmhEY2J3eEFCb1hfRjFoZmM5V3VB?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-21T22:33:30+00:00"
-    },
-    {
-      "id": "hl-47d57f786bcf5908",
-      "date": "2026-09-21",
-      "title": "Watch Vance Says ‘More Work to Do,’ Playing Defense in Senate Fight - bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVC1uSWZnUXJfTTZRcXBqTVR3QzRVYlduckVKOWZrVGd0eXBZYWthd1MtdXYxZV9uaVE2WkxILXh4MGp4TDBUMXlSSE9EQmNxZkFoY1kzMEdRNXYydnRCWmN2YVBuNmY0RmJJTWR3QnRvYjlGWExFb29SZWVtRFJIbk5aeWc5T3pJMWhLZFV2RHdmS0pDazBjal9GYllNYm5S?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-09-21T21:59:52+00:00"
-    },
-    {
-      "id": "hl-c990ba862eecdfe7",
-      "date": "2026-09-21",
-      "title": "UK's Burnham to announce new AI defence partnership with US - reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMlN0azBmOTN6OU0xWXRtdHkyVWZHSWRTSXNuQWdUdmxiWjZKcXVfdEtTRDIwT0toQ1MxZC1kM2R2VV9Qek04SWhpYnBiN0FTb1BmdFBzSG1MX01IWU0xSk5pWUJWWEwwaVd0VXJvVkJ3R2RGaVFNWU5JNUJGbTJHc0VoZmFqdFV3R3ZKLUVMZm0tQlBfNDBINTY1aExMczJtYmc?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-21T21:36:48+00:00"
-    },
-    {
-      "id": "hl-454d0fb49a499614",
-      "date": "2026-09-21",
-      "title": "North Korea reports new missile test designed to give enemy 'incurable headache' - reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORkFiQlJWMXdJWVMya08yZS03Ujl2S2lBc2pibzFOd2xoZXZsVDJ5R1M5Q3hnT3ZqaU40RUdCNUdqMGozcXpxSHNZSWZKckZ4eGtZd0FoQ2g5M1E4NmVYOGZOSmlXRHAzYWdicTZ4RXZCZC1SMld2QmRYdzMyOHBzeGNpZlJmNExHdjBhbGdFa0VZeHJoY3FuaE02ak5vblp3NVlPbEprckNhQ0VqRDBsVUdFeDF3cXJ0cFE?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-21T21:18:00+00:00"
-    },
-    {
-      "id": "hl-2936b442443dd3fd",
-      "date": "2026-09-21",
-      "title": "東大・京大、三線防衛 リスク管理の柱に ガバナンス強化",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5KWm5nZWV4ZzZEeXoybzJyMHltd1NDRlJEQ0hCWlRZVEF3R2tVQ0pPZi1faUF4RVZOcEFNdTh3MnpPVWhOUFFWMHBXSVI4ZFpySVowVWhzVlA?oc=5",
-      "source": "日刊工業",
-      "published_at": "2026-09-21T20:00:00+00:00"
-    },
-    {
-      "id": "hl-a33a8e36c1cb26d0",
-      "date": "2026-09-21",
-      "title": "Why the Sale of US F-35 Jets to Saudi Arabia Isn’t a Sure Thing - bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWDlFTmJOaFJjUDVibjdCT2Z0X0xDWU5jWTZlRGxBdkVXX2llX0hrTGVYWjVmSUh2TkxaaWQ3UGFoeW9jcUMzdHZiZE8xRmMwYzlsaXpJRmhLUk1NVkx3YkJRRm5xS000ZXpXNFduMC1XNGhRODB0Q0diU0pJRUZpUkhCcVdWYmlZU1dUSjJDSnRUUklJSXNKSlJ6b2FxVm1CcnlnMzhoRXBaY2lsZ200V2JGY09IUW5pemVGN3VlVQ?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-09-21T16:48:17+00:00"
-    },
-    {
-      "id": "hl-41aff6e35c3dba58",
-      "date": "2026-09-21",
-      "title": "Commercial Space Federation (CSF) Welcomes Two New Members",
-      "url": "https://spacenews.com/commercial-space-federation-csf-welcomes-two-new-members/",
-      "source": "SpaceNews",
-      "published_at": "2026-09-21T15:00:00+00:00"
-    },
-    {
-      "id": "hl-cf83e61b59f8c76b",
-      "date": "2026-09-21",
-      "title": "画像 | 【検証･防衛記者クラブ（後編）】取材独占と二重基準が蝕む知る権利､専門記者排除と不透明な情報統制､防衛報道の欠陥",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5CTVI2Z21MX25QcC1Kc19XRFlFVHdDQ2tEZmVYMkQ2YzFmSE5SRVZiWlhkcEJ6dEozUEhPektSWmJBMmZTaG5ueENVVFFSb2tNd3E3dlRWcw?oc=5",
-      "source": "東洋経済",
-      "published_at": "2026-09-21T14:29:14+00:00"
-    },
-    {
-      "id": "hl-4e353e791c1aedf1",
-      "date": "2026-09-21",
-      "title": "North Korea fires two suspected ballistic missiles off east coast within three hours - reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTDFuRjFrR3lVU05OakZFWFlOdWFSTGsyelUxZmZrMkZvamthRHNRVkx0ZG95NnRIdXlWUFVhX2pfaUo2M1haY1B5RXNzVjJTRDZ3bXN6MUpYWUxiZThYbE9FWHBUemMtbC1SMHRQeWdBdC00YmxUWEZkXzljNm9PTnBCNS14WGFUOUFQRVZEN25feWZLNkRmcFN4M0pyM3pBZDF2cktnVGF6OXM?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-21T08:51:39+00:00"
-    },
-    {
-      "id": "hl-637b185aab8d8b0d",
-      "date": "2026-09-21",
-      "title": "F-35 Parts Diversion to Hong Kong Under Probe in US Congress - bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOekY4RTA5ZHY1RER5ejExUkNCYUF6QUV0TnVpSkp2ejVQZXVuRFJ5TzRYcjMwRW5ORnlTMHlsUWRQTnVRaGZsTWN3UlU3NnVMX0hyZXUtakgwaXNHRWhWOFg4aDlaN25JQmZOb1V5d3lXMUJXZ19RNUlEZjVMMDhNeTI3cERoMUtmSkNYNmJRUE1NQmR3VUNKSTZ2dHdQT2FuMDFwRm9MTnhRb2liZGQ1Sw?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-09-21T05:00:00+00:00"
-    },
-    {
-      "id": "hl-30f94e0360246bac",
-      "date": "2026-09-20",
-      "title": "連載「防衛デュアルユース」まとめ読み 5つの注目技術",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMEV6VUg5WTBNOTBiWXRZNUtvd2FvRzFBZ0VGSGZsTHBYR1B6Yi1fUWp0b2Z1QkN5Z2hiQlJPSkl6c3lMdVl6OHFrSjNwSkRtSzl1b1dtNGxaWXB4OUhRdHVCVTAyREE5eGVsMzMwZFkteERVMlZnenIxRTFienRONl9Ua05RdmM?oc=5",
-      "source": "日経",
-      "published_at": "2026-09-20T23:00:00+00:00"
-    },
-    {
-      "id": "hl-b1b968dd8fad6c91",
-      "date": "2026-09-20",
-      "title": "Trump says his planned arch would become a 'military complex' able to host drones and snipers - cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWXI3dnd3WEI4SnRQX0M3QmZ4MmNDTGtXRnhmWHd4eUR1NkpjTEVMUlk3OGs5TFZxUzJycThtSmdwT2RyMHJ4ZkQ4eFBYSFNVSkhQcXdSc2FaTzRsNHR2QllscVhaTEpKYi1NUkFKaGpfaWFtWnNQTU81QzhxdWZvbGZHMGpYbkhPN1A4Zndqcy1ucVptT19TV0d5enbSAaIBQVVfeXFMTkZYSDdXdmU5ZU5Ga2U2WEdrUnVyckJHeUkwODhxUEdEYjRYZWxoeUZKUHFuR3FrdXpDcGowRGJpdFlHV19KYkg4MFRsVEFOb3hCMTVkbmkwVklnS05qM2FlS1pPYVZRSDdKcW5JZVlkZUVVNVRCYUI2VWxRLWlSN0FBcE5ZbVQtcTZCZkJxODI1THRETVRzRnZyZ1BMdzIweUNR?oc=5",
-      "source": "CNBC",
-      "published_at": "2026-09-20T21:08:52+00:00"
-    },
-    {
-      "id": "hl-e886ae62a68f354c",
-      "date": "2026-09-20",
-      "title": "【検証･防衛記者クラブ（後編）】取材独占と二重基準が蝕む知る権利､専門記者排除と不透明な情報統制､防衛報道の欠陥",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5pZTRkYTFLMkhwSGZTa2xSczVERTNQa0VWMVNIY2FiRU9YWnBnZEhKeEYybEc0RFBXVksxSjdwbTZiclg0akY2WGt4UmwyM0IwV0VhWVBFV0JTcWs?oc=5",
-      "source": "東洋経済",
-      "published_at": "2026-09-20T21:01:00+00:00"
-    },
-    {
-      "id": "hl-ce764f7c8df0f82a",
-      "date": "2026-09-20",
-      "title": "【検証･防衛記者クラブ（後編）】取材独占と二重基準が蝕む知る権利､専門記者排除と不透明な情報統制､防衛報道の欠陥",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9zOGhfRHVfSWk0UE8wYi1paDAxcTBUUG9ZeEEwNFNRU1RHeE9fdzlYZ0lWaGxnektkU1F5UGt2MzdLRzNjNW5fOEdLcGpLWlJETWNlbTF3d1FkeXM?oc=5",
-      "source": "東洋経済",
-      "published_at": "2026-09-20T21:01:00+00:00"
-    },
-    {
-      "id": "hl-9a52e384a93ee30b",
-      "date": "2026-09-20",
-      "title": "【検証･防衛記者クラブ（後編）】取材独占と二重基準が蝕む知る権利､専門記者排除と不透明な情報統制､防衛報道の欠陥",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4UVU0YjZGTDJmYk50bGF1U05QUDlzMW50bk9EblB6dWhmWUMxbGNsU3NJdVZlX2RtM1BfWjBpclRPel9kU2xvRnB3cHJ5Qjc3OVpQY09UNHhSbW8?oc=5",
-      "source": "東洋経済",
-      "published_at": "2026-09-20T21:01:00+00:00"
-    },
-    {
-      "id": "hl-98aa397bbd53692a",
-      "date": "2026-09-20",
-      "title": "【検証･防衛記者クラブ（後編）】取材独占と二重基準が蝕む知る権利､専門記者排除と不透明な情報統制､防衛報道の欠陥",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5pQlczbFlFaWFsVEVYRE1CU3htdmJiUXhad2QyaF93bEFPU1FVMm43RGxMN2pyajh1MDhzd2tTYWozYlR3MFB2TDNIMHM4ZVYyMGZJczdmQVJiRDA?oc=5",
-      "source": "東洋経済",
-      "published_at": "2026-09-20T21:01:00+00:00"
-    },
-    {
-      "id": "hl-1444e09303489136",
-      "date": "2026-09-20",
-      "title": "【検証･防衛記者クラブ（後編）】取材独占と二重基準が蝕む知る権利､専門記者排除と不透明な情報統制､防衛報道の欠陥",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5fWG5iWWJhaVBiQkVEd1JTTkpJN0xhUklLc0I4YnpFOXVSSHVmM2ZfWm00akhUVnF3dHF0bGhReDZERW5kM0xxeXRFU3RxQlo3Q2c?oc=5",
-      "source": "東洋経済",
-      "published_at": "2026-09-20T21:01:00+00:00"
-    },
-    {
-      "id": "hl-e5abff3c4b530a26",
-      "date": "2026-09-20",
-      "title": "【検証･防衛記者クラブ（前編）】国民の知る権利を空洞化させる―防衛省で露呈した権力監視の放棄と当局癒着の実態",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE96cFJxcmliSV9MZjFtWC15ZkdtY0tQdjJRVHhGUlFUUGQtOTF2YkdSZE1rb0x2em0tT0ptalVGV2lmZUxENmpyUGNSNkpfWXF5Z3c?oc=5",
-      "source": "東洋経済",
-      "published_at": "2026-09-20T21:00:00+00:00"
-    },
-    {
-      "id": "hl-d21f18329675679d",
-      "date": "2026-09-20",
-      "title": "【検証･防衛記者クラブ（前編）】国民の知る権利を空洞化させる―防衛省で露呈した権力監視の放棄と当局癒着の実態",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9mSnVnU2g0TXJfUUFBSE8tNDBSVmNqSjYtMmNKc2dKMHJCbjU2NDhXNlVoY1VsNGQ3LVNmb2JfRHRqcmJQQXdsbk5uaHgza0FmTWxvRldxdGo3dkNLeS1R?oc=5",
-      "source": "東洋経済",
-      "published_at": "2026-09-20T21:00:00+00:00"
-    },
-    {
-      "id": "hl-916b1890ead29774",
-      "date": "2026-09-20",
-      "title": "【検証･防衛記者クラブ（前編）】国民の知る権利を空洞化させる―防衛省で露呈した権力監視の放棄と当局癒着の実態",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40ci14TVJrRjlOTW42UktVbnoxc3E5UXhuTzRrOC1zNDh2RVJWcnlsX2UyaXV2YVNuVFNZNkZMLVV2SE5XNElkOGlkTzFXLWZGblZYYTJaTXNHQkk?oc=5",
-      "source": "東洋経済",
-      "published_at": "2026-09-20T21:00:00+00:00"
-    },
-    {
-      "id": "hl-8c4b279db01b6de4",
-      "date": "2026-09-20",
-      "title": "【検証･防衛記者クラブ（前編）】国民の知る権利を空洞化させる―防衛省で露呈した権力監視の放棄と当局癒着の実態",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GSlk5RThKMjE3VWQ2TXBqMUIyRUo2MDVUQjZ0OThveXVsUk5mcTY4UTlXT3RreDRtck9yNF9uNDNuOVNDYVVUM0k0cG0xRFhpXzdYbVpnR3ZrYWM?oc=5",
-      "source": "東洋経済",
-      "published_at": "2026-09-20T21:00:00+00:00"
-    },
-    {
-      "id": "hl-637ee7e433e07846",
-      "date": "2026-09-20",
-      "title": "【検証･防衛記者クラブ（前編）】国民の知る権利を空洞化させる―防衛省で露呈した権力監視の放棄と当局癒着の実態",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40RTZNcHlGZnYyNGt2RUJDMVNWRVlWLTZzWU1NUDRYME83QkU3N0lHaFZyVmVYMEljM0plNV8yeGplRm1kX3cxMkpmc1ZWUlM5clJENHRUS2JvRGM?oc=5",
-      "source": "東洋経済",
-      "published_at": "2026-09-20T21:00:00+00:00"
-    },
-    {
-      "id": "hl-2eb7abfb4cd483e9",
-      "date": "2026-09-20",
-      "title": "【検証･防衛記者クラブ（前編）】国民の知る権利を空洞化させる―防衛省で露呈した権力監視の放棄と当局癒着の実態",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1aMzZlTFV2dVcyb1NBYnNqZS0xNHJMVnB4a2V5SUJZVl92MFYyT3g1SE41S1d1NndjeFh2eFZkWUtLYWF1c1UtM1pwbElHY3dxbWtuRU9KTnhhY00?oc=5",
-      "source": "東洋経済",
-      "published_at": "2026-09-20T21:00:00+00:00"
-    },
-    {
-      "id": "hl-216d513e60c7d836",
-      "date": "2026-09-20",
-      "title": "【検証･防衛記者クラブ（前編）】国民の知る権利を空洞化させる―防衛省で露呈した権力監視の放棄と当局癒着の実態",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ZSEtMR1ZxYnRESWFlUTVqMTVTR1lXc2RoNU1jZ0JvSHJFX2ZiSVN4VHFpSkJIX1BWTVVKTDNZUHEyMHh6NXpkNUhBd1dHMnZnZVVXOE02emluVHc?oc=5",
-      "source": "東洋経済",
-      "published_at": "2026-09-20T21:00:00+00:00"
-    },
-    {
-      "id": "hl-8c41d7a943871f2e",
-      "date": "2026-09-20",
-      "title": "Trump wants to use Washington arch as military complex for drones and snipers - reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS0NSWXh5Yk1oTE53RXhpcE14ZHRTUUl2Rzlhbkhhb0wyLXJYdkR4azJXbkxZRENxRTRTNkEyX2xHQTlTLUtTSFhZM0xqMlRJSTdvWUcyOTljYjUtY2tJYTRJcnpwMXNXSjU5VnRpN1JMMVRRS01ZTjZTUklacUQxSWZObk9FOG0xak9lazNlcFhTcFZyRjFxR1hVQQ?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-20T20:10:15+00:00"
-    },
-    {
-      "id": "hl-f923d03ec34a45f5",
-      "date": "2026-09-20",
-      "title": "自衛隊、火薬庫の構造統一 防衛省、増設へ設計期間を短縮",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9rUElrVVQ5VEkzX2JtTnRkb2FNTkg5M0xGNTFoT2xQUmVBYUU1Sl9zcXNGWUpGUGRpUXNhckYyaE50ZXN2MkhvcW1GT0VPX0Q2SDdlVUVZaHpLbERjUXc3b0wzTUNlNXMzTkNPYw?oc=5",
-      "source": "日経",
-      "published_at": "2026-09-20T17:00:00+00:00"
-    },
-    {
-      "id": "hl-63714882d34ed63f",
-      "date": "2026-09-20",
-      "title": "Watch QEF 2026: Citi CEO Sees ‘Tsunami’ of Patching to Secure AI Defense - bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQelJLY0IzUXlEZFRCaVlwWng0cnY0VGVvc2hPZnoxMl9TOG1WLXdtUlNJZ3V3T2pxT1RXUGdrd3gyMER5SFBnaTBtRmdmQVpmckhkTFBWT1FiY2hWSkRTNTdfR1dYcE5Mam9fb0NXOWdSSjJhYmhZRnhmYVRMY3hPVnBaWWVxeVk0Y2NNNzMyY0pxNjNvRW8yOEJITk9lWDJ2bGFPTzA4RnB4UDZ0c3c?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-09-20T16:56:42+00:00"
-    },
-    {
-      "id": "hl-0071d7aa7b6a9cf8",
-      "date": "2026-09-20",
-      "title": "Moscow Refinery Hit as Russia Reports Largest Drone Attack - bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNX3VIOGJPSGZuNWlYakdiRmIxRGFpQ1dFV3AydkZaRVkxdnpZWFg2QUU5V1VobFM0VnNtV3NkUl9OTWFCVm5LLVVkc3lOSjhRZ0tvbFdJYmdJSUlodGpBOUc0RjREUHBwbUUwRzRWOEx1WHF5WVZGLVlWZVhQY01RMFFrWW4zaXY0SXlmVnVPZ2NGbklSLWMwWTVleDV4bmU4a1FGOEswSkUwVzA4NXhwQ2JVVGU?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-09-20T10:16:21+00:00"
-    },
-    {
-      "id": "hl-2f898d3150ca8897",
-      "date": "2026-09-20",
-      "title": "Turkey Signals Military Support for Saudi Arabia Against Houthis - bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZ1lpYklIOWxtWkRJUzJrblcwOTBzYkpLWjVvUTgxMWlGTzh2TmJaYWZlY3RqbFA3bDdiTFktT3ltWFhzT0pIbUhIck9tUDJPWjZveFhqS0ZZdkVwbDJTZkE0bnNnZGc2bUs0UER2UEVBVW9xdEZ5Yzg3dFhEZzFEUWc1b0g3UzVmaFo2WXZjY21EbTlvSlU3SXozUGtvaUFHSGZQc3Bla1Z2ZFFHQS1ZWV9ObXdjdw?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-09-20T07:36:00+00:00"
-    },
-    {
-      "id": "hl-24c48dd7d20f1e9e",
-      "date": "2026-09-19",
-      "title": "Turkey says it could help meet Saudi military needs under defence pact - reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcFRETlRnejhZT205SG1jcTdjVXczcElRSUxEam5NemVkeWdYaEdkU0hjSFlrMGkxd0JoV1YzMHlRUWl4TnJSSy14aFJUemp3bm55X0dqcXdEN0o4aUdScDE0M3ZsRzlEQ0lhWm4yX0NDVE02aUl6djZneTMxMWxsYnVlYTltMmVhMlVXdU5vZjY1Z3B3aVpCU0NVb1Y0ZmI1V3FJUi1EaGt1d1AwUV9JeTR0RWZVeFRZbUsyS2lTUUJUd1hfOFg4NEtMcWhUQQ?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-19T19:21:47+00:00"
-    },
-    {
-      "id": "hl-8bf6fb76ccaf6e2e",
-      "date": "2026-09-19",
-      "title": "German general Breuer elected to head top NATO military body - cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOEtzVkJJb216bU1STmtCM2dWajk0RUdSNXhhN2JhT2l6RjFWMTFDdTVyY2Y0R3N3U0pxY1c5aEZSdjA2LWhGWEtreFlKaHlPWUpFRjRhbzJhc2JjNjJVVnBZdXhzYURSUXpFdUZfdk9WZ0NsTkh3NEVIZUFBQlpIRWl4eVc5d2JKYmg1TEhsSkNXYnVyaEY5VHhhNkFhd9IBowFBVV95cUxNY3UyRnJSYzY3U0VuLVRKX1ozMjBSeEh2V1JOWjZaOFVDQWttSHhSZTIxVVVDVWhJeXRIT0RxcmJZcEIwUTlNX2dqRW5MY24xa01GUnVyNVo2SG5CTEc2b2tpbXIwT0cyTEdtWVd3Tk1LWDJ6cWtKelFMQUJJWkpReVI5OWNDZHROcU85V2NmeFN2MV9Zb3NqTnNpUWlMUXBZQ0pN?oc=5",
-      "source": "CNBC",
-      "published_at": "2026-09-19T17:44:38+00:00"
     }
   ]
 }
