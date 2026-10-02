@@ -1,6 +1,6 @@
 {
   "_schema": "id: 安定ID / date: YYYY-MM-DD / title: 見出し / url: 原文リンク / source: 媒体名 / published_at: ISO8601(任意)",
-  "fetched_at": "2026-10-01T16:56:29.726672+00:00",
+  "fetched_at": "2026-10-02T16:11:32.519658+00:00",
   "theme": "nuclear",
   "sources": [
     "日経",
@@ -12,15 +12,63 @@
     "東洋経済"
   ],
   "fetch_notes": [
-    "日経: 20件",
-    "Bloomberg: 14件",
-    "Reuters: 7件",
-    "CNBC: 1件",
-    "WSJ: 4件",
+    "日経: 19件",
+    "Bloomberg: 13件",
+    "Reuters: 8件",
+    "CNBC: 0件",
+    "WSJ: 3件",
     "日刊工業: 2件",
-    "東洋経済: 8件"
+    "東洋経済: 6件"
   ],
   "items": [
+    {
+      "id": "hl-ab03027a1c1f6818",
+      "date": "2026-10-02",
+      "title": "関西電力、大飯・美浜の2原発稼働停止で再発防止策 運転再開は未定",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE84a01zbjJNcGIxcDI2aURfUF84RWd6TGF2NzY5dUlxOFpia2RLdlRXUE52bTctQUJMM2xDb3k2dVRRRk1ZZUNpMVA4MlZZNTN3WTFRT2l1TkpDWkU2YVFZLWYwcmhBNUdfS3Zjaw?oc=5",
+      "source": "日経",
+      "published_at": "2026-10-02T10:43:30+00:00"
+    },
+    {
+      "id": "hl-af9e813b9c1f7da3",
+      "date": "2026-10-02",
+      "title": "核ごみ概要調査に反対表明の茨城・大井川知事 「原発ないところで」",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tLXVVUHVaN3RseTQ1R0NXVzhaNkNlS2hRRS1ZQk5GaTQtVHNSaUZaSEFnRXFTZXMyeXE2QlNKRm9SYkdnbmFnc2VUQ0xpT0JLa25PdHlobV9USzc2SUIwV29pRVlfLUlkdTdvZw?oc=5",
+      "source": "日経",
+      "published_at": "2026-10-02T10:32:31+00:00"
+    },
+    {
+      "id": "hl-8ea485be45155355",
+      "date": "2026-10-02",
+      "title": "志賀原発の審査会合、北陸電が資料不備の原因究明・対応策を提示",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE43bkVwT3dLZ3lUQ2piMUd4anJ5eWxudG55SjNmX0xVUnBUSFpZVnJYMUV6T19LQTlUU2ptb19kTDE4QVRKUGFXcXpyTF84b1JTaGpwdWJrVTJxREtRZmZUbVlJSkxKU3kyXzRyQQ?oc=5",
+      "source": "日経",
+      "published_at": "2026-10-02T10:28:01+00:00"
+    },
+    {
+      "id": "hl-4a8415767c404fbe",
+      "date": "2026-10-02",
+      "title": "原発建て替えの経済波及効果「1基4.3兆円」 日本原子力産業協会推計",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZS0dBWmpLTjRvdUZSVHN3U2VKWXNhZmhpY0EyS3dpMW93QjZEaFlkdko0NjJmc21oY1RCbU1ia3lzeE1MV0FnSjZWU1hSZWNJUDM3UU1uMzBkY0xlYkNNOWtMaXFqODJZdF9SRQ?oc=5",
+      "source": "日経",
+      "published_at": "2026-10-02T10:18:43+00:00"
+    },
+    {
+      "id": "hl-e36b2b17eeb78709",
+      "date": "2026-10-02",
+      "title": "Nuclear technology group Steady Energy falls in market debut",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSGUxLThyRlZjaWJVNzkwX2c2RHhERDdQR29jVFo4RVNFVEs1QUcxTXRsZVhrUEk4NnltWGVIbC1ENDh5ODRybGNaXzFVdEQtS1kxakFqNEYxbnFIakU3dm1hbHdpUlNZSUl5dlZqOXplTk9xdHdWTF91Ni1WQWF5SGFoVUwwb01kbnVjMFdUZC1uc2t6UXp1TUpOem5odE81YWFEalVDejNZeDZUNXc?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-10-02T07:57:44+00:00"
+    },
+    {
+      "id": "hl-fbfc86015901527f",
+      "date": "2026-10-01",
+      "title": "韓国、対米投資31兆円 米発表、原発やアラスカLNG",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9mSjlwYzZUQ1p4NkY5LTlyUGNxRnFuQmRyczI4bkNJc29KX0twa2M3ZFhMR0VXV0Iyc21BRjJaRFFsaURDczd2bm1kdDh2b3B4Qk04OU1nZVp5ZlI2dGlpVDVfRUVlMGZSVHhJXw?oc=5",
+      "source": "日経",
+      "published_at": "2026-10-01T17:00:00+00:00"
+    },
     {
       "id": "hl-7ba40a7225f9b31b",
       "date": "2026-10-01",
@@ -36,14 +84,6 @@
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORF9mLXhJN05vb1FoWmtmUlJ0dnJKenIwT0otYmhQSWZoTEpoMEllVkRmTEU5ak1QWlN5d3NWeUp5eTMtZHcweGRVTmtkNmFIdTJpNnFwemxsVFRKaUVzejJlb0lNZjRMNnRwS2lkQzNEektZa3dleHFpaFQ1OU1kMEdwWkZPSi0zUGJKTHpLM3pwSk8wckwtaXpzTmFMZVNMdDhIaV9lSzBEOG5nQTQ0U2tGY3ZnZw?oc=5",
       "source": "Bloomberg",
       "published_at": "2026-10-01T07:00:01+00:00"
-    },
-    {
-      "id": "hl-86b928ad1f92f70a",
-      "date": "2026-10-01",
-      "title": "中部電力新社長、御前崎市長に組織改革など説明 浜岡原発不正うけ",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE03MGkxaGVRTUxfOXRfT1BJTGEyVlE1STVpdExhdDRiY01KV3k3R090T1RUaXVqVDZKeDFjZG5GNXk2N2FWd3lYRW5IVzF6REl3SFhZR1UtcnNUdlNpbEI1c1d1eENSbFRTOTdGYw?oc=5",
-      "source": "日経",
-      "published_at": "2026-10-01T05:56:24+00:00"
     },
     {
       "id": "hl-2b4cce8023d6b670",
@@ -86,6 +126,14 @@
       "published_at": "2026-09-30T17:41:13+00:00"
     },
     {
+      "id": "hl-2d359d2c905bc330",
+      "date": "2026-09-30",
+      "title": "キューデンHD、きょう発足 九電新社長、原発新増設は「選択肢」",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoV05iV2tuQmR3VTN2TUxMU0N0ck9pWmVwX0xieEx0bVdTbHRGa3ltdU8xNmE3c3NXbUpsWU1PdnNaVnBrLVVmQWI0RDU5ZThSX3cyWE5zb3FhVU1qRFhKLUlHemJiSVhkcXVUZA?oc=5",
+      "source": "日経",
+      "published_at": "2026-09-30T16:49:00+00:00"
+    },
+    {
       "id": "hl-f9dc5fbbf005c839",
       "date": "2026-09-30",
       "title": "Polish Billionaire Lures Investors to Small Nuclear Reactor Firm",
@@ -94,9 +142,17 @@
       "published_at": "2026-09-30T16:09:40+00:00"
     },
     {
-      "id": "hl-77a3e772cf23b161",
+      "id": "hl-7df56ea3958cb2a8",
       "date": "2026-09-30",
-      "title": "浜岡原発の不適切事案――経営の圧力と心理的安全性をどう考えるか - 日経COMEMO",
+      "title": "Polish Billionaire Lures Investors to Small Nuclear Reactor Firm",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNzZzZHJkaTRCNG1yN25naHc2QkxFc1J1cjNfVVp0cVZyLXQxUDRXcWJHakp5TUpMTm1NQXg2ay1TNUlsM2I4aE9rS3c1cVRDbFpNb0pILUpHUEJLdXhlY21CS3NFWDJLU2FvMm1kbnFIWUF4ZHhWNnpWRWh3bGdXYnl1UFVSX1NDVWkxY0h2bzN2NENrRjVBOFlsc2Z0YjhhcVdRbThSaU91V0pKNzNsWDdkMW1NNVlCQlhTLUNuNUYwOWV4VElad0xfSUtiWmgwMGRv?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-09-30T16:09:40+00:00"
+    },
+    {
+      "id": "hl-63bded9ae9d66c19",
+      "date": "2026-09-30",
+      "title": "浜岡原発の不適切事案――経営の圧力と心理的安全性をどう考えるか - comemo.nikkei.com",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4yNmhYV3ZldTljSmFYNDFXcjJvemFZZnpibzJycHlxWG9QSWE3aXlRZjZ6WC1VT2VmU0d0US1rd2ZSUzgwczlPVEdkQ0stUEg1ejhURTZGR21TcUVmSC1tZVVSRV9ZLVBhZFRja21ZeG9yQVc2YTRJ?oc=5",
       "source": "日経",
       "published_at": "2026-09-30T12:26:23+00:00"
@@ -126,14 +182,6 @@
       "published_at": "2026-09-30T08:54:31+00:00"
     },
     {
-      "id": "hl-fd1d03cc07e02550",
-      "date": "2026-09-30",
-      "title": "画像 | 中部電力･不正の背後に｢原発再稼働｣への固執､調査報告書が指摘した｢独自の正当化理論｣…異論許さず不祥事の温床に",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0xb1pISzZ6SVcwbTgyYW5TNE5sZmRvQ1N3QkR5X3dRZTg3bjB2ZE1rcGdkQ2ZzZEoxMHlkT1BCcHpEeW9tYi1qOUg2cC10ckVsTmpMUmVGYw?oc=5",
-      "source": "東洋経済",
-      "published_at": "2026-09-30T08:40:00+00:00"
-    },
-    {
       "id": "hl-0f903afbfd19a1ac",
       "date": "2026-09-30",
       "title": "Trump downplays North Korea's nuclear weapons, says Kim is 'a friend'",
@@ -148,14 +196,6 @@
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9XdG92YXk1bGxwTU1FTllCVEdiNmtyWXNGc3hpSzVBWWRwc3YtRFprNmVzZkFuOW0yNzFFdWt4bGZ6c2RoTkFDdFRDWkpYeWExbFFua3lGSW54WmtIN0E?oc=5",
       "source": "Bloomberg",
       "published_at": "2026-09-30T00:32:51+00:00"
-    },
-    {
-      "id": "hl-67f9cde8e052ab54",
-      "date": "2026-09-29",
-      "title": "福島第一原発事故で｢国の責任｣を否定した最高裁判事…退官後､別の原発訴訟で東電側に立つ《巨大法律事務所》顧問に",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1CWHJBeEZDd3B3MkJEUGZwcjBzYzNJN0ZMTTFKTV9scFBJbjd3U2hWZVQweVJGdWIxSVVJaGpNMFNtcnBJNDhONDc0NnVKWjdCNTdlVUlqWnFPYWc?oc=5",
-      "source": "東洋経済",
-      "published_at": "2026-09-29T23:30:00+00:00"
     },
     {
       "id": "hl-5f36b920c7cb4407",
@@ -174,10 +214,10 @@
       "published_at": "2026-09-29T22:03:43+00:00"
     },
     {
-      "id": "hl-f0d87e501df0bb95",
+      "id": "hl-82eda78ab08fbd91",
       "date": "2026-09-29",
       "title": "Trump-Backed Nuclear Plant Settles Cancer, Contamination Lawsuits",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbWo1d3RvS0FtLVgtYkpEcG4wczN2VUgycXQ2Vk0wSkZHVWNEWTRzV2ZncklrM1Flc2tCVWpzTmVBcHcxQ2tqYjJiZjYxbTZPdFFleHN0U0hISERrd0ptWUhNQWgxWjlkejR6d3lRX2hoZXlSYmNZZk9BbEFvSENDM1V2VTlrY0NxT3VFNDlmT1JfYUhSYkx6RGtTNVU3X2lkX0JWX2pqRHhybk96UVlkT3dMYkFhdmdWLW9fV3FLSGhmcGJJVWI5ZjRJbnh1UVp0UlE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNeXNwUU84SEk1QzdwSkZuQkkwdnhxUjV3N2tqbjlQTVZrNFI3UzZMT182NDNnMmdEWkE1QXh2OHgtZDlTcUxPVDRUclhSQXFUMWRyYWJYbU00WUdiTGI1ZWRJRzU3SjUweWdHV1lnYzFfY295cURmeHBDNEhhY0EzSTdZLUZLRy1XNXlIRHZteDhmbnZZdWx6NUE3QzZsZDkzak5QMm9xUkNRdzRtMFRtUEUycTd2a3B0NVhJTExiNUpVRUkyM0JfeXRFcXRzdHRlUlE?oc=5",
       "source": "Bloomberg",
       "published_at": "2026-09-29T20:45:20+00:00"
     },
@@ -230,17 +270,17 @@
       "published_at": "2026-09-28T21:39:22+00:00"
     },
     {
-      "id": "hl-1306347bd20813ff",
+      "id": "hl-4d759bba962f0f00",
       "date": "2026-09-28",
-      "title": "画像：脱炭素に向けて見直される原子力発電の基本を知る2冊 - 日経BOOKプラス",
+      "title": "画像：脱炭素に向けて見直される原子力発電の基本を知る2冊 - bookplus.nikkei.com",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNX0hGRThCTkEzSjhoOGNZZ2ktMUhJMEdyb2hnU0l5TGN6SlQ2M3RpY0hucDZvcGdvLVh4Ui12cmY3UEJBNjV1WmtLZXQwX0Rham0xVzhDNkZtdTdqLXFUWlVDTEotdzB2MF9xNVlkSmd6R2JncnlQa2RsR3RGcXU4TjM5eUhsZVE2dzJF?oc=5",
       "source": "日経",
       "published_at": "2026-09-28T20:25:34+00:00"
     },
     {
-      "id": "hl-9484530adcd3a2a0",
+      "id": "hl-f3fa733d80fed4f3",
       "date": "2026-09-28",
-      "title": "脱炭素に向けて見直される原子力発電の基本を知る2冊 - 日経BOOKプラス",
+      "title": "脱炭素に向けて見直される原子力発電の基本を知る2冊 - bookplus.nikkei.com",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9rU2Q2T2FlUVBnMkYwSFhzSGMyNDhzV01FYWc4RnVqUVpUTk9oR2dEeVhtQ25PSFRlRDJiS0JpeVZSQUlfcTQ1YlJiRWtvVG1Gd3ZCTmVzTW1oS3V4dzdnaWJhRi1GMVAwSGdvMg?oc=5",
       "source": "日経",
       "published_at": "2026-09-28T20:00:00+00:00"
@@ -348,86 +388,6 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1JRmhfU0NCMTVMNjdyMWZReTJPR1Mxa2lDRnRfSmJXdmhIWTBQWkVGMllQSWZEaFdsVGUzLWhxN3dta0FVOUwtekw2cFh0ZS01WElKY2JRcEdpOURITXpMS1pLdkx3UW9KYmlqNA?oc=5",
       "source": "日経",
       "published_at": "2026-09-25T17:00:00+00:00"
-    },
-    {
-      "id": "hl-48ed342a8424013b",
-      "date": "2026-09-25",
-      "title": "中国電力、過去最高の総額1490億円を調達 島根原発の安全対策などで",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE50SnZVbzBtMWNLUDZaYTZfUkZCOUVQYUxZV09wTVVma2NqZGVBZzM2aGxPOTczUFVtTDllQTVKMU5zQTVUOWRSRUREVWYtTmwtZF80Mmpmam1oamlNcEFQbkwyODk2ajl0dE9JbA?oc=5",
-      "source": "日経",
-      "published_at": "2026-09-25T09:52:42+00:00"
-    },
-    {
-      "id": "hl-d95ebefdf57bb831",
-      "date": "2026-09-25",
-      "title": "AI’s Nuclear Power Push Runs Into Cost and Regulatory Hurdles",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVFZUM213YUJ5bmM5VHliV2M2czV4OGNsN2NxSDdnQ3ZIZ0FyRE1lS3VnQmRmLTVRYWdLQmQwSWMwcVhqYjkyQkdTMTIxdFNReTMyN1BMdVlRWkRJY29BWE9aX3B4TkNsUHNmMU4tQ2RvYUU2SmRDZllSVk9sMUo5Tkl5UERPWmZXWFlzTEFqX3RNOEtpWmJjRFFQNDNVSENURzVfdlNRdHNtTW5OVVZMUGhB?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-09-25T09:30:14+00:00"
-    },
-    {
-      "id": "hl-7dcaff90e462bab7",
-      "date": "2026-09-25",
-      "title": "柏崎刈羽原発の人身事故が増加、所長「非常にまずい」",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLcDVQalZ5QVR2WDRUdEN0aDJ6ZmxxY25fcjlnQ0ZnQ1dSUzltTmxhOWlnYkV1ZmhHNlp2dF9qTFExN3VMaC0zYnJiSDJJOW90QTAwOXZSYlJ0cFlCdkRNYlBKOW1CRFRWTEtJMg?oc=5",
-      "source": "日経",
-      "published_at": "2026-09-25T09:00:00+00:00"
-    },
-    {
-      "id": "hl-9ec9bad84618e03a",
-      "date": "2026-09-25",
-      "title": "中部電力、浜岡原発の廃炉手続き不正の調査やり直し",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Sdk9qNHdDUF9YeWdkODBLQldKWm8yM0Rhdk9wVDMzYnFxMk1CVTRSSkNSY19BUFhfTFhMRWFUUjhKZDRjT1h4cVY3YU5rbWtQNGo4MFRwN2YzQ1d3MUhfd0dXSzYzeXlzNi00NA?oc=5",
-      "source": "日経",
-      "published_at": "2026-09-25T08:22:01+00:00"
-    },
-    {
-      "id": "hl-6d00400ac592d28c",
-      "date": "2026-09-25",
-      "title": "Taiwan Backs Early Plan to Restart Nuclear Power in Policy Shift",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOakE4WGg0SHI0RnpyNGs0dGRfTzZxVVBnZ2d4eTZWT1Rqd2Ryd3N1MkdCYjNvLVptU0gxTWE1bDBnUWVpLVQ5Z2p2c2NIZmdlVzVHVzZwZjIyY3dxOFF3M2dhMVg5VlRaNGxQTTF5aXNCMEhQUGhtU2MyVzFWUFoxWDFrR2F6X0xweHA1WnFKcXRTUzdRWFA2VWdILWdxcFdVME15VkVDOHZhZ0c1QVhaczM1UlhOQQ?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-09-25T08:00:37+00:00"
-    },
-    {
-      "id": "hl-dc387e2520dee207",
-      "date": "2026-09-25",
-      "title": "美浜原発3号機、腐食で配管に穴 関西電力が手動停止後に調査",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52NzNRMWlHMTFfV2pLaEpmRTVtbExydG91Zm9kT0RHZDJtWXh6Z21GOExMRk12WWV0VkFPY2RtTzNFSW9OZ3lvWTRmQ2dMdE5CRm1GeFQ2aUQ0ejRLMGRBN1VkamMtOXBlOUozcw?oc=5",
-      "source": "日経",
-      "published_at": "2026-09-25T07:48:55+00:00"
-    },
-    {
-      "id": "hl-9cce58816102269c",
-      "date": "2026-09-25",
-      "title": "Iran offers to reopen Strait of Hormuz within 7 days and restart nuclear talks - cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5aZ0hqeDJKZlFWZTE2eWwxei1Cd21MaFNkZFZPRWxzNllJdmUzUXVGMFZ6THlXempxQmo1NzhRV1FuNG1sd3hTSW9NT1hvSVdEMVhfVDI5bFBlYWk0T3pvTGd3ZXpjcDJIbEHSAW9BVV95cUxQbGRDUzktQ3JVU3VVcnpXSk5LN20tZEVPbEZ1d3NjSDJKa0xleWt4V054NFNtYU54WElPeWE5ZXk4VnlDVUg4TUIxaExtbGZBS2xkZEdXeVpPd0Z4VFk1cWo1QnRQSFBOUXNUUE5nbW8?oc=5",
-      "source": "CNBC",
-      "published_at": "2026-09-25T05:37:21+00:00"
-    },
-    {
-      "id": "hl-7f99d66fccfe9358",
-      "date": "2026-09-25",
-      "title": "中部電力、浜岡原発の再稼働審査の申請取り下げ データ不正受け",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1nWmk3bVJtOXVTeUFzMXdoLU9uaG9DREExZ19LSUNqeGhQODBGSkx3NEVKMWpEVXdLc0p0aEtoWXZGX2xKZ01jZWJ3cmppemZOYmMyME0wMzBwQVZaQm1LQ3RaRzRnbG5UTHFFdw?oc=5",
-      "source": "日経",
-      "published_at": "2026-09-25T04:12:13+00:00"
-    },
-    {
-      "id": "hl-59f93abd3361ba7f",
-      "date": "2026-09-24",
-      "title": "伊、40年ぶり原発回帰へ 首相、エネ確保に道筋 地政学リスク警戒、欧州で動き拡大",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xUXgxVmlkSEVBdzg3bUhFV09DNUFUUm9uOE56SlBRbjdyYTFGcVp2ZDhHdklGU1V5NklzQkcxTWhIeE1CaXB0cThJUHZud0NJTFN3NUplRkU5enpnNVhlVDdzUThNNE1HVkZYOQ?oc=5",
-      "source": "日経",
-      "published_at": "2026-09-24T17:00:00+00:00"
-    },
-    {
-      "id": "hl-52c51182abf4a0a7",
-      "date": "2026-09-24",
-      "title": "Exclusive | Trump Administration Presses China on Suspected Nuclear Tests in Confidential Talks",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNOHp1cHpGMHY1M2dCcFlVVUtCcXl1a3l0dUd0MnBJcEIxWlIxZXlGWThyeTdPVFZhdUlCVmRnaTBuR1VRRFV5WHpoXzZXVkRiZVhJRFJ6Rmk3WFY5MndFZ1RtX08tUTl0N0tqN0VTT2l6UGdlSURpdFBRNWh3TERGYkgxbG54TFhhckFzVWJTblRIanA3Vjhhd3o1QzhvMm43TWYyTEhUOVMxNEhEcTJ0SjBzOEVpRVh5TkxqcWJKSmkyT3NuZHhDY2VfNnpwTm1oYVFfUWFn?oc=5",
-      "source": "WSJ",
-      "published_at": "2026-09-24T17:00:00+00:00"
     }
   ]
 }
