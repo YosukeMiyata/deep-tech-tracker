@@ -1,6 +1,6 @@
 {
   "_schema": "id: 安定ID / date: YYYY-MM-DD / title: 見出し / url: 原文リンク / source: 媒体名 / published_at: ISO8601(任意)",
-  "fetched_at": "2026-10-05T19:06:02.574838+00:00",
+  "fetched_at": "2026-10-06T16:30:43.795994+00:00",
   "theme": "defense",
   "sources": [
     "日経",
@@ -13,16 +13,120 @@
     "SpaceNews"
   ],
   "fetch_notes": [
-    "日経: 31件",
-    "Bloomberg: 18件",
-    "Reuters: 20件",
+    "日経: 29件",
+    "Bloomberg: 16件",
+    "Reuters: 24件",
     "CNBC: 3件",
     "WSJ: 9件",
-    "日刊工業: 2件",
-    "東洋経済: 3件",
-    "SpaceNews: 16件"
+    "日刊工業: 0件",
+    "東洋経済: 10件",
+    "SpaceNews: 17件"
   ],
   "items": [
+    {
+      "id": "hl-7aae8bee66479f37",
+      "date": "2026-10-06",
+      "title": "Sweden to deploy Patriot missiles to NATO hub in Poland",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUFc1c0xXaVJWOWFhb0N1MlhwalE0cGd4R0xCdXEtUFUzTE1BeFhTX1ZqMEFCWnlpOTczN0djcFVPU19rb3M2Rjd0X0xPVzB4bUFUTlQ0MDNHdF90VEJrWThjU2llMHI4bFJiQ2VtM3hYWEdTSzJkdmJZX3RJRzB5RFdrZTdZRjl4NEJJcXB5dG55ZXU0SWFEeDZkZV9STUpGRzlVWHlCVFFMeV9pQlE?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-10-06T12:51:59+00:00"
+    },
+    {
+      "id": "hl-7f0bc9695f56b484",
+      "date": "2026-10-06",
+      "title": "France tests upgraded nuclear missile against backdrop of Russia tensions",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdnFZRFNIWk9paTlwTFFMaXJrM1BwQUtRYndNQXZCcXJfMDBadlBXZm85R0VaRFRQa3VrM3UtSGtqbUc4dU1TbU1EeGk3ZTg5eE9Da0FseEtBN3I0aXRoaEpiVW5SQjUwQ3Y0NjlKSjdINU0tM1BlYlo3czk2U3dFbDJRYnhPOGlUeWgyVHlGRnFzUVNpVjBGbVEzdmxOMk43eE50Q2Z3dlFDYUs5NldpYzlkZzEtOGt6cFRuQS1uekl6SHBMM05rc0ZwRkp2dw?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-10-06T10:57:47+00:00"
+    },
+    {
+      "id": "hl-b6d9f05b9f58d642",
+      "date": "2026-10-06",
+      "title": "Poland to spend $26 billion on civil defence, population protection plan, PM says",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdWFoQzBKd1lLUEVjYkhzb2VneW15NTdrdlZzYkJaQkZLZ19yUmZJeUZEOHp5OVlZMnMwcWVVcVA5ZS1IOXdhdEVQd2M2My1SNTFOeW81SUdZSEdGMzNMcml0X1A5ZlZqbVA5ZXBPWkhkLWNwNV9rU1pHWlpwNkZmd1ZaNlRFTTlmTWdRMXVpQVhGRnk1cjJPX25GT1RFcW5EeG9uRUc5aU5KTENiSzNpZnAtdTlRNWRNS3Z2N2pmLWxvN3hrcHN0X1lCLU83MW93?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-10-06T10:49:55+00:00"
+    },
+    {
+      "id": "hl-f951ccd0864c863a",
+      "date": "2026-10-06",
+      "title": "UK PM weighs delay to roadmap for higher defence spending, Times reports",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQUsycjQxd3dlb25XR0NhemR3Z3VQdk1uU1k3VjIyUzB3bEZCTk5kV1ZYTGhTN2hTekFIblBPX3dVdHdBVWRJN0dyTGFRLWl4bllZN1VYc2tlYnJranNEOFRPVHQzOHRiQzluWkxxOVNoWkZXQTVhSDg2RGQwbXo4VS1DZm8tVEVTc0k1ejRaRGRLVG9xcjh2S0kwMDFoZTh6RndadWZsQ2VTN0FId3c?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-10-06T08:17:44+00:00"
+    },
+    {
+      "id": "hl-809a1600b0445d4e",
+      "date": "2026-10-06",
+      "title": "［独自］東邦HDの買収防衛策、裁判所が「必要性」否定 物言う株主に追い風か - 日経ビジネス電子版",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE53ZEtQRkdmdU1VY2N1UjdncWNoS0xkWjNmRFZaLVVwVXV2Y3QwQzUwaTdIMV9HdDVOOEZBN0E4MUgyRGFzMnA5aEw2OURkQkM4b2d3WXByYkJDZDBteTBGS2dPMzF0Z3c?oc=5",
+      "source": "日経",
+      "published_at": "2026-10-06T08:00:00+00:00"
+    },
+    {
+      "id": "hl-d808d10c335ac4c9",
+      "date": "2026-10-06",
+      "title": "Drone sinks ship off Bulgaria; crew missing",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOckYybnBiUEo2ZDZpQ0hkTUlXUkE3ei11ZkJpODRKdTRBa19NVVNDdDFnQjMwbzJIb1ZndFZfMW9CNVpuNFFNNTlhYUxqcFFoYzY4LWtIMVBLR2ZsR0hWWG5VREZ3TjFtd29xWFhkUlhEdEk5UFl0WHpxQlVybWh5WV9KdGdJSnVZa0V4RHJITXlaQUxQZE8xZG9GWU4tSG9Mamc?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-10-06T06:48:00+00:00"
+    },
+    {
+      "id": "hl-9a9de0371d6aa395",
+      "date": "2026-10-06",
+      "title": "【東京】知的財産の管理・推進（航空・宇宙・防衛事業領域） - 日経転職版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ibm5wczBFdzhzSm1nTzhUYmlXd1RNMDIzbDJ2dmwtbTZUM2taQ0ZzejZEVWR0VGFYMEg2LWN5TzNzbEpiWW96WEUzM19MWHBhVjdBa3FHOE5ORHpqaTZ6VDBWdVNqYXZGT3kzM0Rn?oc=5",
+      "source": "日経",
+      "published_at": "2026-10-06T06:23:22+00:00"
+    },
+    {
+      "id": "hl-787cebe5b0a78f3f",
+      "date": "2026-10-06",
+      "title": "France's BPCE takes 7% stake in Sabadell, bolstering Spanish bank's defences",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbU81S2t4SlA5NGU4dS1sNlRRaC1iZUx3YkhiVlFxTndKM1l2clBxQ1plWUtQeEdVVGZWRDZNT2N6OUl5WW9VbWNOR09QeFY4V3dsaXkxd3VCTFpKRzhrMjEwdEtISklxVktlb2NPTkFXWi1HcnV6U1oxRmVuZHowb0IwVDVxVkkwNlk2MUJOU2xQNjIyYm4tek1QajJ5SWhpaHc1Y2thUktoT0tYcmc?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-10-06T05:36:00+00:00"
+    },
+    {
+      "id": "hl-e6f8e648ecf1e712",
+      "date": "2026-10-06",
+      "title": "サウジ・パキスタン・トルコ、対フーシで軍展開 メッカ共同防衛協定が発動",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBhUDJCOUt4Q0hoeFdQM25NM3NZV1JjdFN5VTZVUzlDbFhvQmdKZURHNVFQZkZudDFUc3Z5bWdpcEY4aEstSnFydkZTSDlVSmRLc1U3eHI0UWhoTFBrWEE5VmR2MGpDWjBPYzIwRA?oc=5",
+      "source": "日経",
+      "published_at": "2026-10-06T00:42:52+00:00"
+    },
+    {
+      "id": "hl-087a59292d91eaf6",
+      "date": "2026-10-05",
+      "title": "After notching two jet fighter contracts, Boeing could be turning the page",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOFRNVmoxSVNJaVN3bm9aSHAtWFcyMkR3aGs5UlZucTVYR2VRR3oydkF4Q3A3Y0dpMEZRRElhY0VRQ3NBcDhLNDBTVzNJV3l2b0NEeE5iSklMOHZVYnpRMWFaVHY3NFljOFBmSm1nVlI3dWR0bERZcXZ3VVVUbUh6Skt0MG1odmdmNWdiM1dESWRtQ3dENkdJamFhVU42QUl2WGpncDhoNmRKRUcxYTYxMUFLS1VqWXBpUWNVQ3JHOXBLUTJDMmV4alBpNE5mZmVwbHZxUw?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-10-05T20:40:07+00:00"
+    },
+    {
+      "id": "hl-5430b0f855fa1c9f",
+      "date": "2026-10-05",
+      "title": "独防衛クオンタムが「海のドローン」 海底ケーブルの切断を監視",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5rVkhfU2ZEdEFIaHlMV3dMVEtUSVl1UERWdVpEMDB5TEZMUzJBX1BOdzhIY0JMRlFmMVVyRi0wLTRISjkxNVo1aDNYWmF6VzhvT0tXNHBsNUlyVjhHNkVYXy1nYmI1ZHk2RDgwWA?oc=5",
+      "source": "日経",
+      "published_at": "2026-10-05T20:00:00+00:00"
+    },
+    {
+      "id": "hl-40ec170f5cbdeb21",
+      "date": "2026-10-05",
+      "title": "Threat of Iranian Drone Attack Prompted U.S. to Pull Bombers From U.K. Base",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTlhFVFZMQklTYzhqUHR0d2h0ajItejFkSm1XNXZqREhzZGxYOVY3NzRlV1A4ZzFJcEU0U0hYM0gwbUtmNG5YWE5zVkUxZDlKZXp1bWVfYm1ISFhXbjJ0TDVRcVpJSVR5NXhfb3ktNjNScnl3czQyaVE5eFVfbU1aVjFuQTRwZG9aNGNleUhPTDcweWFBUmc?oc=5",
+      "source": "WSJ",
+      "published_at": "2026-10-05T20:00:00+00:00"
+    },
+    {
+      "id": "hl-368f27c19bf03bca",
+      "date": "2026-10-05",
+      "title": "Resource competition intensifies with surge in megaconstellations",
+      "url": "https://spacenews.com/resource-competition-intensifies-with-surge-in-megaconstellations/",
+      "source": "SpaceNews",
+      "published_at": "2026-10-05T19:13:40+00:00"
+    },
     {
       "id": "hl-08ae1ebcead6b686",
       "date": "2026-10-05",
@@ -38,6 +142,14 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOU0pWYzZwdVVQeWx2S1VhN0VqZ3AzNlplcEROcW9zdUJBU2U3c21GbE83OTN4N1RoVF93emhRZkMxaFRON25hX2J1TFZOdkpqbU1HMEJlS3B4eWw3TUotWU1IdDhBNDltZ3VFa1RqakJCUDNHRkJFWmViOXJsbV84c0VXWVpuVUxEN2JIZ1dCd3JfNGNGRVBHVXYwS0QzczRvV2VVSnJ3b29POUxvbVUyNGs1WTE?oc=5",
       "source": "WSJ",
       "published_at": "2026-10-05T16:50:46+00:00"
+    },
+    {
+      "id": "hl-bc1323fd244f7e06",
+      "date": "2026-10-05",
+      "title": "NATO Drafts Plan to Defeat a Russian Attack With Drones and AI",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeE1HdE90Tm9CdjF4dmM0dHhpRlpjTlZPX2FsWmxETmxwcU9hNzd6bGxzeENEMm5JSjNpNXdjTVdINnN0RnhYRVNqR2FzbzVLMnF1YjhRYjZKZE5pT0JYNS15bVJTS3JWT002VXB5UFcwbFQ5OHVacFJ5YzdSdzBoeFR2eWRsNGlRV1ZQbmwxeXB3YUJkeDZMWHRVWjN6empLcDExZ0M2QXZWdEppcUVtdkNORQ?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-10-05T15:34:45+00:00"
     },
     {
       "id": "hl-61fa1f9ce9be1249",
@@ -56,14 +168,6 @@
       "published_at": "2026-10-05T11:02:01+00:00"
     },
     {
-      "id": "hl-bc1323fd244f7e06",
-      "date": "2026-10-05",
-      "title": "NATO Drafts Plan to Defeat a Russian Attack With Drones and AI",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeE1HdE90Tm9CdjF4dmM0dHhpRlpjTlZPX2FsWmxETmxwcU9hNzd6bGxzeENEMm5JSjNpNXdjTVdINnN0RnhYRVNqR2FzbzVLMnF1YjhRYjZKZE5pT0JYNS15bVJTS3JWT002VXB5UFcwbFQ5OHVacFJ5YzdSdzBoeFR2eWRsNGlRV1ZQbmwxeXB3YUJkeDZMWHRVWjN6empLcDExZ0M2QXZWdEppcUVtdkNORQ?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-10-05T07:59:05+00:00"
-    },
-    {
       "id": "hl-14e98834014ae30f",
       "date": "2026-10-05",
       "title": "US Investors Drive Record Haul for European Defense Startups in 2026",
@@ -72,17 +176,25 @@
       "published_at": "2026-10-05T06:00:00+00:00"
     },
     {
-      "id": "hl-a0b5a15155820383",
+      "id": "hl-54ea7e862ed85da3",
       "date": "2026-10-05",
-      "title": "綜研化学が買収防衛策 対峙するアクティビスト「怒り狂った株主が登場するだけ」 - business.nikkei.com",
+      "title": "綜研化学が買収防衛策 対峙するアクティビスト「怒り狂った株主が登場するだけ」 - 日経ビジネス電子版",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSklTTDduUXp4NkdVYU5tTG1vNWdTeWk0MHdiRjdKdmw1Tm9mTmVIc0RlSVRYWHhFMlc4bnBuZDBSei1oYlBKMUsxdkprVUJwNlJqcHM2SUhZb1pPLWhlU1ZFMnhEdFBCenhSLUxJSktwUGFFc0k5WEw4Z3lSd0dSbVVrNzNKOGZKZW16RXV3?oc=5",
       "source": "日経",
       "published_at": "2026-10-05T01:43:22+00:00"
     },
     {
-      "id": "hl-f536e0150d75ad93",
+      "id": "hl-04612665a95d1ce5",
       "date": "2026-10-04",
-      "title": "綜研化学が買収防衛策 対峙するアクティビスト「怒り狂った株主が登場するだけ」 - business.nikkei.com",
+      "title": "画像 | ｢飛べない国産哨戒機｣稼働率2～3割のP-1､なぜ失敗は放置されたのか―防衛省･経産省に欠けた航空産業を育てる能力",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5HRUk3Qk81cG9rMGdwdm1vdlQ1elJxQ05XM0xnNDVFdnpSVERIeVBOeVVKMUFMbmpxMzM2akNpS1RHdWp4SmVJb2FZRWtnZnJTTnJTbFQydw?oc=5",
+      "source": "東洋経済",
+      "published_at": "2026-10-04T21:00:00+00:00"
+    },
+    {
+      "id": "hl-a0b59d4a4252b201",
+      "date": "2026-10-04",
+      "title": "綜研化学が買収防衛策 対峙するアクティビスト「怒り狂った株主が登場するだけ」 - 日経ビジネス電子版",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sYUJkMTZqeFZ6VWdNS1ZSZUFqZkp2QXZjMHZ2THdhY3RyZkVaeU5qLVpiSUs1c09sTXJFUnpUTmhPS3Z5a3RYb2JaNW5ycF80UVUyU0lsU2pMSXFDaFJhQlVqMXVVOHM?oc=5",
       "source": "日経",
       "published_at": "2026-10-04T20:00:00+00:00"
@@ -104,20 +216,12 @@
       "published_at": "2026-10-04T16:05:11+00:00"
     },
     {
-      "id": "hl-44c8099a7dc512d0",
+      "id": "hl-ff60c09a6f8e1fdb",
       "date": "2026-10-04",
-      "title": "Germany's Merz arrives in Kyiv to finalize drone deal, release aid - cnbc.com",
+      "title": "Merz unveils fresh military aid in Kyiv, says Germany won't be intimidated",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZDZuRXFIbEY0Y0lVaGg1TGpmdklmME4tR2JXSWZSbktLU2tvRVNsdS1zaTE0d1hsSW9Jcl9NNzFrSG94dnRObGdpZHIwcXQ4eGRvSXZqTTIzQWFXSnRZbVRySklMMjIzRFJVYkw2NElvRzRVYmdLeGtoR253b0NsaV9sR0JrWDVLVVhNTDBRY2JkTHQzOWFUejFqaTFTY1kwbDRR0gGoAUFVX3lxTFAzaDYzUDZiaXFXMEg4RjFOUmJTSV9OUHhkNnA3OWtrZVFnYjZqSHpia3VBZUw0a1RRXy0xNzQ4dGtSNE0zT3ExUDZCWlVYcHY3dU5xUHE0TFh3OW5ITjRkNFFFMFFxRGZiOXkxWGJxNFE4ZWNZb2NVcWJmczFHNjVVaU1OakQ0QXEtTHBkMVNLQmE5WGdodTdzLUpsSG82RlNmY250djBMUA?oc=5",
       "source": "CNBC",
       "published_at": "2026-10-04T08:40:29+00:00"
-    },
-    {
-      "id": "hl-f5952762026b516b",
-      "date": "2026-10-04",
-      "title": "画像 | 欧米自動車メーカー｢防衛費拡大｣を追い風に新たな収益源を模索､ピックアップトラックやオフロード車を軍用に改修",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9LVFo1U1NGUk10clJwZXQ4emZySUtZb2FsUlNTaXU2ZlplMWI0MUt2cWhvbDdBbzlDWkR1TGhYbUxZdmxsc3gyU2V6c0VIRng2TWpvTENZbw?oc=5",
-      "source": "東洋経済",
-      "published_at": "2026-10-04T07:00:00+00:00"
     },
     {
       "id": "hl-73740eb1d4260c1e",
@@ -157,7 +261,7 @@
       "title": "Russia Strikes Major Kyiv Bridge, Logistics Hub With Drones",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOczU4bk9kVVg5SWwtQ3F2dWFnS1EwUGlDUU1EMnJPdGNMZzNsc0QzM3pjLURsck5Kc0ZJTkR2QnpldDdUSk9KdlJDUU0yTEFXYi04Wl90cHU0SmJGVTd1V3V2UGFwQVVwUTR6VEFyOVR3RHdDVmZmZG14ZUc5Yml3UG1xRWZUR0pwcnI5ZV81S2tQTGpQOGxWVWl2dDktN05hYmFfYUd6OWdjOU5DalE?oc=5",
       "source": "Bloomberg",
-      "published_at": "2026-10-03T07:48:57+00:00"
+      "published_at": "2026-10-03T09:24:59+00:00"
     },
     {
       "id": "hl-811929f2f305a3bf",
@@ -166,6 +270,14 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOb2tMaHNEc0hqSHE3LUp4b2ZHU01GeUVjN1NNTlJrUHRVRGFWYnlzTHlpaEptMVFLZmQyRFBLN2JMMU1vb1JEd3JwbE9iaUlkZS1VOVp5MXJ0OTd5MmM5Y1lsYUlUek9WMTc1Z1ZMWVhPc1JsaHRJaGFwaWJPQ2JYc090bk81bFJ6SzZUc0tLa0xDTUpEeU41UmI4eW5uZ1poUG5xWldXcnliMWpjemZF?oc=5",
       "source": "Bloomberg",
       "published_at": "2026-10-03T07:32:16+00:00"
+    },
+    {
+      "id": "hl-8fdf2261572a8fa8",
+      "date": "2026-10-03",
+      "title": "｢人を変えて守るセキュリティはうまくいかない｣､元国連CISOが壮絶な経験を経て辿り着いた組織防衛の解の写真一覧",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAzTkkxWFJQSWhpV0hTNmpoMklEcHN3aHhPM3Y5eThSMUJBMldSUHpDS01hUDJVZ1JYQmozUWlvZjc0SEladjlYTDRsQ3J5WnhTeEJidEVqaw?oc=5",
+      "source": "東洋経済",
+      "published_at": "2026-10-03T07:00:00+00:00"
     },
     {
       "id": "hl-f0401b760b5a1b03",
@@ -192,20 +304,20 @@
       "published_at": "2026-10-02T20:48:03+00:00"
     },
     {
-      "id": "hl-7ecef4262879b512",
-      "date": "2026-10-02",
-      "title": "防衛フォーカス 日本株（ネットリターン）ＥＴＮ[644A]の市場価格は「日経会社情報DIGITAL」。",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52UHN4Y2p1V0NlQy0xaklpV0c4eVcwUnpaVHE0R1RvcDhvUUUtT3owcXdxTkc4dmNadU8xZk0zYXVHMWUtNWkxdlRfX3V4T3podW1YZy0xalczZGNUTDVGTTk0NHRZRFJsVV9mSQ?oc=5",
-      "source": "日経",
-      "published_at": "2026-10-02T20:08:33+00:00"
-    },
-    {
       "id": "hl-e7acfdc8edd5667b",
       "date": "2026-10-02",
       "title": "防衛フォーカス 日本株（ネットリターン）ＥＴＮ[644A]の市場価格は「日経会社情報DIGITAL」。",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB6dGxOd2dqUGx2REZBNXF1QWFILTFFNTNmdEttYlBhTWNJYUtNTlk0Zm9ZdTBkZnpCX1puTDIxeTVtRkNkYUNHNlZiRTBhd2luV004WldfX1lFUHVHbEk1OHBYd25wdw?oc=5",
       "source": "日経",
       "published_at": "2026-10-02T20:05:04+00:00"
+    },
+    {
+      "id": "hl-ac2345afc7e371b9",
+      "date": "2026-10-02",
+      "title": "防衛フォーカス 日本株（ネットリターン）ＥＴＮ[644A]の市場価格は「日経会社情報DIGITAL」。",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51QjNDbllHT01vT3JTOElfVTR3VFpIYVJfcVk1THRITXl0aHhXTDJDT0N5RWJIMUVsdHFTNXRpNWNEWDk2VjN6eGhHNFh4S0E4dzI2bXdmelE3RVRhTnZ4ZVAwaTZKMk0?oc=5",
+      "source": "日経",
+      "published_at": "2026-10-02T19:55:35+00:00"
     },
     {
       "id": "hl-30e12d3ffe0188a5",
@@ -224,28 +336,12 @@
       "published_at": "2026-10-02T19:53:29+00:00"
     },
     {
-      "id": "hl-7ef48f6a6a2a2746",
-      "date": "2026-10-02",
-      "title": "防衛フォーカス 日本株（ネットリターン）ＥＴＮ[644A]の市場価格は「日経会社情報DIGITAL」。",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNeEpwUndVQWV4QVdpa2tJbXpiWW9SdzV1aEFJSERqRG5kM3FyNkhRWk5oeVlxdFRLQ0hkTHNUUXBOalNIUnBYTXAtSHRHQmxjT3ZadUU5R3ZTTVhjWHVRZmI4d1ZDWm9q?oc=5",
-      "source": "日経",
-      "published_at": "2026-10-02T18:37:16+00:00"
-    },
-    {
       "id": "hl-436c4778bb3eb32e",
       "date": "2026-10-02",
       "title": "防衛フォーカス 日本株（ネットリターン）ＥＴＮ[644A] : 株価 : スマートチャートプラス : 日経電子版",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1EZDZlV1hkS29XRVVPenhqV0FrRE44ZlppZVFBZlFKc2VUQzFsbl9WVERZbHZJVzFsVVU3WTFDeEl1bWtGNzVBQXBCX3FVblZ4NnJ2R1VOVQ?oc=5",
       "source": "日経",
       "published_at": "2026-10-02T18:26:40+00:00"
-    },
-    {
-      "id": "hl-87e92c99511e03a1",
-      "date": "2026-10-02",
-      "title": "防衛フォーカス 日本株（ネットリターン）ＥＴＮ[644A]の市場価格は「日経会社情報DIGITAL」。",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA5a19obmc5Q3RUdTdOeVR2VTVTSXVUYUVuNkU4X080cXp0Y1c3VTZKRllzOTdnT1JhM3JRWjF5ZDBLSjAwc01RaFR1NHl2WXZTUTlKZkRfckt6OU9iVkQ3M2Q0V0JOUURjT1BlbjVR?oc=5",
-      "source": "日経",
-      "published_at": "2026-10-02T18:21:32+00:00"
     },
     {
       "id": "hl-3527e6e08d0df021",
@@ -288,9 +384,9 @@
       "published_at": "2026-10-02T10:49:45+00:00"
     },
     {
-      "id": "hl-5269423aba88917a",
+      "id": "hl-3a57c8a8e09b9dda",
       "date": "2026-10-02",
-      "title": "Goldman adds 4 new names to its favorite stocks list — including a 143% upside defense call - cnbc.com",
+      "title": "Goldman adds 4 new names to its favorite stocks list — including a 143% upside defense call",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBjT1I3MmtXY1ZsRExUT1A1TDhub25zLUwzek1fb054eTNKdEp1N1FCMExWRUZ3MWpGOXZOcFpCZlJCeF8wR2pCNnVjbEVWMnl5dFVJMGtkZ0NHcVdlcHNXNEYyOWtCd2VHTWF5ODFETDR0TEst?oc=5",
       "source": "CNBC",
       "published_at": "2026-10-02T10:25:18+00:00"
@@ -328,14 +424,6 @@
       "published_at": "2026-10-01T23:03:57+00:00"
     },
     {
-      "id": "hl-b3401d2122e3e1df",
-      "date": "2026-10-01",
-      "title": "Ukraine Fires Hard-to-Stop Ballistic Missile for First Time",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRm1hSmVEa2VoMEpmNXlyaHBCWTVWOVF3TjY3ZzJReDRORzlHZlpkOFlXOHFBWGpScDA3VndEYXVvcWV6QjBaQU42RjN3QWRJcWRuRDQyMHVLdFltMW1DMkhIZk92UWdZQmhJdXFyaDRJZHptSUJrYmRFLUdnTlRteGVhU0NYVGtPU18wR2tZeGxYaW5sYTkxOEhqSWtqQzkyMUt3?oc=5",
-      "source": "WSJ",
-      "published_at": "2026-10-01T22:06:48+00:00"
-    },
-    {
       "id": "hl-f57255e8d7ca0180",
       "date": "2026-10-01",
       "title": "US Navy awards RTX's Raytheon $24.4 billion contract for Standard Missile-6 amid stockpile concerns",
@@ -350,6 +438,14 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNanNpOXI4UnkyWFd0QnJTQVA3enZJRHozS3FMWUllb0RRbC1PMkl5QWpCUmtld2xPSnpUZE9KdVVHckN5eFFPb2VrY1NHQjNWdF9GSWpMM3dMa0NRZU1uRHJUVXNEMTZyUUlUdGxudlktUk50M3ZvaHBHY051eUQtRnkwVW5vYW1TS3Q0dk5OSk80RnBTWW80MmtvdVJscGFwcFhVV0l4Y0ZNQXg0S0pxTA?oc=5",
       "source": "Bloomberg",
       "published_at": "2026-10-01T21:49:47+00:00"
+    },
+    {
+      "id": "hl-b3401d2122e3e1df",
+      "date": "2026-10-01",
+      "title": "Ukraine Fires Hard-to-Stop Ballistic Missile for First Time",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRm1hSmVEa2VoMEpmNXlyaHBCWTVWOVF3TjY3ZzJReDRORzlHZlpkOFlXOHFBWGpScDA3VndEYXVvcWV6QjBaQU42RjN3QWRJcWRuRDQyMHVLdFltMW1DMkhIZk92UWdZQmhJdXFyaDRJZHptSUJrYmRFLUdnTlRteGVhU0NYVGtPU18wR2tZeGxYaW5sYTkxOEhqSWtqQzkyMUt3?oc=5",
+      "source": "WSJ",
+      "published_at": "2026-10-01T21:06:00+00:00"
     },
     {
       "id": "hl-8e0deeb7d7436cdf",
@@ -496,108 +592,12 @@
       "published_at": "2026-09-30T20:18:50+00:00"
     },
     {
-      "id": "hl-41348b1ff17ada96",
+      "id": "hl-9bac485a40761c93",
       "date": "2026-09-30",
-      "title": "ジブチは日本の「前方センサー」 人・情報・外交で支えるシーレーン防衛 - business.nikkei.com",
+      "title": "ジブチは日本の「前方センサー」 人・情報・外交で支えるシーレーン防衛 - 日経ビジネス電子版",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5yX01xc3JlaWpaY1RrNTBOYnNpUTA1LXRLQi1PUGVncjAyVHMxRlZuRUc4WW9jRk5hbkJsbC0zZER0S09QRHg0Rnh0ZWxpQ041dGRiX2ZDaUZ4djBIUDFXa2Y2c2E2MlE?oc=5",
       "source": "日経",
       "published_at": "2026-09-30T20:00:00+00:00"
-    },
-    {
-      "id": "hl-2c25537a78accd79",
-      "date": "2026-09-30",
-      "title": "米ボーイング防衛部門トップ、大型ドローン「日本で製造して輸出も」",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE55UUx0T2NpanQ2YzlNZlk4ek9SLTZyRkxFSGc2c1h1ek5wOENTQ0hDNUtLZ1gxQU9tNERTZWJFSHlINy1LQzBtajREM04xbW1wN2VERXdVNUpSNzFJREpsZElRbTJKZTJ2SnBIRg?oc=5",
-      "source": "日経",
-      "published_at": "2026-09-30T20:00:00+00:00"
-    },
-    {
-      "id": "hl-167fe15bc428a936",
-      "date": "2026-09-30",
-      "title": "NECの防衛シフトに重なる「電電ファミリー」の面影、再来か新しい型か（2ページ目） - 日経クロステック（xTECH）",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAzSG9YSGxCN3hOUHEyU2hqWXE4ZHI2TE8wb2poZ1VlUGtWTFNuSWppZ1cxdUZNeWVMWGNxRGlFM3B0QlNjbm1iQjdYemRaOGFXc0FPYVpVRmNaeWJHbEN6RktPQW8tTDBlOEJoRXFDVUNzZw?oc=5",
-      "source": "日経",
-      "published_at": "2026-09-30T20:00:00+00:00"
-    },
-    {
-      "id": "hl-15de54e251c0a63b",
-      "date": "2026-09-30",
-      "title": "Poland to set quicker air defence procedures, defence minister says",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbXpGSXF4R1huWmh3WDdVVnpudlM2NlJJaFVmVFN4MU1uTzlkaDlrcmtCVzlpN0ZiS2RkSGtqc3d4eDZoYkxYdmRUMWl4bUw4ZGhGUnluR2g2Z3VvN3FEb2Z6UkpENFVqUWhXNnNXOGFNblhxaUdwNHVkNEg5eVBYeEVfOU1BWTRpc3ZwelRHUGVyakxOMEgtUFlVcmMwbnBzUm15VzN2UmdZdFdXNmxDNGlRYmJZRk1pYXZwaFUtQ3dQWTlF?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-30T19:55:43+00:00"
-    },
-    {
-      "id": "hl-159ef5b6fadc2521",
-      "date": "2026-09-30",
-      "title": "Drone startup tied to Trump sons aims to bring Ukrainian tech to US",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbU9zOVhkakJEbGZWU2FOTjRIZFdTdWExaFJKbEdhc3hHaDZud2sxUUFSTS0wVGZuaWNJOXhZWl9qQ3lPMGwyUk5PMXR3STVIX3VCZUtWZlZDSDV1cGhYSkZHaGh5U2R6Y3lFX25uaktSTVVjQ3VLZTJob3pJMENTR1h5anRqWV9tbTd3N1ZTbVdreWJKeXVGX3pBYlk3TUVYcjlBRmc2RzJ5ZElOQ1l5NkxYMA?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-30T17:07:31+00:00"
-    },
-    {
-      "id": "hl-dca335ef6d6985ea",
-      "date": "2026-09-30",
-      "title": "NaviGate successfully demonstrates onboard precise orbit determination aboard D-Orbit’s ION Satellite Carrier",
-      "url": "https://spacenews.com/navigate-successfully-demonstrates-onboard-precise-orbit-determination-aboard-d-orbits-ion-satellite-carrier/",
-      "source": "SpaceNews",
-      "published_at": "2026-09-30T15:00:00+00:00"
-    },
-    {
-      "id": "hl-5714b989839b6332",
-      "date": "2026-09-30",
-      "title": "小野寺元防衛相、キーウ訪問 無人機技術で協力模索",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9uWXV4Tm5zV2pOb0pzVG9KWHVnU19WcHdlM1BsRXUtUTZyaFg1c2t1djA5UEIyN0ZSaVFtZThUaDNmblJ6VkV5LWNoXy1ONGg1TUw1NGh2amE4T2J1VlNDNmhDUVg3cnJrY1QyYQ?oc=5",
-      "source": "日経",
-      "published_at": "2026-09-30T13:59:42+00:00"
-    },
-    {
-      "id": "hl-2caf84ef9494ea54",
-      "date": "2026-09-30",
-      "title": "Sweden contributes fighter jets to NATO mission in Poland again",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPekFQbkgybnQ4QWZ3TVJBa2h1TmpkNXNGS1ZybW1XLTF1QmdBYTBQOGJSc2JNZWRHakRSelpHS2Y0WEJDcktJVUstbEx4SC1ValhzTGN1c21RcDc2c2pZRkRpN0s2M0x3bVhNMXh2VlJIck0yelA4dVRicW5JRExGMmNvcVMtU1BXZnh5MEFZOWgzLWt0SXI2WnhOWmladVMwN0VKaThmXzQ4UDBkTVJMLVdWdzEzcUJIUkVqNw?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-30T13:12:05+00:00"
-    },
-    {
-      "id": "hl-cee55fef23525d97",
-      "date": "2026-09-30",
-      "title": "Quantum Space Executes Launch Processing Agreement with All Points Logistics for Prime Mission",
-      "url": "https://spacenews.com/quantum-space-executes-launch-processing-agreement-with-all-points-logistics-for-prime-mission/",
-      "source": "SpaceNews",
-      "published_at": "2026-09-30T13:00:00+00:00"
-    },
-    {
-      "id": "hl-990df67973efaf49",
-      "date": "2026-09-30",
-      "title": "China carves new military presence in Southeast Asian neighbour",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOWdfU1JQekV5Z1RJM3dZU0pFRmw2TzVXUzN1c2Q1dnpPaHNaV2NYdDR6eTFnWjZabVdURnZwSjdZUlhuOXQ4NUd4X3k2UWZUc25YeUtGdS1QbTVnYUpPVFFVRm4yVnp4ZmFJTEZHMEJfM3JhdzV1WVZXTWhOMnd6YXpmemhDa001TWpPdHFtX01ieDRWNXBuMFFwM2NBTTdjeGFncXhCQlBmYTZFMW9iSUEyLV9WQQ?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-30T09:55:43+00:00"
-    },
-    {
-      "id": "hl-8118ee1e0eda6900",
-      "date": "2026-09-30",
-      "title": "Boeing wins US Navy's next-generation fighter contract, Pentagon says",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQ2k2eTY0aU9HQUFScTVSR2RtMWI3WGhtSjN5V1VmYWJHM3NEMjU3YlZydVF2SExPUjNsZlJqS0cwdVMtY2Nra2NISzZBQWZzU01sUXdpQ3dHcmFTN2lPREhVb0xkUGUzUXRFMTlWR3ZhWmNGaEpXQ3czclBXSDF2ZTQybVZ4Rjc3U3NuTmthQ1Z5UG9kZ1Faa0ZsNWp4RW9KRktFWDVSdjdGek00Y01XX3BIZEU3QzdtTkk2Q08wcFNtaExYMkRGZU9fdw?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-30T07:19:45+00:00"
-    },
-    {
-      "id": "hl-76d684bc16a31577",
-      "date": "2026-09-30",
-      "title": "China Expands Military Footprint With New Support Base in Laos",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdFdnY3U0ZlJTM2ZjQ0NoVFIyOVowdk9oRF9keHVlYTlLWXNEbHl6ZzRSSzM1ZnhSdTZvUmMxT2hMZThJcm56RC1nT1JhOTh0SXBma2ktUTFVVUt3M1JCcXNqakVsMFMyeE9GNXZnS1JyS3hyTHZzV2N6ME9ON0VicEJIaEw4aDhzUzZ4S2NXbnJsa2s4MFV5OWlIcUtBZkxJVkxxWXRsSGk4Y1FrcFF4UkFZRQ?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-09-30T05:28:06+00:00"
-    },
-    {
-      "id": "hl-a0808d9e168e0541",
-      "date": "2026-09-30",
-      "title": "宇宙新興アストロスケール、英国防省から防衛案件獲得 30億円超で",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5nZlNIMW5hbVYxdHJoOVFDZk1PMThLOVRSX1dLX3BoVG50Q2U1d19tWGFvZUhzTElFX18zM3d4QUJyTnNxZUdLVVdUM3NyYjBBNllrLTcyZk90ejI5M2d5dmFEcUFaRG9XZkQ3aA?oc=5",
-      "source": "日経",
-      "published_at": "2026-09-30T02:17:28+00:00"
     }
   ]
 }
