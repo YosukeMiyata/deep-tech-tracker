@@ -1,6 +1,6 @@
 {
   "_schema": "id: 安定ID / date: YYYY-MM-DD / title: 見出し / url: 原文リンク / source: 媒体名 / published_at: ISO8601(任意)",
-  "fetched_at": "2026-10-07T17:34:53.513765+00:00",
+  "fetched_at": "2026-10-08T17:32:44.893886+00:00",
   "theme": "nuclear",
   "sources": [
     "日経",
@@ -12,20 +12,60 @@
     "東洋経済"
   ],
   "fetch_notes": [
-    "日経: 19件",
+    "日経: 21件",
     "Bloomberg: 4件",
-    "Reuters: 11件",
+    "Reuters: 9件",
     "CNBC: 4件",
-    "WSJ: 4件",
-    "日刊工業: 0件",
-    "東洋経済: 6件"
+    "WSJ: 2件",
+    "日刊工業: 2件",
+    "東洋経済: 10件"
   ],
   "items": [
     {
-      "id": "hl-7d022d189ba2af45",
+      "id": "hl-b55d4b6dec6c687f",
+      "date": "2026-10-08",
+      "title": "関電、原発PPA始動 AI普及によるデータセンター急増で電源接続10年待ちも - 日経ビジネス電子版",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1yOFM5Mm1TUUs4V0N1VHAzcldEcFF3Sm1wQUd4QkV6cHRGLTBPeGFmNFdjZGhwSXBBQTdfNk1UNWtLSzZUOVZ1eEx0aDFDd3lDWUdoZWVDZW1OeDZUb3N5NkJ3?oc=5",
+      "source": "日経",
+      "published_at": "2026-10-08T08:00:00+00:00"
+    },
+    {
+      "id": "hl-d66d313be552437f",
+      "date": "2026-10-07",
+      "title": "原油確保の道筋､原発再編の必要性は？村瀬資源エネルギー庁長官が語る｢脱ホルムズ海峡依存｣戦略",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1jTzN5TU9GS1NwQ0J6T2VaTHVmaGRyYUozdGJnYmR2cXRVb1V5a2lJWFJQSDhRbUFnLTh5MjhRLVZtUkxHcHJueVNLN1pRaDk1b3FKbGFoanUxRWM?oc=5",
+      "source": "東洋経済",
+      "published_at": "2026-10-07T20:45:00+00:00"
+    },
+    {
+      "id": "hl-917febdc96f08f1e",
+      "date": "2026-10-07",
+      "title": "原油確保の道筋､原発再編の必要性は？村瀬資源エネルギー庁長官が語る｢脱ホルムズ海峡依存｣戦略",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBaVJqcXJCcEVULXJ5WWNpUDdacy05MUVnMjZsdXlqQl9vZWQyVTlPcWZJOExYX1l5VlZhd1FIVWZQakFTSmZacEpMRlVRNGVGM0oxR2VPc3Vqc00?oc=5",
+      "source": "東洋経済",
+      "published_at": "2026-10-07T20:45:00+00:00"
+    },
+    {
+      "id": "hl-48b43476b1fd06ed",
+      "date": "2026-10-07",
+      "title": "原油確保の道筋､原発再編の必要性は？村瀬資源エネルギー庁長官が語る｢脱ホルムズ海峡依存｣戦略",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1yRW5CWDZQMDBoU2U3Z0FZQWNSY29lcGxHd0pzUDN2VEpqdXFSd3RVTHVwdnVlLXdtM3RueFNqS3lFMEFSQjdUZ0YzaWFMa0NjUlBmWHp6VkZtRy1hSnd3?oc=5",
+      "source": "東洋経済",
+      "published_at": "2026-10-07T20:45:00+00:00"
+    },
+    {
+      "id": "hl-bc2ba13c2477a26b",
+      "date": "2026-10-07",
+      "title": "原子力人材を育成・確保 産学官84機関連携組織発足",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA5NndzbWlUb01nNm9BNHhmRUVTZWtlUVhPa0w2SC1YWVFNbFRqaHl5WVlWSXZodFRSR3h5YjBzZkVMc0NuMlBuUzBQQ2hUOXZ6c1A1MW1nMHl3eXRvN2JLelZPR0JHcVd1QjRzR2phWTJ3eEFSekNVNEtaQQ?oc=5",
+      "source": "日刊工業",
+      "published_at": "2026-10-07T20:00:00+00:00"
+    },
+    {
+      "id": "hl-9950b2eb08fa21c6",
       "date": "2026-10-07",
       "title": "海と原発に向き合う祈りの場 - 日経クロステック（xTECH）",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWEtGMmNxY1RZcldfd1E4QUtLMThLejdVTmFLQy1Rd1phd2JocldwQzNTOUxsZkhFWE91QVFQbnlFcVdiXzZYMlJEMTBIX3V1UWlZUUp4WXpVYWc5M2N3c2ZNR2JqcTc3X3JYNzVFSFV2ZU15N2NlYWlJUEVOc0tvdzJxUllkdFBWVm14ckc2Q3hPVW9z?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZndVaUlpampueFhnNEF4RlVRVXVIV3pLNFgtQzBpSDlpRkcwSmJlUDlEOG5NSXM1Z2EtQkZtOG9zazV5N3dBR2RqTDMwbjg2UERTdEV3N3VFZUVYM2F5ZldDTzNVRlhSMUw4UEV2cDhHb2d1cW5Sb1Bub0tLcWRwNU5LaWtIVWZleE93bGJ0YUdzTEct?oc=5",
       "source": "日経",
       "published_at": "2026-10-07T17:00:00+00:00"
     },
@@ -35,7 +75,7 @@
       "title": "The status of Iran's uranium enrichment programme",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSnlJOEpCTFRFNHYydjJsZE5xaXBTQUZtbGxveEo4MlJlYlR2V083Z29pLXV4TFdxWS1zTjVNTS1fWHh4Zkt4TTNqcXIzVDhiOGluLUZoaDNtS216c3R0WVQ3VmJkY0xFVUgzWVpKVGZjbTFlRmpKdnB4MzBIT055cWpVMGJrV29Db2llb2tlTVhMU2RMSFJrS19WUQ?oc=5",
       "source": "Reuters",
-      "published_at": "2026-10-07T16:15:04+00:00"
+      "published_at": "2026-10-07T15:42:00+00:00"
     },
     {
       "id": "hl-f72a25db63045604",
@@ -68,6 +108,14 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPR2pSZzJuNEV5bkFFTzhwNTczWDNVbElKYVpUZVVKaVo2NjU3dWNtVUtTTnVzcXNFSVpvSzZVSjdZZWNZOFk1N29YRWF1WjctQzJaSzdTRzVyTEdDUmNKMF84T015bURhUFVaemEzbEt5TDE5NWxnZnJrX3c2Q1RSWnFidGRxd2ZIdlI3MVVmeml2b1FLeWRzQmpkZ3Zua2M?oc=5",
       "source": "CNBC",
       "published_at": "2026-10-06T20:13:05+00:00"
+    },
+    {
+      "id": "hl-37a414770bc31889",
+      "date": "2026-10-06",
+      "title": "東京電力ホールディングス、原子力情報交換協定",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9zUERoaXI4UkUyY2lqYTN2Tk5QdVBxOVFuUldrYkk2dHZPZEM5eVNLZlBCWmc0M01UWTJoU0RwRVVWYjhjQm1UYS1vTl9mbHhlYTdCLTZ2czk?oc=5",
+      "source": "日刊工業",
+      "published_at": "2026-10-06T20:00:00+00:00"
     },
     {
       "id": "hl-d5b9de26a279ea1b",
@@ -262,14 +310,6 @@
       "published_at": "2026-10-03T07:00:00+00:00"
     },
     {
-      "id": "hl-874c926d97427d07",
-      "date": "2026-10-02",
-      "title": "ONE Nuclear Energy Inc. (ONEN) Stock Price Today - The Wall Street Journal",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5wTGRiSmZ1dnV5R3NsRlVsQWg2NnBoLXFLZi1rRTBNYWF5LWhRNERtc2w4cEhNYm5KTm5VSF90b2prcnNnZTBkY0xKLUtwcjdoSjR5Wg?oc=5",
-      "source": "WSJ",
-      "published_at": "2026-10-02T23:49:00+00:00"
-    },
-    {
       "id": "hl-7e7445c5d3981091",
       "date": "2026-10-02",
       "title": "US senators expect vote after midterms on Trump's nuclear power pact with Saudi Arabia",
@@ -302,6 +342,14 @@
       "published_at": "2026-10-02T10:43:30+00:00"
     },
     {
+      "id": "hl-af9e813b9c1f7da3",
+      "date": "2026-10-02",
+      "title": "核ごみ概要調査に反対表明の茨城・大井川知事 「原発ないところで」",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tLXVVUHVaN3RseTQ1R0NXVzhaNkNlS2hRRS1ZQk5GaTQtVHNSaUZaSEFnRXFTZXMyeXE2QlNKRm9SYkdnbmFnc2VUQ0xpT0JLa25PdHlobV9USzc2SUIwV29pRVlfLUlkdTdvZw?oc=5",
+      "source": "日経",
+      "published_at": "2026-10-02T10:32:31+00:00"
+    },
+    {
       "id": "hl-4a8415767c404fbe",
       "date": "2026-10-02",
       "title": "原発建て替えの経済波及効果「1基4.3兆円」 日本原子力産業協会推計",
@@ -332,30 +380,6 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPclN5TVFKWVhqRjNsSlB6SkJ5NWRaRXBZREVMVzZheWtjSWxUVHc5d2RzakVrSnZsakRNczE5SWdxYkdFZnV1ek0zTkJmSzAxVGJ3bHFqdDh0LUdubTdldkkwT21ZRExtSkZYX3JfdmFtaDFRaFZCMmJCYXUybGZlZUZvLXowaFdVdC1xQ2pXb2ZYcjZYNEFEQlZwSEE4ejNVREMtRUh6emo4NnVORWk2RlU4dw?oc=5",
       "source": "Bloomberg",
       "published_at": "2026-10-01T18:23:05+00:00"
-    },
-    {
-      "id": "hl-502aa860e05af9b6",
-      "date": "2026-09-30",
-      "title": "Constellation, Amazon sign 20-year power deal to support Maryland nuclear plant",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZXZ3aTZxb1U3ZFZ1UmJER0NVelhZd2M2cGk1VGw1dHppMy04Y011a1NaT1JvSkJSUmVUZ0M4WHFzS0p0ODdna0RFZk9HY1MyelM4Smlfb1dGUnc2UkJuUzdLVHlMaS1Sb0VtMFQ2VVFzbnNDSVdTZk1XR0tKNkpaWEJIQXQyYXZYSmdJc3B1SDRfR3dxZGVjc2hyQVJSVjI2NEZHdUNzUnFpVHp4NFdtYVB4SEFaa1Q2cHNNNERqUnA2RTdHa0E?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-30T21:26:30+00:00"
-    },
-    {
-      "id": "hl-eece604ed253ba18",
-      "date": "2026-09-30",
-      "title": "Amazon Tries to Boost Nuclear Power in Maryland After Scrapping Data Center Deal",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMDZ4RmIzU1NBMVBmeTBlM3F2dnFib2ZzeTNlbTcxc0txb3ZSUG11Tm5va2FqZzJfTGJObzkzbjBSYU5FcjFZSk9zbHNuRmpDZGYwUGlqOFNKcnRWbThBZXRnX2R1LWtCZFM0TE9GSGR3aU1tUndIU09fQ3luN1Z3Mm9UdEV2eC05bVJNS3lMd3hGV3B1Y0ZMZ2w3N3ZXU0FUblJZcjEzbzJQX3QtZ083QWFSMUM5X280NHRjTVY1Y1pheHN3NUhHdA?oc=5",
-      "source": "WSJ",
-      "published_at": "2026-09-30T20:00:00+00:00"
-    },
-    {
-      "id": "hl-af4df9faed84b229",
-      "date": "2026-09-30",
-      "title": "Belgium agrees with Engie to extend talks on nuclear assets takeover",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcHpMZG1iaVp2dTBIVTNiS0doN2YxWmp2aV83RUJyREhOVC1SbkpCcFFISzk4MHd0SVp4QXJPRkFyb1c1WkFhZ0JxcktqcWNZVGR2TVdLUnhncHpfaDUtdlVSMElsZ1FWSVFxTWxROUEyNlZqVDNHYUprN3prNndKeXNObUhDZ0JaQldIbkpsZWFWM1hRQjd6V0d3bU9VZlpnbHYyQU9meHFGMTBReGJobGVJRmQtWjlaZnc?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-30T17:41:13+00:00"
     },
     {
       "id": "hl-6dfd9959bfa47377",
