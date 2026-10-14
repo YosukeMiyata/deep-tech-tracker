@@ -1,6 +1,6 @@
 {
   "_schema": "id: 安定ID / date: YYYY-MM-DD / title: 見出し / url: 原文リンク / source: 媒体名 / published_at: ISO8601(任意)",
-  "fetched_at": "2026-10-13T17:23:37.661092+00:00",
+  "fetched_at": "2026-10-14T14:56:15.057811+00:00",
   "theme": "nuclear",
   "sources": [
     "日経",
@@ -13,14 +13,38 @@
   ],
   "fetch_notes": [
     "日経: 11件",
-    "Bloomberg: 5件",
-    "Reuters: 4件",
-    "CNBC: 1件",
-    "WSJ: 4件",
+    "Bloomberg: 4件",
+    "Reuters: 3件",
+    "CNBC: 0件",
+    "WSJ: 1件",
     "日刊工業: 1件",
-    "東洋経済: 17件"
+    "東洋経済: 15件"
   ],
   "items": [
+    {
+      "id": "hl-49366af80b5ddcc5",
+      "date": "2026-10-14",
+      "title": "原子力潜水艦、安保3文書に導入の明記求める意見 有識者会議",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJWWZwdFFrTE5YTUNMNmZmdVJiZmlrQ0U4M0NXd3JKZGZlLWQ5S2JSZE14ZW53QmxXZFI1bUdkcFVFWDRLczlrMklkY0FEWGg5Z25hZ09ZcEJxU2c2c1JqNXhWd28tQ0F1TGlPTQ?oc=5",
+      "source": "日経",
+      "published_at": "2026-10-14T12:30:00+00:00"
+    },
+    {
+      "id": "hl-bda6e81b7f691831",
+      "date": "2026-10-14",
+      "title": "画像 | ｢プルトニウム活用｣へ動くのか､トリウム燃料に熱視線を送るアメリカの原子力･エネルギー戦略の大転換と日本の対応",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBKOEI4cGp5Zl9TeldkMFRzUy1PcUE2VUV2MTZLOTM0Q0FSWTNxSzA3cHNCZ2dSc2NhVVNMaWZrUDhTOUtfcnNuMWJiaGJ5UnJNNXI0U0twRQ?oc=5",
+      "source": "東洋経済",
+      "published_at": "2026-10-14T08:45:00+00:00"
+    },
+    {
+      "id": "hl-18fbea8f1cede9f4",
+      "date": "2026-10-14",
+      "title": "Hitachi Eyes Small Nuclear Reactors in Japan as Power Costs Rise",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMm54M2RnY0dkT3ZxZ3ByVmxWd0JwNjRVZzRUZmhpV1FxZDhvUXJxeUhJdkZHUTJ0c3ZrVnFzZk5GMVFKTS0xNWdxcFFhQUhHNjlzenJQcTZKb29qRDUycmk0c1lPRmpvcXJvT3dPUGN2OHVmTDJRZzNiV3NEeW1rZ2Q2RTN5OGJnaUlrT0YwS3pmTXczT1JJZGJWY2NOejFlSUN2OGtFdGF3cC1uczVSUmZPOU82QQ?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-10-14T05:23:00+00:00"
+    },
     {
       "id": "hl-7c9f125dbcff2047",
       "date": "2026-10-13",
@@ -60,14 +84,6 @@
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMTkwZW9nLXl1eWlMQlZFd0oxTU40NEhlT1hJbDdhaGRpc3IyWkl4YzhPa1AzelhJNDRSVGdNT2x5akdidldLdklIVkRmYTE5ckhsQmxGR3Y2ZmdXUlJQZHBXMFA0cElkWlBKU19yaTQ1QUVFZjJobk8zckw0Z1lCWlM5YWhoSmRUckNMMW0xNVdCbUhiSEwzVlVIR0d3TDJaUy1Lc2UxTFpPZWIxX3dPTUJ3LWF4bTFmUVRxSVdZeHpSZkZwTVJF?oc=5",
       "source": "WSJ",
       "published_at": "2026-10-13T03:00:00+00:00"
-    },
-    {
-      "id": "hl-bda6e81b7f691831",
-      "date": "2026-10-12",
-      "title": "画像 | ｢プルトニウム活用｣へ動くのか､トリウム燃料に熱視線を送るアメリカの原子力･エネルギー戦略の大転換と日本の対応",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBKOEI4cGp5Zl9TeldkMFRzUy1PcUE2VUV2MTZLOTM0Q0FSWTNxSzA3cHNCZ2dSc2NhVVNMaWZrUDhTOUtfcnNuMWJiaGJ5UnJNNXI0U0twRQ?oc=5",
-      "source": "東洋経済",
-      "published_at": "2026-10-12T16:34:00+00:00"
     },
     {
       "id": "hl-08cfd67766c28ebf",
@@ -166,14 +182,6 @@
       "published_at": "2026-10-08T08:00:00+00:00"
     },
     {
-      "id": "hl-be43094db578200b",
-      "date": "2026-10-08",
-      "title": "画像 | 福島第一原発事故で｢国の責任｣を否定した最高裁判事…退官後､別の原発訴訟で東電側に立つ《巨大法律事務所》顧問に",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5NM1hjZDRRbW1vMk9RT2I2enc0NjhiZkg5TnBJbll0Yk44X1RHM09PcUlwTGFLdzZsRFNwSzVDRDVNUU5RNHlSX3BXNjZYbjkyTkt6M251RQ?oc=5",
-      "source": "東洋経済",
-      "published_at": "2026-10-08T07:00:00+00:00"
-    },
-    {
       "id": "hl-1e61de7f619f8da8",
       "date": "2026-10-07",
       "title": "The status of Iran's uranium enrichment programme",
@@ -186,14 +194,6 @@
       "date": "2026-10-07",
       "title": "原油確保の道筋､原発再編の必要性は？村瀬資源エネルギー庁長官が語る｢脱ホルムズ海峡依存｣戦略",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1jTzN5TU9GS1NwQ0J6T2VaTHVmaGRyYUozdGJnYmR2cXRVb1V5a2lJWFJQSDhRbUFnLTh5MjhRLVZtUkxHcHJueVNLN1pRaDk1b3FKbGFoanUxRWM?oc=5",
-      "source": "東洋経済",
-      "published_at": "2026-10-07T20:45:00+00:00"
-    },
-    {
-      "id": "hl-917febdc96f08f1e",
-      "date": "2026-10-07",
-      "title": "原油確保の道筋､原発再編の必要性は？村瀬資源エネルギー庁長官が語る｢脱ホルムズ海峡依存｣戦略",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBaVJqcXJCcEVULXJ5WWNpUDdacy05MUVnMjZsdXlqQl9vZWQyVTlPcWZJOExYX1l5VlZhd1FIVWZQakFTSmZacEpMRlVRNGVGM0oxR2VPc3Vqc00?oc=5",
       "source": "東洋経済",
       "published_at": "2026-10-07T20:45:00+00:00"
     },
@@ -220,54 +220,6 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ack1ER3luRjlGVDd0ekNUcGlCU1dFRE5GUkdaUHFpc2FRYmJJcXRTX0JWUGFHZ2JoaExINkVOSjdOdUtaUjJwVklMejZHeTVXcjQ1UXB6YkNaTjlpckkzOFBCS0hQWm5rdHd2eA?oc=5",
       "source": "日経",
       "published_at": "2026-10-07T17:00:00+00:00"
-    },
-    {
-      "id": "hl-f72a25db63045604",
-      "date": "2026-10-07",
-      "title": "原子力人材確保へ官民コンソーシアム設立 推進・規制の両組織が参加",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB0Uy1FeWYwbGdqMFRMY2o2Tm8yQ2N6TW9pY2pUTWtDMHN4cl9RaGk4V0E4SXlpQ2lLblNDS082SS11RzgyZHpwaHNhWlBpX2tOdHBsU21RdkUtQmc2b1RLWlhnajNyWjFLSnhjVg?oc=5",
-      "source": "日経",
-      "published_at": "2026-10-07T10:08:44+00:00"
-    },
-    {
-      "id": "hl-9c09bcba93eaa2dd",
-      "date": "2026-10-07",
-      "title": "Australian uranium miners rally after Google's power deal with Constellation Energy",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTVpvUnVFLUNLc1dIRjdEU1BIcnpTMnJFbzZpX2xzcGtlNGRvcnFLS3VMWEcwSmtaZEwwMVVuS0lDQkY3Yk1pLVlkaVQzSS1qUW5jRzJhb2k1NTkzcXpZMEpyNmV1Ty1uQ2ZkWlBYMUMzSl83QXhXanlVdlJhVlNPRGxoOWlDM1k5SDJQb1hvSmRWbmhQVmJqVl9wMXpZUV8zQ1IyTW5DeFIyTmpoOVBiYloxdVd5TkJydVlXS3RaVzdDYnRaeFE?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-10-07T06:08:00+00:00"
-    },
-    {
-      "id": "hl-564a758f3314a1c9",
-      "date": "2026-10-06",
-      "title": "Watch Constellation Energy Surges 12% on Google Nuclear Power Deal | Closing Bell",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSWZyNWNrUm5tYWhnV28xcDRiQlFNWEU3OUN4R3lJdkdZTmRIYW1xMTJ4VC15OFlDNGlHNGxlZkZRUG1uczZkNlFiSkJScnhpeFE5bHF1UTM1NjdjVFdxMDl5WkE3bVlmaGJoam0xNmpIbVh1R1ZZQmswdW1NaWx4SzlsN3RuTXVaVUdvbUlGbnI0enZwbXpRUG5oQ2NVOUk?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-10-06T20:35:51+00:00"
-    },
-    {
-      "id": "hl-2b54c52466e67813",
-      "date": "2026-10-06",
-      "title": "Google and Constellation Energy Strike a Sweeping Nuclear-Power Deal",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOGx4RnB0ZHFqa2cyQzltaWJtR1k0Y2llR0lwTHJUYU4xYkR4Vkd6WXJXRmpNcUI3SFh6TXdzVnV0d29ZSDZPRzZiZXJDQkpQX1kydGVCMW9SSGdHNFN4WnhJOEMtOUtMbjlxamlSMHkyYzF6bThsUngyQzVVaFNBR1drQ25nQkxkSXk5MkZlVWdCVWVDamZ4V2pOdHo2LXA1MVozVjNZTWl1cGtFRGttc0IxY3h1NTRX?oc=5",
-      "source": "WSJ",
-      "published_at": "2026-10-06T20:32:00+00:00"
-    },
-    {
-      "id": "hl-f12b247ea70653d9",
-      "date": "2026-10-06",
-      "title": "Constellation shares surge on Google nuclear power deal",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPR2pSZzJuNEV5bkFFTzhwNTczWDNVbElKYVpUZVVKaVo2NjU3dWNtVUtTTnVzcXNFSVpvSzZVSjdZZWNZOFk1N29YRWF1WjctQzJaSzdTRzVyTEdDUmNKMF84T015bURhUFVaemEzbEt5TDE5NWxnZnJrX3c2Q1RSWnFidGRxd2ZIdlI3MVVmeml2b1FLeWRzQmpkZ3Zua2M?oc=5",
-      "source": "CNBC",
-      "published_at": "2026-10-06T20:13:00+00:00"
-    },
-    {
-      "id": "hl-d5b9de26a279ea1b",
-      "date": "2026-10-06",
-      "title": "First Small Nuclear Reactors Seeking to Connect to Texas Grid",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdGJiY1hrMGY2d0tjRVVaOHFhcDZBTVlyLWdwbjZ4ek80MUtrRU9mRHpZck1DSkRQaWFEMERqbDNMS3BidWFjOGhHdlNDQVBMNnJPT2FmbDM0WnVPdVhNTHQzbWgzZkdwNW9LYm5PeV8yTGt3aHZERkg5eGxpU2tuV3VEcGZad1VWc1g1eU45dFkwUFdxQmliMlpjSVg4QWtuZ3lSZ2lRWHUyZGV2cnBHa2FR?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-10-06T19:36:42+00:00"
     }
   ]
 }
