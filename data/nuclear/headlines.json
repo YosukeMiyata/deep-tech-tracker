@@ -1,6 +1,6 @@
 {
   "_schema": "id: 安定ID / date: YYYY-MM-DD / title: 見出し / url: 原文リンク / source: 媒体名 / published_at: ISO8601(任意)",
-  "fetched_at": "2026-10-19T16:52:44.411988+00:00",
+  "fetched_at": "2026-10-20T14:43:56.595768+00:00",
   "theme": "nuclear",
   "sources": [
     "日経",
@@ -12,15 +12,47 @@
     "東洋経済"
   ],
   "fetch_notes": [
-    "日経: 8件",
-    "Bloomberg: 7件",
-    "Reuters: 4件",
+    "日経: 9件",
+    "Bloomberg: 6件",
+    "Reuters: 2件",
     "CNBC: 1件",
-    "WSJ: 2件",
-    "日刊工業: 0件",
-    "東洋経済: 3件"
+    "WSJ: 1件",
+    "日刊工業: 1件",
+    "東洋経済: 5件"
   ],
   "items": [
+    {
+      "id": "hl-4d7a1dfc314adac2",
+      "date": "2026-10-20",
+      "title": "原発被災地・大熊町のスタートアップ拠点、都内で招致イベント",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB0WGk2NFZFa1R2TkNXTGVlMHpsZUZmc0xqR0VpRU9sTDRpdnNIYlYtR2JUanNKNm82OHI0dXRGM2g5N3A3QzdVTklIQVBwQXZVNzc0dTJUTGNTc2hDMWluZHpUTU9Bb3dXd3NINg?oc=5",
+      "source": "日経",
+      "published_at": "2026-10-20T10:15:00+00:00"
+    },
+    {
+      "id": "hl-8576bcc110f1a91c",
+      "date": "2026-10-20",
+      "title": "柏崎刈羽原発で医療用RI製造探る 地域共創組織が勉強会",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE03eUFGZ2FqMVVPbWc4OGpuUHBjOVJpbDgwMkpxRDZYQzdkUWQxMlNlWldtSmxqR09qZWJMVVVqdFBCc0tOQnhaWUpLV2ZycFc1c0tpM1RZU003OXZkeHVXVDk2Z1hUSTZXTWRFVw?oc=5",
+      "source": "日経",
+      "published_at": "2026-10-20T09:31:38+00:00"
+    },
+    {
+      "id": "hl-16d859284781c957",
+      "date": "2026-10-20",
+      "title": "China Reveals Advanced Nuclear Sub Was Used to Test-Fire Missile",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSFpXNWs5SDlSOXZBSnU2eVBHaXZzWTVSSXRwRk5tbmNiNHJ4WTJfeGk0S2JyWGZNYW9TRE12MVFwbzg4WV9aMzdWLVFpcXN4SnlQXzJicWV1c18yN0ttSlJONGQ4TkR0TlMzQmFZRGU1RjMtQ01DWTZxc1VCa2oxaS1iVExjTExYYjVkT0RQUUZsQ3dYdjJYMU9GbkhQR3V4SFVLaHgydVIyYUV5TTFWS0RKb1FNQQ?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-10-20T02:33:00+00:00"
+    },
+    {
+      "id": "hl-52d135227f4c9143",
+      "date": "2026-10-19",
+      "title": "原子力機構の価値 原子力の社会実装に向けて（187）ミクロな磁石が生む「ダイオード的性質」",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBpYnhaTllhd2wxUFRSTXRWM0FXRHhKTWtKeWlHVmVLeExMODlKbkhha2l4ZGF5bWpZdy1EMnY2aTZqdThFdVRwbzdVRVJZMlBwM1Q2aFg3Z1I?oc=5",
+      "source": "日刊工業",
+      "published_at": "2026-10-19T20:00:00+00:00"
+    },
     {
       "id": "hl-54b014d0aebe69b6",
       "date": "2026-10-19",
@@ -30,12 +62,12 @@
       "published_at": "2026-10-19T12:15:00+00:00"
     },
     {
-      "id": "hl-16d859284781c957",
+      "id": "hl-514fb243a5096dfe",
       "date": "2026-10-19",
-      "title": "China Reveals Advanced Nuclear Sub Was Used to Test-Fire Missile",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSFpXNWs5SDlSOXZBSnU2eVBHaXZzWTVSSXRwRk5tbmNiNHJ4WTJfeGk0S2JyWGZNYW9TRE12MVFwbzg4WV9aMzdWLVFpcXN4SnlQXzJicWV1c18yN0ttSlJONGQ4TkR0TlMzQmFZRGU1RjMtQ01DWTZxc1VCa2oxaS1iVExjTExYYjVkT0RQUUZsQ3dYdjJYMU9GbkhQR3V4SFVLaHgydVIyYUV5TTFWS0RKb1FNQQ?oc=5",
+      "title": "Watch X-Energy CEO on Amazon, AEP Nuclear Data Center Deal",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRVZZQkFkYXM5cm0yeDJQeGYyUUpUQ1ptbW9Pd2JiS1hOYWZpNi1PS2MwaW5hb0gtNmJYYllJVEFnQ3Q0QUpWRWZ0aFRtTERGY1JqNFVCc1VQNDV1N3ZUeWFOTDM2RGJDMXZ6QlNMd0M2UnpqbS1NMnFQV2o0XzFBY09USURhQ3FKeGVUS0d2eGp0TU5BVkxXSG5KalpIc0IwRkV3R1ppTFYyZw?oc=5",
       "source": "Bloomberg",
-      "published_at": "2026-10-19T04:40:00+00:00"
+      "published_at": "2026-10-19T00:00:00+00:00"
     },
     {
       "id": "hl-bda6e81b7f691831",
@@ -70,14 +102,6 @@
       "published_at": "2026-10-16T15:51:13+00:00"
     },
     {
-      "id": "hl-b3675f3beb82abc4",
-      "date": "2026-10-16",
-      "title": "ニュースケール・パワー Ａ 株価[SMR/NuScalePower A]最新ニュース 日経会社情報DIGITAL",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92dzlLY3d6TENNZ01YOTFTbWVpbzZXNWY3MDEtNHlHcmxldGNodncyZE5PN1NyQVBCS3RqRzRTU0hTZ29PWl9TbHlxTTNyX3FHMmE2ag?oc=5",
-      "source": "日経",
-      "published_at": "2026-10-16T10:59:00+00:00"
-    },
-    {
       "id": "hl-90db95ec98c44015",
       "date": "2026-10-16",
       "title": "福島県浪江町住民の東電原発訴訟、国の責任否定 仙台高裁",
@@ -100,6 +124,14 @@
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0tVUVZclRnWDk3N29XeWRoV1pvUmNrTVJWZ2NOWEdKSlpMZEJtTUU2eFhXT1paWlZ1VEJHTDNPbElvbzczMjF6NTd5X240T1dyRzY3WGRpNUlocC13amVJSWVxai1ucTZQOGF2X0F30gFzQVVfeXFMTXJ2ZWlobThNeHNpX0dXeVdkYU9aaE9CZHVGeUdvaS1EQk9NQXVCbmJTeURnaEVwQnh4WmVBNjFJMUp1MjF6bTBmaExFdVNEMHdSbC1RVkY0ZWpVSXlRdjBsUng5Uld6RDF0SkNJZVdsaFY2bw?oc=5",
       "source": "CNBC",
       "published_at": "2026-10-16T07:56:55+00:00"
+    },
+    {
+      "id": "hl-b04192a6246b56a8",
+      "date": "2026-10-16",
+      "title": "画像 | 原油確保の道筋､原発再編の必要性は？村瀬資源エネルギー庁長官が語る｢脱ホルムズ海峡依存｣戦略",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB3ZFNldVFGVENNckYzX0Z5RkpEa1lYTkhOTHJiWVM1QXg2ajJKclVscFh2Y1ZLYlJucHYtWTJfQU95U1JhZ1hqeHcyUU5tOUpEZ3piOEJPQQ?oc=5",
+      "source": "東洋経済",
+      "published_at": "2026-10-16T07:00:00+00:00"
     },
     {
       "id": "hl-dede431323f60634",
@@ -164,38 +196,6 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeXpZNmxXajRNeUotYm10UEtCT2p5VWgtb3h2M3dPbmFmY29JOEh1cm9WaU9EMzZJSHo1Mk1nWjNuM0JPUUx4by1ueC1FWEU0NTNRRkVYSVk5QUVNNHVqSDdVU3laZ25Ra3JSR0xmRDB4aEllMmpWbnpqWTdxaS0yWnVZSjVOc25TR3Zla3Y3X1lMdElUZ1B0ODRFZnJ5eGhmTzZjWHNmcC1vV3ZOemRheDRJSHhtRXlrUDdrUmpwbw?oc=5",
       "source": "Reuters",
       "published_at": "2026-10-13T16:57:16+00:00"
-    },
-    {
-      "id": "hl-c0757fcfb4b7299a",
-      "date": "2026-10-13",
-      "title": "Slovakia delays connecting Mochovce nuclear power plant's fourth unit, ramp-up continues",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPT0JwazhHX01wNlJxNWNtUFNzT2Rxc1o1N0FHOFBIeXV4bTUzMjB6UDJEdVFnVkVjQ1gwd2VBQnRUNmVUM25WcnFzRXJZaUkxcVBDWGRXMWZVZ2lFbnAxZ3lpbVZyVjZma0JEVllTVjB6ZkZYd05ZYXZwVFVvU1RkUmc4YURscVQ3X1BuUG93QkpwTlNMS1JUOEs2RElfNGdIYklKS0FMOHRzaTQxM2szdE9WS1JteVdHMHF2TEJscExab0FzcjFJ?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-10-13T14:39:49+00:00"
-    },
-    {
-      "id": "hl-45851c266a29ddb0",
-      "date": "2026-10-13",
-      "title": "Polish Tycoons Solowow and Solorz Revive Partnership for Small Nuclear Reactors",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWkppM3Z2RmVGdWdFWEg5REhTMHFmQmZqQmNwa2R5aFlvQXVnbncxcFRUMmNuME9RVkNYT21nRFBmOGc4a1cxNGVWWXRKd1lNWXp3VkV6VEtKUjhObzlueFZNNUpfdW0tbUh1bXRUMzVoN1kzVnB2dEpTdWNpMnZhTUIyYVpfX041bjE1TmlhV3dqanh6by1JX0pLU3gwaURxaVpYaF9FMDlmc3hFbUlCNXhWX1BNdkdYYl8taWNUb3dicDZEdDZvME5B?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-10-13T12:44:33+00:00"
-    },
-    {
-      "id": "hl-98810a13531a7daa",
-      "date": "2026-10-13",
-      "title": "US Nuclear’s Low-Hanging Fruit Is Being Gobbled Up",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVFZXM0JVdGw0MlpyUFJqUWl6WUhyS0xDLUhYblRMd1Q2RjlzNW9YNkVvaVlDZHFVejZESkxkLWNveGVfWk45RVBxZzQtUW9DTjlLcUJRemlxTFRkTU9OakRlWnA0NTZlTlJsb1AwMDUtdUNZYVRxdTlIZ0prZUZ1aVlOak9pTHZNUzBsTDgwbHhnQm5yYkhtQ3h4cG9ITTJtRnFiaHpzOA?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-10-13T11:38:27+00:00"
-    },
-    {
-      "id": "hl-420cce395e50e9be",
-      "date": "2026-10-13",
-      "title": "Iran Fortifying Nuclear Sites and Rallying Its People for Return to Fighting",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMTkwZW9nLXl1eWlMQlZFd0oxTU40NEhlT1hJbDdhaGRpc3IyWkl4YzhPa1AzelhJNDRSVGdNT2x5akdidldLdklIVkRmYTE5ckhsQmxGR3Y2ZmdXUlJQZHBXMFA0cElkWlBKU19yaTQ1QUVFZjJobk8zckw0Z1lCWlM5YWhoSmRUckNMMW0xNVdCbUhiSEwzVlVIR0d3TDJaUy1Lc2UxTFpPZWIxX3dPTUJ3LWF4bTFmUVRxSVdZeHpSZkZwTVJF?oc=5",
-      "source": "WSJ",
-      "published_at": "2026-10-13T03:00:00+00:00"
     }
   ]
 }
