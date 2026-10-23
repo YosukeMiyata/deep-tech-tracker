@@ -1,6 +1,6 @@
 {
   "_schema": "id: 安定ID / date: YYYY-MM-DD / title: 見出し / url: 原文リンク / source: 媒体名 / published_at: ISO8601(任意)",
-  "fetched_at": "2026-10-22T14:55:15.872053+00:00",
+  "fetched_at": "2026-10-23T14:41:48.870159+00:00",
   "theme": "nuclear",
   "sources": [
     "日経",
@@ -12,15 +12,95 @@
     "東洋経済"
   ],
   "fetch_notes": [
-    "日経: 10件",
-    "Bloomberg: 6件",
-    "Reuters: 3件",
-    "CNBC: 1件",
-    "WSJ: 2件",
-    "日刊工業: 1件",
+    "日経: 13件",
+    "Bloomberg: 5件",
+    "Reuters: 5件",
+    "CNBC: 0件",
+    "WSJ: 3件",
+    "日刊工業: 2件",
     "東洋経済: 7件"
   ],
   "items": [
+    {
+      "id": "hl-9172da999c5f8259",
+      "date": "2026-10-23",
+      "title": "中部電力、浜岡原発の不正問題で地元説明会 静岡・御前崎市で",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1sTnZVaWJhd3EzWEhoSTVTVTctQWNOTGQ3X2JIZG45OWhId0NiMTlwdG9hQk4zZHZLTTJoa0lwMzdLaHJ5U2JQUk9HWGVibEE2VVZRM3YzQ1p2N1lNSHdIYTg0SExPRXZERFlGZg?oc=5",
+      "source": "日経",
+      "published_at": "2026-10-23T13:07:06+00:00"
+    },
+    {
+      "id": "hl-132d6cb04df7f542",
+      "date": "2026-10-23",
+      "title": "British jets join French nuclear exercise for first time, France says",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNejUxWUdfTnA1dERLbFdHM21QSnA0cTl2NVhpeUo1cTRlWElBOHBCazM3cFNxQ3MyQUZuR3BUdTFteHVTeWFqWE1LZWxUa2UtQWxZWmxETUl3c1RJblFobnNUbXFfUkQ5eEpGNkhFUkp2c1NnYnRoaEVyclpmS21kbldqM1dOOHFlSHFtcF9FR3JRRnU5eVhmSUM0U2lOTm05X2d5Vk1HekphdUw5UmtsN25Icks0X0dVVXVGb1BVVElnXzQxcXc?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-10-23T11:26:02+00:00"
+    },
+    {
+      "id": "hl-958523d6730508d0",
+      "date": "2026-10-23",
+      "title": "東電社員、「信頼性」有効期限切れ状態で柏崎原発防護区域に15回入る",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5vdHJJbWx4cnBoRm9vYTNrM1ZsRERpTWV4M3l2bTZfU1ZyNVVIcnBmM3QxYmRrc1NxeGk2eHNIX1c2enRnRV90cE81aFNXTk9JZmljRG84OUx0UHhxSzA4X2Rmak8xQTgwbmF5eQ?oc=5",
+      "source": "日経",
+      "published_at": "2026-10-23T10:29:32+00:00"
+    },
+    {
+      "id": "hl-2602c57a8b100d69",
+      "date": "2026-10-23",
+      "title": "伊方原発1号機の廃炉作業、周辺設備の解体に移行 愛媛県が了承",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wN01lV3pvZTc4SmZFcU12WkphVkk3eVZNRW5TdDYxLUdpbjRfWjlwNnN1X3FlZHFTUzUwcDFpcjZQRy1QUlNPek80Sk9YUVlvVXRfUkNWTGk2MVpNcjRZTDdQbU1QQnplc1BRcQ?oc=5",
+      "source": "日経",
+      "published_at": "2026-10-23T09:00:00+00:00"
+    },
+    {
+      "id": "hl-8d445fba0bdd506d",
+      "date": "2026-10-23",
+      "title": "九州電力の玄海原発3号機、11月25日から通常運転 定期検査終了で",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1lX1RUa25pQTBLUHh3QzBrUHFTQlZZVVJoMGFMS2xjNmY4b3JYeEpqdlI2MFVHaWU2ejNTczJyeXZxNDU1U2xXNVNVXzV5eGFTUUgtVjcxaEhhRkZJRUk1NlhkZkd5RV8wLVlEbA?oc=5",
+      "source": "日経",
+      "published_at": "2026-10-23T08:45:55+00:00"
+    },
+    {
+      "id": "hl-0170bab2d58659b1",
+      "date": "2026-10-23",
+      "title": "中国電力、島根原発2号機のプルサーマル発電で工事計画認可を申請",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBVOGVLUVFBanQ2TGpON19NMEZtX1dQQ3JrRl9McjFsa1RWNGxibFhpbDZZTFBwX2xXVUdieVBkVHVnN0wydmNpVXFhLWk0dm42eGg2Xy1hZ05ocGQxR0dveWJaV1RWYnJfazhrQQ?oc=5",
+      "source": "日経",
+      "published_at": "2026-10-23T08:40:00+00:00"
+    },
+    {
+      "id": "hl-d0d04fea7395d47b",
+      "date": "2026-10-22",
+      "title": "US nuclear power regulator allows applicants to include data from agency projects",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSEp1Rk83dWxRQVRiZ1IzS0cxRXRnVHpndmgyMmc1azN1UlFNSklNSmZsV1Y1TlA0U3pSV2FzU3lpM0xLY01nSFRyaDhoQUt5WGRXOWhZWmk3WV9YdUxyN3Q3RWNLRzBQbmJlaENBUW4xUUtnVC1LZGxPd3JPdVVMbkNKaGlFcWJiNmVwT25FdW9FV2xzRHhiN0FRRU9iNXlmTWwzRE5Zb3E1S3duRzktZC1lNktPeHdtbE1KTUpjd1VDWXB5?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-10-22T20:17:34+00:00"
+    },
+    {
+      "id": "hl-ae936c0746f4632d",
+      "date": "2026-10-22",
+      "title": "中国が太陽熱で原発15基分発電へ 2030年めど、日没後も稼働",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1mS2V6eW1meXZzWVBWUHhuR01vYkFlejdWTTlTcnVyZEtpcTdiWFRzOXQ4R0lRc3hfRjhBclQtUjVSeUtzTTVnd2VDUGlYTUotZ2dlQTZSaUpkWW9vUGRxX2hEQTNhWnB2Vlgwdw?oc=5",
+      "source": "日経",
+      "published_at": "2026-10-22T20:00:00+00:00"
+    },
+    {
+      "id": "hl-49d2850ac0e66fee",
+      "date": "2026-10-22",
+      "title": "産業春秋／原子力を目指す最近の学生 - 日刊工業新聞 電子版",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5hTW5PZVpwQ3cySFVjb3FhS3VXcnhXU0N1YmdxNER4Um9HUncyUldHUjdzRm15ZVppT0I4a2MyMVE2dnJabnhEbmo1ODg2RW9sa0tWWUcwRFI?oc=5",
+      "source": "日刊工業",
+      "published_at": "2026-10-22T20:00:00+00:00"
+    },
+    {
+      "id": "hl-fec633fc0254353c",
+      "date": "2026-10-22",
+      "title": "Inside the U.S. Push to Put Nuclear Reactors in Ports and on Cargo Ships",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOE9KM2tuaTcxbTA2SXJENWFXU1Ixd1g2X0hNZXkzR2RjU2lQMUNmX1RETjB6UFNOMGxpcmVMSWlBMzdZdWlOc094TFpjVGRMMnI5TnFUc1ZqTUJ2TmpxZW93aE00TENZZ3NxOGpoZjBuUWpVdTF0WHhwOVhNNW9RMjNBU3NzOVE3RUNCVFVn?oc=5",
+      "source": "WSJ",
+      "published_at": "2026-10-22T18:35:00+00:00"
+    },
     {
       "id": "hl-b93cf5b26fd8ae06",
       "date": "2026-10-22",
@@ -28,6 +108,14 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMGVld1N2QmdhVk5lMlZod0l5WldwVzFpUDlxUXUtOG8tZHZnY3dmUVFTYXNlWDltNmxKazQ1TWZBczVHVEx5MTBxZTNYcjdlVTc4Rm1vVzlJYkVnNEdNdVpjZXpOdzItVXJUcEl2aWR1cDNNMW1MMWRKaUV4UE9IUXlBQl8wMl9RUm9oUnl0QURCSndoaklfTTJzVHQzaFFvS1A1MmlFTVVvQUwySE9rTGVn?oc=5",
       "source": "Bloomberg",
       "published_at": "2026-10-22T13:58:53+00:00"
+    },
+    {
+      "id": "hl-150176d2cbcfa59d",
+      "date": "2026-10-22",
+      "title": "Israeli ministry presents pathways to compete in global nuclear fusion",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMkRsSDI1QUIxcW5oeUVoY25yTkg1dk1yT1R6ZG9rTm5qbmtDaU5CbGpPTVVFdXR1VHE2NzZaU2luSjNMNEZEaWlhWFRSS3ZwZUVVeWFWQnFVVy1TcVBTN3VqanhCYlRVbE55NHlrdkpkaWZiRjl5UmZ4cDM1STRud2Q5NVlnRmI4bEFQTWZFcEl4LV9PbnFjZkxpZTZDV0dOMDZzXzliaDZFb05rYW9MS0ZnOERTSU0?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-10-22T12:22:49+00:00"
     },
     {
       "id": "hl-dbb94fba6770ec97",
@@ -46,10 +134,10 @@
       "published_at": "2026-10-22T09:47:42+00:00"
     },
     {
-      "id": "hl-af7bf4525b0a0291",
+      "id": "hl-7444086f49b4626d",
       "date": "2026-10-22",
       "title": "EDF Has Ways to Prolong Nuclear Reactor Lifetime Beyond 60 Years",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYzQ3UjVwcmQwVXM3NzZlLWdQTFI1Z2VWWFVfYklwbWNVM3Z5SGMtUndHZ1FXTGV2QnVQaHRWaVJyUV9kV29jWFNoNXlJR2JaSmNMTThNWGgxWkVuajRFQzVUbm1jQmNpcWY5b05OdzlweUhORHBaaWNReDlnM1FVejFoZXB4WkVuYUdyNFpUUUZKbzA0MFZMWHNVamhVUXRXNWVqUWN0TENLUU5TbHRGb2xHd3U5UDZkdWs4T3h3NWlfcmxYRVJpZ0EyS284eFk?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRXlreUFKOVJuU25VR2lMcDVLYW9uWEs0X1l2VHVBcU1NbDlHWVUzOFFmMGFaclczeFlLb2NxMW03VmVhM3RnRGZXd2ZRTGtRS1V6UHRLS1g0NlZ5Ylc3MHo3dkg0YkFLVHRyODdzNW1WcWJObzZJdHY1MEdFTHlsdFhxbk4xTmR3LWNHYlhCYUpFR2JycWNmbkNFQllvSTBrVEdCeDhKaEhNM2d4dkVyeS0zQmJvdw?oc=5",
       "source": "Bloomberg",
       "published_at": "2026-10-22T09:16:31+00:00"
     },
@@ -62,10 +150,10 @@
       "published_at": "2026-10-22T02:00:00+00:00"
     },
     {
-      "id": "hl-f92f18af50f6c998",
+      "id": "hl-6e57ecc7e9fd4dd5",
       "date": "2026-10-21",
       "title": "中部電力の原発データ不正を生んだ｢独自の正当化理論｣という病､高木仁三郎氏が遺した｢対抗的専門家｣の挑戦",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9LOTNabm55MFJnd2E1Y3hEbUVFenVUczNDZlVpQ21SSThFX1FPZUxvTG1HaGRSMmhhQTJaN2piTlpFaDhUZi1TNi1fay0wSDhvQVhvcGJ4RlVlakRBRG9V?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE03Mzc0S1RLTkdVdmhHT1dVM1hsMDJ1MzZyWDMtejdaQjdZX2RHUHFnYUVWOS1oUVN6TTloSS1qVjJqaHBzRXVUY2c5cktyNkRhN0E?oc=5",
       "source": "東洋経済",
       "published_at": "2026-10-21T21:00:00+00:00"
     },
@@ -142,12 +230,12 @@
       "published_at": "2026-10-19T00:00:00+00:00"
     },
     {
-      "id": "hl-9a0a45f2e8cdb54f",
-      "date": "2026-10-16",
-      "title": "NuScale Power Corp. (SMR) Stock Price Today - The Wall Street Journal",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYUzNXQktmRzVMM1RNRy1PcXNmVHQ0MHlNS1pZZ3RBa1NIN2hmQnNQaG5XOUR4TWxmZ01haWhpUGxvazh5cTJXcUJRdmdHQlNDeG5j?oc=5",
-      "source": "WSJ",
-      "published_at": "2026-10-16T20:00:00+00:00"
+      "id": "hl-bda6e81b7f691831",
+      "date": "2026-10-17",
+      "title": "画像 | ｢プルトニウム活用｣へ動くのか､トリウム燃料に熱視線を送るアメリカの原子力･エネルギー戦略の大転換と日本の対応",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBKOEI4cGp5Zl9TeldkMFRzUy1PcUE2VUV2MTZLOTM0Q0FSWTNxSzA3cHNCZ2dSc2NhVVNMaWZrUDhTOUtfcnNuMWJiaGJ5UnJNNXI0U0twRQ?oc=5",
+      "source": "東洋経済",
+      "published_at": "2026-10-17T07:00:00+00:00"
     },
     {
       "id": "hl-33f1d8b40f563a5d",
@@ -164,54 +252,6 @@
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNS082WVY1RGJ0ZjQwWUU3UmZqWC1pbF9qeGNkQ2h2MVdhTTMtb3FxLTh6d3owa3BJY1A4NnplQXZzVmtyQXZWZ0RLOEMxdDVTUTM1a25oaEJCeTFxRTh2ZWU1dkgzZFljRUUzQW1mMjZCZ1U5U281WnloZVVLOTEzVndrZkJzM19BMWpQNmR1UGFoS05oeVR3MUhad1NXRmEtQXpmek9XSWlOcHRkU29kcmw5T1FqMUk?oc=5",
       "source": "Reuters",
       "published_at": "2026-10-16T15:51:13+00:00"
-    },
-    {
-      "id": "hl-90db95ec98c44015",
-      "date": "2026-10-16",
-      "title": "福島県浪江町住民の東電原発訴訟、国の責任否定 仙台高裁",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1bWxNZHpDRjRhbnF0RW1xbUs0N3F6cEFmV2czS0poQ3V0RnZqVWl6V3ZZR0V3ZXhONnp4NHJKYmVITlNBSklZNjVpV3NPc1A4bi1TcFFCb0hrZlFXdWpWZ2ZydVMtVHo2UWdGMg?oc=5",
-      "source": "日経",
-      "published_at": "2026-10-16T10:45:00+00:00"
-    },
-    {
-      "id": "hl-b59ef7569d11d01e",
-      "date": "2026-10-16",
-      "title": "泊原発控訴審、27年1月に判決 一審は運転差し止め命令",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9WZFRzT2tENkJDbmNlMXM0bEw2dWpsNVhIT2ZJUXYxS1FFQ0dyZWp4cFBxTHBkaTBBeHJMUy1ubExjak9uYXg2elY0NmlMSGc1Tll4SDNuRG8weWNmeXZyckdQWml2d2QzdEt6dQ?oc=5",
-      "source": "日経",
-      "published_at": "2026-10-16T10:00:00+00:00"
-    },
-    {
-      "id": "hl-3fc55ac5433653dd",
-      "date": "2026-10-16",
-      "title": "Trump says he won't use nuclear weapons or send ground troops to Iran",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0tVUVZclRnWDk3N29XeWRoV1pvUmNrTVJWZ2NOWEdKSlpMZEJtTUU2eFhXT1paWlZ1VEJHTDNPbElvbzczMjF6NTd5X240T1dyRzY3WGRpNUlocC13amVJSWVxai1ucTZQOGF2X0F30gFzQVVfeXFMTXJ2ZWlobThNeHNpX0dXeVdkYU9aaE9CZHVGeUdvaS1EQk9NQXVCbmJTeURnaEVwQnh4WmVBNjFJMUp1MjF6bTBmaExFdVNEMHdSbC1RVkY0ZWpVSXlRdjBsUng5Uld6RDF0SkNJZVdsaFY2bw?oc=5",
-      "source": "CNBC",
-      "published_at": "2026-10-16T07:56:55+00:00"
-    },
-    {
-      "id": "hl-1409eda92cf61ba4",
-      "date": "2026-10-16",
-      "title": "Trump says he is talking to Russia and China about denuclearization",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUW1idXlSVm1fUVQtdFk1T0pYTU8tcEx2YTBiQnQ4M0ZmeDFDeGpXUUpqMEZRbC0zT0g4dkoySTlXM05fbkNRZE5RbzFZcEktTHpBYlJxcklTaHpkRHgzRnAyakp4cGVIQjRITGtWZG1XZTlNdF9LcmlVRjJIaDQweHRxR0NUQS1jeUYtc0NsWWlEMTNTcEd3dUhFZjZMYnhWbU9CZVNKWS1TTjBz?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-10-16T01:04:00+00:00"
-    },
-    {
-      "id": "hl-dede431323f60634",
-      "date": "2026-10-15",
-      "title": "Slovakia Connects Nuclear Reactor in Boost for Power Exports",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTFpfcExzQTdoTkNiM2IwaDFpM3psbW5hU0xBWXg3SzZGeFlvN25NY3hZaU5vME5IakQyTWNWa0NhaWY3a1BOOS1KMXhLMjZIc1p2dk9KLUFtYkhueWloTVNxMWwwRVNuRjNZV0lIQ011VG1UeFVYQUpvWlU3SVhkRGJTOEpkSzk1cjRqZXV0MnFMa1JVT21NTElEZHprQVAzc2pGb25yejJwd29ROWp6Wg?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-10-15T19:13:40+00:00"
-    },
-    {
-      "id": "hl-eb68ac75a25182ab",
-      "date": "2026-10-15",
-      "title": "G7、チョルノービリ原発に460億円拠出で合意 シェルター復旧",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9hUHFFRlB3NkppY0ZJWjBOMWF3T3ZlVzZSR1MzT3ZxM3JLVkRWZlJpTjh3SVYtRTVUVHhyMmJ6WUZoLU1WQkNSczVmeHJWUUFXUEh0NVQ3Wmk5eTdkM2cyZjFzVlA1WDBKR2FUVQ?oc=5",
-      "source": "日経",
-      "published_at": "2026-10-15T15:44:15+00:00"
     }
   ]
 }
