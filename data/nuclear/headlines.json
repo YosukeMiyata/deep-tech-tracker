@@ -1,6 +1,6 @@
 {
   "_schema": "id: 安定ID / date: YYYY-MM-DD / title: 見出し / url: 原文リンク / source: 媒体名 / published_at: ISO8601(任意)",
-  "fetched_at": "2026-10-23T14:41:48.870159+00:00",
+  "fetched_at": "2026-10-26T16:33:57.465823+00:00",
   "theme": "nuclear",
   "sources": [
     "日経",
@@ -12,15 +12,119 @@
     "東洋経済"
   ],
   "fetch_notes": [
-    "日経: 13件",
+    "日経: 19件",
     "Bloomberg: 5件",
-    "Reuters: 5件",
-    "CNBC: 0件",
+    "Reuters: 9件",
+    "CNBC: 1件",
     "WSJ: 3件",
-    "日刊工業: 2件",
-    "東洋経済: 7件"
+    "日刊工業: 0件",
+    "東洋経済: 3件"
   ],
   "items": [
+    {
+      "id": "hl-3361865787c6f2e9",
+      "date": "2026-10-26",
+      "title": "Nuclear Upstart Elementl Gets Korean Backing for $750 Million Push",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMGVwS2dMXzluS2RTdC1qYVJETjZ5bWh4X0J2VEVDcE1tcDE0TWktQ1RzT2lvVDdRR1FXQVhGRTBpT2lTVmRlS21DUEpyTjZsYnk4YnBQRG5BZks3dXI2Y1lfa1ZhMU1sNzJUYlRXMGJhS1lqUmRfR3FqaEFhVEJKWC02alFENVdQWWdRRTBCOGVNX2ZvMWNDYjIxZktOZEh2di1ydzJ5NkhpX2Q3OHpjb0JqN3RHN3M?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-10-26T14:11:57+00:00"
+    },
+    {
+      "id": "hl-1f0855359ded5f4e",
+      "date": "2026-10-26",
+      "title": "New UK nuclear rules pave way for US reactor developers",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSlBja091eHd3djdmbGd5MVB1MlRZYU5ZZUlTN1ZEZzNOWnlMMjJnem5zU1dndnVScV9qV1ZBemp1Y0tNTkZfT3I4cjU2bHdLUTBxRFV5LVFkZnRWTWtTaUloSUFXYTZuMVp5NmRGb2hERnBVMGxBRWZjRXpkdElNOXF3Y0NZQjY5bnh0Y3VVOVlZMjZ6N1d0OUJQcGFSWkNQNGg2RHI3SFhBQk9lR2dr?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-10-26T13:42:48+00:00"
+    },
+    {
+      "id": "hl-2ee8588749f24e5c",
+      "date": "2026-10-26",
+      "title": "Energy, Oil, Gas, Nuclear & Renewables - Latest News and Analysis",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5FdWRuN1NtU2djWl91NmdEeExzNUs3Sk1GREZ2eVEtTnM3UW0xQVV0UVlNT0lqVW1ybGlwclRZQmpqamlRdFpJRzc0LXVIY0Zt?oc=5",
+      "source": "WSJ",
+      "published_at": "2026-10-26T13:40:33+00:00"
+    },
+    {
+      "id": "hl-4f90e190fb8d5775",
+      "date": "2026-10-26",
+      "title": "柏崎刈羽原発事故の避難訓練、バス運転手不足に備え自衛隊員が運転",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAyRm9kR1lKV3h0VEVaV3VabF9KYXIwTkJXM3NQVVFHenkzMFhZWEJSZ1JpZTJFd1JQVmxhQV9US04zSVhsa1d5b2NJdFBpNnhJc3FUY0ZpVmx1bHVCSW1ScUNWUUhFbGV2UnJWUQ?oc=5",
+      "source": "日経",
+      "published_at": "2026-10-26T09:51:25+00:00"
+    },
+    {
+      "id": "hl-0339848f806718d4",
+      "date": "2026-10-26",
+      "title": "東北電力、原発の廃材を再利用 国の制度使い東通の倉庫に",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00MzBXMUlzbGtrNE1MQXJQNXBhY2VzOHhnM1R6eWlCY1Atb0NhWWtubHJnOGh3VUNJVTZxRjl0d3lWUkJkZkdBNWNnZllHX01OS21KV1dBV2JleHFjMm9XRU5OVlhzTXkyYXY5Mg?oc=5",
+      "source": "日経",
+      "published_at": "2026-10-26T08:45:00+00:00"
+    },
+    {
+      "id": "hl-5b53048fe41918f3",
+      "date": "2026-10-26",
+      "title": "France’s Nuclear Forces Bring In Neighbors to Keep Russia in Check",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRlcyVjhVaDliZERCZF9SeERLNEdHblNvbk0wUS1RNExOLS1jMVJ1UU15R3JBZ0FwNm9oQjN3N3RrWmZFa0FmakVNem5QNS11dnFUOFRtZ3Q3REU1MDc2MTVLOXJpQ2Fva0lEYWFIbWtPbXBKWGxzN1hudlV4SFFWTUIzYUlzVVdxaDNTVy10T21halNuV1BRZDRXYzR3bXJ1bWdybVFLUkRtVGM?oc=5",
+      "source": "WSJ",
+      "published_at": "2026-10-26T03:00:00+00:00"
+    },
+    {
+      "id": "hl-e5de2f2aa6b4f498",
+      "date": "2026-10-26",
+      "title": "｢原子力潜水艦10隻で年7850億円｣人手不足の日本が保有するには何が必要か､元潜水艦隊司令官の試算が示す導入への現実",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5nMVoyTTUzTmJ4QWZmc1ByUlB4T1pZSzBpNF9NWXhSUDdocVBacE00X1Y2eFZRSGNTZmdWODE3SU1tWXlUNUlpVG51YjdBRlpBRDlzcWJJWGt4Tlk?oc=5",
+      "source": "東洋経済",
+      "published_at": "2026-10-26T02:30:00+00:00"
+    },
+    {
+      "id": "hl-a95aa3d5efab9842",
+      "date": "2026-10-26",
+      "title": "｢原子力潜水艦10隻で年7850億円｣人手不足の日本が保有するには何が必要か､元潜水艦隊司令官の試算が示す導入への現実",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE10R1JkQXlOLTFIUFdCVjZQdFFLOGktMTU0Y0ZKWWZpaUJBc0w2NWNGUTRVNFJqWEYwV25MZmNmNzFMdnNlcWJObThEbGpoWHdPU05abWI3a08xUmNiRi1R?oc=5",
+      "source": "東洋経済",
+      "published_at": "2026-10-26T02:30:00+00:00"
+    },
+    {
+      "id": "hl-976b46569553b365",
+      "date": "2026-10-24",
+      "title": "原発再稼働60年超への道 - 日経クロステック",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQUh3U3ZHZWF1Z3ZRUTZJaDYydjBYeERLY21pbUFqMzdDT29kbTZ5TWxxVnRzYU5NcGdMU01pR2MwRnIxWnJqdk56UGFrNGI2YllJSFRjYlJYbE1FNFAyQ0pwUnA5a2Q5d3VKdHFmX28wRFVhOGFjSXo0Vk1oMnZVdkNiSUd5SWJNa2ZvT0UtSF9VWW9MYUdJdy1hSUZXVEJ2dkRHQzJlU2FfV3hiaFlnclItZTBqQWZLMFFVS2d5VEZINEdpODBQbmxEWlphX3Bqa2R4QUQtYUhmQlU?oc=5",
+      "source": "日経",
+      "published_at": "2026-10-24T07:31:33+00:00"
+    },
+    {
+      "id": "hl-cd77e6e28d8c950d",
+      "date": "2026-10-23",
+      "title": "原子力船「むつ」と空白の半世紀 原潜議論が問う国家マネジメント",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9lV19OOVYwSS03QURJbVVWYlRqQXVVaDZoSTJpZUEtMlhkbF9vUUpwZzhTSy1LT1lyUExFZ0F4YjZibElNT2tUR0x5dGdYVEdDVU9nclI5OUxGaXRKSmFQUlFSa1NIcXpTMUZoVg?oc=5",
+      "source": "日経",
+      "published_at": "2026-10-23T20:00:00+00:00"
+    },
+    {
+      "id": "hl-e3dfe813fb415e9e",
+      "date": "2026-10-23",
+      "title": "原発導入急ぐ東南アジア ジョナサン・コブ氏",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SbUo3R0d0Zk9WM2ZkQjFWNGVnOGxicUI1QUJnU3Jtdk9qNlByQWN0c1RWVXhKbTRtYU10TGRLRkp2alVXMzNnZndMQUlNbk1kTUVqendiT29qc3pMS010VUFwOGlHLV9IVzlBMA?oc=5",
+      "source": "日経",
+      "published_at": "2026-10-23T17:00:00+00:00"
+    },
+    {
+      "id": "hl-dcbef9a36c8794c2",
+      "date": "2026-10-23",
+      "title": "Carney says AtkinsRealis is a contender to build nuclear power plant in Turkey",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUDVaTVBUN2djLWhIejhzYlNpOGtWU0hoUEQxN1g0Q0M2UldpcFhud2pIc2s3LWpfOWdIVm1hZU4tSzFmVDRzLUJxSzFHcFNybURZTnY0R3liU1QtSE51S1F3TDJXdFJ6dzNUd2tjQUxScWpIYWt6ZXVPQnFqUjdVWkRENWRncnhoMFp2NDdMVWZrMFdUWThFcU9FbUdNOWplcWUxNXdRelc1cHN2RWJ3OEl6RXV4VkNpQUYxRDE1cTdFUQ?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-10-23T15:11:26+00:00"
+    },
+    {
+      "id": "hl-c28a76f0b60d9227",
+      "date": "2026-10-23",
+      "title": "Russia's Rosatom says it hopes Hungary decides to stick with it on nuclear plant project",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUWR1NnM3cUJRSnRNeEprdHZCUGp5Q3NwUUFCVjdxdGhhdTJWVFBDRlZEZTdOVEJzbzJCSURyMlEyTHl0ZVgzV2FlYTRORk9YMUpfOUtXWm5GT2NYLThPdTVuYk9zR3gzNzVabFhDUW1iZXVPUE5SZEZqLTRBcVoyRjkyTmVTaTlnY1VFX3l2NUQzMW9DMkdPMGFZOUZNN1pJQ3MzNXk5dUZVUTEzSHhjblFzUFRJZw?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-10-23T13:22:17+00:00"
+    },
     {
       "id": "hl-9172da999c5f8259",
       "date": "2026-10-23",
@@ -28,6 +132,14 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1sTnZVaWJhd3EzWEhoSTVTVTctQWNOTGQ3X2JIZG45OWhId0NiMTlwdG9hQk4zZHZLTTJoa0lwMzdLaHJ5U2JQUk9HWGVibEE2VVZRM3YzQ1p2N1lNSHdIYTg0SExPRXZERFlGZg?oc=5",
       "source": "日経",
       "published_at": "2026-10-23T13:07:06+00:00"
+    },
+    {
+      "id": "hl-64e397d268d0fc68",
+      "date": "2026-10-23",
+      "title": "きょうの5本 中国が太陽熱で原発15基分発電へ",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5hN1lLM0ZERTJiT1lCeU1YRHNIaEZpeTlVSXlGeWh4SENNcVMtUEZ4YTZZc01hTjF3SXV4TTUtSE95VE4yVnVRSlhrQVFWcWhJX0VhV0tweVVZNG9kUGZQZFpESFJCZy02OXVjWA?oc=5",
+      "source": "日経",
+      "published_at": "2026-10-23T12:00:00+00:00"
     },
     {
       "id": "hl-132d6cb04df7f542",
@@ -71,11 +183,11 @@
     },
     {
       "id": "hl-d0d04fea7395d47b",
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "title": "US nuclear power regulator allows applicants to include data from agency projects",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSEp1Rk83dWxRQVRiZ1IzS0cxRXRnVHpndmgyMmc1azN1UlFNSklNSmZsV1Y1TlA0U3pSV2FzU3lpM0xLY01nSFRyaDhoQUt5WGRXOWhZWmk3WV9YdUxyN3Q3RWNLRzBQbmJlaENBUW4xUUtnVC1LZGxPd3JPdVVMbkNKaGlFcWJiNmVwT25FdW9FV2xzRHhiN0FRRU9iNXlmTWwzRE5Zb3E1S3duRzktZC1lNktPeHdtbE1KTUpjd1VDWXB5?oc=5",
       "source": "Reuters",
-      "published_at": "2026-10-22T20:17:34+00:00"
+      "published_at": "2026-10-23T03:54:17+00:00"
     },
     {
       "id": "hl-ae936c0746f4632d",
@@ -83,14 +195,6 @@
       "title": "中国が太陽熱で原発15基分発電へ 2030年めど、日没後も稼働",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1mS2V6eW1meXZzWVBWUHhuR01vYkFlejdWTTlTcnVyZEtpcTdiWFRzOXQ4R0lRc3hfRjhBclQtUjVSeUtzTTVnd2VDUGlYTUotZ2dlQTZSaUpkWW9vUGRxX2hEQTNhWnB2Vlgwdw?oc=5",
       "source": "日経",
-      "published_at": "2026-10-22T20:00:00+00:00"
-    },
-    {
-      "id": "hl-49d2850ac0e66fee",
-      "date": "2026-10-22",
-      "title": "産業春秋／原子力を目指す最近の学生 - 日刊工業新聞 電子版",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5hTW5PZVpwQ3cySFVjb3FhS3VXcnhXU0N1YmdxNER4Um9HUncyUldHUjdzRm15ZVppT0I4a2MyMVE2dnJabnhEbmo1ODg2RW9sa0tWWUcwRFI?oc=5",
-      "source": "日刊工業",
       "published_at": "2026-10-22T20:00:00+00:00"
     },
     {
@@ -142,6 +246,14 @@
       "published_at": "2026-10-22T09:16:31+00:00"
     },
     {
+      "id": "hl-b28bb30a5e1deb5d",
+      "date": "2026-10-22",
+      "title": "Small reactor builders jockey to secure supply chains for nuclear fleets",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYWt0WFhLRF96U2JYZ2hQcmVfSXRFRTc4YXRlUm1mR2txdzN6NXBvdTFSdjhNRmJOc2EzRHhSVVhHQ2d6TmJlUHFJdTdkV2ZQZE84bW1MLV94VzZkYzhkeXp4OWYtTHdQbmw5YnNNSlMzaDBDTGg2YWk4cUo3REoyWHBQdVJKZ0ZFVHh3M3ZSdTBZZV9sWHR5T2pGZkZScU1XZUUxUUtDRzBFdmNqakl6MmNYZThYTlhyelQ3MlhOMFVBUQ?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-10-22T07:00:00+00:00"
+    },
+    {
       "id": "hl-d1a96412de452e46",
       "date": "2026-10-22",
       "title": "東京電力ホールディングス[9501]：原子力損害賠償・廃炉等支援機構からの資金の交付について 2026年10月22日(適時開示) ：日経会社情報DIGITAL",
@@ -150,10 +262,18 @@
       "published_at": "2026-10-22T02:00:00+00:00"
     },
     {
-      "id": "hl-6e57ecc7e9fd4dd5",
+      "id": "hl-c8d8d835a64e6a93",
+      "date": "2026-10-21",
+      "title": "Driver at Russian-held Zaporizhzhia nuclear plant killed in drone attacks, managers say",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSmZLa1RiVV9GUnF5ampkejVOcWdEejU5elJTWTZqNVV5R3ZTX1JDRTFZSkdNMTNONDdOSmRaR3dSZGNVeUJsUkFGcEx5Y21nVlgweTdEdG1YLVpJeEdKaWI1cXdoQmJpOE5LZ1JSY2VsWHNXNTJ6bWZYbk45cXE3TEdqWE1ZSGkwR3h4UzRjbUFQR2c3MzFiUzhkODRaRms4WHVUQ1ZEdmN2dVFtaGN2bjVLTktUeUItM2ZPb1lPWQ?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-10-21T23:29:20+00:00"
+    },
+    {
+      "id": "hl-f92f18af50f6c998",
       "date": "2026-10-21",
       "title": "中部電力の原発データ不正を生んだ｢独自の正当化理論｣という病､高木仁三郎氏が遺した｢対抗的専門家｣の挑戦",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE03Mzc0S1RLTkdVdmhHT1dVM1hsMDJ1MzZyWDMtejdaQjdZX2RHUHFnYUVWOS1oUVN6TTloSS1qVjJqaHBzRXVUY2c5cktyNkRhN0E?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9LOTNabm55MFJnd2E1Y3hEbUVFenVUczNDZlVpQ21SSThFX1FPZUxvTG1HaGRSMmhhQTJaN2piTlpFaDhUZi1TNi1fay0wSDhvQVhvcGJ4RlVlakRBRG9V?oc=5",
       "source": "東洋経済",
       "published_at": "2026-10-21T21:00:00+00:00"
     },
@@ -196,62 +316,6 @@
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSFpXNWs5SDlSOXZBSnU2eVBHaXZzWTVSSXRwRk5tbmNiNHJ4WTJfeGk0S2JyWGZNYW9TRE12MVFwbzg4WV9aMzdWLVFpcXN4SnlQXzJicWV1c18yN0ttSlJONGQ4TkR0TlMzQmFZRGU1RjMtQ01DWTZxc1VCa2oxaS1iVExjTExYYjVkT0RQUUZsQ3dYdjJYMU9GbkhQR3V4SFVLaHgydVIyYUV5TTFWS0RKb1FNQQ?oc=5",
       "source": "Bloomberg",
       "published_at": "2026-10-20T02:33:00+00:00"
-    },
-    {
-      "id": "hl-52d135227f4c9143",
-      "date": "2026-10-19",
-      "title": "原子力機構の価値 原子力の社会実装に向けて（187）ミクロな磁石が生む「ダイオード的性質」",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBpYnhaTllhd2wxUFRSTXRWM0FXRHhKTWtKeWlHVmVLeExMODlKbkhha2l4ZGF5bWpZdy1EMnY2aTZqdThFdVRwbzdVRVJZMlBwM1Q2aFg3Z1I?oc=5",
-      "source": "日刊工業",
-      "published_at": "2026-10-19T20:00:00+00:00"
-    },
-    {
-      "id": "hl-54b014d0aebe69b6",
-      "date": "2026-10-19",
-      "title": "Amazon and AEP Explore 960-Megawatt Nuclear Project in Indiana",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNY0QzSUNjTkNzZEppTURpTGxwaWV6blV6NmpUY3RvVzFpMTlZcHpubDZNTkQ5UFY1UDI5WDRfZndCYS02czBoVVdSNGFfRkNfeXlvbVRJeHZ5MVRPUGl1WWVEY3V1LVhlWW9yYVFqN1NRNUJoYnYyVVd0bTFSTFhySENVdHM5NFdDY01uU1gxWmxHOC1uMGpQTXhvcWV4X3NhX01vR0wzaHdhNWgwVDhUSDZDbw?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-10-19T12:15:00+00:00"
-    },
-    {
-      "id": "hl-06e6c88d566bcc56",
-      "date": "2026-10-19",
-      "title": "篠山紀信氏が撮った建設現場と震災・原発事故 - 日経クロステック",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNX2hQc0x5Q0FTeDFVeVZzMlVnRDhiTTlIU1V4LXE5MV9MLVZnMVp1NGZxSmNmWEhjelRudWF1TktCVU9BOERYaW8tcTcwOEZzS1BrWmtSV2VDTEczSTVOUWl5a3NuZWgxR0YzaEZHb04tQmJ2OGhMRi04ZUstS01jMUczZWItRzRpcG9pdFdTSFptb3RNc3dtQkxIcm96NUZObmtadUJHeVYyWmlYVHRjR1BnbVZSS3d3MHBfdzhvTThPbnNiUlI2T0dvYnNScjBYWXFRak4zT1FmeTd5UmRBOXkxZXBlTmVZX1FIU1hxaw?oc=5",
-      "source": "日経",
-      "published_at": "2026-10-19T12:11:17+00:00"
-    },
-    {
-      "id": "hl-514fb243a5096dfe",
-      "date": "2026-10-19",
-      "title": "Watch X-Energy CEO on Amazon, AEP Nuclear Data Center Deal",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRVZZQkFkYXM5cm0yeDJQeGYyUUpUQ1ptbW9Pd2JiS1hOYWZpNi1PS2MwaW5hb0gtNmJYYllJVEFnQ3Q0QUpWRWZ0aFRtTERGY1JqNFVCc1VQNDV1N3ZUeWFOTDM2RGJDMXZ6QlNMd0M2UnpqbS1NMnFQV2o0XzFBY09USURhQ3FKeGVUS0d2eGp0TU5BVkxXSG5KalpIc0IwRkV3R1ppTFYyZw?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-10-19T00:00:00+00:00"
-    },
-    {
-      "id": "hl-bda6e81b7f691831",
-      "date": "2026-10-17",
-      "title": "画像 | ｢プルトニウム活用｣へ動くのか､トリウム燃料に熱視線を送るアメリカの原子力･エネルギー戦略の大転換と日本の対応",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBKOEI4cGp5Zl9TeldkMFRzUy1PcUE2VUV2MTZLOTM0Q0FSWTNxSzA3cHNCZ2dSc2NhVVNMaWZrUDhTOUtfcnNuMWJiaGJ5UnJNNXI0U0twRQ?oc=5",
-      "source": "東洋経済",
-      "published_at": "2026-10-17T07:00:00+00:00"
-    },
-    {
-      "id": "hl-33f1d8b40f563a5d",
-      "date": "2026-10-16",
-      "title": "Opinion | Donald Trump and the Nuclear Taboo",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBQOUEyRVdWemxUSDVfY0JGcVFHeGIxeTFKeGpmOUJzeFItNllsSDlaekVoM1dzaWRVZWdXdURSbFRna2pGdkxEY1hleExIZHQ4LTFyS0xSOFp6OEZkQ1V0NlViVFIxVVZET3p2c0tzeHhxQTdlb2dfSzREMA?oc=5",
-      "source": "WSJ",
-      "published_at": "2026-10-16T19:00:00+00:00"
-    },
-    {
-      "id": "hl-9314f6857eaca1a5",
-      "date": "2026-10-16",
-      "title": "Russia's Rosatom targets year-end nuclear start-up at Turkey's Akkuyu",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNS082WVY1RGJ0ZjQwWUU3UmZqWC1pbF9qeGNkQ2h2MVdhTTMtb3FxLTh6d3owa3BJY1A4NnplQXZzVmtyQXZWZ0RLOEMxdDVTUTM1a25oaEJCeTFxRTh2ZWU1dkgzZFljRUUzQW1mMjZCZ1U5U281WnloZVVLOTEzVndrZkJzM19BMWpQNmR1UGFoS05oeVR3MUhad1NXRmEtQXpmek9XSWlOcHRkU29kcmw5T1FqMUk?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-10-16T15:51:13+00:00"
     }
   ]
 }
