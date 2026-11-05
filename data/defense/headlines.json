@@ -1,6 +1,6 @@
 {
   "_schema": "id: 安定ID / date: YYYY-MM-DD / title: 見出し / url: 原文リンク / source: 媒体名 / published_at: ISO8601(任意)",
-  "fetched_at": "2026-11-04T17:50:01.681549+00:00",
+  "fetched_at": "2026-11-05T17:55:25.689259+00:00",
   "theme": "defense",
   "sources": [
     "日経",
@@ -13,31 +13,127 @@
     "SpaceNews"
   ],
   "fetch_notes": [
-    "日経: 25件",
-    "Bloomberg: 16件",
-    "Reuters: 16件",
-    "CNBC: 7件",
-    "WSJ: 15件",
+    "日経: 24件",
+    "Bloomberg: 13件",
+    "Reuters: 14件",
+    "CNBC: 6件",
+    "WSJ: 7件",
     "日刊工業: 1件",
-    "東洋経済: 16件",
+    "東洋経済: 15件",
     "SpaceNews: 13件"
   ],
   "items": [
     {
-      "id": "hl-fb24c611f5c4e4cb",
+      "id": "hl-f5c7119462680f96",
+      "date": "2026-11-05",
+      "title": "Cork Takes the Heat So DRACO’s Data Can Survive",
+      "url": "https://spacenews.com/cork-takes-the-heat-so-dracos-data-can-survive/",
+      "source": "SpaceNews",
+      "published_at": "2026-11-05T17:05:59+00:00"
+    },
+    {
+      "id": "hl-df1b1fff5a670283",
+      "date": "2026-11-05",
+      "title": "Building a ‘highway to the moon and back’ with Winnie Lai",
+      "url": "https://spacenews.com/building-a-highway-to-the-moon-and-back-with-winnie-lai/",
+      "source": "SpaceNews",
+      "published_at": "2026-11-05T14:15:38+00:00"
+    },
+    {
+      "id": "hl-f7a322350bf2351c",
+      "date": "2026-11-05",
+      "title": "Zipline Tops $21 Billion Valuation, Adds 300 Walmart Drone Sites",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMW9CcVBZMS1kQTZ3NDVfcDA5TWJGcldNY0hNdmFITkFXbURfanU0WVMtUVFOazR3RkdpRTFLR2ZSczNRU09YWkVuOHFLNDNJOGtJRUF6bW5VMnhkNWZYa2YyRVZYeEdEc2VxQUFUVEwyS1A5Qm1JYjZmb00yaWt1YXNONFY2dEVhb0lTanNRVmhwbF85Y1Q3bm5aU3plMjNZWXFMeTZRRVI0VGM0bFgxUmthQQ?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-11-05T12:00:00+00:00"
+    },
+    {
+      "id": "hl-123f751197bfc500",
+      "date": "2026-11-05",
+      "title": "米民主勝利で株価明暗 医療や再エネ見直し買い、防衛株に逆風",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1BQWVRNi1vWXRQM1RTa016YkZGbGVENGRwLXNscHdaT0I1Yzl2cHMzZHN1MzduRmFBcWNYc1hWbEhJbTk1MVV0YXE5eVc0RnRaU0FKMUNYT1dYTndJT21oc2w1RmdJeVY5RFEtMg?oc=5",
+      "source": "日経",
+      "published_at": "2026-11-05T11:43:08+00:00"
+    },
+    {
+      "id": "hl-717d3d2dffa5b3be",
+      "date": "2026-11-05",
+      "title": "防衛費「国債発行に頼らず」 財制審、安定財源の確保を提言",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYaTJqbXZxVVduam41N2xfSlBBa1hwNHNvMDRfTEN6R1Q1UW1ydUd6VG8xNDlHNFhLOEVjclpPUDBVNDBvQm1fMVdYRG83dGRlUkJreXgyLXRWRzJZb2EyUzJxNjdvcTlBbTFRUw?oc=5",
+      "source": "日経",
+      "published_at": "2026-11-05T09:33:11+00:00"
+    },
+    {
+      "id": "hl-a4757844198185b4",
+      "date": "2026-11-05",
+      "title": "From tanks to drones: South Korea’s defense firms face a new battlefield test",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSTJpTVdfY2pRWU1HbEtlcl9acHU4QkthQzBQeHczeEZHV1RUekVvQ3QzbjJ2SnA0LTNFbkV4OE9Ld2JuV0hydGdIU0dwam9vbjluSHFUQndyeHFYQ09ZN0JNM2JWOUY2SjR5WFpmRmRpVm5SVjB2X21DNEhqSjZUZlZFRVBKZ9IBiwFBVV95cUxOWTBBS2I4QkVNMFk5Z3d6MWpmRG5XdEhBWll6WXFHMWpSOG0zUm1xZ2tncEczaVN0aHNudGtKSUhJSWpwTnpSaVhtSi11SnZKYldZbnNSaGhnU3JnMG9XMEpYMTZHQ3ZKNFFRVlR2cUQtSkNrSk1yQlp3U3BwdnpINWZhekxiTXJpR0I0?oc=5",
+      "source": "CNBC",
+      "published_at": "2026-11-05T08:02:41+00:00"
+    },
+    {
+      "id": "hl-71b7cc6da0f31f74",
+      "date": "2026-11-05",
+      "title": "Rheinmetall shares plunge 17% after outlook cut as military contracts stall",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMk84R0loaHlmVk5iMGU4Rm9BY05UaXlrczFBMGlCTVJJc0RBdzM1M3kzRWNxbDQzRnozSTlWZ1RTM1hCcDM0d245bDFNMktPdHpwQklTN3cyT0hfVjRjSU1yLWtCWHpZV3QwSmx1VGR4U04xLTRPTlRzcThCUC0taHFR0gGHAUFVX3lxTE9wd3M1RmtFQ1VSeXVad1JBZDBuUXRHbTlqbGRRcWdYVzQ1VG1pUUNjcXhXUG9QVEpkTkxtOXMzLWFkaTgwTVJPTUIwd2tFbWVNcDRuTEFfWVI2V1JkeXU5eG9ZdzN2S0o1VEIwdE5Sb01fYzlra0hlTHlTcXJLVWs2b1FmYlptVQ?oc=5",
+      "source": "CNBC",
+      "published_at": "2026-11-05T07:43:03+00:00"
+    },
+    {
+      "id": "hl-ba94e4565688d132",
+      "date": "2026-11-05",
+      "title": "川崎重工、サイバー防衛を強化した産業用ロボのコントローラー",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBFUlZhY3I0YkNEX0U3QnpfaVlraXViaW5vS25IblZ4ZS0wb2tSTU4zYWpTS2VBMDQtc2hQaEF0cmIzcTlOREEzbzFCd2JXQVkwaDBEMlF1OHFMc1ljRlF1YnF1aC1Qa2plT0VQNQ?oc=5",
+      "source": "日経",
+      "published_at": "2026-11-05T04:59:01+00:00"
+    },
+    {
+      "id": "hl-3ceecb12d1544ad0",
+      "date": "2026-11-05",
+      "title": "U.S. Was Unprepared for Drone Warfare, Pentagon’s Emil Michael Says",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTGVpYzEzUmZEa3Foa2tRTFRudjRFOFpSeXA5ZTQwUFctcTVzSXd4dEZWcERqMGRHZW5QOTBSUjVja0VYeEJmUnJ3ZjI5dDk5ZmhlWDhUUGR4cGVUSkt2SVZQcHlMTzl0SmtkZ0ZGclF2d3Q3N3FXZEFZbGZPUmVac1FoZ2QzYk9sa1RDQTFLdlhPRW1VRWFHdll1T3RPZ2RYOXdmN0pNQS1sbE1HR3d4cXhGR0ZyRmFTSS1SdQ?oc=5",
+      "source": "WSJ",
+      "published_at": "2026-11-05T01:16:00+00:00"
+    },
+    {
+      "id": "hl-9cf296f43a0ebf86",
       "date": "2026-11-04",
-      "title": "Defense stocks slide on fear Democrats will curb spending. One analyst say it's a buying opportunity",
+      "title": "Defense Stocks in US, Europe Drop After Democrats Sweep Midterms",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdHhSTklnZ2RjY3g2S1lhZlpNeGwycGxqb3FRb3BkbVFSRGNkN1hoSVJ5ekZKVXNNU0lwa0s0cEZjNUVHSGN6NEk0MnhEVnYyMkN6bVBVbEdWSlVGWTRxSWJ2cnZqSGJlLWlqd1NqZ3VWbXhtT1VDcy1zWEJJRF9PSFlqVklPYVNURmtNZ3ZHNTBObGR6RHJKWFd6cGRuZjlKWGlVOFRMSG5ibXBXa2RKMDFXNUY?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-11-04T21:53:31+00:00"
+    },
+    {
+      "id": "hl-fed48fa70833f46e",
+      "date": "2026-11-04",
+      "title": "Saudi, Syrian defence ministries sign cooperation agreement, SPA reports",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQmUtR3gzU3paNkVHcE1aTUhvSXZ0YUVRdlpJak41aE1CMDdxLW1DUG5YOWI4cm1ZVTNabWcxR3hQNnlkRW5makZQeVhmRU1XcXZzN0VwMXpTaVQyeWo5SGFjYVQtUHlxXzEzUUxDdFd6WWl6TDNSanVycmhvVFRXTzNEd2lrS2JZSUNPZE5MajdJUEhKY1NjNnBMUzdBcFpnQ2dKTE5KVHJzd2lka3V1RW9KNFFUQkxGNnMyeVg3NDZsQQ?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-11-04T20:21:44+00:00"
+    },
+    {
+      "id": "hl-0bcbd122b579e58c",
+      "date": "2026-11-04",
+      "title": "「科学と安保の距離縮めよ」 防衛費を基礎研究に、橋本JST理事長",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpQnhMcGZEOENzWDU4Y0pxQ3o4WVJwRFZIYVZhR0dOdFZZNm0xcHNqM3F5ckVmZkRTQ09PSDliaWlrTmg3bFhtakRnNUJXMmRuWmUzUVoyY0dlU0Jmczd0SUZjbG9uTGR1Y2o0Mw?oc=5",
+      "source": "日経",
+      "published_at": "2026-11-04T20:00:00+00:00"
+    },
+    {
+      "id": "hl-fa731df56ba9f67d",
+      "date": "2026-11-04",
+      "title": "Defense firms fall as Democratic victory stokes fears of tighter Pentagon budget",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOFpLTThYU19RaWRwSFg1R0JZZE1lRmFFT0Z5RUxibWtVamtGNlpURUZaMHhYVUdoeWx1cUw2QzdIYWRrQlhTQTQzdFg0bWdqRTRmOHRNNnhBQmZYMk1nbmRRS2VrY0RvSVpaRm9FQ21qSElZb1lRQ2pEZDR5Vm5zZ3FFNjhkYjA1cHg1a2VpOFZGX0dXOXVhNXhHUFlGam5kNjRmd292XzlsX1Q0aldqcmZiWGFxbHRvYjJGUUJfMkU2UHE5Y2NFNVI0SjVDeWVTT3Nj?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-11-04T17:02:00+00:00"
+    },
+    {
+      "id": "hl-7b56566a8c8675ec",
+      "date": "2026-11-04",
+      "title": "Defense stocks slide on fear Democrats will curb spending. One analyst says it's a buying opportunity",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONl9LcWtqV0xoQzZ0ZmtVTVBTUUZTN2RxRUFDZDZGR1JLZ1lZQzIyaHRyN1c4LUEyNVhiYmVEbGVoTWkyWnJHREM1TlpQZ3JtYnFYWmpWMEJlTDVlU0xUNmNkTUtTdEpQVG1yWmNuQVFjcGlvaFVHXzdnS29USVN2WXNJZmYxSlQyOUhvRkFQWDRuLVl2UHIyWjFVUmpCLWN6UDdpSE13ODlxcHBpUjBFYmE3YzFGQ1hkaGFrSFM2dnZ3Zk1pM3duUDFDTWt4WXE0?oc=5",
       "source": "CNBC",
       "published_at": "2026-11-04T16:05:08+00:00"
-    },
-    {
-      "id": "hl-06156a1064ffaafa",
-      "date": "2026-11-04",
-      "title": "European Defense Stocks Slide as Democrats’ Sweep Dents Optimism",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdHhSTklnZ2RjY3g2S1lhZlpNeGwycGxqb3FRb3BkbVFSRGNkN1hoSVJ5ekZKVXNNU0lwa0s0cEZjNUVHSGN6NEk0MnhEVnYyMkN6bVBVbEdWSlVGWTRxSWJ2cnZqSGJlLWlqd1NqZ3VWbXhtT1VDcy1zWEJJRF9PSFlqVklPYVNURmtNZ3ZHNTBObGR6RHJKWFd6cGRuZjlKWGlVOFRMSG5ibXBXa2RKMDFXNUY?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-11-04T13:02:04+00:00"
     },
     {
       "id": "hl-32e527e0467dcb11",
@@ -61,7 +157,7 @@
       "title": "North Korea, on Busiest Missile-Testing Spree in Years, Rebuffs Trump Diplomacy",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaERXOEtSUVd1MlZvcmMwSDRxYzR3QWptVW0tTWpxNHNrLWpFb2Z5NkZxbWpBM3FVRVBvOGxSd3htRjByRC1MdWFGaURRYjl0Y29jWVF2QXZfWFZKSkxUNkh4YXhuZWtFOEZsc1VGWW5YdWthSmF0aHJObVR0c1lrZDJrbTVBWE5WakJsUml4anE2QzdRT0c1WlE3eFkyaEJwRUpnc1dRN1dsR2N3MGtlOHdrbURFbnlZ?oc=5",
       "source": "WSJ",
-      "published_at": "2026-11-04T08:16:23+00:00"
+      "published_at": "2026-11-04T08:16:00+00:00"
     },
     {
       "id": "hl-714f5be38c1c8604",
@@ -80,22 +176,6 @@
       "published_at": "2026-11-04T01:00:00+00:00"
     },
     {
-      "id": "hl-8bea691dccfbbeaf",
-      "date": "2026-11-03",
-      "title": "画像 | 〈有事の買収防衛策〉はどこまで許されるのか？日本の会社は\"幹部従業員協同組合\"…牛島弁護士＆アクティビスト対談",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE15UXJKT3NrUkZBcUx6QUJGa1RJcG5yczhick1qMmxiclpRbmM5cjA5ZFJhRmJHNWR5anlBWWpITGNJZGVydVBpWUZBdGdUMzQ3WXBYNWN2aw?oc=5",
-      "source": "東洋経済",
-      "published_at": "2026-11-03T23:50:32+00:00"
-    },
-    {
-      "id": "hl-3c1c0e413316cb54",
-      "date": "2026-11-03",
-      "title": "Trump Says U.S. Plans to Cut Off Military Aid to Israel by End of Year",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQS29jTUhmc1BxWVExYW5KaldaYzh5eVVJcm9seTFELUJGRWw5M3dicDFCSUVKNXVEZVU3clhtbmpWTmR3ckhhVzgzZFFWOUVuWmdvc1ZUdFA5YndfYTBiOUZOdGJQdGtMUXo1VzFzOWh3MDlYR3dlQ1hIcENPSzJyT0ljdUtabnBSUi1Bc2xvNGRTRElrTGxVbXQ2UnloOW5UX08xOF9SVC1SQ0prZTN4Ng?oc=5",
-      "source": "WSJ",
-      "published_at": "2026-11-03T22:08:00+00:00"
-    },
-    {
       "id": "hl-aa3a15e86e96253a",
       "date": "2026-11-03",
       "title": "アクセルスペース､光学衛星4機故障で直面する防衛省大型案件のジレンマ…収益への影響はブラックボックスで株価低迷",
@@ -104,12 +184,12 @@
       "published_at": "2026-11-03T20:50:00+00:00"
     },
     {
-      "id": "hl-3a0439e9b4f80de7",
+      "id": "hl-eda5f83432e0f3fa",
       "date": "2026-11-03",
-      "title": "アクセルスペース､光学衛星4機故障で直面する防衛省大型案件のジレンマ…収益への影響はブラックボックスで株価低迷",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5YWjdqMWNmN0FHVWZkci1KMGdvTmwxcVcyTklpV09WY3VvN1lkZ29hV0lpcjBnRnNUV3o2THJuTzdNR1p4XzlMdHltbWZaRmdyUG5Id1JQNGxueTQ?oc=5",
+      "title": "〈有事の買収防衛策〉はどこまで許されるのか？日本の会社は\"幹部従業員協同組合\"…牛島弁護士＆アクティビスト対談",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9aNl9rZERQOGExNlBuVGpqZlFsdmx6ZFE4M2Y3YlhIQXRVcHZNdi1hN3htcWI5Qzk1Smt2VGNkOGVHOG0wa2FJSVRVUW9jWThGdURrdDRra3ZpdFU?oc=5",
       "source": "東洋経済",
-      "published_at": "2026-11-03T20:50:00+00:00"
+      "published_at": "2026-11-03T20:45:00+00:00"
     },
     {
       "id": "hl-50217634c2a41409",
@@ -126,14 +206,6 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9aTVNTNzlYRWdWbFpMS0V1NjhaLTlSVnd2S2c2V0hpZ1dkUnU4bTRYVVJGYzVVLXl2cTJpbFFQNHJYM043azBYUjI4bERsY0ZLd0FCNXFoczNPTlZtUUxDRk8yeUo2N2NQX19kSw?oc=5",
       "source": "日経",
       "published_at": "2026-11-03T20:00:00+00:00"
-    },
-    {
-      "id": "hl-f835ca708e5cba6d",
-      "date": "2026-11-03",
-      "title": "The Startup Building a Supply Chain to Make Explosives for Drones",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQY1RXbXJHRFZUcTlncGctc0gxMWd2UndzYnlrTkxRS1NPZ3J5TlBLV09Eekk4OGZDR1VNOUtkSTJ5bHBiakw5a0hWREwyejZyRndLMHZCV0d0S2FsRDVZLXdMTFJGTVpPWHROYmZKZHhYYXBmdHFnbnYzUUw5aFlLN3B3NFEyQ0pnMG96REFfRGRJQTQzVTlRV3lsYTZ0REtEd3E5N3BkSUZ6V2lpSUl5WA?oc=5",
-      "source": "WSJ",
-      "published_at": "2026-11-03T18:08:30+00:00"
     },
     {
       "id": "hl-9abb75e7ec07d82e",
@@ -176,28 +248,12 @@
       "published_at": "2026-11-03T16:50:44+00:00"
     },
     {
-      "id": "hl-6933aacc215b4d10",
-      "date": "2026-11-03",
-      "title": "Ukraine probes clashes at military recruitment dorm",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdmhmRFBQSUg4SUNnYXlUZE1qdjlJb19HYzdkeHhFaXNSeHI5aW44LUhta3M0ckk2d0N3Z1dRcFB4U0Z2ZHdNMnVucl8tNTlyUGx6RU5UQmYxRFFmOTVjZEI3c1VjTU9vN1dyb1I4UGFmUDJzbWZCSm4tekxhLUowUzZSRXdmV1dLTmhsWklwdmI4bE05?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-11-03T16:48:09+00:00"
-    },
-    {
       "id": "hl-478f0139416bcd84",
       "date": "2026-11-03",
       "title": "NATO’s New Defense Plan Would Mean Strikes Deep Inside Russia",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRnBiZFd1d3BrSWJKTU1VeXZpLW91TXloQ0tOYy1Ob2podklGM2toNWREdU1scm1BazE5RjRVT0VacldyLXJ1c0hQNThXcTZVcUJoQ1g2YnIxM2lPWHA2dFNTM3NWeHJoajJEYk1yazIya09zenpPQ2NiQTBjLUZTd1NDekpVUU5KNkg3UjhET2RySXU0OTRxZlljMlVqSDBVdUtyVA?oc=5",
       "source": "WSJ",
       "published_at": "2026-11-03T15:41:00+00:00"
-    },
-    {
-      "id": "hl-a4443271279c3782",
-      "date": "2026-11-03",
-      "title": "EU Eases Licensing Rules for Defense Transfers Between Member States",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMnlvcE93eDdqVk1ETjM5ZF9WRnRwZDl1MXJHTlZ5UmpONVliVnJVdEJHSWZ2R25qcXVnYWFjdG9vYWJ3MVNKeXRHc21nTWljcFFsb0dxV09HSFdqX193bnlQbDcyOHYxcTJkYlR5MjFRZkJ0bXJoN1A0SkZ5ckVZeDR0UlBiZ3NwV1diUFRmcnFncF9GR0ZxVTZRX3Z1RURWNFZKd05IUkY?oc=5",
-      "source": "WSJ",
-      "published_at": "2026-11-03T15:06:00+00:00"
     },
     {
       "id": "hl-f883e0be86964c1b",
@@ -264,14 +320,6 @@
       "published_at": "2026-11-03T08:07:54+00:00"
     },
     {
-      "id": "hl-766b0516e4058def",
-      "date": "2026-11-03",
-      "title": "Drones Hit Russia’s Yanos Refinery as Ukraine Steps Up Strikes",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPa1RQS3BnX0N5MjdUalBYS1dGcGhXY204NzluTW0wTG9rMEpDSHhOZWpxWmtaYmxHZnJSWXNGV2trWmViWWFnd1k2c1FlbEdXNGVFaHg4TzVjaVU0d2k2bHU5Y01EN2FKMGN0RGY2cVFRdE9HRmJXeXZtTmJnbDZ5WHVkd2h1Mi1PWGdnSjgtNGpVV0RobzFpcG1UeERGTkhraGJSeGU3N1NlZ19Zem9HUXB5SQ?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-11-03T06:47:00+00:00"
-    },
-    {
       "id": "hl-f9ab7b0d03e5e736",
       "date": "2026-11-03",
       "title": "North Korea conducts strategic cruise missile test with dispersal warhead, KCNA says",
@@ -288,12 +336,12 @@
       "published_at": "2026-11-02T21:00:00+00:00"
     },
     {
-      "id": "hl-697f2469905be89f",
+      "id": "hl-795b6a0e8862ec0b",
       "date": "2026-11-02",
-      "title": "DFNSW | T3 Defense Inc. Wt Financial Statements",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1tbVhpRUVpX2JxRENFbUZHT0FZTG05WnRlbS1GbEZkOVBoalpsVS0xZ2FrMGh2SGhicFBBSDZjT29ydWVWVFgyOE9Cam9fei1hV3RqMU5FWlJfQi1kUHBMMmRHTnRJQXZpQTBXMXJrZGNONWhxTTgwag?oc=5",
-      "source": "WSJ",
-      "published_at": "2026-11-02T15:31:00+00:00"
+      "title": "〈直言〉こんなやり方で守れるわけがない…元米サイバー軍司令官が警鐘｢日本の能動的防衛は枠組みだけ｣の現実",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE44blIzMjk1Uk50bXk0Q2FHQnk5QUNHcFFfUDAxaG1vSUZkbHFzbTd5QWJhdDFCZ3BFYThwS1ZoMEpON2NWYi1JZFF2d0E3OU11NmIzY3ZNLTQ5bGc?oc=5",
+      "source": "東洋経済",
+      "published_at": "2026-11-02T21:00:00+00:00"
     },
     {
       "id": "hl-775310ca2789b334",
@@ -400,14 +448,6 @@
       "published_at": "2026-11-01T10:38:16+00:00"
     },
     {
-      "id": "hl-3a8862c23fde7928",
-      "date": "2026-11-01",
-      "title": "Applied Aerospace & Defense Inc. (AADX) Stock Price Today - The Wall Street Journal",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE01WmlsQk43cGFDNzk1SHBtVlFNRlRWbk5lbjFTYlJNRFd4RkVmalh2TFRuMHp0WTFtdVVYTWZwN1JQYy1NdXFGQkQ1OVVNZ2FzLVRBZQ?oc=5",
-      "source": "WSJ",
-      "published_at": "2026-11-01T02:11:18+00:00"
-    },
-    {
       "id": "hl-a4e85c7ddfc17ae6",
       "date": "2026-10-31",
       "title": "Russia’s Shadow Fleet Turns to Nets and Rubber Tires for Makeshift Drone Armor",
@@ -440,14 +480,6 @@
       "published_at": "2026-10-31T12:00:15+00:00"
     },
     {
-      "id": "hl-9a6f7e6e944bf123",
-      "date": "2026-10-31",
-      "title": "｢中国の圧力に屈した｣とサンリオに批判の声…《｢VIVANT｣コラボ中止》が突きつけた\"ブランド防衛\"の難しさの写真一覧",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1YZGk4aGZuT3FYYlRSM3laYTdmamdBS29rb1NOa05pcFpNb0tDeGFHRm5CaFh5ZFJvVDdVQmFyTU9rRGlLTzZBU1Njc2pOeHp6dUxTcWZXTQ?oc=5",
-      "source": "東洋経済",
-      "published_at": "2026-10-31T04:00:00+00:00"
-    },
-    {
       "id": "hl-428820703ee71c43",
       "date": "2026-10-31",
       "title": "財源固め、年末に3正面作戦 消費税減税・防衛力の強化・成長投資",
@@ -476,14 +508,6 @@
       "date": "2026-10-30",
       "title": "｢人間のくだらない戦争に犬を巻き込むな｣クローン＋遺伝子編集の軍用犬開発に怒り噴出…小泉防衛相との面会に疑念も",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE41bWVCUU0yckQxYWZCdHl4cjVNVnVkaG5VWmRWQko5UDE3NklTSkY2NGJUVWxBaVkweHI3eEpBT0ZxTWxGN3BTdW91bmxmSWt1UEE?oc=5",
-      "source": "東洋経済",
-      "published_at": "2026-10-30T21:30:00+00:00"
-    },
-    {
-      "id": "hl-b8a1f691b2e9a106",
-      "date": "2026-10-30",
-      "title": "｢人間のくだらない戦争に犬を巻き込むな｣クローン＋遺伝子編集の軍用犬開発に怒り噴出…小泉防衛相との面会に疑念も",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBUQlNnWHh3SG9yUGFJdEdSc3BoRS1lMG04SzBXQjBtMkZMY3ZVZk13M1ZUeGlLWEh1aGoxU05Sb19taHJkQ05tQVdrRFVYeW9LX3V0WDV0SWl0bUk?oc=5",
       "source": "東洋経済",
       "published_at": "2026-10-30T21:30:00+00:00"
     },
@@ -544,14 +568,6 @@
       "published_at": "2026-10-30T11:34:46+00:00"
     },
     {
-      "id": "hl-0486ef49f0cfb729",
-      "date": "2026-10-30",
-      "title": "Russian strikes plunge Ukrainian city into blackout as Zelenskyy warns of more missile attacks",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdjdQMjVXV0ZPMXZKM3QxeVpOcWNaZEhUa04ySUd2dmd6Q3NVUnR6LVEyVWRib21LLVlOLUo3MF9ock5mRUVxNmZaQmNDd1JVcEhHckxMd0puaHlHT1luWTUyUE96czJvWF9hcDcxR0Q2NlBMbVo5MUtPN2t6VF92bnFNQTd4TWlVdWfSAY8BQVVfeXFMTzh2MVJFNHF1R2E5WFhBVDZWSGt5RjZhTjFWV1p5MENLOW0wLUx1RXNLUnQ5VUM3cHZ2aTdnYVJJdElzYlBObEtHSzVNZlVqTHBRTVBtNmFLdnRqYk0xR1FmLWxxWV9iZG02VmpBV21wRDJSSDJHNnhPOHBhUUdFelNEN0NUaGJzQUZNMlFVS2M?oc=5",
-      "source": "CNBC",
-      "published_at": "2026-10-30T11:29:59+00:00"
-    },
-    {
       "id": "hl-d29c42003cb9498f",
       "date": "2026-10-30",
       "title": "NATO Military Chief Sees No Delays to Patriot Deliveries to Kyiv",
@@ -576,26 +592,10 @@
       "published_at": "2026-10-30T10:00:00+00:00"
     },
     {
-      "id": "hl-cd9abccd3344fec9",
-      "date": "2026-10-30",
-      "title": "China-Hawk Philippine Defense Chief Open to Presidential Bid",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNVVNcWRsMjZqTlFMc191S1lWRWtRTWJjeEQ5SWdpNEpKSURHUWZ6MDUxb2hFWUdGNHlXYzVZSWNJVHJ3elpOZ1doSEJWbTJibDYyQ21kRUhKRTVDVDItUlVSRzZMY19KNmR2WFduSUw3VjhoelFoLUlZd1d5RjliU2tyR3dFalNBRndOS2NNSVloeEh4QkljOXJfT2hRMlI5VWhFc0J0ZlNWUHBDRUNzRg?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-10-30T09:56:44+00:00"
-    },
-    {
       "id": "hl-ff92589758d13fcd",
       "date": "2026-10-30",
       "title": "｢中国の圧力に屈した｣とサンリオに批判の声…《｢VIVANT｣コラボ中止》が突きつけた\"ブランド防衛\"の難しさ",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pUzB3dkNzNkJwc3dfcF8xSWk5VzRIak0zd01GVWlZTzRaaVVkWWJ6M2loQ0JrQ0FuRXRMZGhQOUQ4V3JBMWR6ei1jb0lsRl9lZkVFR0R6ZDdxVWc?oc=5",
-      "source": "東洋経済",
-      "published_at": "2026-10-30T09:00:00+00:00"
-    },
-    {
-      "id": "hl-fab224b2d458ffd9",
-      "date": "2026-10-30",
-      "title": "｢中国の圧力に屈した｣とサンリオに批判の声…《｢VIVANT｣コラボ中止》が突きつけた\"ブランド防衛\"の難しさ",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLZTc2VllhUW1INElWejdfS3V1OFk0eWYzZy1IeHIxa0pjVUV4NUJSdHFLNDMwc1hvWFU2VVpHRWlzbmIyN0NJcS00Z1RoTDAtb0U3NmhSZUUtUXM?oc=5",
       "source": "東洋経済",
       "published_at": "2026-10-30T09:00:00+00:00"
     }
