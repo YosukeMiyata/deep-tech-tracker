@@ -1,6 +1,6 @@
 {
   "_schema": "id: 安定ID / date: YYYY-MM-DD / title: 見出し / url: 原文リンク / source: 媒体名 / published_at: ISO8601(任意)",
-  "fetched_at": "2026-11-05T17:55:35.218767+00:00",
+  "fetched_at": "2026-11-06T17:11:52.652677+00:00",
   "theme": "nuclear",
   "sources": [
     "日経",
@@ -12,15 +12,71 @@
     "東洋経済"
   ],
   "fetch_notes": [
-    "日経: 18件",
+    "日経: 16件",
     "Bloomberg: 0件",
-    "Reuters: 14件",
+    "Reuters: 10件",
     "CNBC: 0件",
     "WSJ: 0件",
-    "日刊工業: 2件",
-    "東洋経済: 6件"
+    "日刊工業: 3件",
+    "東洋経済: 15件"
   ],
   "items": [
+    {
+      "id": "hl-6b8bead67d1f76ed",
+      "date": "2026-11-06",
+      "title": "経産省、中部電力への補助金交付を停止 浜岡原発のデータ不正で",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1hRXdYdngyQmI0SlJmeFNJTDR2bWIyU0ZSdElkMW9TUm9PRmZEY3BnbXF2UkJfMkFKRmYwOWZodTI2c0VwQWphWkZKUmNFN2VKLVNGNHhiajJHMXJORk1wRlRRcGNyc0R1aEpETw?oc=5",
+      "source": "日経",
+      "published_at": "2026-11-06T09:21:34+00:00"
+    },
+    {
+      "id": "hl-eab255801129d599",
+      "date": "2026-11-06",
+      "title": "原子力機構と高エネ研、宇宙開発用試験装置・施設整備に着手",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1SQnVqUlJzYVdRamVXbGtMOGdKRFNJakhQTEN4clZaUXg1ZjhoaTZNQWV2Qy1MQzhSRWZSdEt0YTRnV2c3VW9wNlpzQnlHUElmWHBZaUdJdEI?oc=5",
+      "source": "日刊工業",
+      "published_at": "2026-11-06T08:00:00+00:00"
+    },
+    {
+      "id": "hl-8b6ecb0e70036e7b",
+      "date": "2026-11-06",
+      "title": "北海道電力の泊原発で事故想定し訓練 8500人参加、8日まで",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1czRqVllrS21yUjVuWXcydGZMcjJEekItN2k5Z2ZvUktYcG9pNmhlWG5oTmhLLVJpR2pKS2tGeWYtWllxcVhmNFphU0VVTGhsemVNTExQNXFZV0NvSjh6Z3VuMEg2NXdjekl5UA?oc=5",
+      "source": "日経",
+      "published_at": "2026-11-06T05:15:38+00:00"
+    },
+    {
+      "id": "hl-f4663b39b37cc2f3",
+      "date": "2026-11-06",
+      "title": "Trump: Iran 'not doing anything' on nuclear program without US approval",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE96N0MtWGVQM1R4NnA5ZWhDOC1SMmxZZ3hyZzZCZWppMi02azZNMmJNVEdWcHREYnB1NG5zQWplLWM1SlpPNkdRSkFqTk1ZUnhKWURfSGJuV2pQaDJJOXp1OF9xSVlBOTA?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-11-06T05:07:05+00:00"
+    },
+    {
+      "id": "hl-40c60c912969421f",
+      "date": "2026-11-06",
+      "title": "関西電力、蓄電所容量を30年に3倍 国内首位狙い原発1.5基分に",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBxMWZicXhwSVpXeXhqLTFGOVZ0NWpRdFdhakxtcDhrdGwyc2l1NVZWeUwwQ25NMm5VNmN5T3hjYU1hQk95SXN2VnhIZ1BJOG0tMF96cFlXTWhyangxWWlPeV9NVl9fdnlLNmtlZQ?oc=5",
+      "source": "日経",
+      "published_at": "2026-11-06T02:30:00+00:00"
+    },
+    {
+      "id": "hl-e2a7766276fa0457",
+      "date": "2026-11-05",
+      "title": "中部電力に業務改善命令 経産省、浜岡原発不正で組織改革要求",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE55Ykdhb1o0QUlIdTRHYjUxdnFlTUFYSnhEYzVTN2VvTEQ5T21hYUpSemhEbXZkcjJoa1QyZnlKNG1vTkNsd1RtaGlkMEQxZnZMNG1wLW1VTGFta2R6TFhDX1ctMDRNZ2lXR2pDdA?oc=5",
+      "source": "日経",
+      "published_at": "2026-11-05T23:51:29+00:00"
+    },
+    {
+      "id": "hl-a31523ca7f2cb356",
+      "date": "2026-11-05",
+      "title": "Iran sent nuclear proposal to the US via Qatar, senior Iranian official tells Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSlJZVlphdWhPcDNGc1E5eDVNdDdMQkJNTXVDS0RYSVRqaC1tblFqQy1FekRQdldnV0FsMU5RdnVHNEI3UEZWMC1MY1l5cnRtcjBlcDlpUXdvX0hXbV91S1UxajV1TEx1VmJ2SzNLNElXSjc3YkdmYWw4VGNXZEl5NXR4RFNjRXBxeEZMLWpBT1Z5X2JRc3NEdkdMZDljQ0dkZXZRbzc3U1NmNkhnaFN5QzNhVmRzSmhsM0Q5VzU3Mm11OWZBa3M1V1lvaw?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-11-05T19:48:00+00:00"
+    },
     {
       "id": "hl-0167182ea2d74bb1",
       "date": "2026-11-05",
@@ -28,14 +84,6 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Sak1ITGJENVdLVzBnME15ZEdqRkJOLWx0WHpWOFNyUW16UUM2UnJPdzF1X014OFZSN2pRdDJydFJnRVN3c2dBQ2JtbmxrQXNOeHh5MTNzRzdwVVJxY3dyWGtZdWxHcUhfcUJkVg?oc=5",
       "source": "日経",
       "published_at": "2026-11-05T09:00:00+00:00"
-    },
-    {
-      "id": "hl-f548d53a572588a9",
-      "date": "2026-11-05",
-      "title": "ハマカルアートプロジェクト 福島の原発被災地で続く滞在制作の挑戦",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qVjRRR3dST3IyZEMxU0xWdUY2WXdKemNoLUNqcDVBQ0Q5cUxOQlZrUlBWUjlhRkJ6dVUtV3ZCeVl3YVF0eGt1N3NCSHpUM0ptVUs4dXdkd2NBazdXWlBieHZYaGs4Vk5Fc3NRTg?oc=5",
-      "source": "日経",
-      "published_at": "2026-11-05T07:00:00+00:00"
     },
     {
       "id": "hl-2e3bb308fcdb6d7f",
@@ -70,6 +118,14 @@
       "published_at": "2026-11-04T04:54:56+00:00"
     },
     {
+      "id": "hl-ea3e30cbc9378769",
+      "date": "2026-11-03",
+      "title": "三菱重工、仏原発に蒸気発生器納入 取り替え用3基",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0wRmxXYWVQOTdTUGJzM1ZyR3h3OVhhWld5SDdfLWw1U3RoVWFjZ2NLTGhpcV9Ed1JCby1ma3hpelhsQzhLVENqV095NFMyZmJJRTg4NEtRdWM?oc=5",
+      "source": "日刊工業",
+      "published_at": "2026-11-03T20:00:00+00:00"
+    },
+    {
       "id": "hl-e7edb23fd3a4027d",
       "date": "2026-11-03",
       "title": "Ukrainian drone kills two, including station employee, Russian-held nuclear plant says",
@@ -100,14 +156,6 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1DS1M4NVJOM0RIYmpfd3ZzbmMyVEpJLUJtS3ZHcm80SDhjUldJZ0k0NWpQX09uLUZWcDNSallmckZQRGRXZDlqdS1FMnVOT2Fhb1hYSm55OFZQekZReTI4RGRUdEhGWnppLTFPUw?oc=5",
       "source": "日経",
       "published_at": "2026-11-02T10:07:53+00:00"
-    },
-    {
-      "id": "hl-73ce830fed3116cc",
-      "date": "2026-11-02",
-      "title": "日本の原子力開発が抱える病理 - 日経クロステック",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVzRTczVjUV9ZR1RKT1ZqN0tVRndjRmlOMHpJb093N1ZSNXhiOE1vZWRERnBMcWlTWmtlb1llZlJlMW0tTFFGMDdiako4QjEweS1tWE9rMjF0UU9BMENEd1Utc3lHSWhvNzFWTUpEeUhIRW1PUGNsZF9uM04tbGlYM3Rvc2E0dkhXc1NPRE9rU0NzaURFWUl3S25sN0hRSzdaczFCRGltZ2U3XzZieVF1dUFaVHFOMU9xeHBSRmdqRDFueDJ3YWZnNjcxNEdmNEtkSWowUXRsWG1NaE5LSTI1aEYzUTZBR0di?oc=5",
-      "source": "日経",
-      "published_at": "2026-11-02T09:30:56+00:00"
     },
     {
       "id": "hl-bf67c495543512d1",
@@ -246,92 +294,12 @@
       "published_at": "2026-10-31T19:45:43+00:00"
     },
     {
-      "id": "hl-70dcad25e0e902f3",
-      "date": "2026-10-31",
-      "title": "Suspected Iranian nuclear mastermind assassinated",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1XSkFkSFV1TXpOazhNT3IwVHpQTzBteEMzMnBidDAxUTc3RXl4RXc2QjNhWmw1akVndEFXdVpJUklnQ3FuQnUwZEQ3dWVheWI0OVd0bVFabUNOYkpE?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-10-31T07:00:00+00:00"
-    },
-    {
-      "id": "hl-0eb66a0071d31708",
-      "date": "2026-10-31",
-      "title": "Anti-nuclear protest on Fukushima anniversary",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1tOEtSOUdaVEk5LXdtY2dQU2FDUG1oQWltc1JaQ2pfYnFQRTdkdmpZck15WUlmcG9mNUwyaEdOM2k3ai1KS2RXWEp4Q0s1Y2MxckVta1FoWC1tZHZU?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-10-31T07:00:00+00:00"
-    },
-    {
-      "id": "hl-066ce56aff95dd44",
-      "date": "2026-10-31",
-      "title": "Bennett warns against nuclear talks with Iran's 'hangmen regime'",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA2YWs2dXhMTUtLLW82YnpzZUIzS2hTX0VWcUs4ZUR3NmRlNmRNRDJiZkVwd1JkMDY2TUxBZWxUYUFBR0R2Y1BfZEVtam5ycmtrRnZNUTZFeTJ0UTB2?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-10-31T07:00:00+00:00"
-    },
-    {
       "id": "hl-15e6f4db5f572479",
       "date": "2026-10-30",
       "title": "AIで蘇る原発、塗り替わる日本の電力地図 エネルギー探訪9000キロ① - 日経ヴェリタス",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9PVmYwNjNRSzN0Q0cwRzB5c29QcmpkTWJBdlVMaGxYYlJpTE13TmZQRlFmeXpEdXo5OTJpQ2RQZGpBdVNHNmVwNHpuZnN2QUF6SjZWRkhnRU5VU1ZmY296Z2pYTDRtMS1UTHlHblM1NHpMVllTLWJiZEt3Yk8xZw?oc=5",
       "source": "日経",
       "published_at": "2026-10-30T20:00:00+00:00"
-    },
-    {
-      "id": "hl-ac2f3840d0f33894",
-      "date": "2026-10-30",
-      "title": "Russia in talks with four African states on large nuclear power plants, Rosatom says",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSG5EemNweEFzbnpkVWp5b3pIaWNNSExXclRsandFN2xfZDhoWDliczBQWWpqaWpERWpLZnpsMzBNdUlYZHpXbEpxcjhsSHdNVUtKQkwxQVNXLXZ6YVk0cXQtcUdUMFZkUU4zY3FhNERWQWg2MHZWdngxT3ZIRHV5TVdiR0tyMVRvNGdxWGtvY2c3cHBxZXRvWnhuS3Bxd09ydnpTVkpZYnMtMHd5Y1pRT1FUNlNQczJhTVRpaUxuZjNLM1Mw?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-10-30T14:55:44+00:00"
-    },
-    {
-      "id": "hl-19c47d45f66b920b",
-      "date": "2026-10-30",
-      "title": "関西電力、原発・水力からの電力購入を募集開始 27年度から販売",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fVGJfdFN6WEoxT1hWLWthd3gya0tiSDZOS3lWZWt4QjFoUmRsLWF5d0RyZXBiZ1VKd1lKMkhsdmQ1dHkwaDk1dzBDNW1kdTRXVnoxcmJNX1dqb3U0YzlYY1lRclJBaVNPbTlSMg?oc=5",
-      "source": "日経",
-      "published_at": "2026-10-30T10:35:00+00:00"
-    },
-    {
-      "id": "hl-f8f26b4edbc33f8c",
-      "date": "2026-10-30",
-      "title": "U.S. plans more nuclear arms talks with Russia",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE53MnVCaWxENnI1QWY0NWxjQk5rWHhvVHl3ZHRnZ2dqSHBWNm44ZXZ5Uy1VWlBUNV9mbWRpa203Y2puQV8wRWNOLTEtUHJacUVFOTM2ZWpfZ1VlN29i?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-10-30T07:00:00+00:00"
-    },
-    {
-      "id": "hl-ce5df01615d049c4",
-      "date": "2026-10-30",
-      "title": "UN warns of N. Korea's miniature nuclear devices",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBVUlVRS0dFTXIzdGtXRGlrdHZEaHJwTFdHdmxybW1ibUZKYmUxMDFjWjhmQy1JdXlWdF9fYkthcThESWlQVXhhYlFKOHYwSm9xNi1UaUZGc3VEZmlH?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-10-30T07:00:00+00:00"
-    },
-    {
-      "id": "hl-e234d13fcb4954eb",
-      "date": "2026-10-30",
-      "title": "中部電への業務改善命令、経産相が手続き開始表明 原発問題など巡り",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TRVpkMjNzRnZQNUVlTDFsMTAtb04yRVMzNHc4YU93YVN2X3RCQTNPMEFBcFlGQ3huVG9vMVdtQUtWMGZjVm11aEdURWp2bVRpM05vaGJBU1ZqQ1ZrWTN1d3drSkxnWmNaVW80TQ?oc=5",
-      "source": "日経",
-      "published_at": "2026-10-30T01:48:50+00:00"
-    },
-    {
-      "id": "hl-0f1bac00f2190d10",
-      "date": "2026-10-30",
-      "title": "中部電力の株価一時8%安 浜岡原発で減損損失、27年3月期一転赤字",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZX0JQcmpVU1ZueTBzN0pqbW02Nmk0MWRmRkQ3ckkwaUdyQ21rbE1majd1TXd1ZFk4X0otV3lYNU1XOTl1QmVXQnp1TDA4NzNQRXJmZktnWHVXTzRiUmdZS2RjXy1OekFVSVdyeA?oc=5",
-      "source": "日経",
-      "published_at": "2026-10-30T01:39:12+00:00"
-    },
-    {
-      "id": "hl-d764389b3223ee4c",
-      "date": "2026-10-29",
-      "title": "IHIの原子力事業7割増収へ 受注8倍の韓国勢と「輸出実績」競う",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZZXhKZzJvSDQwcnROWDYzdEJlWmd2azRvdDFZY0tuMmFHSlI3RGtaaFRHcWVZQ1pFbUdoSHpZNi0xVG00VDY0Um9aTHpWS09CSTBvX0tRY2dqdlRtWk1NRmJMTjJ4cG16dGxHQQ?oc=5",
-      "source": "日経",
-      "published_at": "2026-10-29T19:00:00+00:00"
     }
   ]
 }
