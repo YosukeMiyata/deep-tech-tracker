@@ -1,6 +1,6 @@
 {
   "_schema": "id: 安定ID / date: YYYY-MM-DD / title: 見出し / url: 原文リンク / source: 媒体名 / published_at: ISO8601(任意)",
-  "fetched_at": "2026-11-06T17:11:52.652677+00:00",
+  "fetched_at": "2026-11-09T20:26:47.117986+00:00",
   "theme": "nuclear",
   "sources": [
     "日経",
@@ -12,15 +12,135 @@
     "東洋経済"
   ],
   "fetch_notes": [
-    "日経: 16件",
-    "Bloomberg: 0件",
-    "Reuters: 10件",
-    "CNBC: 0件",
-    "WSJ: 0件",
-    "日刊工業: 3件",
-    "東洋経済: 15件"
+    "日経: 17件",
+    "Bloomberg: 3件",
+    "Reuters: 5件",
+    "CNBC: 1件",
+    "WSJ: 3件",
+    "日刊工業: 2件",
+    "東洋経済: 12件"
   ],
   "items": [
+    {
+      "id": "hl-d86c1b61e111f919",
+      "date": "2026-11-09",
+      "title": "原子力機構の価値 原子力の社会実装に向けて（189）放射線挙動解析と自律型AI",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE40SUtQVDJLVnBRRmVjTTRQLWVXanN6VGt1aFdGVVVLMWpmeGRjaktKeUhZU2dlVE01WkpNX2dOWkJwTlkxQ3h5UTZCSWNuYnVYRzJQNkZrT0U?oc=5",
+      "source": "日刊工業",
+      "published_at": "2026-11-09T20:00:00+00:00"
+    },
+    {
+      "id": "hl-25a963e58b4d2696",
+      "date": "2026-11-09",
+      "title": "原発被災地の女子サッカー、収益源に通信・観光 東北リーグ参入戦へ",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zUkh5V21FV2ZRMDJTcE5JZjRmakxEYnlQOFd0cFdZeW9mNWJfS0JtZm1nOGFBaE0xb3ZZeDFYcC1uSDJmRUQwRTluTHBhTC1JakFMUlhSLVE3c1kxSEZDT1ZtRnUzcDJLUlVrbA?oc=5",
+      "source": "日経",
+      "published_at": "2026-11-09T20:00:00+00:00"
+    },
+    {
+      "id": "hl-ab374c3b1a633146",
+      "date": "2026-11-09",
+      "title": "岡本全勝 私の履歴書（9）原子力災害",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82cFJ6ZzRRelpkLTJPQ2tBM2ZkcjJIbWQwb3pGQ2NSS2VOejl3clBURjgwbjh2b2FGOUdlX1FtRmJLVVI5TUJES1loaU5Ga3c3NkU5aUZIZE9XTl9wR093cVBqNk9pVlJsdkpLaw?oc=5",
+      "source": "日経",
+      "published_at": "2026-11-09T17:00:00+00:00"
+    },
+    {
+      "id": "hl-3a0a8a0acb03a4f6",
+      "date": "2026-11-09",
+      "title": "Iran Hardens Line Against Nuclear Monitoring in Report to IAEA",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRlIxcWdxY05nc1E2VF9GdlhUcTQyWGpVd2d5aGNFdWYxVC1OV0tJWUlEc0VlS0VXeW1XVTl3XzV2dkRaM3BpR1JYVGF5d2VIZE9heEQ3UnJXa3lxZFhIVDFWVjJicUx3dzN3OGpXTGlfTHA3dkt1dVJhNUZrQmRQM0dQVm1nVC1RUG5EeVBKR1NLQ2JaVExKYVZ6MzdURXBhd0hEenc0S3BaVFpaaTI4NTR2UVA?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-11-09T12:08:16+00:00"
+    },
+    {
+      "id": "hl-34098cea02a22736",
+      "date": "2026-11-09",
+      "title": "日本、アジア外交でベトナムに長期布石 原発建設に協力で首脳合意",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sYzltd1V6T3ZZdFJoQ2xmTFN0TWdvUU02TFhkVWpEVklwd0NTbXU2cU9oM3BqejQzT2VueEszczZRRFZVMkdQU2hOdVIyeDBIVzFUY0t6aXo1aWdocTRLU0VQQV9mMGpPR3p0bQ?oc=5",
+      "source": "日経",
+      "published_at": "2026-11-09T10:40:00+00:00"
+    },
+    {
+      "id": "hl-944b6bffdcef39eb",
+      "date": "2026-11-09",
+      "title": "関西電力の高浜原発3号機、12月8日に営業運転再開 定期検査終了で",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KemtWSmZJSWRFWnN1LWFZcF9jQ2FMWm0ydXpUM2w0MHdjdy10WFpuajF5dDR4UmZjR0pxdVctRE1QN0pjYzJYclp3QlB6LVl4VmNnb2owcWl5SHE4dkd6b2V4eW9UVUVyZ3l5ZQ?oc=5",
+      "source": "日経",
+      "published_at": "2026-11-09T07:56:46+00:00"
+    },
+    {
+      "id": "hl-1fc4dabc451a9849",
+      "date": "2026-11-09",
+      "title": "South Korea says $10 billion US nuclear project remittance requires a full feasibility review",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZTVSVTltZmdxS1lpSE9PSWhWRFJqcGJGN2tLOGwzVmlzRmpwdHZybGR0bFJpRTZTRVNzRGlSRm9PVF9yT3hGeGRhdVNHbExRbXFtYTVsbjdSb0l2RldaT1gtNGktRWFkQU0tTEpsbGtPWl9rRUZ6MzFnVDh5T3hoR0hMZHJ1bHozWjZfS0U1em9FUEd3Ylc4M0NLU3FEMGhpcEVZWTZ4RTlrbi1XaU1WU3I3RGYwUEJubldjRGdnSE5pNTNq?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-11-09T03:09:00+00:00"
+    },
+    {
+      "id": "hl-3c76e4a849cff0d4",
+      "date": "2026-11-08",
+      "title": "Power restored to Zaporizhzhia nuclear plant, IAEA says",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORkE4VEFBVF9KWlRaRk9HRmtvVGh4cTlxanVleGY5WXZtVnNVSF9LTEQtd0NvbW9YbnE0TndLS052dU5kaUZtRjJrUzZiMXVhVFdWTlNBT2xGV203cTdOREg1YmZDMGRkM081d1hzbjJJWlR4ZG9tTVpSX19rZkVHdGhhRVVmbHVFRVhfVTJnVWFvRVlSYTdLSGRmTHd2WGxMZm15RTNGQ05DLVRXVm1jMDh1Rms?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-11-08T19:53:39+00:00"
+    },
+    {
+      "id": "hl-db973c0aeca9fdf5",
+      "date": "2026-11-08",
+      "title": "中部電力、浜岡原発は巨額減損でも廃炉せず 再稼働遅れれば収支悪化",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PZEpQVW5vaUUzWFV1aUpQLUx2VUdSWFNGc3VJbXhtVjdsaDlwVURJbkYtRWFrSndIdFpkYUpmaW1ZZEV1c1ZmTUVEOEY1RzJ1ZjBkUjV3N1d1WVRkMmthazg5NF81NFJoQS1zMA?oc=5",
+      "source": "日経",
+      "published_at": "2026-11-08T19:00:00+00:00"
+    },
+    {
+      "id": "hl-31a6e1a5a44ea3c1",
+      "date": "2026-11-07",
+      "title": "画像 | トリウム原子力とは何か―レアアースの外部不経済とウラン･サイクルの構造的限界を同時に解決できる原子力の正体",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBSTHhCWEdaN3hSbFFlTlgySVljVVRwNWExd3BmQWZvVXR4VmczVmF4NlV0Z0hiSjh2S0FKQ3lMN1RCeUNJMFdndmRiNzZWRF8tb3YxMENBYw?oc=5",
+      "source": "東洋経済",
+      "published_at": "2026-11-07T23:00:00+00:00"
+    },
+    {
+      "id": "hl-c28006d01970644b",
+      "date": "2026-11-07",
+      "title": "泊原発事故想定の原子力総合防災訓練、高市首相が「緊急事態」を宣言",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvWldVdXlwRlE5bE5FS2ExN1hsQXJiZnpRdkI3bmE3SDlQRG4xamtiLVY1VGlRS1k0cF9lZXlSWHpQaFZac3g0X01ZaV95YVlJQWtycTYtQXRzWGdqUk1neV9HbVhVb0JLQVZsNg?oc=5",
+      "source": "日経",
+      "published_at": "2026-11-07T08:00:00+00:00"
+    },
+    {
+      "id": "hl-a31523ca7f2cb356",
+      "date": "2026-11-07",
+      "title": "Iran sent nuclear proposal to the US via Qatar, senior Iranian official tells Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSlJZVlphdWhPcDNGc1E5eDVNdDdMQkJNTXVDS0RYSVRqaC1tblFqQy1FekRQdldnV0FsMU5RdnVHNEI3UEZWMC1MY1l5cnRtcjBlcDlpUXdvX0hXbV91S1UxajV1TEx1VmJ2SzNLNElXSjc3YkdmYWw4VGNXZEl5NXR4RFNjRXBxeEZMLWpBT1Z5X2JRc3NEdkdMZDljQ0dkZXZRbzc3U1NmNkhnaFN5QzNhVmRzSmhsM0Q5VzU3Mm11OWZBa3M1V1lvaw?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-11-07T03:15:35+00:00"
+    },
+    {
+      "id": "hl-9a0a45f2e8cdb54f",
+      "date": "2026-11-07",
+      "title": "NuScale Power Corp. (SMR) Stock Price Today - The Wall Street Journal",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYUzNXQktmRzVMM1RNRy1PcXNmVHQ0MHlNS1pZZ3RBa1NIN2hmQnNQaG5XOUR4TWxmZ01haWhpUGxvazh5cTJXcUJRdmdHQlNDeG5j?oc=5",
+      "source": "WSJ",
+      "published_at": "2026-11-07T00:59:00+00:00"
+    },
+    {
+      "id": "hl-874c926d97427d07",
+      "date": "2026-11-07",
+      "title": "ONE Nuclear Energy Inc. (ONEN) Stock Price Today - The Wall Street Journal",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5wTGRiSmZ1dnV5R3NsRlVsQWg2NnBoLXFLZi1rRTBNYWF5LWhRNERtc2w4cEhNYm5KTm5VSF90b2prcnNnZTBkY0xKLUtwcjdoSjR5Wg?oc=5",
+      "source": "WSJ",
+      "published_at": "2026-11-07T00:49:00+00:00"
+    },
+    {
+      "id": "hl-eab255801129d599",
+      "date": "2026-11-06",
+      "title": "原子力機構と高エネ研、宇宙開発用試験装置・施設整備に着手",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1SQnVqUlJzYVdRamVXbGtMOGdKRFNJakhQTEN4clZaUXg1ZjhoaTZNQWV2Qy1MQzhSRWZSdEt0YTRnV2c3VW9wNlpzQnlHUElmWHBZaUdJdEI?oc=5",
+      "source": "日刊工業",
+      "published_at": "2026-11-06T20:00:00+00:00"
+    },
     {
       "id": "hl-6b8bead67d1f76ed",
       "date": "2026-11-06",
@@ -30,28 +150,12 @@
       "published_at": "2026-11-06T09:21:34+00:00"
     },
     {
-      "id": "hl-eab255801129d599",
-      "date": "2026-11-06",
-      "title": "原子力機構と高エネ研、宇宙開発用試験装置・施設整備に着手",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1SQnVqUlJzYVdRamVXbGtMOGdKRFNJakhQTEN4clZaUXg1ZjhoaTZNQWV2Qy1MQzhSRWZSdEt0YTRnV2c3VW9wNlpzQnlHUElmWHBZaUdJdEI?oc=5",
-      "source": "日刊工業",
-      "published_at": "2026-11-06T08:00:00+00:00"
-    },
-    {
       "id": "hl-8b6ecb0e70036e7b",
       "date": "2026-11-06",
       "title": "北海道電力の泊原発で事故想定し訓練 8500人参加、8日まで",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1czRqVllrS21yUjVuWXcydGZMcjJEekItN2k5Z2ZvUktYcG9pNmhlWG5oTmhLLVJpR2pKS2tGeWYtWllxcVhmNFphU0VVTGhsemVNTExQNXFZV0NvSjh6Z3VuMEg2NXdjekl5UA?oc=5",
       "source": "日経",
       "published_at": "2026-11-06T05:15:38+00:00"
-    },
-    {
-      "id": "hl-f4663b39b37cc2f3",
-      "date": "2026-11-06",
-      "title": "Trump: Iran 'not doing anything' on nuclear program without US approval",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE96N0MtWGVQM1R4NnA5ZWhDOC1SMmxZZ3hyZzZCZWppMi02azZNMmJNVEdWcHREYnB1NG5zQWplLWM1SlpPNkdRSkFqTk1ZUnhKWURfSGJuV2pQaDJJOXp1OF9xSVlBOTA?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-11-06T05:07:05+00:00"
     },
     {
       "id": "hl-40c60c912969421f",
@@ -70,12 +174,12 @@
       "published_at": "2026-11-05T23:51:29+00:00"
     },
     {
-      "id": "hl-a31523ca7f2cb356",
+      "id": "hl-664da367f2575bb7",
       "date": "2026-11-05",
-      "title": "Iran sent nuclear proposal to the US via Qatar, senior Iranian official tells Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSlJZVlphdWhPcDNGc1E5eDVNdDdMQkJNTXVDS0RYSVRqaC1tblFqQy1FekRQdldnV0FsMU5RdnVHNEI3UEZWMC1MY1l5cnRtcjBlcDlpUXdvX0hXbV91S1UxajV1TEx1VmJ2SzNLNElXSjc3YkdmYWw4VGNXZEl5NXR4RFNjRXBxeEZMLWpBT1Z5X2JRc3NEdkdMZDljQ0dkZXZRbzc3U1NmNkhnaFN5QzNhVmRzSmhsM0Q5VzU3Mm11OWZBa3M1V1lvaw?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-11-05T19:48:00+00:00"
+      "title": "篠山紀信氏が撮った建設現場と震災・原発事故 - 日経クロステック",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWmE3Z2RvVS02Rno2SGxkNkVDNVFnTDczMkk0OGRTTlB1dEd5czNVWHoySlNJQi02VjJ5djA3MFAwS1NqZlk1VVBnanhHczg4VDB3bl9yZE1xNWRXR0dQZE9uWDUtUUxmS2FoaW03TFlKWXpPSHBleE5YTVlESWIyak85cUpnSGJYVDYyejB0ZXZwdXN3WFBOa2VxWkVpVlIwLWVYeWtRbFlvalZ0ZElTVVV2NVRSd0VzVm5xUE90S0ZpeDdBM3FmcFEtd1dMc0RwTlk4bk1VbTBBQQ?oc=5",
+      "source": "日経",
+      "published_at": "2026-11-05T19:15:30+00:00"
     },
     {
       "id": "hl-0167182ea2d74bb1",
@@ -86,17 +190,17 @@
       "published_at": "2026-11-05T09:00:00+00:00"
     },
     {
-      "id": "hl-2e3bb308fcdb6d7f",
-      "date": "2026-11-04",
-      "title": "Engie and Belgium government to take more time to conclude deal over Engie's nuclear assets",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWjVZNDRQTGs5UTFhTE1rbzR6b3pRd1A4WE9SZlR3amFDNzhSZkpLQklDcWtrdlpUUjhQLVU4YXBZbENkcjdXeDZvT25tVnRiT0R5M2F6djJBcWpuZlhUU21NVWNzSG9Od2RvX0o0cUNKNVA0VFBVTXVOR2JpbVBSYXZmb0dkS3ViQzl1dXlVRUNoWTRWMldMUVNpSXdHcUxnQzkzMXhmZWY0dURYYU1zNThkUUhTX3NEYWlDbXpnVGZPY3FJUFNLbm56dm8?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-11-04T21:25:43+00:00"
+      "id": "hl-f548d53a572588a9",
+      "date": "2026-11-05",
+      "title": "ハマカルアートプロジェクト 福島の原発被災地で続く滞在制作の挑戦",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qVjRRR3dST3IyZEMxU0xWdUY2WXdKemNoLUNqcDVBQ0Q5cUxOQlZrUlBWUjlhRkJ6dVUtV3ZCeVl3YVF0eGt1N3NCSHpUM0ptVUs4dXdkd2NBazdXWlBieHZYaGs4Vk5Fc3NRTg?oc=5",
+      "source": "日経",
+      "published_at": "2026-11-05T07:00:00+00:00"
     },
     {
-      "id": "hl-b2b70d0e75705a27",
+      "id": "hl-92de766a004d0999",
       "date": "2026-11-04",
-      "title": "「原発動向に命運左右されたくない バルブ以外の領域拡大」 エネルギー探訪9000キロ⑧ - 日経ヴェリタス",
+      "title": "「原発動向に命運左右されたくない バルブ以外の領域拡大」 エネルギー探訪9000キロ⑧",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1VZXpjR1lLZUZHM1ZkWXFKX1kxZm50b0Vrbk9YdDlScWFIYXdqWHdsYXQwUWJaMVU5LWpYN3dpZ2pPU2JpcU4xM2JpdTZpRW1MR0hKWkJlWFhWMElwd2M3MzFHN1RhVlBaMlhkNURQcTgxczJzeUhDRi12dEZIZw?oc=5",
       "source": "日経",
       "published_at": "2026-11-04T20:00:00+00:00"
@@ -118,14 +222,6 @@
       "published_at": "2026-11-04T04:54:56+00:00"
     },
     {
-      "id": "hl-ea3e30cbc9378769",
-      "date": "2026-11-03",
-      "title": "三菱重工、仏原発に蒸気発生器納入 取り替え用3基",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0wRmxXYWVQOTdTUGJzM1ZyR3h3OVhhWld5SDdfLWw1U3RoVWFjZ2NLTGhpcV9Ed1JCby1ma3hpelhsQzhLVENqV095NFMyZmJJRTg4NEtRdWM?oc=5",
-      "source": "日刊工業",
-      "published_at": "2026-11-03T20:00:00+00:00"
-    },
-    {
       "id": "hl-e7edb23fd3a4027d",
       "date": "2026-11-03",
       "title": "Ukrainian drone kills two, including station employee, Russian-held nuclear plant says",
@@ -140,166 +236,6 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOTVzdi13ZWhBc1ZvQmhaNVk5TUpHRGFGcllVMzE4aTUyS2plRmw0dmFreW02SkRySDR6OWduMnJELW1xN3NQQVRtb0FiSGdKOG41U082YnhheWVyQURaZURHV1BwUzJqUVdKMUkzTVZDMmFldFFnTUJNRkM0dGNPdW1YZF9ScGgxMUVzVktHSmwwcDB0cTRQTFVURGVDNTV3M0tPS3lDdG5vaFZVU3BsbnFtcVY?oc=5",
       "source": "Reuters",
       "published_at": "2026-11-03T10:57:44+00:00"
-    },
-    {
-      "id": "hl-2bd2355a606fb2e7",
-      "date": "2026-11-02",
-      "title": "おことわり／「原子力機構の価値 原子力の社会実装に向けて」は休みました",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE84RF9rVFlMZnpXTWg3VkVKTXZGSy1QQm90SU9KRHdhaVhaS3I0RC0xeGNDSzlROGpiZHFDNDlnWGFhZVBiRGpwQkpEZk5kamt4cVpkR0V1TEI?oc=5",
-      "source": "日刊工業",
-      "published_at": "2026-11-02T20:00:00+00:00"
-    },
-    {
-      "id": "hl-26f7a0180eccd0f7",
-      "date": "2026-11-02",
-      "title": "中部電力社長、静岡知事に再発防止策説明 浜岡原発の不適切事案",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1DS1M4NVJOM0RIYmpfd3ZzbmMyVEpJLUJtS3ZHcm80SDhjUldJZ0k0NWpQX09uLUZWcDNSallmckZQRGRXZDlqdS1FMnVOT2Fhb1hYSm55OFZQekZReTI4RGRUdEhGWnppLTFPUw?oc=5",
-      "source": "日経",
-      "published_at": "2026-11-02T10:07:53+00:00"
-    },
-    {
-      "id": "hl-bf67c495543512d1",
-      "date": "2026-11-02",
-      "title": "IHI、ポーランドで原子炉格納容器を受注 米原発大手から",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8zZ1BZbVNDSkR0Wmhkcmp1Qk95VVNMVHJqQmNUOHFwNG96Z2FLSVhTbFFDUW83R1l3NzEwbEMxU3BXOTNNRDVrb25aMFg0c0R2eUl4OHJSRGR1dzkxMjZHMkFUaDlPcWJOMW41dw?oc=5",
-      "source": "日経",
-      "published_at": "2026-11-02T08:19:37+00:00"
-    },
-    {
-      "id": "hl-b014d16348d90039",
-      "date": "2026-11-02",
-      "title": "Iran renews nuclear pact ultimatum amid tensions with U.S.",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1GZUQtUnVHRjFhNzRfUDEzM3l5QXNhN0JHVHlpZ2VkMFg1UTZtVzhSRlVLMVN4Wi01bkxyNFlZUDdUWmpoLVF0aU5TNUtGTnl3ZVJ6NzRKckhyNUZh?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-11-02T08:00:00+00:00"
-    },
-    {
-      "id": "hl-0630661fbc555851",
-      "date": "2026-11-02",
-      "title": "AIで蘇る原発、塗り替わる日本の電力地図",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBmYzBxRzNlVmIwXy1SaHV6TzloTmZJUFV4cE1KMFdFN0JQZUFILVg5RE5hZ002UDFreUF0OFh6a3g1Sk5iQnpwcXpxNDRDbFlpZS1JRG94dW5QaDN0YzJzNmxNMGtkMHVvczFQdA?oc=5",
-      "source": "日経",
-      "published_at": "2026-11-02T06:30:00+00:00"
-    },
-    {
-      "id": "hl-397657225b2e85ec",
-      "date": "2026-11-02",
-      "title": "中国海軍｢2035年に空母9隻･原子力潜水艦40隻｣配備予測の衝撃､太平洋進出の拡大で日本も原潜保有を迫られるのか",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5adzllM0poZGxHcDVuTWpoQzA5aTBlUkFHLXRIeV9xeXBoVDZPbFFPdHlnb0tVYUpDM29oYVBWQjlBbkxxNWtlMVNBbmhfWkdXOHlFUEk5UGMtajc1MVhN?oc=5",
-      "source": "東洋経済",
-      "published_at": "2026-11-02T02:30:00+00:00"
-    },
-    {
-      "id": "hl-cedd8f2af0bcc562",
-      "date": "2026-11-02",
-      "title": "Erdogan says South Korea could partner in Turkey's Sinop nuclear project, Yonhap reports",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRWlldndLdklSWDlnQjF3TFRqT0toSUlZUE1yQmNTem9aTDd0OE9WWlk1cy00aWpGYTFaWXdkLURmTkRMbUZOTWFxRFdZeUJfWTZMdlJUdHQ4MVcxb194VThjaFprTmk3NWNFWlFtX3VZS0NCV1FaM0RLaUNqcHl5SHRHUHZmQXFyWU5OV3hnUW0tNVlVSTRNUjAwTUYxMmZjM1dNc0RPc1VSaF9rd21BZy1zOEhHZ21NQkpxbC1WMHlGQVRocEE3NU9n?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-11-02T00:42:00+00:00"
-    },
-    {
-      "id": "hl-a64a980509a12ee6",
-      "date": "2026-11-01",
-      "title": "日本の原子力潜水艦保有、米国に肯定論 アジア広域の対中国抑止に役割",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5hWi1hdnoydjdiRFJ5UzBLTno1aXFVUWxYc1J0UXIzMHczYk13cDdsX2owR2ctZUg5T2hOalM3c0EtSkdJNTZ5cFVhV2gyVGtoQTR2LTVQTVk1UlpsNDhCZWtPVU0tZ3BiQnkzOA?oc=5",
-      "source": "日経",
-      "published_at": "2026-11-01T20:00:00+00:00"
-    },
-    {
-      "id": "hl-172d5f76ba00c35c",
-      "date": "2026-11-01",
-      "title": "韓国勢のチェコ原発受注に亀裂…工事費とリスク負担で施工交渉決裂 - 日経クロステック",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1JdE9QVG05S3hNVXVIdjh6bkZ3TFVHeHoycjJyWHNNWmw0Y2lSNU93aWFCSXN4emZVVkExdm9NcWJKbWY3am5NdFJxWlhnd0NoRmxYRU9icDVLYUFjNzM2QXVHcHFIa3hnX18xRw?oc=5",
-      "source": "日経",
-      "published_at": "2026-11-01T20:00:00+00:00"
-    },
-    {
-      "id": "hl-dfefd6128fe51c4b",
-      "date": "2026-11-01",
-      "title": "世界の原発建設79基、40年ぶり高水準 エネ価格高騰やAI需要で",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HUVkxN0FTU0JET1FxUlZtMjNlRDlwNzQ1dDVCak1wcGxCczN0dHBpYm1OMGNpaTR2Qzk5eEtLWUswWkZTOERGR2gwQ1RpMzI5eWlGYU9ueTJZMTRVcWlRd0RYRzJ0VmdJWnF5Yg?oc=5",
-      "source": "日経",
-      "published_at": "2026-11-01T09:50:08+00:00"
-    },
-    {
-      "id": "hl-d5a30aded63d4b71",
-      "date": "2026-11-01",
-      "title": "U.S. announces withdrawal from nuclear pact with Russia",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBoV0ZWcG1UcmdGRE9xTkVPVElKdThJQmRQbm1KeW84QlRCaWozQVZ2UXdhOG9UYWpwWTZhdGxaZ1B3WHpRd24xaVJiR2pHOHBwLWhqRmY3VFJmVVdm?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-11-01T07:00:00+00:00"
-    },
-    {
-      "id": "hl-1d98bccbc305efa5",
-      "date": "2026-11-01",
-      "title": "China's growing nuclear arsenal 'concerning' - U.S.",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1MS3JKNElZZ2k3NDExR3liS0s0OVdwWklIdl9ud2RHQ3E0bjg0aVdzQjJuX2tpczBtdVRFbUR2R2FnaFNtYThVVHRUSndaTmNGWVNWc25fRzBhT0Jl?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-11-01T07:00:00+00:00"
-    },
-    {
-      "id": "hl-a1324a11be0738ba",
-      "date": "2026-11-01",
-      "title": "トリウム原子力とは何か―レアアースの外部不経済とウラン･サイクルの構造的限界を同時に解決できる原子力の正体",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBRWTVxbFJyQ2dtZnZzZk5ubkt0cElYR0dKSWJyU0RsUURVYjZKTXZTXzBRQWpjOFk4ek5kWFI5UHZrNmttamRJR1VxRXdmSm1ZN0xwRU9iVWhDYlU?oc=5",
-      "source": "東洋経済",
-      "published_at": "2026-11-01T06:00:00+00:00"
-    },
-    {
-      "id": "hl-94c21194481602d3",
-      "date": "2026-11-01",
-      "title": "トリウム原子力とは何か―レアアースの外部不経済とウラン･サイクルの構造的限界を同時に解決できる原子力の正体",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RQlVNVF92a2JkTjVfeXFYZlgtSkVzU3lXc2dqOUNDRkZzVFg0dk1TQzZ5RGVWTGtTSmtLX2E4ZF9Sb0JCLXRRZ01FcWZBTF9zWnNxb19YSUZuUzg?oc=5",
-      "source": "東洋経済",
-      "published_at": "2026-11-01T06:00:00+00:00"
-    },
-    {
-      "id": "hl-314bc9782287e540",
-      "date": "2026-11-01",
-      "title": "トリウム原子力とは何か―レアアースの外部不経済とウラン･サイクルの構造的限界を同時に解決できる原子力の正体",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40TExYX2ZLTXcyVW5MSVRtcVdkN01fdEEzejc0eXZzWjY0dHRzUk5aenF4UjFzZXRpYWRWc2F5ZUJuTjhjWFQ0NEVqY2dqTUtrRDJaSUZJdk55cjA?oc=5",
-      "source": "東洋経済",
-      "published_at": "2026-11-01T06:00:00+00:00"
-    },
-    {
-      "id": "hl-14b4f1faf26b2352",
-      "date": "2026-11-01",
-      "title": "トリウム原子力とは何か―レアアースの外部不経済とウラン･サイクルの構造的限界を同時に解決できる原子力の正体",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1UeEtXVzAyUUltNm9sV3VRc3pyZ0NOZ1BNV2Z4Q0xpM2hobVA3OVhTaHRmUVFHdHJRcEs0T0o5RGtVd2JPVV9abFJ1Si1ZMGdCRG1GOEpiTy1najJKN2RV?oc=5",
-      "source": "東洋経済",
-      "published_at": "2026-11-01T06:00:00+00:00"
-    },
-    {
-      "id": "hl-ace114761378bc18",
-      "date": "2026-11-01",
-      "title": "予算は気にせず事後報告でいい！震災の夜､日立の原発部門で学んだ大臣が官僚に託した全権…命優先の究極の組織論",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1seWp1eGh3Rk5XMWRHbTkxdmJRZ0Ezb0QyNVFOdkpTakZab2Z4U08wVUNONlMybFg1OHpJTUVSZkxtTFVaT3dURHRhOXJfRnNTcEVIbTBTNnYzd28?oc=5",
-      "source": "東洋経済",
-      "published_at": "2026-11-01T02:30:00+00:00"
-    },
-    {
-      "id": "hl-f3bb71fbaa5b4258",
-      "date": "2026-10-31",
-      "title": "次世代原発、米国事業が「頼みの綱」 日米合意の巨額投資に賭ける",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE13dWM2dkluTUtfczZqRUk2bTBYWlAzSHhscU5Ka2FSRU5LN01OMmdjRTB4LTNUZDktY3N6TkhkVjJGenlBT3R3TnpXckgxcDBTcFFHU1pLWHNlN21abmROWnFWOGNQVGZFOVZTMg?oc=5",
-      "source": "日経",
-      "published_at": "2026-10-31T20:00:00+00:00"
-    },
-    {
-      "id": "hl-908c37423b6db7ee",
-      "date": "2026-10-31",
-      "title": "Ghana says Russia to back 2,000 MW nuclear plant, deepen ties",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVEU1TzJ6c1lISFlURGdCYlJscFltNmo3ay1SblgxNEtKU1lwcEhEcHZpMjg3TWE0VkVrdEtwSFF0dzhxRExVdUQtZTlkU2pENWpTRkdER3FHWEk1RzNRdFA2QlFVcmdzWWNSZ044MjNBejRPeFFNX3dwRUItTXRndW1UaXJxdHJkcThxUUtsVFo2d19MdFZVbVJFM245bW9iSEZwZENCQWk?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-10-31T19:45:43+00:00"
-    },
-    {
-      "id": "hl-15e6f4db5f572479",
-      "date": "2026-10-30",
-      "title": "AIで蘇る原発、塗り替わる日本の電力地図 エネルギー探訪9000キロ① - 日経ヴェリタス",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9PVmYwNjNRSzN0Q0cwRzB5c29QcmpkTWJBdlVMaGxYYlJpTE13TmZQRlFmeXpEdXo5OTJpQ2RQZGpBdVNHNmVwNHpuZnN2QUF6SjZWRkhnRU5VU1ZmY296Z2pYTDRtMS1UTHlHblM1NHpMVllTLWJiZEt3Yk8xZw?oc=5",
-      "source": "日経",
-      "published_at": "2026-10-30T20:00:00+00:00"
     }
   ]
 }
