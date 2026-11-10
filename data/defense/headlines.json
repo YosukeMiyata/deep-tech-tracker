@@ -1,6 +1,6 @@
 {
   "_schema": "id: 安定ID / date: YYYY-MM-DD / title: 見出し / url: 原文リンク / source: 媒体名 / published_at: ISO8601(任意)",
-  "fetched_at": "2026-11-09T20:26:36.744234+00:00",
+  "fetched_at": "2026-11-10T17:31:55.304886+00:00",
   "theme": "defense",
   "sources": [
     "日経",
@@ -13,16 +13,104 @@
     "SpaceNews"
   ],
   "fetch_notes": [
-    "日経: 27件",
+    "日経: 23件",
     "Bloomberg: 9件",
-    "Reuters: 12件",
+    "Reuters: 7件",
     "CNBC: 7件",
     "WSJ: 9件",
-    "日刊工業: 2件",
-    "東洋経済: 8件",
-    "SpaceNews: 13件"
+    "日刊工業: 3件",
+    "東洋経済: 5件",
+    "SpaceNews: 12件"
   ],
   "items": [
+    {
+      "id": "hl-901c0c62c9dad412",
+      "date": "2026-11-10",
+      "title": "Kratos and Seagate Space Partner to Advance Mobile Offshore Launch Capabilities for National Security Missions",
+      "url": "https://spacenews.com/kratos-and-seagate-space-partner-to-advance-mobile-offshore-launch-capabilities-for-national-security-missions/",
+      "source": "SpaceNews",
+      "published_at": "2026-11-10T14:00:00+00:00"
+    },
+    {
+      "id": "hl-4d2f8fd2cf9e3564",
+      "date": "2026-11-10",
+      "title": "Amazon's Ring unveils flying drone and robot to patrol homes and businesses",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ0FNMW1oYXZhOVNlV2t2YWdWN3psSEk2SGw5dzg5dU0xa2JBRHNVVHN1dEhjeV9ubG8wQ3U3VFJTMUpCZ1lvNngyZktvMG9WaDRJMkx2ZnJ6eGJiZ0Q3R2NNeGJ2Zm1ZTXBzaHFqejVJek1QN1VjRkp0UmtIbi1td2U0WVVjb09PdzZaUGdIem8zcmNYNmNZYnJrbEVOd1NhaFdBeVpB?oc=5",
+      "source": "CNBC",
+      "published_at": "2026-11-10T13:30:01+00:00"
+    },
+    {
+      "id": "hl-a44be7800218ffbf",
+      "date": "2026-11-10",
+      "title": "Gulf Arab States Signal Military Integration in Wake of Iran War",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQb3R6NUVZU0MzTHNQdnVsZkZLVGlRaEdSMFJwMHNYdVM5WG9ncHlGQkdKdDloX1pjV3dCQm9KQXpEaThfdGJQYVhMTkJacElhc3RKeXBlWkl1WTlfWmRMaHNpZDAzdFlWZUxCYU9DYkxNX2Y3bmV1dWtmeThvdUZVMmF3YVBIY2twNkoycWU3ZkFsREFNUlg0VXlpSmtaUnhfZE55QXZkYm9UbVc5UDBVaUs4NFY?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-11-10T10:14:15+00:00"
+    },
+    {
+      "id": "hl-c5421bfb81bd9d5e",
+      "date": "2026-11-10",
+      "title": "ESCAPADE on its way to Mars after Earth flybys",
+      "url": "https://spacenews.com/escapade-on-its-way-to-mars-after-earth-flybys/",
+      "source": "SpaceNews",
+      "published_at": "2026-11-10T08:01:39+00:00"
+    },
+    {
+      "id": "hl-c1e3b1171718f766",
+      "date": "2026-11-10",
+      "title": "German Defense Group Hensoldt Targets More Than $10 Billion in Sales by 2035",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRXB0ai1YMU81cUxSdWJIR2FMQUxWT1RnSlZzTjR0NVMzR2tlZVlTSnpST3NoSS1TaUxDSmQ0Rm9qZ0pFc1VGTHVPQndRZkN1Ymh6WmFRYzlxS0RIcjByb3dmeUhYck5pekdKemU1VlNlY3lBOU1yWWllWl9tRkVLMlBzOWM3TldBWldKQWRYTlNkek9BZl9xMndyR21CT1JNaFVQZi1zbXRFNk5aZklHVlFEZU5nSUZ0V0xCOEY5QQ?oc=5",
+      "source": "WSJ",
+      "published_at": "2026-11-10T07:43:00+00:00"
+    },
+    {
+      "id": "hl-6c755d9e3a46bfdb",
+      "date": "2026-11-10",
+      "title": "WuXi AppTec Removed From Pentagon’s List of Chinese Military Companies",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQREhnSnRsejRKel9uaERURk5qdTdiWUUxYlZzeGctNmwtTldnY2FKVzNzQ0s5SFlJNDYteDBEdVh6NTNEeG9qTjN3eV95MkFQRG82LXltNWR3SkRxV2k2U3BDY0lqN1g3NFBuUE5uZ09VWHRnQmUtY2xaanI3U0hDQlZCNEdVNVhOc1dYaWRTeHRoc0FhQ0dKejE2a2o4Z2hfU0Y3eTloQzB3Q0U?oc=5",
+      "source": "WSJ",
+      "published_at": "2026-11-10T05:18:00+00:00"
+    },
+    {
+      "id": "hl-e5d1ecbf63f1e2a2",
+      "date": "2026-11-10",
+      "title": "サイバー防衛、緊急対策チェックリスト 経営者に問われる「止める覚悟」 - 日経ビジネス電子版",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOU0hZbHBlMk5UaVEtaTVROTJzVl9xUU9aVW9ISzE5cGFBcDdyaGFKT2dHdDRBeElPVkNrcVlaZk1BSXI5Yk5iRC01ZWExa2liOU9WMGFPeFc2dVNDc2ZBSzFJNjNmVHA4NHprLXY0dXltWEdVYnlzOTQwbzZrU1ZnMmRtY2Q2cGdNc1E?oc=5",
+      "source": "日経",
+      "published_at": "2026-11-10T04:46:34+00:00"
+    },
+    {
+      "id": "hl-515fa9bea7f3dbb0",
+      "date": "2026-11-09",
+      "title": "Stellantis Clinches Deal to Sell Canadian Factory to Defense Firm",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbnpFLUpTSlVrNnNCSzNXeGdqTTVybTZlT2hTWFdyWk8xdDlDQUVOMDZ0TlR0emo4ZDdYcEJMaUlXcU90elFwYVp3R09VRVhpQTJxVXI5aXNkTy1vX2tTd2NIVjRZLVNyeGVzclJrVW5jSTZTSGQ2cmV1NkxFb3hGMm1uVVI0YkdwOUx0cmNfX2xUVVlGbVdhVXRCamxZMVJyZV9TRC1OSVZYeFZvT1E?oc=5",
+      "source": "WSJ",
+      "published_at": "2026-11-09T23:11:00+00:00"
+    },
+    {
+      "id": "hl-452ebf19b6363b9e",
+      "date": "2026-11-09",
+      "title": "Trump Offers Robust Defense of Hegseth Amid Impeachment Push",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQU0h5bzljYWxwZzhETzB3S3NreF8zbWRwd01GbjJST3ZoelFFRVJtdnpTRVRRNWhNRnZjeURvUnhzaEJWUzNuX2RFVER1U3E2c2VzaGpaSjF1Q2xVOFBDZllmT0VrV3VoeC00RXB6dHNGX3FwX0gwY3ZBTVRzVlQxVk1IZDd0Q1dmSEZXN0xQSDUxQkg0ZFlhbDVqaDVQQms4bjZJOG1XVURrYkVR?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-11-09T22:41:07+00:00"
+    },
+    {
+      "id": "hl-2a966f6209d90fb3",
+      "date": "2026-11-09",
+      "title": "How Impeaching Defense Secretary Pete Hegseth Would Work",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbzJ6V0JXWTB3TFhrVlBXQzJtYjdOZmYtYWh6VTRFTDBINmJuWnNIN3V6bE55eTZEdWlTS2E3ck5JaFZEdG90VUFOWFNSamtjbzRJd1dxYkk3Q3AwZ1lYQnFQODRGWWg4ODI3b2xPQWw1Z3l1c0NGekhPdUlDekpsSlphQUpkVTBtd3NfUFc0NW9mYWNaS3dsMmJNbzZDbDNrWWFyYkNia3dWWFFUQTF2LTdha1I?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-11-09T20:02:02+00:00"
+    },
+    {
+      "id": "hl-91f187e77a02f0eb",
+      "date": "2026-11-09",
+      "title": "富士通、防衛新興の事業化支援 生態系形成目指す",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE14NzVBeGlsSWVHNkp6MGdUMEx6MHlMUlY3MUUtdlI3U3BZd0o1M0N4bmFkbTZOZEp4clZPanpRNF9RMTdrUkhMcF9BbjN6d2I2VkhIaUIxSzU?oc=5",
+      "source": "日刊工業",
+      "published_at": "2026-11-09T20:00:00+00:00"
+    },
     {
       "id": "hl-2254d6d3b11a191d",
       "date": "2026-11-09",
@@ -40,12 +128,12 @@
       "published_at": "2026-11-09T20:00:00+00:00"
     },
     {
-      "id": "hl-af6df43112243ac2",
+      "id": "hl-22c53ddda01d4e9c",
       "date": "2026-11-09",
-      "title": "仏政府、冷蔵庫サイバー攻撃は「イランの犯行」 革命防衛隊を非難",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkZmNMOG5zRlc2UGJycmp6N2RObnpzaml5T0lXcHM5VzVMNmtJU0RRTjFsNDBOVk1yeUNrLTNieVlZbGJEa2c0NUJ0czIxV1BLaGp5TDNMVnhsbklfaEJkWUhSZXl5Z3lnRXBkSA?oc=5",
-      "source": "日経",
-      "published_at": "2026-11-09T19:22:00+00:00"
+      "title": "Watch Hegseth Has Been 'Disaster' as Secretary of Defense, Says Rep. Stanton",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObVBJdHNRa21QdHFQa3RDU3piWndtZ2VJZnQ1MWM3WlFSdVZ1TFR2YXdzTlFGRjhDWDJmOW1QdFpsR3RrYjdxVzFGOVVhdjljQlRVTkVucHlhNDc0QUEyNTRnaVpiNGpZbXBPMmgwcEtoNEpIeE1mRTFNN3pHdW9GM21qaU1TLUhmZ1JtLXFsaWhnaU91VlRGaVVES3p1N3IzNjR3WmRyODRMYXJoZGc?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-11-09T19:32:29+00:00"
     },
     {
       "id": "hl-f1177b19974a7faa",
@@ -136,6 +224,14 @@
       "published_at": "2026-11-09T02:50:55+00:00"
     },
     {
+      "id": "hl-d4d1d1d3ec14c5f6",
+      "date": "2026-11-08",
+      "title": "無人防衛 - 日経クロステック",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQVkRyRmRsMDhzRnlzaXlwMGc0TnFWRW9IMzRlRWFFVERGOWI2MkFfUkc1ckFkOWlUVUxkMXpxT3I0WERZdnV3UFJkX3ktZXpfMV9VZ1N2WDMxZHFJMUZ1bWhnQXJWcXp1dXpCZmlpS0xkYzFFRTJYZndocW1fT2J4REtwNzhRemlvYjZSeXFZeE84TXdWZ0phRnQyRUpxWDROTjFlUE9VVGlpSGpmSzQ0dzhGN1FndzlGTlJ0WlpNbVpkYTFhWFhyTW5JT3dJa0k5djNXR215a0NKc3JIdlRDa1RvQnNDSHNDYTJnMW10NmtXTnF4bk0wTkl4UmdHSWNETElBOS02Q0NNbkdJRDFHeFU4d2s1UQ?oc=5",
+      "source": "日経",
+      "published_at": "2026-11-08T21:06:05+00:00"
+    },
+    {
       "id": "hl-27244f8c1a002a6c",
       "date": "2026-11-08",
       "title": "緊急総点検 例外なき標的の時代、AIサイバー攻撃防衛策12項目 - 日経クロステック",
@@ -158,6 +254,14 @@
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORXJobW1xZDQ2cU5VYVhMc3FTMjd4aS0xSW5KM1hVMzF4YVpGbTRmUXRnMG5nSWwzSFhWQjgzTXJKWEtBa1N4M3p3cUlqZXJUYXdISi1XRjIwclRqTnREaGZKVGlzc3ppam5aQkxSWEFzcENmS1NHQjFaLTFHRk9sMVVXVFVLUGE3NHRKRElPckY3VERpZldxOGdhNFh6bl9CQnhEd2xnUlpKdzR5LWlndlpOREk0VDc4bk8wckYxSVpISUFrNllr?oc=5",
       "source": "Reuters",
       "published_at": "2026-11-08T03:11:00+00:00"
+    },
+    {
+      "id": "hl-7debc22ef3254ae4",
+      "date": "2026-11-08",
+      "title": "令和時代のネットワーク防衛術 - 日経クロステック",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPVXgzZDRjYkpRSWY0UVh2aEhNUzgwUENhSVR1MTh3S3RpbHp4azhNU2lROHU4NU5fQmtUSl9nME1kQmlJQ0ltMUxKMWt6cTYybzhPazVUdWN2N1JuekJPLWZLT0VJYnFORlFVZkw3NkhuUUhtaXlBUFk3dF9peEt4YU1RaklSLXJGQ0hRVkZBRUpFQ3VQY0hfTjhEOEZRYmx2NzFuSVBsVURaVlBiT3ZmOEExQTNXTFdrMnJEdVd3SUtsSGlhZDBBU2hnOXFUeVVrdUExV3pLUm5JNTZzcFFCa2FNZGh0NU0?oc=5",
+      "source": "日経",
+      "published_at": "2026-11-08T02:02:09+00:00"
     },
     {
       "id": "hl-3ed98ce937e4f14c",
@@ -184,14 +288,6 @@
       "published_at": "2026-11-07T14:43:24+00:00"
     },
     {
-      "id": "hl-b81ded3efdb94bfd",
-      "date": "2026-11-07",
-      "title": "EXCLUSIVE: Expanding on naval blockade, US military looks to restrict Iranian land commerce",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTGRyZ1FFOWdNalpDbFdEeHZqc1JMNVVkekpWT3NULUU4N0hXTkN3MTQ5dlNSWjdhaUVCWlVUQVdhbkZrOEdDZ2FlNS1qOENqVnhOWGNYcmgtSU8xN3pHUjIzdDZ5akJZNzhnR3g4U0w5NjR1NUNka204MWRxak1WN056VUQ1MEhpNnpnaWVGSF90RlBMaTBWY1R5NFJDa3Q0SE1rMDhUUHRJZ01EMDJHdkhqMTY5aFU5TGd6WTNsekRoQkcyUkE?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-11-07T13:36:00+00:00"
-    },
-    {
       "id": "hl-19f17244a8ae6a85",
       "date": "2026-11-07",
       "title": "Trump says U.S. carried out ‘minor strikes’ on Iran as missiles hit Qeshm Island",
@@ -200,28 +296,12 @@
       "published_at": "2026-11-07T07:37:36+00:00"
     },
     {
-      "id": "hl-a61b421d3cea275a",
-      "date": "2026-11-06",
-      "title": "In Republican collapse, Colorado military town elects Democrat for the first time",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZC1MUWlWSWJIdmtzQTBRMmpzQjVKVUxQLU9qY2tkeGNDSXA5NjFxQnIyek44N3FuV1EzWTVnR2MtblZJTm5UM3VqdHhXbTlUdTRqdWNvUTRjZnJDRjV6alVBNHNkWkkyUUg1bW0wYWdmUGMyalFPMU50OGpnZ3ZVNFdxbHVNM25RWUFqaGFtVGlteW5nVjRRMDBYRUFuWEtYZ3BVZG80a3F1NERjSUdSVm9XRzI?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-11-06T22:03:17+00:00"
-    },
-    {
       "id": "hl-a05e7b90f2a19e80",
       "date": "2026-11-06",
       "title": "Syria aids Saudi Arabia with military advice and training amid Houthi attacks, sources say",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObFFuV2xuOUtpNDJEVlB0Q0NMYV9BQkNZTzkzRkNVWHBrVGI2TC0xeUk0LTVzdWJrclByYzR3OS1PV2VJaExTT0hud2hzSENNUnlZb0J5cE5yclAtcmljYnlRcFFTOXRuOFVYbUlnbmh3cU5qQTNQSWJ3SEJ1UENMTWFUOXVBZ2xVckpNWjcwOG5meGVBWFBZRlRyZ1Q4ZkNweDlsREhMRWFwX0NrSDctbVoyZDhfdUdzOFAyVmFReUFDNkVBcmc?oc=5",
       "source": "Reuters",
       "published_at": "2026-11-06T16:19:44+00:00"
-    },
-    {
-      "id": "hl-2fdf29fb3c934147",
-      "date": "2026-11-06",
-      "title": "Russia using own version of Starlink for military comms over Ukraine, Kyiv says",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQ1dZdi15b2M2dnJjdnlIVmFTclRLVE12aDlKQWdsWVJiWV9QcTd5NlNCby1YQUNSbGk4RmZ6X0ROMnJzcEoyVjh4dlhxXzd3aTU2T0otcEhWSzVYcmFPcEhkRDgycHl0bmUzZ3JfOW12ZmZnc1Z6VkZsb3VVdGVXd0hSc3pndThoY2FXUEp0MXJQVlVfaUFnT1FEX01DZkxQeWRGMEhrOEFmTTQxYkFFYVVOYzdjUQ?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-11-06T15:45:43+00:00"
     },
     {
       "id": "hl-c7e6aa7633266543",
@@ -246,14 +326,6 @@
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaGRDYnRUX2ZKM0ZjaEl3RWxmNDZ4RFpDSVlBcTMwYnQ0bXB0VFFiU2M1clMteUt4b21LeFJ5ZVBVWV8zZ0hTMkNGd0xLX2h4OEk4V1BZaGlsMFhaY3ktUnVuRWpnWmFkM3N3TTVVaHUyYTliblp0cXRGTmYzSnNCMXVtVzRJUloyUFdVUHBHTmZ1dkppSENNTklKX0tBRjFBcWRvS3lYVlZMQkwwSDliUzJvWnpZb2ZhdVRkcg?oc=5",
       "source": "WSJ",
       "published_at": "2026-11-06T11:51:00+00:00"
-    },
-    {
-      "id": "hl-b45d0aca8e26aead",
-      "date": "2026-11-06",
-      "title": "US Allies Are Afraid, Very Afraid, of Those American F-35s",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORU0zampqbERyMWhLNzNwV3lHNlNjMnA0ZE5ocGlWQzlHMGVnU0RWOEZoMmFPeHlma1dVLXJMNGJNaGItalNqOGM4VWtFR0RQeDdtOWkwcWR5ci1zeWdGT1FoemJJZkVWeHdYc3pKcE9VaUlZWjEtTTU4S3EzZFNfSzh6MW5XV0JHUDJqVXpxMDZ0aHQxajg0X0lIYW9mMThyTUp1M1V3cUJsY1U0ZW1j?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-11-06T11:00:33+00:00"
     },
     {
       "id": "hl-d1c22e872cf11ada",
@@ -352,14 +424,6 @@
       "published_at": "2026-11-05T14:15:38+00:00"
     },
     {
-      "id": "hl-f7a322350bf2351c",
-      "date": "2026-11-05",
-      "title": "Zipline Tops $21 Billion Valuation, Adds 300 Walmart Drone Sites",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMW9CcVBZMS1kQTZ3NDVfcDA5TWJGcldNY0hNdmFITkFXbURfanU0WVMtUVFOazR3RkdpRTFLR2ZSczNRU09YWkVuOHFLNDNJOGtJRUF6bW5VMnhkNWZYa2YyRVZYeEdEc2VxQUFUVEwyS1A5Qm1JYjZmb00yaWt1YXNONFY2dEVhb0lTanNRVmhwbF85Y1Q3bm5aU3plMjNZWXFMeTZRRVI0VGM0bFgxUmthQQ?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-11-05T12:00:00+00:00"
-    },
-    {
       "id": "hl-123f751197bfc500",
       "date": "2026-11-05",
       "title": "米民主勝利で株価明暗 医療や再エネ見直し買い、防衛株に逆風",
@@ -416,14 +480,6 @@
       "published_at": "2026-11-05T04:59:01+00:00"
     },
     {
-      "id": "hl-3ceecb12d1544ad0",
-      "date": "2026-11-05",
-      "title": "U.S. Was Unprepared for Drone Warfare, Pentagon’s Emil Michael Says",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTGVpYzEzUmZEa3Foa2tRTFRudjRFOFpSeXA5ZTQwUFctcTVzSXd4dEZWcERqMGRHZW5QOTBSUjVja0VYeEJmUnJ3ZjI5dDk5ZmhlWDhUUGR4cGVUSkt2SVZQcHlMTzl0SmtkZ0ZGclF2d3Q3N3FXZEFZbGZPUmVac1FoZ2QzYk9sa1RDQTFLdlhPRW1VRWFHdll1T3RPZ2RYOXdmN0pNQS1sbE1HR3d4cXhGR0ZyRmFTSS1SdQ?oc=5",
-      "source": "WSJ",
-      "published_at": "2026-11-05T01:16:00+00:00"
-    },
-    {
       "id": "hl-0bcbd122b579e58c",
       "date": "2026-11-04",
       "title": "「科学と安保の距離縮めよ」 防衛費を基礎研究に、橋本JST理事長",
@@ -464,14 +520,6 @@
       "published_at": "2026-11-04T08:29:57+00:00"
     },
     {
-      "id": "hl-57982c50974ba907",
-      "date": "2026-11-04",
-      "title": "North Korea, on Busiest Missile-Testing Spree in Years, Rebuffs Trump Diplomacy",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaERXOEtSUVd1MlZvcmMwSDRxYzR3QWptVW0tTWpxNHNrLWpFb2Z5NkZxbWpBM3FVRVBvOGxSd3htRjByRC1MdWFGaURRYjl0Y29jWVF2QXZfWFZKSkxUNkh4YXhuZWtFOEZsc1VGWW5YdWthSmF0aHJObVR0c1lrZDJrbTVBWE5WakJsUml4anE2QzdRT0c1WlE3eFkyaEJwRUpnc1dRN1dsR2N3MGtlOHdrbURFbnlZ?oc=5",
-      "source": "WSJ",
-      "published_at": "2026-11-04T08:16:00+00:00"
-    },
-    {
       "id": "hl-714f5be38c1c8604",
       "date": "2026-11-04",
       "title": "小泉防衛相、防衛産業「有事見据え予備生産力を」 新戦略の策定で",
@@ -486,14 +534,6 @@
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE85LTg2NnhTQVNJZUdQSlQxSTYzNlQ0cDdOZmI1VDZRVThCYURnT09tRXdDeU1BWVBvdlBWZ0tPSnVmS2V0bTN0SkJBQ0QyNFdsUWJSSXJuWQ?oc=5",
       "source": "東洋経済",
       "published_at": "2026-11-04T01:00:00+00:00"
-    },
-    {
-      "id": "hl-44b8a848eebb4c67",
-      "date": "2026-11-04",
-      "title": "テレワーク防衛術 - 日経クロステック",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORW1NWGFxU2FETHJqT0FJc1JmZ1VEQkZkLTdsWmxrUmdscmV3WHNMYlI3LXlwSlFMbTVxcGd4c05WNWpQR0ZsdG5DWDBqalFfaG9UaTEzTU1td2JPT2JjWVlnR2NXNnVfSTVUcDNMOXgyalNuakF0c3FhZW9Tc01vQ0FrR3NfSUE2RDNmYk5FQXFNblpUZmo2bmVSRFpieFA5bHlYWkJZOGNHQmRsemppcm9MOWViWWxlQkwxSjRNc0R4OGtYVWRwN2pvN1ZjZw?oc=5",
-      "source": "日経",
-      "published_at": "2026-11-04T00:06:48+00:00"
     },
     {
       "id": "hl-8bea691dccfbbeaf",
@@ -520,22 +560,6 @@
       "published_at": "2026-11-03T20:50:00+00:00"
     },
     {
-      "id": "hl-9ade04ce2404083f",
-      "date": "2026-11-03",
-      "title": "アクセルスペース､光学衛星4機故障で直面する防衛省大型案件のジレンマ…収益への影響はブラックボックスで株価低迷",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoQXVzMVlIWEItOS1LX2ZSZUtJMXYwNTg5S2E0Y210U0ZRTXFNUV9URFM3MzNwN005dldGRFVMRGxUQzZSb0o0R0hMcmM4TkRBalkzZHpPSFdIa1U?oc=5",
-      "source": "東洋経済",
-      "published_at": "2026-11-03T20:50:00+00:00"
-    },
-    {
-      "id": "hl-eda5f83432e0f3fa",
-      "date": "2026-11-03",
-      "title": "〈有事の買収防衛策〉はどこまで許されるのか？日本の会社は\"幹部従業員協同組合\"…牛島弁護士＆アクティビスト対談",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9aNl9rZERQOGExNlBuVGpqZlFsdmx6ZFE4M2Y3YlhIQXRVcHZNdi1hN3htcWI5Qzk1Smt2VGNkOGVHOG0wa2FJSVRVUW9jWThGdURrdDRra3ZpdFU?oc=5",
-      "source": "東洋経済",
-      "published_at": "2026-11-03T20:45:00+00:00"
-    },
-    {
       "id": "hl-50217634c2a41409",
       "date": "2026-11-03",
       "title": "〈有事の買収防衛策〉はどこまで許されるのか？日本の会社は\"幹部従業員協同組合\"…牛島弁護士＆アクティビスト対談",
@@ -552,22 +576,6 @@
       "published_at": "2026-11-03T20:00:00+00:00"
     },
     {
-      "id": "hl-9abb75e7ec07d82e",
-      "date": "2026-11-03",
-      "title": "吉田防衛大校長「対中国、地理や核抑止でレッドライン」 富士山会合",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01MzJXa01yUkQxazIxSGpCNWttdS1yblRPS3BGVy1NcHpwdHJRcDZyQUs0WTdQdUxrT3h2d2tFakQ4d3ZDTGUyRUVJTUpUSFFlOXBfd2Ezek5Dek9GYTRuWG1yVmtUeUhpOWQ4cw?oc=5",
-      "source": "日経",
-      "published_at": "2026-11-03T17:00:00+00:00"
-    },
-    {
-      "id": "hl-1f36d7433a8c8ed8",
-      "date": "2026-11-03",
-      "title": "地銀がサイバー防衛で共同戦線 九州など13行、システム調達で協力",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9pMHlqLTMzMUNyTWpKT1ZwLVpJWlZ0aG92Z0p4TE5WbENlM1J6Nlh4ZEd2WkVQTmhUel9ReTJ0V0RZSXdwYW12NFBxVm9UQnpXX1NRZGVnSW8tNW04SjdDN1p4a0o4Z25hcThzNQ?oc=5",
-      "source": "日経",
-      "published_at": "2026-11-03T17:00:00+00:00"
-    },
-    {
       "id": "hl-3778b44dc067fa76",
       "date": "2026-11-03",
       "title": "Simera Sense and Spacemanic to Collaborate on a New Complete Dual-Use Mission Solution",
@@ -576,28 +584,20 @@
       "published_at": "2026-11-03T16:59:43+00:00"
     },
     {
-      "id": "hl-163378756d25001c",
+      "id": "hl-fe70c202fa367699",
       "date": "2026-11-03",
-      "title": "Apollo Says It Will Play Defense in Lending for AI Buildout",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNc3BJZ0pjVFhDV1NscUhTeE1yY0g0TlFjdUdSSk1hUWR3eExXYzdtc0Z4YXZsTmFUMTRnSGxpRzVIYldJMG9kU2k0UDBnTHJ1ZXJaWDE4SXg5T1VwLUhCcjZ0U2hJX1VTamlBOG9qUHczaUxPMFNkdmdLdlJjdUZ4OEJHT1hYdnRpRXZoVkx1YmN0SFlOd3BaRy1KU1ozbHZDNHRHYVNwZmczM1hIR2xR?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-11-03T16:50:44+00:00"
+      "title": "DETUMBLER: Airbus’ Passive Spin Stabilization Solution",
+      "url": "https://spacenews.com/detumbler-airbus-passive-spin-stabilization-solution/",
+      "source": "SpaceNews",
+      "published_at": "2026-11-03T13:30:00+00:00"
     },
     {
-      "id": "hl-478f0139416bcd84",
-      "date": "2026-11-03",
-      "title": "NATO’s New Defense Plan Would Mean Strikes Deep Inside Russia",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRnBiZFd1d3BrSWJKTU1VeXZpLW91TXloQ0tOYy1Ob2podklGM2toNWREdU1scm1BazE5RjRVT0VacldyLXJ1c0hQNThXcTZVcUJoQ1g2YnIxM2lPWHA2dFNTM3NWeHJoajJEYk1yazIya09zenpPQ2NiQTBjLUZTd1NDekpVUU5KNkg3UjhET2RySXU0OTRxZlljMlVqSDBVdUtyVA?oc=5",
-      "source": "WSJ",
-      "published_at": "2026-11-03T15:41:00+00:00"
-    },
-    {
-      "id": "hl-f883e0be86964c1b",
-      "date": "2026-11-03",
-      "title": "EU, France launch scheme linking French firms with Ukrainian defence startups",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQlhDYjQwdWxuamRZVTJZbVpvcUVjTzlmRXpMRkRxelg0ZExGOFpicTJua0ltLUh4VXM4OXhCb1AzMVZtYXZRUnRCbTdaWTFPXzRVMkFrZXNnTy10azhZMTBoQ2FJTVNhUTdHWnpyWHpVdWJQNlg5a0VObTNvTFJyQzFJYklPMU52a2dEVGpORV9iMFJ3RXNGbDJSSlFnV20yVnhUZ1QwcHoyWmljbjJxQjkzMWJyMWVYbkRaTC1lQUVWUUFfQnpjQWhLVmh5clpvcEZUcExB?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-11-03T13:55:30+00:00"
+      "id": "hl-775310ca2789b334",
+      "date": "2026-11-02",
+      "title": "How to Expand Reliable, Flexible Access to Space",
+      "url": "https://spacenews.com/how-to-expand-reliable-flexible-access-to-space/",
+      "source": "SpaceNews",
+      "published_at": "2026-11-02T14:00:00+00:00"
     }
   ]
 }
