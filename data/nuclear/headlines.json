@@ -1,6 +1,6 @@
 {
   "_schema": "id: 安定ID / date: YYYY-MM-DD / title: 見出し / url: 原文リンク / source: 媒体名 / published_at: ISO8601(任意)",
-  "fetched_at": "2026-11-12T17:59:26.623861+00:00",
+  "fetched_at": "2026-11-13T17:36:17.559006+00:00",
   "theme": "nuclear",
   "sources": [
     "日経",
@@ -13,14 +13,94 @@
   ],
   "fetch_notes": [
     "日経: 20件",
-    "Bloomberg: 5件",
-    "Reuters: 5件",
+    "Bloomberg: 8件",
+    "Reuters: 7件",
     "CNBC: 1件",
-    "WSJ: 2件",
-    "日刊工業: 1件",
-    "東洋経済: 7件"
+    "WSJ: 3件",
+    "日刊工業: 2件",
+    "東洋経済: 4件"
   ],
   "items": [
+    {
+      "id": "hl-6035c17c614ca7dc",
+      "date": "2026-11-13",
+      "title": "福島第1原発廃炉 着任3年目で担う、使用済み燃料クレーン取り出し",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE55Z1ItaXBvYWtIVl9vMm01bDJfaVQ3NUtMdFprSTd3V3J6LXhFaDM4TmF2RUhQdmQwbDBzeUs1eXRPeTI0QWZzcVRYTWUzUi1IOVBOU0VyLWEzX0Zsd3d5cnJialRGZWV4T2djLQ?oc=5",
+      "source": "日経",
+      "published_at": "2026-11-13T10:00:00+00:00"
+    },
+    {
+      "id": "hl-0ace8a0397d13b30",
+      "date": "2026-11-13",
+      "title": "Iran Extends Blackout of Nuclear Work With US War Deadlocked",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTUd1cm1FVnVVVVRnNlNHVGRZZ21jejV5Umx3S3lZQTd1blRDOG5hSzBYR1J4T01OX0Q5OUZZbnp6aUg4T2VSM1ExVjdJY2dqYnpXOWl1YUxsbEo5dXdFRmp6TlhzLWpHaUx4X1pQVkhodkZBQnN2ZHNRaHZ2Tk1CMHJzQnpqTGtiYXIzMGhIanZiV1hzUUYzdGVJV3M4V0pGZkN1c2wzMElmME1fTUdmOA?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-11-13T09:35:14+00:00"
+    },
+    {
+      "id": "hl-ae2ac26742966959",
+      "date": "2026-11-13",
+      "title": "福島原発被災地の葛尾村、ORENDAがAIデータセンター竣工式",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zcy1GcDhBUVhNc2g0eXQtX01na3hhT1VPekhsM1FBSkdRUld1N2FZbnFaR21mSkt4eHYxUS10WGM5TFlxSGpjQUJteU53YzRFSk5xd19IRkhDRTdGYXdFNHJzZ2JRSjhYbURBeg?oc=5",
+      "source": "日経",
+      "published_at": "2026-11-13T09:00:00+00:00"
+    },
+    {
+      "id": "hl-221eb17c7c001857",
+      "date": "2026-11-13",
+      "title": "関西電力の美浜原発3号機「劣化管理が改善」 IAEA、安全調査で講評",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4cFhXX2ZZbHh4a0swTlhvLTZIVzJwSGk0am05cFNlUjFtVl9LaEZ5ZUVuSEQ5Wmg5TEdaWlRDNXhWSWZTR3dDYmRkTTVwRDhZc0h4NGdTVVNrTzhtMVlRTko4ekM1ZmlyOTFkeA?oc=5",
+      "source": "日経",
+      "published_at": "2026-11-13T07:55:04+00:00"
+    },
+    {
+      "id": "hl-6553413dc0a59370",
+      "date": "2026-11-13",
+      "title": "関西電力、美浜発電所3号機における国際原子力機関（IAEA）のSALTOチームによるフォローアップ調査を終了",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5PRDdnMlhWWm1YNlc5d1EtYXhkZzZjeW9rTmFwZXVqVWJfMVdQdzFzbXhESkpLdnJKblhaclQ5UFFuYTZpQUtEVzBkQ2hSckgwTTdudzZCTDhGeU13RWpMQ09UQ21qYmJBLXktLQ?oc=5",
+      "source": "日経",
+      "published_at": "2026-11-13T06:41:05+00:00"
+    },
+    {
+      "id": "hl-90908dcc717fc0a0",
+      "date": "2026-11-13",
+      "title": "ウラン、原発回帰で最高値 投資マネーも揺らす燃料争奪戦",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1UdzJ1aFFCdmZtWnQ0eTN2d0k1MnhlaWViX2NfazRMQjJpMEpJS29xZWxwNzBCV1VVNVBWT25ETkR6WUJWYm9jakVuOGo1bGNDY2pZbWNqLTFCTmUxZ3MzYjM1UHRsUGlYSGtMag?oc=5",
+      "source": "日経",
+      "published_at": "2026-11-13T02:00:00+00:00"
+    },
+    {
+      "id": "hl-874c926d97427d07",
+      "date": "2026-11-13",
+      "title": "ONE Nuclear Energy Inc. (ONEN) Stock Price Today - The Wall Street Journal",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5wTGRiSmZ1dnV5R3NsRlVsQWg2NnBoLXFLZi1rRTBNYWF5LWhRNERtc2w4cEhNYm5KTm5VSF90b2prcnNnZTBkY0xKLUtwcjdoSjR5Wg?oc=5",
+      "source": "WSJ",
+      "published_at": "2026-11-13T01:27:03+00:00"
+    },
+    {
+      "id": "hl-9e16552110878815",
+      "date": "2026-11-12",
+      "title": "Fermi’s Top Nuclear Builder Departs as Reactor Timeline Slips",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUmh0ZHM0RVJ0a2VpVXp2V2FDcFJNMGR0ajlBdS1ZZDVzOWNJSjdNMXhSbW1FbVh2NFpIRHRhemowT0NXeHp5RERDZkQ4STVZbFI2WFJuc2RnRTZJd3ppWDdUbWhxTlhqc0txUms2Smtsa05rT2g2d3ZlMGdWUTlMUU9OSUF6LXVuWFBrZGtSSm9xQk9KdXNldW9pT2RYT2pVelgxbTVjalRYNGtVRU9rVlVjQ2NyX1cyaDVoVUcyd3MxWGpDM1E?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-11-12T23:58:04+00:00"
+    },
+    {
+      "id": "hl-39b5ac42c1d3ab20",
+      "date": "2026-11-12",
+      "title": "Oklo CEO Jacob DeWitte: Nuclear fuel deal advances AI power buildout",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMk0zNlpNZk1faHBudjBOZzRXMHNWRWc4dUtUSEhueDFNWHZNcWNXNHFtNXE0czZoc25hM19PSkNWQXViV0RQejFRdVpsTFpwWWItS3hYY1V0TTJNa1ZNNlE1ZXdMc250cjRZQkNUUG5pUE1zaGlrdFFXSXhlT1p1TEtKenhEcklvclU1cGd5V2RBTzBnV2tScDdHOENndldwZnd5Mk1NaW5qckxDVTNJ?oc=5",
+      "source": "CNBC",
+      "published_at": "2026-11-12T22:26:00+00:00"
+    },
+    {
+      "id": "hl-2ee8588749f24e5c",
+      "date": "2026-11-12",
+      "title": "Energy, Oil, Gas, Nuclear & Renewables - Latest News and Analysis",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5FdWRuN1NtU2djWl91NmdEeExzNUs3Sk1GREZ2eVEtTnM3UW0xQVV0UVlNT0lqVW1ybGlwclRZQmpqamlRdFpJRzc0LXVIY0Zt?oc=5",
+      "source": "WSJ",
+      "published_at": "2026-11-12T22:03:39+00:00"
+    },
     {
       "id": "hl-cb5fae0e844b7ca7",
       "date": "2026-11-12",
@@ -62,12 +142,28 @@
       "published_at": "2026-11-12T06:59:00+00:00"
     },
     {
+      "id": "hl-59fbba801f3f0d94",
+      "date": "2026-11-12",
+      "title": "Canada’s AtkinsRealis Advances Nuclear Energy Talks With Turkey",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMmUycm4wekJHSUNOQ1RjR1FIN3pNSTJzR28xeDZmbkRpRzRJRHNlSHNQUFZ0NWltMThXWjVRUUYyN1gxZHVxY3gxcmxUVVZ4MlV4cnExUkdlY3d6UXZBN3FOQnp2elNrRUlZd0tOME9pVTNhd0xRMzBqQlFFRVhuZzdVSjJ3NXpUMXZETUpyU0ZVVjN5R3dKcHMxZENDQjlnamFCTElHcllDLW1BU2ZnRGhKOUg?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-11-12T06:59:00+00:00"
+    },
+    {
       "id": "hl-78cca3e218448d5e",
       "date": "2026-11-12",
       "title": "海水中のウラン、高効率に回収するスポンジ 原子力機構が開発",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tSWwxbVFHMXZwWTV1Z0F6MmZOanNJQU1HNGIzYmFCZ0E5NWd3bWpEUlVCcThyQVFuZS1Jc1pHTzZiellzQnQ3bHZoZjF1QzJBZXhGRGZmY3NvaGFpYV83b0U3ZmdsRXhnYTdsWQ?oc=5",
       "source": "日経",
       "published_at": "2026-11-12T05:27:47+00:00"
+    },
+    {
+      "id": "hl-d06ecef09b4fb2ab",
+      "date": "2026-11-12",
+      "title": "COMMENTARY: Asia's nuclear pipeline marks a new challenge for fossil fuel demand",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZEZYSVVNU2NLd3cxd0sta1J6cHVaZko3TnM5Ukh3STdITWZDS0hHTlR1bWpVSnBKTVAwWjNQSkotOWJpZTE2MWVOcmRVbzdQSFhCZFE5NVByRVg3UFVKNGNLTlAtVkI0WHEzZl9EQ2FlTkxDWGJ6azlsSjRtWHhYakJuVW5HbkVrWFpUWGFJVy1COVJxZWtNYzJOUHptTTczNFc2UUJnems5T19NRExKa2VQVXM4UGN6YXYxNFhDeHEtMDNua0ctaW5n?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-11-12T02:00:00+00:00"
     },
     {
       "id": "hl-56f65c3b9d377dfb",
@@ -100,14 +196,6 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSkNIei16TnVKclgtaDlidndQRHdHU2pRbGFUWlZRbEtuajhqa2gwZWRIODJ5OVcxRDdRZUkzOEUxa00zaFc0TVpjWnVGSHhfUW1UYnNTWEM2dnY0UW9Ra0pfaWliN2MydC1FMkJxdm05SnppSWw4YnRObWJEVFhYdndEYVNiNFM0XzlPS1liVlpJeExfNzFlSlNSNFk3X2p6REJuMUlKdFV3RldlcW1JN051WHlUUE1fbmNITTBqeW5KUQ?oc=5",
       "source": "Bloomberg",
       "published_at": "2026-11-11T19:17:17+00:00"
-    },
-    {
-      "id": "hl-874c926d97427d07",
-      "date": "2026-11-11",
-      "title": "ONE Nuclear Energy Inc. (ONEN) Stock Price Today - The Wall Street Journal",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5wTGRiSmZ1dnV5R3NsRlVsQWg2NnBoLXFLZi1rRTBNYWF5LWhRNERtc2w4cEhNYm5KTm5VSF90b2prcnNnZTBkY0xKLUtwcjdoSjR5Wg?oc=5",
-      "source": "WSJ",
-      "published_at": "2026-11-11T11:41:22+00:00"
     },
     {
       "id": "hl-7ba198f513250369",
@@ -166,6 +254,14 @@
       "published_at": "2026-11-10T11:29:13+00:00"
     },
     {
+      "id": "hl-63c1b32acf23241e",
+      "date": "2026-11-10",
+      "title": "Canada reimposes sanctions on 11 Iranian entities for contributing to nuclear activities",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOUZmREVMbUtQd1F6bVdxUUNDSWx1bThmbXBERGNOSk9JVG9JMVlYNkRvRW5BdVkydEVZQmROcXBVMUptMGUwYmZYQXhtTUpkTmJYQkFUWG41bVBESldpd2ZyWlpJMFNHLTQ5bjIwZEpIWUVVcmhxRVl5Z3QxNEl5SDd2XzJGaGVPRTFIb3ZiN19Kb2hCUEtuenBNbTJMdmhSTXc2a2w2V1FFcktPX1kxR1hreWxKaGFZaUdQZQ?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-11-10T10:46:57+00:00"
+    },
+    {
       "id": "hl-ef2a15091acb5c38",
       "date": "2026-11-09",
       "title": "調査報道記者の私が､国と福島県を提訴した理由､原発事故避難者の家賃負担を巡る｢のり弁｣議事録が隠していること",
@@ -174,18 +270,10 @@
       "published_at": "2026-11-09T20:45:00+00:00"
     },
     {
-      "id": "hl-9f124d2d9b8309c5",
+      "id": "hl-866b98b87e684f7c",
       "date": "2026-11-09",
       "title": "調査報道記者の私が､国と福島県を提訴した理由､原発事故避難者の家賃負担を巡る｢のり弁｣議事録が隠していること",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Nc3N2ZTIyd2JPM2lKQlpQMG5DQkxMaUM0OElMbDZDNGdOZVRtNnR4WmttRWhDSWxMblNsd0xyMWkyUldNZlotWUVqREhjM3MySkw1X1RPQnRhTFU?oc=5",
-      "source": "東洋経済",
-      "published_at": "2026-11-09T20:45:00+00:00"
-    },
-    {
-      "id": "hl-3d1ef9c57c46e750",
-      "date": "2026-11-09",
-      "title": "画像 | 調査報道記者の私が､国と福島県を提訴した理由､原発事故避難者の家賃負担を巡る｢のり弁｣議事録が隠していること",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBFblJRcDhOTGxXSWxzbm4yWWthVlhoVEhpVjRMNGd2cG9YSmhfTWxqOFVZZDR3T1dWX3p2alRVN3I5MUxQb2NiMThkd2NPNk0yUXZ1YXVpbw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE02X1JNWmtDaV9VQzRuNUZhR1pnSzFpUlpMdjhoVDY4bjI5UndRVi1lMVJ6czRsSDZhWUc0YnhZQ3dqbTNyVGRvTy1mdUtMSjgybkFwWFJPRnNVUGl0d3Nv?oc=5",
       "source": "東洋経済",
       "published_at": "2026-11-09T20:45:00+00:00"
     },
@@ -262,44 +350,12 @@
       "published_at": "2026-11-07T08:00:00+00:00"
     },
     {
-      "id": "hl-6b8bead67d1f76ed",
+      "id": "hl-eab255801129d599",
       "date": "2026-11-06",
-      "title": "経産省、中部電力への補助金交付を停止 浜岡原発のデータ不正で",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1hRXdYdngyQmI0SlJmeFNJTDR2bWIyU0ZSdElkMW9TUm9PRmZEY3BnbXF2UkJfMkFKRmYwOWZodTI2c0VwQWphWkZKUmNFN2VKLVNGNHhiajJHMXJORk1wRlRRcGNyc0R1aEpETw?oc=5",
-      "source": "日経",
-      "published_at": "2026-11-06T09:21:34+00:00"
-    },
-    {
-      "id": "hl-8b6ecb0e70036e7b",
-      "date": "2026-11-06",
-      "title": "北海道電力の泊原発で事故想定し訓練 8500人参加、8日まで",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1czRqVllrS21yUjVuWXcydGZMcjJEekItN2k5Z2ZvUktYcG9pNmhlWG5oTmhLLVJpR2pKS2tGeWYtWllxcVhmNFphU0VVTGhsemVNTExQNXFZV0NvSjh6Z3VuMEg2NXdjekl5UA?oc=5",
-      "source": "日経",
-      "published_at": "2026-11-06T05:15:38+00:00"
-    },
-    {
-      "id": "hl-40c60c912969421f",
-      "date": "2026-11-06",
-      "title": "関西電力、蓄電所容量を30年に3倍 国内首位狙い原発1.5基分に",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBxMWZicXhwSVpXeXhqLTFGOVZ0NWpRdFdhakxtcDhrdGwyc2l1NVZWeUwwQ25NMm5VNmN5T3hjYU1hQk95SXN2VnhIZ1BJOG0tMF96cFlXTWhyangxWWlPeV9NVl9fdnlLNmtlZQ?oc=5",
-      "source": "日経",
-      "published_at": "2026-11-06T02:30:00+00:00"
-    },
-    {
-      "id": "hl-e2a7766276fa0457",
-      "date": "2026-11-05",
-      "title": "中部電力に業務改善命令 経産省、浜岡原発不正で組織改革要求",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE55Ykdhb1o0QUlIdTRHYjUxdnFlTUFYSnhEYzVTN2VvTEQ5T21hYUpSemhEbXZkcjJoa1QyZnlKNG1vTkNsd1RtaGlkMEQxZnZMNG1wLW1VTGFta2R6TFhDX1ctMDRNZ2lXR2pDdA?oc=5",
-      "source": "日経",
-      "published_at": "2026-11-05T23:51:29+00:00"
-    },
-    {
-      "id": "hl-664da367f2575bb7",
-      "date": "2026-11-05",
-      "title": "篠山紀信氏が撮った建設現場と震災・原発事故 - 日経クロステック",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWmE3Z2RvVS02Rno2SGxkNkVDNVFnTDczMkk0OGRTTlB1dEd5czNVWHoySlNJQi02VjJ5djA3MFAwS1NqZlk1VVBnanhHczg4VDB3bl9yZE1xNWRXR0dQZE9uWDUtUUxmS2FoaW03TFlKWXpPSHBleE5YTVlESWIyak85cUpnSGJYVDYyejB0ZXZwdXN3WFBOa2VxWkVpVlIwLWVYeWtRbFlvalZ0ZElTVVV2NVRSd0VzVm5xUE90S0ZpeDdBM3FmcFEtd1dMc0RwTlk4bk1VbTBBQQ?oc=5",
-      "source": "日経",
-      "published_at": "2026-11-05T19:15:30+00:00"
+      "title": "原子力機構と高エネ研、宇宙開発用試験装置・施設整備に着手",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1SQnVqUlJzYVdRamVXbGtMOGdKRFNJakhQTEN4clZaUXg1ZjhoaTZNQWV2Qy1MQzhSRWZSdEt0YTRnV2c3VW9wNlpzQnlHUElmWHBZaUdJdEI?oc=5",
+      "source": "日刊工業",
+      "published_at": "2026-11-06T20:00:00+00:00"
     }
   ]
 }
