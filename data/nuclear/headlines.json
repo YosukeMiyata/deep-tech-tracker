@@ -1,6 +1,6 @@
 {
   "_schema": "id: 安定ID / date: YYYY-MM-DD / title: 見出し / url: 原文リンク / source: 媒体名 / published_at: ISO8601(任意)",
-  "fetched_at": "2026-11-24T20:35:56.475254+00:00",
+  "fetched_at": "2026-11-25T19:50:33.643510+00:00",
   "theme": "nuclear",
   "sources": [
     "日経",
@@ -12,22 +12,62 @@
     "東洋経済"
   ],
   "fetch_notes": [
-    "日経: 10件",
+    "日経: 13件",
     "Bloomberg: 11件",
-    "Reuters: 10件",
+    "Reuters: 11件",
     "CNBC: 0件",
-    "WSJ: 9件",
-    "日刊工業: 失敗 (HTTP Error 429: Too Many Requests)",
-    "東洋経済: 11件"
+    "WSJ: 8件",
+    "日刊工業: 1件",
+    "東洋経済: 7件"
   ],
   "items": [
     {
-      "id": "hl-874c926d97427d07",
-      "date": "2026-11-24",
-      "title": "ONE Nuclear Energy Inc. (ONEN) Stock Price Today - The Wall Street Journal",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5wTGRiSmZ1dnV5R3NsRlVsQWg2NnBoLXFLZi1rRTBNYWF5LWhRNERtc2w4cEhNYm5KTm5VSF90b2prcnNnZTBkY0xKLUtwcjdoSjR5Wg?oc=5",
-      "source": "WSJ",
-      "published_at": "2026-11-24T16:02:00+00:00"
+      "id": "hl-62752e8f74e40418",
+      "date": "2026-11-25",
+      "title": "Russia may offer Brunei floating nuclear plants, Rosatom says",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcEtjWU1NMFI0aG95UkwxYlJGbE83UUQwdlI3V1VjblBRcDl0NjQzUXUwSlhzMXQ2VjhHSnNZVWZqelkyRFB3VWx6RWNLcGVoMG56eGRoVjA5TnAzQm5VYThxZG02MlloQUpUME54WW5OSEt2WlFHSHcwZUNJbTlCSEVnbTluVXFwaEM1dXJMU1BZRHAtUDllYm5GVTBES1hzRXVmNjduU3ZzbmxrcVJSNlZR?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-11-25T14:05:44+00:00"
+    },
+    {
+      "id": "hl-8749b4566041d43b",
+      "date": "2026-11-25",
+      "title": "Lithuania could return to building nuclear power, energy minister says",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMXVDMm81bG9kMzF1SkFYdkEtb19iRFc0amRwRlRPYU40dUpQSFNtT3l3Qkg5WWhiS1BfYlgzbjJoUlg5TFZuQXMtUFFUV0ppS2doOU9iMUgxY3h5c1JPaHhQNm5VWTlsZDFxd0prMHlXQnVEM1F1bDBGQ09zb2gyMXNiZ29vTWxVdTd1NG16NEhVZ1V2QUhWMENHNmREdEF1OUNGMGFmTXdjQmNpclA5Y2ZyZmJtLWktMVE?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-11-25T12:03:42+00:00"
+    },
+    {
+      "id": "hl-edeabd7223627e85",
+      "date": "2026-11-25",
+      "title": "死亡事故発生の柏崎刈羽原発、安全確認できた現場から順次工事再開へ",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5MazQxT2h2WVpNSjA1clRNYzluN1FqM2hoUFNWWWZ1NW5lbnRlWTVFeFFkeGprdXRKOXhUTkRxbWFQc3NreV9GcmxJQ2ZRdXpOeUZ1ZU1KQjlkVUg4VzVEZF9wNjlldjRKUDFVSA?oc=5",
+      "source": "日経",
+      "published_at": "2026-11-25T09:35:30+00:00"
+    },
+    {
+      "id": "hl-ab0cffba084ad19b",
+      "date": "2026-11-25",
+      "title": "Canada’s AtkinsRealis Expects Poland to Choose Second Nuclear Plant Partner in 2027",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQUkl2Y2QyMTc4MGZaRWt1aFNKeDJkT0ZTMkxoY2xLQU1FSTh3M2xDWHI0NkZaZWlnWVM0eWJmY3liblJ4b2ZqR1ZYMXE2N0FTQ0dkSUt4blB3SmpRLTBCd1Mwc05qVDlSRUVjRE95RU5TUngxUVlGR3VXNUt0SjdYSVhRd19XM3p1UmJvakdiU3RfdlFneTBRMS1yZUh5QnFTTXBWOE1sNXN0dVNxWDJ0YmdkbVl0SUJ3Sy1VV083dkcyZFZsbmYwMUYyTTRiTm8xM1JZRmVjLUJEZE5TS1F2NzlR?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-11-25T06:15:00+00:00"
+    },
+    {
+      "id": "hl-5a9c9590defb917b",
+      "date": "2026-11-25",
+      "title": "Canada’s AtkinsRealis Expects Poland to Choose Second Nuclear Plant Partner in 2027",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbV9pcVF5eVhtT3lrNURzd0NOU0g3RWd6WDlxSDM2elZoVHJGaTFHbGZjTEFwWG9NTW1Zb0oxV0h0ODVYZU1ObmJZd2VWdnJxOTZlT1RnVWNlemNXbkJiOHlYRkdzWDJicFBJN3pDV0hoZm1ZanB2T1pCdnFpRTJrZlNLb1hva0RGa1BGTzluenA1UmdLMDk1bkM2T1Q4ZzhYZUdpenh1X3hBZENaN2tmbnJBSDBpZmI4dlhZS3ZjRHJtanc?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-11-25T06:15:00+00:00"
+    },
+    {
+      "id": "hl-8003b44658dcad30",
+      "date": "2026-11-25",
+      "title": "東京電力ホールディングス[9501]：原子力損害賠償・廃炉等支援機構からの資金の交付について 2026年11月25日(適時開示) ：日経会社情報DIGITAL",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96MlVrZW82VG1pMWp5NlFfTldvbjdlc2Z0cFBOVmFlRktrbTdoRFFLeG9VdFZkdWx0MjJ3TXctbWozNlZsTkJkUUhhanl3XzB1Z2dBUFRaTDlsa09sSkxXV0RjWG1hSHJPcWc?oc=5",
+      "source": "日経",
+      "published_at": "2026-11-25T02:00:00+00:00"
     },
     {
       "id": "hl-9bddfd5dc38c1a2f",
@@ -54,6 +94,22 @@
       "published_at": "2026-11-24T07:11:26+00:00"
     },
     {
+      "id": "hl-6dfd9959bfa47377",
+      "date": "2026-11-23",
+      "title": "Nano Nuclear Energy Inc. (NNE) Stock Price Today - The Wall Street Journal",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4zUkZ1ZzhRMzNuSzZpeDZaZWw1Z1pZNFlDQ3kyWDRNb2pmQkVqMDNyZ0QyOXpEb21KQ00zUGh6ZGZDSDVVN1BjaWI5WFlSbGRVOS1Z?oc=5",
+      "source": "WSJ",
+      "published_at": "2026-11-23T21:00:00+00:00"
+    },
+    {
+      "id": "hl-2e6e5d05199a15d5",
+      "date": "2026-11-23",
+      "title": "原子力機構の価値 原子力の社会実装に向けて（191）山地森林域の放射線計測",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5nS0t0RE5QMGpEcXozVWNKLXktZ2ZWVGFHQXc5UkVBVXNYWEZiTnVqbUlPdmJmejgyQUg3X2VzTlBrMHpPc0s2VGcxWmVsNmFoY0FvQi1vT1c?oc=5",
+      "source": "日刊工業",
+      "published_at": "2026-11-23T20:00:00+00:00"
+    },
+    {
       "id": "hl-320074d02acc21ee",
       "date": "2026-11-23",
       "title": "Allies Warn Russia May Launch Nuclear Space Weapon Next Month",
@@ -68,6 +124,38 @@
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOd0tTdzFnVVpmQkQ5Xy1yYTNkRnFab2d4R2tIVEJJT19zWmMwMDF5bWJHcnJqc0dUdGxieHBIa3pfVW9IZjA1cVhqb3IwdEJfelcwWTNSQ1p0MUhiQzhmRHhNbU44blVQOEprNzluVHZ5OGlKc0hSLUpEei02MF95VEpKVUR1MTYyd29SVUJESUZQZ2tWbWt2Q1RYNDFvZmV5dzVRQnpzWm5sRVZidy1iTmtPMUVMZw?oc=5",
       "source": "Bloomberg",
       "published_at": "2026-11-23T11:01:47+00:00"
+    },
+    {
+      "id": "hl-fc7530b99ac9b508",
+      "date": "2026-11-23",
+      "title": "Urenco to supply advanced nuclear fuel from UK plant for US project",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOb21pSXJLaUJFLXpuYnUyQTdxX0pwdFFRMDlSSXM5d2FhdmNUV3VLVlRKUlZncDc4N2RPWWFoMlloSnJ1V3FxTGtqMnlSeEZzVnlBWGFORzdXQ0d1M0xUOV9pVTg0UWdMLU1YamVDREhQU1JtNF95bzJ6eVo1UWZVa0J2aUpaaVdJVktSa2R6WmZXcXkwT2Q5UW9RSGhkaXhrVXAyLUtCV2lXQzQ?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-11-23T08:00:00+00:00"
+    },
+    {
+      "id": "hl-b9b5630115d23993",
+      "date": "2026-11-23",
+      "title": "EXCLUSIVE: Risk of nuclear accident in Ukraine increasing this winter, atomic safety regulators say",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRjlIbUpKS3NfVi1Oai13Y213OWJ4S0FkU0RIa1hDU1o2ZHBBN05zUXRKQnFZUDlXZ1hhbUxGS2wwUUJIbEVRSmNsSXFRNk10dEhIS0NuWVFHSHBPRFNxUUluT0ZZRlByUVhGajRMcWUxQlBkazFwU0hvYUthYlZGRzdEQTdrNnl4cDJWeEIzZWtaYnc0UUFMTk03QldsOHZiZGNTRTlmRWNrcVpIWHg5UGMzcDRINkF4cG1ZTExsZktQSjlTNm91Vg?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-11-23T08:00:00+00:00"
+    },
+    {
+      "id": "hl-9826eada83f24a44",
+      "date": "2026-11-23",
+      "title": "West presses Iran at IAEA to let inspections resume at bombed nuclear sites",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNX1BENXJsTm9KVlRxVjk0SENfVmszM1ZXVFpjQzJZcVRneVFiR210MTNseE0yUlJqWmRObE9ndjlKQkZUVFJqd0Joc3hFLWNhcW5KQ0ZKZWdBWDZ5Q1BCNWFQcDdBN1N5MDllSGNNYjdOUG1IaG5BNjB2S3hPMHRTSGpDM2phXzkzSUF6TkJtMktQRWpodkdiRVVSM0FJZ0lDOVRLZk5Dby1SdXV1elBEaW5GM0k?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-11-23T08:00:00+00:00"
+    },
+    {
+      "id": "hl-7777111c2e85fefd",
+      "date": "2026-11-23",
+      "title": "IAEA chief says planned US-Saudi nuclear deal 'very satisfactory' on inspections",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMzlxSmdSMTR5SXRiTDJwTFUyMmJ2ZTZZN0FhSXg4aGI3YUxhUFNYWnAwLVR6cFR2b2ltY0ZtMzBfa1prLTJmX1p5ekFvQXFKMGZfcEFjS1FKdnlMQ2JEaW5DQnR4Uk5mdm1iaWlPQ2FIaHhFZnMzY3g0RjkzamdvcExHWGVTMXM2S0R4WEl0RUNINi0xb2MxUUQ4V1h5aS1tN1FCTHdCNkRYQVVaa0JPQ0J2eU9WWmJIakhpTGZqMXZhLVEwMk5JWg?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-11-23T08:00:00+00:00"
     },
     {
       "id": "hl-83206a1cb27cbfc5",
@@ -100,14 +188,6 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWV0pxc2VuOUFqSjJCLU5BZ0hzMTVPU3VVQUxpc2dHX1JKb0NMS3VzU3k5Z2xhRmU1alJxVHhQbVZLQkYwTlFpMUl2c1pJWEhmaDhPUFphbW9UXzNCSzJuNWFwSDVndFpmTEg1OQ?oc=5",
       "source": "日経",
       "published_at": "2026-11-22T14:05:29+00:00"
-    },
-    {
-      "id": "hl-9a0a45f2e8cdb54f",
-      "date": "2026-11-20",
-      "title": "NuScale Power Corp. (SMR) Stock Price Today - The Wall Street Journal",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYUzNXQktmRzVMM1RNRy1PcXNmVHQ0MHlNS1pZZ3RBa1NIN2hmQnNQaG5XOUR4TWxmZ01haWhpUGxvazh5cTJXcUJRdmdHQlNDeG5j?oc=5",
-      "source": "WSJ",
-      "published_at": "2026-11-20T21:00:00+00:00"
     },
     {
       "id": "hl-7de0aed4c6e0696a",
@@ -158,14 +238,6 @@
       "published_at": "2026-11-20T08:18:58+00:00"
     },
     {
-      "id": "hl-c4670da4a94a1aa9",
-      "date": "2026-11-20",
-      "title": "画像 | 中国が開発を進める｢次世代原子炉｣の正体､福島第一原発事故を経験した日本が｢溶融塩炉｣で出遅れた理由",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1tdFNPejRVX1FUWGlWRHdKUFZlSTZiN3ZLb3Z2dHQ2VWQwMmZ0ZW42ZDkyUmpfN3JjNl9pNGRnc1dySTNiV3RQQ1hrWmdzN3ctWDJRU2NUdw?oc=5",
-      "source": "東洋経済",
-      "published_at": "2026-11-20T08:00:00+00:00"
-    },
-    {
       "id": "hl-1cd177d84afce980",
       "date": "2026-11-20",
       "title": "経済産業省など、柏崎刈羽原発に関する7項目の進捗を新潟県に報告",
@@ -174,12 +246,28 @@
       "published_at": "2026-11-20T07:42:50+00:00"
     },
     {
+      "id": "hl-a02a23b775c3420b",
+      "date": "2026-11-20",
+      "title": "原子力潜水艦を動画解説 建造費用高額、日本保有なら安保の転換点に : 映像",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1BVnpGbUJadWthbFZmc3ZMakFvbkJLWUl6ZGtZdkVFYnBXUWxwdWtIME1jR04wOThvU1l0bUthZ1BGZDVCWEFBRmJUY0V1emx5V0Z5U0pn?oc=5",
+      "source": "日経",
+      "published_at": "2026-11-20T05:32:39+00:00"
+    },
+    {
       "id": "hl-aadcca9ea0bd852d",
       "date": "2026-11-20",
       "title": "A $200 Billion Nuclear Boom Is Counting On America",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdGN0dE1kNV83Vl9mc2VSVVlhcmJMcGhsOE8weHRmbFplbkpQUFV0VXF2M2c3UXdleEFvSk43LWtKSG9JMy1vTWRWbDh3a1RxSFJoSHI3dUR5cVE3cl9sY1MwQVJaRXp0blNtcUVhX0l5eEVEcGhCdTlwbXhHZTRaZEt0TU5CWHZNMHlhOEJ6V0VFUTM2TTVtU0Y4VlVWSWRtMlZ4M3kzV3ZfaWJYZ1d6aG0xTQ?oc=5",
       "source": "Bloomberg",
       "published_at": "2026-11-20T05:30:00+00:00"
+    },
+    {
+      "id": "hl-72ac4f591acc378b",
+      "date": "2026-11-19",
+      "title": "Opinion | Nuclear Peace in Our Time. Not",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaE1CNmZibFVDd2NkeC04Q1NUajRWRmtibUdpSmtKSVFYTE9MX0ppZUZwRHRMWmFzTnRiVGpKSnM5eFI4NG1jcEZMeThMenBrckJPTnViY3czQUhkaktoMkxacE40WXU3Q1F1Skt5RHJaVEZuOXc1T21mVm9IMFg1U19pWWxMbzhzejBBVzFtU3hpckJNRUlkdGRvbm9yclE?oc=5",
+      "source": "WSJ",
+      "published_at": "2026-11-19T22:59:00+00:00"
     },
     {
       "id": "hl-fd8c1ecd9faa7f8f",
@@ -230,14 +318,6 @@
       "published_at": "2026-11-19T12:55:56+00:00"
     },
     {
-      "id": "hl-9826eada83f24a44",
-      "date": "2026-11-19",
-      "title": "West presses Iran at IAEA to let inspections resume at bombed nuclear sites",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNX1BENXJsTm9KVlRxVjk0SENfVmszM1ZXVFpjQzJZcVRneVFiR210MTNseE0yUlJqWmRObE9ndjlKQkZUVFJqd0Joc3hFLWNhcW5KQ0ZKZWdBWDZ5Q1BCNWFQcDdBN1N5MDllSGNNYjdOUG1IaG5BNjB2S3hPMHRTSGpDM2phXzkzSUF6TkJtMktQRWpodkdiRVVSM0FJZ0lDOVRLZk5Dby1SdXV1elBEaW5GM0k?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-11-19T12:37:00+00:00"
-    },
-    {
       "id": "hl-2298c300ee5472d3",
       "date": "2026-11-19",
       "title": "US Clashes With China and Russia Over Iran Nuclear Stalemate",
@@ -254,100 +334,20 @@
       "published_at": "2026-11-19T02:15:00+00:00"
     },
     {
+      "id": "hl-c4670da4a94a1aa9",
+      "date": "2026-11-18",
+      "title": "画像 | 中国が開発を進める｢次世代原子炉｣の正体､福島第一原発事故を経験した日本が｢溶融塩炉｣で出遅れた理由",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1tdFNPejRVX1FUWGlWRHdKUFZlSTZiN3ZLb3Z2dHQ2VWQwMmZ0ZW42ZDkyUmpfN3JjNl9pNGRnc1dySTNiV3RQQ1hrWmdzN3ctWDJRU2NUdw?oc=5",
+      "source": "東洋経済",
+      "published_at": "2026-11-18T21:00:00+00:00"
+    },
+    {
       "id": "hl-c3624ae69e11c38c",
       "date": "2026-11-18",
       "title": "Trump’s Nuclear Gambit with Xi and Putin - Opinion: Potomac Watch - WSJ Podcasts",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSXY5T0NJVXowYzNyNkdSSlRKcUpPYzNqcGhjczRpN0dmUmNaZDRKbDQ1NHBKT3Y1VHVsZGNDal9vaFU3M2VxV1B3MXBNX1M5ZmRTejZrdDFIWEJOdVltU2taSlZlU2lWY3llMXRpdVQ5US1aSlFXbkJfSHFxdHpjQUJMS3pPNDMtWEVGWUNkVDh4RE15ZU9yY3pIaXAzVThVeUZOTlBjZ3RFR2ktaWh5SFUwX040UDlwOTZPZGhUYjBqM2gzclE?oc=5",
       "source": "WSJ",
       "published_at": "2026-11-18T19:59:00+00:00"
-    },
-    {
-      "id": "hl-485cea9e950252e4",
-      "date": "2026-11-18",
-      "title": "U.S. Enters Unprecedented Three-Way Nuclear Rivalry With China and Russia",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUlBHZjJiSmNBeEJWWllmTEhCenFVbjRnS0JqS051VERpNkJOM1hLSC1LTm9GNVhsaVZDVUdSaW8yX2JqU0MxTG51U28yY0Y5dWdlVTIyclpHN3YydTV5VkpJMW1MRHhCTkNXYWNjY1g4Vk9DUXc0NDNkeVo3NHFtVTloekRoaGtHa2xCV0M1ZU9wZXozaVpzT0lsSzNua2xoZk41eE9WMlREdlE?oc=5",
-      "source": "WSJ",
-      "published_at": "2026-11-18T15:57:00+00:00"
-    },
-    {
-      "id": "hl-7777111c2e85fefd",
-      "date": "2026-11-18",
-      "title": "IAEA chief says planned US-Saudi nuclear deal 'very satisfactory' on inspections",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMzlxSmdSMTR5SXRiTDJwTFUyMmJ2ZTZZN0FhSXg4aGI3YUxhUFNYWnAwLVR6cFR2b2ltY0ZtMzBfa1prLTJmX1p5ekFvQXFKMGZfcEFjS1FKdnlMQ2JEaW5DQnR4Uk5mdm1iaWlPQ2FIaHhFZnMzY3g0RjkzamdvcExHWGVTMXM2S0R4WEl0RUNINi0xb2MxUUQ4V1h5aS1tN1FCTHdCNkRYQVVaa0JPQ0J2eU9WWmJIakhpTGZqMXZhLVEwMk5JWg?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-11-18T15:12:00+00:00"
-    },
-    {
-      "id": "hl-de445210177422cf",
-      "date": "2026-11-18",
-      "title": "Spotify Billionaire Ek Works With UK Nuclear Fusion Startup",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOb2FXQzBoU1pQSXUxMkp1LXFRTTB4Vi1sT3ZZam5lZkQ0eFZCN2NHVzlVNEE4WFQ1UlBSUmhGUS1LejhGMmtPYXo5ZXZXdVNTdDFZblpGb1N4M3gzZFRNZVoteGpSRWw5bXk5RUtGU0I0WTlHOWJ1VzFGS0pnY01UbmQ5U3VxSlBoWlJxaXUxNzdpMTIwQkx1dEtwZFpSSUpOck40cksySy1IT2tOclYwdmxtNnVSWDlXWG9n?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-11-18T14:35:37+00:00"
-    },
-    {
-      "id": "hl-52a9ec62afbc77b3",
-      "date": "2026-11-18",
-      "title": "IAEA Appoints Russian Sanctioned by Ukraine for Top Nuclear Job",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMExmZ080VW96YzhpakJZSWFJZnQtZWY4N2JFYTNLTy1uMFRZUk44d25uanZnRXFjLWVSODBNekJjZ3pRMXVpdFI0MGprUVpRQ3RMbjFELW12MkdNYkU4TkNZaUZjTFRqRlE4ZWdOR083N2tUX3hOWnU4aGFQeHVwU0NpSUZXaTlFSmsxbW9RSlpHdEZtRkpxbkhHS2U1MHVYdTU1MnkzdWp2Ri1VdkRlbmlWV1c?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-11-18T13:42:39+00:00"
-    },
-    {
-      "id": "hl-dd2b3b6d39f8b3a6",
-      "date": "2026-11-18",
-      "title": "IAEA says North Korea is expanding uranium-enrichment plant at Yongbyon",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQ0Q4Sk1xb2tRUUdUMHdVNm91OGZEeDMwTkV5dlFfTTI3QXB4RUFuUERvSmpIQXAxRVpiVENsUGt4eWE3My1EU3Jxa0hOY1pwVDlSVHJFVDFJZ0N5WEFZbnZfeDg3WUwzSUVnUkdoSE02SUZ2N2t0R3I2emNZampxMlJiaDFsZkpGc2FqcE1Tcll6TzFVZlVwRkpfNnM4Z2VuX1NESTBBSVpCSGVUT1pMbnN6YjViYzA?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-11-18T13:38:52+00:00"
-    },
-    {
-      "id": "hl-a04abfbc90de5587",
-      "date": "2026-11-18",
-      "title": "France's EDF close to finalizing €14 billion nuclear construction deal, newspaper reports",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUTJNeUEyQzV1SXVxX3RPUVRqbFRuR09HSVlOZGlybTc1QmFoazlldGRLZTF3cDZaLU00UV9YR1gwa3hhZDdFeWV3eGQyOGVTMTIzdV9hY2pnTEpCcGdoZmtFUHlsNWFXenYzNG9mNXEzUWo3dmJzanE1ZGxzSXA2bVJsNFE5SGhJTG9Ueng4bzVEQmVmVU1yR1VuZHZTSDZkdW5OWW5QUFRyNzNQRDlzeUNJTXBQVTBkRzY5dUZMVnZIVG1SU1E?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-11-18T10:29:12+00:00"
-    },
-    {
-      "id": "hl-5ddf8e3417158c68",
-      "date": "2026-11-18",
-      "title": "Russia says US, despite current sanctions, will likely need more of its uranium in future",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPakxrVDZ0bVlHRUhqOGZjaU9henBPVGZfOVp2ZncyQ1NVdlNFVFczc3BSUmoyS1NxYmxxY2xNa0VMNFRYT0VvWGtqN2xWQkpMY2ViRW82UUkyQWlxVmo1dzVBR0NyT1VnM25xV3FhNGw5cVNWY1BqNnlYX3E4TDhJZnZOdVl0aWdSUTNEeXFjV0d3QUJZNTkwLTRtUjdkZUxzdS02ODFiM3p0OXF2Z29YZG9JYlI1bUU?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-11-18T09:57:43+00:00"
-    },
-    {
-      "id": "hl-a3dbacc2d8a46935",
-      "date": "2026-11-18",
-      "title": "中国が開発を進める｢次世代原子炉｣の正体､福島第一原発事故を経験した日本が｢溶融塩炉｣で出遅れた理由",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1xc3paWGZRSWhTZi1sZHl1Q1R1b3pfU0hfV1NnY3gyWk5UenJJMW8xSk9PbFB5MjVJcHJxTHYtczhBNnRCY1dyYjY0cUVTOWdCZnNtWUdSUnRCYjdrWTZ3?oc=5",
-      "source": "東洋経済",
-      "published_at": "2026-11-18T08:00:00+00:00"
-    },
-    {
-      "id": "hl-6597dafcbbcc7acf",
-      "date": "2026-11-18",
-      "title": "中国が開発を進める｢次世代原子炉｣の正体､福島第一原発事故を経験した日本が｢溶融塩炉｣で出遅れた理由",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BOVBtTGNaVDF3SHpPNnRkWWhscDBTSllFVEFIeU1ua3ZCaFpxTHRPUWlhSDhpZGVqNjFEWF81Z2E2TDQ1ZUQ3UFVYbVJhbkpZbjN4N3B2V1ZKQUE?oc=5",
-      "source": "東洋経済",
-      "published_at": "2026-11-18T08:00:00+00:00"
-    },
-    {
-      "id": "hl-655c9660342ff30d",
-      "date": "2026-11-18",
-      "title": "中国が開発を進める｢次世代原子炉｣の正体､福島第一原発事故を経験した日本が｢溶融塩炉｣で出遅れた理由",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBobHlJbjlONDhhV3pXUjc5MlZwLWdPeFZsODEtbE8wY09rdlZwTGxwZFhfZWQwSGRZamcxdFlFMDdNSnk2ZzVwV0Y2a1lHR0xmVFNjTXFxYk5CVHM?oc=5",
-      "source": "東洋経済",
-      "published_at": "2026-11-18T08:00:00+00:00"
-    },
-    {
-      "id": "hl-da401b59956f6cdd",
-      "date": "2026-11-18",
-      "title": "官房長官、機微データ保護「検討加速」 原発位置情報の漏洩リスクで",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5PMS1Nck9Ja05MOHY5TTd6dHEwa2JfZWkxbjFlNHA2TmRLcEJaV0hmSlNISlY2Njk0d2lYQTRSaWEyWUNUdGZ4WEp4eW9kZFpZRXZJU2JUUkl2NjdJZkVSMmRtd1dTczJVT01wbg?oc=5",
-      "source": "日経",
-      "published_at": "2026-11-18T05:11:29+00:00"
     }
   ]
 }
