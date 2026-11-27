@@ -1,6 +1,6 @@
 {
   "_schema": "id: 安定ID / date: YYYY-MM-DD / title: 見出し / url: 原文リンク / source: 媒体名 / published_at: ISO8601(任意)",
-  "fetched_at": "2026-11-26T19:31:26.518318+00:00",
+  "fetched_at": "2026-11-27T19:25:37.205228+00:00",
   "theme": "nuclear",
   "sources": [
     "日経",
@@ -12,15 +12,31 @@
     "東洋経済"
   ],
   "fetch_notes": [
-    "日経: 18件",
-    "Bloomberg: 13件",
-    "Reuters: 11件",
-    "CNBC: 失敗 (HTTP Error 429: Too Many Requests)",
-    "WSJ: 5件",
-    "日刊工業: 0件",
+    "日経: 12件",
+    "Bloomberg: 8件",
+    "Reuters: 12件",
+    "CNBC: 1件",
+    "WSJ: 4件",
+    "日刊工業: 2件",
     "東洋経済: 3件"
   ],
   "items": [
+    {
+      "id": "hl-1461a22ee2ad06e4",
+      "date": "2026-11-27",
+      "title": "IAEA working with Russia, Ukraine on ceasefire to repair power link at Zaporizhzhia nuclear plant",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQXlld0FmMFoxdUVjNlhmNURVMmZwLXJNcXZrVkhEQWxOLS14ajJFb2VQZzBOOUZKM1Z1VGwzLURERG9lUWdGczh0bTZGTGJqdC00Nk9tYjZLR21iN1ZRbEtmTHhnRFAzV3lYRzVRN2txb3h0TUxoeENQbmNTeHlmN1AtNnBnTE1rYTRnYmxxTXNBUkh1WTdZVHpBN3h2XzNYMXlUaWVLRmlOR051bTIwbE9BWVhJRjRHSWxVd0pXQy1tdnc?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-11-27T00:29:00+00:00"
+    },
+    {
+      "id": "hl-867218fc48fd7eea",
+      "date": "2026-11-26",
+      "title": "中部電、浜岡原発不正で処分 前会長らに報酬返納要請",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5VWU5XWmJ2OXMtNUx3NVd6SWVyRTVCRWFXNmxSNzhBd2RoM3htOHdycWpjWG5WeS1RanpmNkZFRUg3a3lMQWhqbzNfRmZNc19sZGxsZ1NVUkQ?oc=5",
+      "source": "日刊工業",
+      "published_at": "2026-11-26T20:00:00+00:00"
+    },
     {
       "id": "hl-4ca3bb0316449453",
       "date": "2026-11-26",
@@ -28,14 +44,6 @@
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORV9KbWp6SnZ2NF8zUzg5d3FucHFtSWZXa0FsaGF2SERCcnpwdzY5T3ZNZlhmTkhsRlhRWDFkcUw5ZjUwY1dlRVRZLXM5aEN4dDlWeTlPc1RXMGVoTnFDdEZWTHgxRVRnM1VVek9Ya1NfNlNXRjlXVGJFbm5nMVNfTWQ4QnowTTVwS0hKdXg2eFNVSkFwU3M2QnFaYUpCTmg1NHNGdC12LUtORU1pMnd2UkhVX1lnWW8?oc=5",
       "source": "WSJ",
       "published_at": "2026-11-26T14:27:11+00:00"
-    },
-    {
-      "id": "hl-f85964e79f9edcf5",
-      "date": "2026-11-26",
-      "title": "How Spain’s Election Will Shape Policy on Renewables and Nuclear",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUEd4WlRDNlIyRnBHdFRWWDJYOFFwRmZ1LWJ5WlUtUmVtajFXQXBnbUV1OERLaGxBQVNfWDVNSjNma3hVNUxWaHJkbjNMUk1xRWYwNExzTXJuYWxPNXdEbUFMNE56V3RrLTlPalpGdmtnM3hyMHl2b3lHOWRlVWtMNGZmQVktcFUwWHEzck1VN1REMlNjUGxSSUY0Vm16SEFqcjFCOEtTR0hUNkhYS1FvUDBCY052S2Y2RXhjMFU2UHFVd1NM?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-11-26T11:00:22+00:00"
     },
     {
       "id": "hl-22312ede41244c2f",
@@ -70,12 +78,12 @@
       "published_at": "2026-11-26T07:59:36+00:00"
     },
     {
-      "id": "hl-874c926d97427d07",
+      "id": "hl-39dc9d79d9ff8b99",
       "date": "2026-11-26",
-      "title": "ONE Nuclear Energy Inc. (ONEN) Stock Price Today - The Wall Street Journal",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5wTGRiSmZ1dnV5R3NsRlVsQWg2NnBoLXFLZi1rRTBNYWF5LWhRNERtc2w4cEhNYm5KTm5VSF90b2prcnNnZTBkY0xKLUtwcjdoSjR5Wg?oc=5",
-      "source": "WSJ",
-      "published_at": "2026-11-26T06:44:14+00:00"
+      "title": "North Korea's Kim calls for nuclear arsenal expansion, says status 'will never change'",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcVVtOEFBaEl2N1ZROXozS0JYakFqTkVVdHlTVUhFcGk0OU1fSGMwUG5zNkRHeEl0QUUta2ktMWlPSVlpQUJGRENVUURNblFSdHlPNUttbTY4WmhUNGg4X19Yb2Z6Snl6UlJSNDFRZEpyWFE5Z3RjNkFmRlFfMnlHR21hNmLSAYoBQVVfeXFMUDBia2ExN3Z0S1ZkcFBycXZibmlNNktPaGxrMGtjcGlORkFUWFN1SFp1U2NSaW5WM3FWM2dkbHYxeEFGVUY5QlpvN1ZkdnN0QzBJSGplREVsNFpkWklkVllTQy05SDc0RWdWSkIwU3VxTWJpYl9PY2lDM01rTS1fcGw1Qm5BS3NINEhR?oc=5",
+      "source": "CNBC",
+      "published_at": "2026-11-26T05:14:56+00:00"
     },
     {
       "id": "hl-7f2e5b5416201088",
@@ -132,6 +140,14 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcEtjWU1NMFI0aG95UkwxYlJGbE83UUQwdlI3V1VjblBRcDl0NjQzUXUwSlhzMXQ2VjhHSnNZVWZqelkyRFB3VWx6RWNLcGVoMG56eGRoVjA5TnAzQm5VYThxZG02MlloQUpUME54WW5OSEt2WlFHSHcwZUNJbTlCSEVnbTluVXFwaEM1dXJMU1BZRHAtUDllYm5GVTBES1hzRXVmNjduU3ZzbmxrcVJSNlZR?oc=5",
       "source": "Reuters",
       "published_at": "2026-11-25T19:40:34+00:00"
+    },
+    {
+      "id": "hl-874c926d97427d07",
+      "date": "2026-11-25",
+      "title": "ONE Nuclear Energy Inc. (ONEN) Stock Price Today - The Wall Street Journal",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5wTGRiSmZ1dnV5R3NsRlVsQWg2NnBoLXFLZi1rRTBNYWF5LWhRNERtc2w4cEhNYm5KTm5VSF90b2prcnNnZTBkY0xKLUtwcjdoSjR5Wg?oc=5",
+      "source": "WSJ",
+      "published_at": "2026-11-25T18:00:00+00:00"
     },
     {
       "id": "hl-8749b4566041d43b",
@@ -198,12 +214,12 @@
       "published_at": "2026-11-24T07:11:26+00:00"
     },
     {
-      "id": "hl-320074d02acc21ee",
+      "id": "hl-2e6e5d05199a15d5",
       "date": "2026-11-23",
-      "title": "Allies Warn Russia May Launch Nuclear Space Weapon Next Month",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNU3hKT3NEemc2b21YNWNkY0R1QTlaYmdRUzIwdG5pMS1GNTdNU1VkWHB3bnh0UmRtb0FUY2RNbDVPRVZxRVlLc1NnNEI4Wjl6b3Y3eHhld3pqUEVNVjZRaV92Q1VaMFN3RDBXb0pYNzRQc0FvUnFsaVFYbWxTTE41VGV6REtUWDQ4Uk54a0E4Mm5hY0p6czh5QXQ0MHZCTV9pUnNTYWc4SzJPMWRwR2NtLTRB?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-11-23T15:54:28+00:00"
+      "title": "原子力機構の価値 原子力の社会実装に向けて（191）山地森林域の放射線計測",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5nS0t0RE5QMGpEcXozVWNKLXktZ2ZWVGFHQXc5UkVBVXNYWEZiTnVqbUlPdmJmejgyQUg3X2VzTlBrMHpPc0s2VGcxWmVsNmFoY0FvQi1vT1c?oc=5",
+      "source": "日刊工業",
+      "published_at": "2026-11-23T20:00:00+00:00"
     },
     {
       "id": "hl-96a603407a9d7049",
@@ -212,6 +228,14 @@
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOd0tTdzFnVVpmQkQ5Xy1yYTNkRnFab2d4R2tIVEJJT19zWmMwMDF5bWJHcnJqc0dUdGxieHBIa3pfVW9IZjA1cVhqb3IwdEJfelcwWTNSQ1p0MUhiQzhmRHhNbU44blVQOEprNzluVHZ5OGlKc0hSLUpEei02MF95VEpKVUR1MTYyd29SVUJESUZQZ2tWbWt2Q1RYNDFvZmV5dzVRQnpzWm5sRVZidy1iTmtPMUVMZw?oc=5",
       "source": "Bloomberg",
       "published_at": "2026-11-23T11:01:47+00:00"
+    },
+    {
+      "id": "hl-a6c353029f362d66",
+      "date": "2026-11-23",
+      "title": "NATO believes Russia is ready to launch nuclear-armed satellite, German media say",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQmRybDRhZzhaRkRlSHZUdWxTZVRPUEU1NDJfRFBwX3ItMDZsb0pSZWdFMlgwbDhzclBlaWwyTndXYUQxS0JrZFd5SjlNWC05YWYtYWZhREFHNE5VLXFEOGx3SkY5bWNrMWlYbVhEVklQN3YzMnZSNmVtcmNqdzlSQ21vZW1yWU4xN1UySDE1SHNCUXZfekUyQlRMQUFGMlBSWk5Hc0JFTjlsZGN6NS14M2E2eXk4a2tPUjZGd2Y4a09SX212UUlNY2lkVG1XQXZUMmhOMHRZMA?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-11-23T09:10:32+00:00"
     },
     {
       "id": "hl-fc7530b99ac9b508",
@@ -308,62 +332,6 @@
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcGM3SEI3NjBHTkRmZGJaLTJFVldMYzJyUDI4emU5bDZLQl9yS1NtN3VRajVYU1VkYVlFSkRyUVVrenZCUXRZV3NFX3d2cmhHa3JRZ3A2bVdaR25KMU05MjJkSUoyQU1TOWk2enVhRmhNUjJvZFQ2M2FvQnNJbXZUc3NFMFh3ZDRieDJaZlN0dXVhZ09wMUhrQUJtMEdlUWp3N0NJd1FHaHYwUFNRR09PbjJtRmQtbWs?oc=5",
       "source": "WSJ",
       "published_at": "2026-11-20T20:16:00+00:00"
-    },
-    {
-      "id": "hl-c564bfd1293773ad",
-      "date": "2026-11-20",
-      "title": "石川県が原子力防災訓練 北陸電力も参加、志賀原発の災害対応を確認",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBSTWFwVVN1OUc1eTJ0TkhIV1R5VnNGczFXRExlWmN1ZS1la2N5ZWZsVVpVdFBtLWdMYTZsbllxNWlYdWtxNXpGUUREN3JJaWtKVjI5aC01dXJ0ZXJNbGxIRnNrWGhRbHNkSGtKRg?oc=5",
-      "source": "日経",
-      "published_at": "2026-11-20T10:30:00+00:00"
-    },
-    {
-      "id": "hl-38a2a292bd540151",
-      "date": "2026-11-20",
-      "title": "東京電力、原発のテロ対策施設の完成延期へ 柏崎刈羽7号機",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXLWlnMXJCVW05OE15Sl9WaWJfck9kcjhzSDRHUnN3MUs0RGJNbXhDNk14WUoyTmF6VjV3RHMyQU5vbXBIYmtBSTMxQWhheDctdlBydFJUNlVFZFBnUGJFc2E1eUJWa3ZmRWhSZg?oc=5",
-      "source": "日経",
-      "published_at": "2026-11-20T08:18:58+00:00"
-    },
-    {
-      "id": "hl-1cd177d84afce980",
-      "date": "2026-11-20",
-      "title": "経済産業省など、柏崎刈羽原発に関する7項目の進捗を新潟県に報告",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TOHRNaTh1UEJsRjFxVGl2YjZLdWJldHRBemNnbnBKbnptX05wYnIzdUF0VlZoMWtXQlIwbm92VkNBa0U2R1E1M3o0ZGx6ME53LWhzLUxycVIyeUdaNGdpSzFURmhnUVpJX1hhYw?oc=5",
-      "source": "日経",
-      "published_at": "2026-11-20T07:42:50+00:00"
-    },
-    {
-      "id": "hl-a02a23b775c3420b",
-      "date": "2026-11-20",
-      "title": "原子力潜水艦を動画解説 建造費用高額、日本保有なら安保の転換点に : 映像",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1BVnpGbUJadWthbFZmc3ZMakFvbkJLWUl6ZGtZdkVFYnBXUWxwdWtIME1jR04wOThvU1l0bUthZ1BGZDVCWEFBRmJUY0V1emx5V0Z5U0pn?oc=5",
-      "source": "日経",
-      "published_at": "2026-11-20T05:32:39+00:00"
-    },
-    {
-      "id": "hl-aadcca9ea0bd852d",
-      "date": "2026-11-20",
-      "title": "A $200 Billion Nuclear Boom Is Counting On America",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdGN0dE1kNV83Vl9mc2VSVVlhcmJMcGhsOE8weHRmbFplbkpQUFV0VXF2M2c3UXdleEFvSk43LWtKSG9JMy1vTWRWbDh3a1RxSFJoSHI3dUR5cVE3cl9sY1MwQVJaRXp0blNtcUVhX0l5eEVEcGhCdTlwbXhHZTRaZEt0TU5CWHZNMHlhOEJ6V0VFUTM2TTVtU0Y4VlVWSWRtMlZ4M3kzV3ZfaWJYZ1d6aG0xTQ?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-11-20T05:30:01+00:00"
-    },
-    {
-      "id": "hl-72ac4f591acc378b",
-      "date": "2026-11-19",
-      "title": "Opinion | Nuclear Peace in Our Time. Not",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaE1CNmZibFVDd2NkeC04Q1NUajRWRmtibUdpSmtKSVFYTE9MX0ppZUZwRHRMWmFzTnRiVGpKSnM5eFI4NG1jcEZMeThMenBrckJPTnViY3czQUhkaktoMkxacE40WXU3Q1F1Skt5RHJaVEZuOXc1T21mVm9IMFg1U19pWWxMbzhzejBBVzFtU3hpckJNRUlkdGRvbm9yclE?oc=5",
-      "source": "WSJ",
-      "published_at": "2026-11-19T22:59:00+00:00"
-    },
-    {
-      "id": "hl-fd8c1ecd9faa7f8f",
-      "date": "2026-11-19",
-      "title": "Trump says nuclear arms limits with China, Russia will be very hard to achieve",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMVJxajFFWVpKWFIzZjFkQjg3bzRfeTRmbGdhX0JtYmhXMDFiSDhmZ012TXRfUTYxOG8yNXQ1NFBWTWp5NDRIdzludmtZS0xGLXNENE5LNHo0Zk01OHR4S2hRZFhjRUZKMkRRdHBiQm1BTFluWWVzTTJORmluTXNCSWxmUV8xVEJ3Vlc4Q1l5NU9sQ3VxUzlMOEZUa21nZW11UFZtb3lVNGlEaGdNb25WazZISXFhQXY5dG1OZzVGUS0zN2pMTFE?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-11-19T21:09:00+00:00"
     }
   ]
 }
